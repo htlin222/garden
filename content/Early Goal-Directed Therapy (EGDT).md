@@ -1,5 +1,5 @@
 ---
-title: Early Goal-Directed Therapy (EGDT)
+title: Early Goal-Directed Therapy  EGDT 
 ---
 # Early Goal-Directed Therapy (EGDT)
 

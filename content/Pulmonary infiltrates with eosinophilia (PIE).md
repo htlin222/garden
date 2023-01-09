@@ -1,5 +1,5 @@
 ---
-title: Pulmonary infiltrates with eosinophilia (PIE)
+title: Pulmonary infiltrates with eosinophilia  PIE 
 ---
 # Pulmonary infiltrates with eosinophilia (PIE)
 

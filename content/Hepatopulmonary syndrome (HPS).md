@@ -1,5 +1,5 @@
 ---
-title: Hepatopulmonary syndrome (HPS)
+title: Hepatopulmonary syndrome  HPS 
 ---
 # Hepatopulmonary syndrome (HPS)
 

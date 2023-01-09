@@ -1,5 +1,5 @@
 ---
-title: Treatment-accessory pathways (wolff-parkinson-white)
+title: Treatment-accessory pathways  wolff-parkinson-white 
 ---
 # Treatment-accessory pathways (wolff-parkinson-white)
 

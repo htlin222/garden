@@ -1,5 +1,5 @@
 ---
-title: Ascites fluid total protein (AFTP)
+title: Ascites fluid total protein  AFTP 
 ---
 # Ascites fluid total protein (AFTP)
 

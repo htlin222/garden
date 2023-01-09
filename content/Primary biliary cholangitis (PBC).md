@@ -1,5 +1,5 @@
 ---
-title: Primary biliary cholangitis (PBC)
+title: Primary biliary cholangitis  PBC 
 ---
 # Primary biliary cholangitis (PBC)
 

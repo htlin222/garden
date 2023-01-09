@@ -1,5 +1,5 @@
 ---
-title: Primary sclerosing cholangitis (PSC)
+title: Primary sclerosing cholangitis  PSC 
 ---
 # Primary sclerosing cholangitis (PSC)
 

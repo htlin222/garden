@@ -1,5 +1,5 @@
 ---
-title: coronavirus (covid-19)
+title: coronavirus  covid-19 
 ---
 # coronavirus (covid-19)
 

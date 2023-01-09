@@ -1,5 +1,5 @@
 ---
-title: Diagnosis and treatment-autoimmune hepatitis (AIH) 
+title: Diagnosis and treatment-autoimmune hepatitis  AIH  
 ---
 # Diagnosis and treatment-autoimmune hepatitis (AIH) 
 

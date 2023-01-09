@@ -1,5 +1,5 @@
 ---
-title: wide-complex tachycardias (WCTS)
+title: wide-complex tachycardias  WCTS 
 ---
 # wide-complex tachycardias (WCTS)
 

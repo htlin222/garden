@@ -1,5 +1,5 @@
 ---
-title: Long-term management-wide-complex tachycardias (WCTS)
+title: Long-term management-wide-complex tachycardias  WCTS 
 ---
 # Long-term management-wide-complex tachycardias (WCTS)
 

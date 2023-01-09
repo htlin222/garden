@@ -1,5 +1,5 @@
 ---
-title: Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve(s)
+title: Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve s 
 ---
 # Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve(s)
 

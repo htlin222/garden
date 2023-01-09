@@ -1,5 +1,5 @@
 ---
-title: AIP acute IP (Hamman-Rich syndrome)
+title: AIP acute IP  Hamman-Rich syndrome 
 ---
 # AIP acute IP (Hamman-Rich syndrome)
 

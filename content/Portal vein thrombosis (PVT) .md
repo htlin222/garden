@@ -1,5 +1,5 @@
 ---
-title: Portal vein thrombosis (PVT) 
+title: Portal vein thrombosis  PVT  
 ---
 # Portal vein thrombosis (PVT) 
 

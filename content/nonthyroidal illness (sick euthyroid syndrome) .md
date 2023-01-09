@@ -1,5 +1,5 @@
 ---
-title: nonthyroidal illness (sick euthyroid syndrome) 
+title: nonthyroidal illness  sick euthyroid syndrome  
 ---
 # nonthyroidal illness (sick euthyroid syndrome) 
  > (J Endocrinol 2010;205:1)

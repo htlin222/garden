@@ -1,5 +1,5 @@
 ---
-title: Treatment-Hepatorenal syndrome (HRS)
+title: Treatment-Hepatorenal syndrome  HRS 
 ---
 # Treatment-Hepatorenal syndrome (HRS)
 

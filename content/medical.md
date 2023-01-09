@@ -37,9 +37,5 @@ title: medical
 
 ## [[其他科]]
 
-
----
-
 backlink: [[index]]
 
----

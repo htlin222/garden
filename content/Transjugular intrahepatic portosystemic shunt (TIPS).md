@@ -1,5 +1,5 @@
 ---
-title: Transjugular intrahepatic portosystemic shunt (TIPS)
+title: Transjugular intrahepatic portosystemic shunt  TIPS 
 ---
 # Transjugular intrahepatic portosystemic shunt (TIPS)
 

@@ -1,5 +1,5 @@
 ---
-title: Hepatic encephalopathy (HE)
+title: Hepatic encephalopathy  HE 
 ---
 # Hepatic encephalopathy (HE)
 

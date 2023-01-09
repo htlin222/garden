@@ -1,5 +1,5 @@
 ---
-title: Disseminated Mycobacterium avium complex (DMAC)
+title: Disseminated Mycobacterium avium complex  DMAC 
 ---
 # Disseminated Mycobacterium avium complex (DMAC)
 

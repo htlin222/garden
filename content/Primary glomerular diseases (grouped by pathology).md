@@ -1,5 +1,5 @@
 ---
-title: Primary glomerular diseases (grouped by pathology)
+title: Primary glomerular diseases  grouped by pathology 
 ---
 # Primary glomerular diseases (grouped by pathology)
 

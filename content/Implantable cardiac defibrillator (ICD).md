@@ -1,5 +1,5 @@
 ---
-title: Implantable cardiac defibrillator (ICD)
+title: Implantable cardiac defibrillator  ICD 
 ---
 # Implantable cardiac defibrillator (ICD)
 

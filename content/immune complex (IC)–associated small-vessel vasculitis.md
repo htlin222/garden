@@ -1,5 +1,5 @@
 ---
-title: immune complex (IC)–associated small-vessel vasculitis
+title: immune complex  IC –associated small-vessel vasculitis
 ---
 # immune complex (IC)–associated small-vessel vasculitis
 

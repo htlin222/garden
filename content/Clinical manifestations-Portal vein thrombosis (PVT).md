@@ -1,5 +1,5 @@
 ---
-title: Clinical manifestations-Portal vein thrombosis (PVT)
+title: Clinical manifestations-Portal vein thrombosis  PVT 
 ---
 # Clinical manifestations-Portal vein thrombosis (PVT)
 

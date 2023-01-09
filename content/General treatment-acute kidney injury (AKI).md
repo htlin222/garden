@@ -1,5 +1,5 @@
 ---
-title: General treatment-acute kidney injury (AKI)
+title: General treatment-acute kidney injury  AKI 
 ---
 # General treatment-acute kidney injury (AKI)
 

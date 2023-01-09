@@ -1,5 +1,5 @@
 ---
-title: Acute tubular necrosis (ATN)
+title: Acute tubular necrosis  ATN 
 ---
 # Acute tubular necrosis (ATN)
 

@@ -1,5 +1,5 @@
 ---
-title: Idiopathic interstitial pneumonias (IIPs)
+title: Idiopathic interstitial pneumonias  IIPs 
 ---
 # Idiopathic interstitial pneumonias (IIPs)
 

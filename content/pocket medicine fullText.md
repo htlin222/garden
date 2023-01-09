@@ -1,5 +1,5 @@
 ---
-title: → periph blood plt count ~10,000 plt for every 1 plt seen at hpf (100×)
+title: → periph blood plt count ~10,000 plt for every 1 plt seen at hpf  100× 
 aliases: [→ periph blood plt count ~10, 000 plt for every 1 plt seen at hpf (100×)]
 linter-yaml-title-alias: → periph blood plt count ~10,000 plt for every 1 plt seen at hpf (100×)
 ---

@@ -1,5 +1,5 @@
 ---
-title: Type of Idiopathic interstitial pneumonias (IIPs)
+title: Type of Idiopathic interstitial pneumonias  IIPs 
 ---
 # Type of Idiopathic interstitial pneumonias (IIPs)
 

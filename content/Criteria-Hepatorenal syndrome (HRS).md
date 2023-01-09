@@ -1,5 +1,5 @@
 ---
-title: Criteria-Hepatorenal syndrome (HRS)
+title: Criteria-Hepatorenal syndrome  HRS 
 ---
 # Criteria-Hepatorenal syndrome (HRS)
 

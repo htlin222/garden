@@ -1,5 +1,5 @@
 ---
-title: Spontaneous bacterial peritonitis (SBP)
+title: Spontaneous bacterial peritonitis  SBP 
 ---
 # Spontaneous bacterial peritonitis (SBP)
 

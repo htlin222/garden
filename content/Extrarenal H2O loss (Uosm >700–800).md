@@ -1,5 +1,5 @@
 ---
-title: Extrarenal H2O loss (Uosm >700–800)
+title: Extrarenal H2O loss  Uosm >700–800 
 ---
 # Extrarenal H2O loss (Uosm >700–800)
 

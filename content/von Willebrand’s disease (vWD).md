@@ -1,5 +1,5 @@
 ---
-title: von Willebrand’s disease (vWD)
+title: von Willebrand’s disease  vWD 
 ---
 # von Willebrand’s disease (vWD)
 

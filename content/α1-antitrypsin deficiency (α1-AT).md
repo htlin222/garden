@@ -1,5 +1,5 @@
 ---
-title: α1-antitrypsin deficiency (α1-AT)
+title: α1-antitrypsin deficiency  α1-AT 
 ---
 # α1-antitrypsin deficiency (α1-AT)
 

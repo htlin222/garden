@@ -1,5 +1,5 @@
 ---
-title: Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia
+title: Serum parathyroid hormone  PTH  concentrations in hypercalcemia and hypocalcemia
 ---
 # Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia
 

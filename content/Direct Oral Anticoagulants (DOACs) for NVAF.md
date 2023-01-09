@@ -1,5 +1,5 @@
 ---
-title: Direct Oral Anticoagulants (DOACs) for NVAF
+title: Direct Oral Anticoagulants  DOACs  for NVAF
 ---
 # Direct Oral Anticoagulants (DOACs) for NVAF
 

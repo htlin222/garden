@@ -1,5 +1,5 @@
 ---
-title: Nonalcoholic fatty liver disease (NAFLD)
+title: Nonalcoholic fatty liver disease  NAFLD 
 ---
 # Nonalcoholic fatty liver disease (NAFLD)
 

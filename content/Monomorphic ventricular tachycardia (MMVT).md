@@ -1,5 +1,5 @@
 ---
-title: Monomorphic ventricular tachycardia (MMVT)
+title: Monomorphic ventricular tachycardia  MMVT 
 ---
 # Monomorphic ventricular tachycardia (MMVT)
 

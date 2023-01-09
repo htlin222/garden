@@ -1,5 +1,5 @@
 ---
-title: Etiologies-wide-complex tachycardias (WCTS)
+title: Etiologies-wide-complex tachycardias  WCTS 
 ---
 # Etiologies-wide-complex tachycardias (WCTS)
 

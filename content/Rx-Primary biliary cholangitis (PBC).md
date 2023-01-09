@@ -1,5 +1,5 @@
 ---
-title: Rx-Primary biliary cholangitis (PBC)
+title: Rx-Primary biliary cholangitis  PBC 
 ---
 # Rx-Primary biliary cholangitis (PBC)
 

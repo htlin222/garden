@@ -1,5 +1,5 @@
 ---
-title: rapid progressive glomerulonephritis (RPGN)
+title: rapid progressive glomerulonephritis  RPGN 
 ---
 # rapid progressive glomerulonephritis (RPGN)
 

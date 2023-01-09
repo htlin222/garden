@@ -1,5 +1,5 @@
 ---
-title: Treatment-Primary sclerosing cholangitis (PSC)
+title: Treatment-Primary sclerosing cholangitis  PSC 
 ---
 # Treatment-Primary sclerosing cholangitis (PSC)
 

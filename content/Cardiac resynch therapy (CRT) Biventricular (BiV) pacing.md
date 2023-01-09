@@ -1,5 +1,5 @@
 ---
-title: Cardiac resynch therapy (CRT) Biventricular (BiV) pacing
+title: Cardiac resynch therapy (CRT) Biventricular  BiV  pacing
 ---
 # Cardiac resynch therapy (CRT) Biventricular (BiV) pacing
 

@@ -1,9 +1,7 @@
 ---
-title: bevacizumab = Avastin
-aliases: [bevacizumab = Avastin]
-linter-yaml-title-alias: bevacizumab = Avastin
+title: bevacizumab 
 ---
-# bevacizumab = Avastin
+# bevacizumab
 Avastin®；癌思停®注射劑。
 
 ## 轉移性大腸直腸癌(mCRC)

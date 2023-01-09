@@ -1,5 +1,5 @@
 ---
-title: UIP usual interstitial PNA (IP)
+title: UIP usual interstitial PNA  IP 
 ---
 # UIP usual interstitial PNA (IP)
 

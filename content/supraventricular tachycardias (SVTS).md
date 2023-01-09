@@ -1,5 +1,5 @@
 ---
-title: supraventricular tachycardias (SVTS)
+title: supraventricular tachycardias  SVTS 
 ---
 # supraventricular tachycardias (SVTS)
 

@@ -1,5 +1,5 @@
 ---
-title: Tachycardia-bradycardia (“tachy-brady”) syndrome
+title: Tachycardia-bradycardia  “tachy-brady”  syndrome
 ---
 # Tachycardia-bradycardia (“tachy-brady”) syndrome
 

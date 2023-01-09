@@ -1,5 +1,5 @@
 ---
-title: Classification-autoimmune hepatitis (AIH)
+title: Classification-autoimmune hepatitis  AIH 
 ---
 # Classification-autoimmune hepatitis (AIH)
 

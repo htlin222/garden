@@ -1,5 +1,5 @@
 ---
-title: Primary immune thrombocytopenic purpura (ITP) 
+title: Primary immune thrombocytopenic purpura  ITP  
 ---
 # Primary immune thrombocytopenic purpura (ITP) 
 

@@ -1,5 +1,5 @@
 ---
-title: Disseminated intravascular coagulation (DIC)
+title: Disseminated intravascular coagulation  DIC 
 ---
 # Disseminated intravascular coagulation (DIC)
 (NEJM 2014;370:847)

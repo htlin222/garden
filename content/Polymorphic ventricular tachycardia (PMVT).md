@@ -1,5 +1,5 @@
 ---
-title: Polymorphic ventricular tachycardia (PMVT)
+title: Polymorphic ventricular tachycardia  PMVT 
 ---
 # Polymorphic ventricular tachycardia (PMVT)
 

@@ -1,5 +1,5 @@
 ---
-title: Pneumocystis jiroveci (PCP) pneumonia
+title: Pneumocystis jiroveci  PCP  pneumonia
 ---
 # Pneumocystis jiroveci (PCP) pneumonia
 

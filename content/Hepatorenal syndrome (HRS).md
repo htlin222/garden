@@ -1,5 +1,5 @@
 ---
-title: Hepatorenal syndrome (HRS)
+title: Hepatorenal syndrome  HRS 
 ---
 # Hepatorenal syndrome (HRS)
 ## Reference

@@ -1,5 +1,5 @@
 ---
-title: Treatment-Nonalcoholic fatty liver disease (NAFLD)
+title: Treatment-Nonalcoholic fatty liver disease  NAFLD 
 ---
 # Treatment-Nonalcoholic fatty liver disease (NAFLD)
 

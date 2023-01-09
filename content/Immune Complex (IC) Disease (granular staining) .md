@@ -1,5 +1,5 @@
 ---
-title: Immune Complex (IC) Disease (granular staining)
+title: Immune Complex (IC) Disease  granular staining 
 aliases: [Immune Complex (IC) Disease (granular staining)]
 linter-yaml-title-alias: Immune Complex (IC) Disease (granular staining)
 ---

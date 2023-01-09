@@ -1,5 +1,5 @@
 ---
-title: Thrombotic thrombocytopenic purpura (TTP)
+title: Thrombotic thrombocytopenic purpura  TTP 
 ---
 # Thrombotic thrombocytopenic purpura (TTP)
 

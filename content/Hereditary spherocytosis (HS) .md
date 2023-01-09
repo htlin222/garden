@@ -1,5 +1,5 @@
 ---
-title: Hereditary spherocytosis (HS) 
+title: Hereditary spherocytosis  HS  
 ---
 # Hereditary spherocytosis (HS) 
 

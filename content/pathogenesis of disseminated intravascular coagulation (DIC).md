@@ -1,5 +1,5 @@
 ---
-title: pathogenesis of disseminated intravascular coagulation (DIC)
+title: pathogenesis of disseminated intravascular coagulation  DIC 
 ---
 # pathogenesis of disseminated intravascular coagulation (DIC)
 

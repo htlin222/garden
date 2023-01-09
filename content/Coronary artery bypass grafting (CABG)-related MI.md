@@ -1,5 +1,5 @@
 ---
-title: Coronary artery bypass grafting (CABG)-related MI
+title: Coronary artery bypass grafting  CABG -related MI
 ---
 # Coronary artery bypass grafting (CABG)-related MI
 

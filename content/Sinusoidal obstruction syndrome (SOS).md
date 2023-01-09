@@ -1,5 +1,5 @@
 ---
-title: Sinusoidal obstruction syndrome (SOS)
+title: Sinusoidal obstruction syndrome  SOS 
 ---
 # Sinusoidal obstruction syndrome (SOS)
 

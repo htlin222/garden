@@ -1,5 +1,5 @@
 ---
-title: Other (Uosm >700–800)
+title: Other  Uosm >700–800 
 ---
 # Other (Uosm >700–800)
 

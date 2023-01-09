@@ -1,5 +1,5 @@
 ---
-title: Secondary immune thrombocytopenic purpura (2° ITP)
+title: Secondary immune thrombocytopenic purpura  2° ITP 
 ---
 # Secondary immune thrombocytopenic purpura (2° ITP)
 
