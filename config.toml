@@ -1,6 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://htlin222.github.io/garden/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
