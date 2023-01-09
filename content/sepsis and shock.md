@@ -1,0 +1,15 @@
+---
+title: sepsis and shock
+---
+# sepsis and shock
+
+[[Definitions-sepsis and shock]]
+[[Shock]]
+
+## MANAGEMENT
+[[Fluids-sepsis and shock]]
+[[Pressors inotropes-sepsis and shock]]
+[[Targets-sepsis and shock]]
+[[Antibiotics-sepsis and shock]]
+[[Steroids-sepsis and shock]]
+[[Early Goal-Directed Therapy (EGDT)]]
