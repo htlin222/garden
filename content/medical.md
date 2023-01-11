@@ -27,10 +27,19 @@ enableToc: false
 * [[geriatrics]]
 * [[pain and palliative care]]
 
-## [[其他科]]
+## 其他科
 
-> [!danger]
-> 黑洞
-> [[journals/index.md]]
-> [[inbox/inbox]]
-> [[books/index]]
+* [[dermatology]]
+* [[ophthalmic issues]]
+* [[woman health]]
+* [[obs gyn issues]]
+* [[radiology]]
+* [[mental health]]
+* [[surgical issues]]
+
+
+## Draft
+
+* paper note: [[journals/index.md]]
+* inbox: [[inbox/inbox]]
+* 一些書的筆記: [[books/index]]

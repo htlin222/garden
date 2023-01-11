@@ -1,4 +1,7 @@
 ---
 title: surgical issues
 ---
-[[index]]
+
+## surgical issues
+
+* [[orthopaedic]]

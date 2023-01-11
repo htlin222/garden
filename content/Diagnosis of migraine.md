@@ -9,3 +9,5 @@ title: Diagnosis of migraine
 * Examine patient to exclude other causes
 * Use neuroimaging only when a secondary headache disorder is
 * suspected
+
+[[54321-PUMA-嘔怕]]

@@ -10,17 +10,18 @@ title: Etiologies-of-Metabolic-Alkalosis
 	* emesis, NGT suction, villous adenoma, chloridorrhea
 * Renal loss:
 	* loop/thiazide, ↓ Cl intake, milk-alkali, Pendred syndrome
-* Posthypercapnia, sweat losses in cystic fibrosis
+* Posthypercapnia(bilevel positive airway pressure for chronic obstructive pulmonary disease AE),
+	* sweat losses in cystic fibrosis
 
 ## Saline resistant
 > UCl >40
 
 Hypertensive (mineralocorticoid excess)
 
-* [[Primary Hyperaldosteronism]] 
-* [[Secondary Hyperaldosteronism]] 
- 
-Non-aldo (Cushing’s, Liddle’s, exogenous mineralocorticoids, licorice)
+* [[Primary Hyperaldosteronism]]
+* [[Secondary Hyperaldosteronism]]
+
+Non-aldo ([[Cushing syndrome]], [[Liddle syndrome]], exogenous mineralocorticoids, [[licorice]])
 Normotensive
 Severe hypokalemia (K<2); exogenous alkali load (w/ AKI or ↓ vol)
-Bartter’s syndrome (loop-like); Gitelman’s syndrome (thiazide-like)
+[[Bartter’s syndrome]] (loop-like); [[Gitelman’s syndrome]] (thiazide-like)

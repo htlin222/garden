@@ -3,7 +3,7 @@ title: clinical reasoning
 ---
 # clinical reasoning
 
-[[positive and negative predictive values of tests]]
+* [[positive and negative predictive values of tests]]
 
 ## [[symptom to diagnosis]] 
 ## [[Physical Exam Secret]]

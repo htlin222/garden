@@ -3,7 +3,7 @@ title: Migraine without aura
 ---
 # Migraine without aura
 
-
+![5-4-3-2-1 PUMA 嘔怕](https://i.imgur.com/NvsjpYd.png)
 Migraine without aura is characterized by 
 recurrent headache attacks that last 4–72 h. 
 Typical features of an attack include a unilateral location, pulsating quality, moderate or severe pain intensity, and aggravation by routine physical activity,

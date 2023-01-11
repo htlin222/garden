@@ -5,6 +5,7 @@ title: headache
 * [[Primary headache syndromes]]
 * [[Secondary causes of headaches]]
 * [[Migraine]]
+* [[Clinical evaluation of Secondary causes of headaches]] 
 * [[headaches from symptom to diagnosis]]
 
 ### Backlink：
@@ -27,3 +28,6 @@ title: headache
 - [[Pituitary apoplexy]]
 - [[Pituitary tumors]]
 - [[Select clinical manifestations-fever in a returned traveler]]
+
+
+[Approaching patients with headache and refractory headache](http://www.neuro.org.tw/files/active/20170820_1040_2017%E7%A5%9E%E5%B0%88%E8%A4%87%E7%BF%92%E7%8F%ADHeadache-handout.pdf)

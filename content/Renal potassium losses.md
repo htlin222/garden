@@ -4,6 +4,7 @@ title: Renal potassium losses
 # Renal potassium losses
 
 ## Hypotensive or normotensive
+
 * acidosis: DKA, RTA [distal RTAs (type I) >proximal RTAs (type II)]
 
 * alkalosis: diuretics (thiazide >loop), vomiting/NGT drainage (via 2° hyperaldosteronism)
@@ -22,5 +23,5 @@ title: Renal potassium losses
 
 * 2° hyperaldosteronism (eg, renovascular disease, renin-secreting tumor)
 
-* Nonaldosterone mineralocorticoid (eg, Cushing’s, Liddle’s [↑ ENaC], exogenous, licorice)
+* Nonaldosterone mineralocorticoid (eg, Cushing’s, Liddle’s [↑ ENaC], exogenous, [[licorice]])
 

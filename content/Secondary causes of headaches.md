@@ -11,4 +11,3 @@ title: Secondary causes of headaches
 * Extracranial: sinusitis, TMJ syndrome, glaucoma
 * Systemic: hypoxia (OSA), hypercapnia, dialysis, HTN, cardiac cephalalgia, hypoglycemia, ↓ TSH, pheo, medication overuse (analgesics), withdrawal (caffeine, opioids, estrogen)
 
-[[Clinical evaluation of Secondary causes of headaches]] 

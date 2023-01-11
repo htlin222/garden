@@ -7,16 +7,13 @@ title: venous thromboembolism
 * [[Definitions-venous thromboembolism]]
 * [[Risk factors-venous thromboembolism]]
 * [[Thromboprophylaxis]]
-* [[Clinical manifestations—DVT]]
-* [[Simplified Wells Pretest Probability Scoring of DVT]]
-* [[Diagnostic studies—DVT]]
-* [[Approach to suspected DVT]]
-* [[Clinical manifestations—PE]]
-* [[Modified Wells Pretest Probability Scoring for PE ]]
-* [[Diagnostic studies of PE]]
-* [[Approach to suspected PE]]
-* [[Workup for idiopathic VTE]]
-* [[Risk stratification for Pts with PE]]
+
+## clinical manifestations
+* [[deep vein thrombosis]]
+* [[pulmonary embolism]]
+
+## treatment
+
 * [[Whom to treat-venous thromboembolism]]
 * [[Initial anticoagulation options for-venous thromboembolism]]
 * [[Systemic thrombolysis]]
