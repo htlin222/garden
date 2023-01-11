@@ -8,7 +8,8 @@ title: Definitions-venous thromboembolism
 
 ## [[deep vein thrombosis]]
 * Proximal =
-	* thrombosis of iliac, femoral, or popliteal veins (nb, “superficial” femoral vein part of deep venous system).
+	* thrombosis of iliac, femoral, or popliteal veins
+	* (nb, “superficial” femoral vein part of deep venous system).
 * Distal =
 	* calf veins below knee
 	* lower risk of PE/death than proximal (Thromb Haem 2009;102:493).
