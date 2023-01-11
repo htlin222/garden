@@ -5,7 +5,7 @@ title: Systemic thrombolysis
 
  (EHJ 2020;41:543; Chest 2021;160:e545)
 
-* Typically TPA 100 mg over 2 h or wt-adjusted TNK bolus; risk of ICH ~2-5%, ↑ w/ age
+* Typically **TPA 100 mg over 2h** or wt-adjusted TNK bolus; risk of ICH ~2-5%, ↑ w/ age
 
 * Consider if low bleed risk w/ acute PE + HoTN or cardiopulm deterioration after anticoag
 

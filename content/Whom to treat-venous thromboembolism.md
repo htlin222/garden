@@ -16,3 +16,4 @@ title: Whom to treat-venous thromboembolism
 
 * PE:
 	* anticoagulate (unless isolated subsegmental and risk for recurrent VTE low)
+![Patient diagnosed with pulmonary embolism (PE)](https://i.imgur.com/2lz94Qx.png)

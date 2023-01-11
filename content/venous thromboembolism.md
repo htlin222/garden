@@ -24,8 +24,9 @@ title: venous thromboembolism
 * [[Complications & prognosis-venous thromboembolism]]
 [[]]
 
-## 好期刊:
-[Pulmonary Embolism | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMcp2116489?utm medium=referral&utm source=r360)
-![Overview of Testing for Pulmonary Embolism in Outpatients or Patients in the Emergency Department.](https://i.imgur.com/pMNJhZp.jpg)
-![Overview of Pulmonary Embolism Management in the Context of Risk Stratification](https://i.imgur.com/LGR5v3G.jpg)
+## Ref:
+
+* [Acute Pulmonary Embolism: A Review | Emergency Medicine | JAMA | JAMA Network](https://jamanetwork-com.autorpa.kfsyscc.org/journals/jama/fullarticle/2796942)
+* ![Overview of Testing for Pulmonary Embolism in Outpatients or Patients in the Emergency Department.](https://i.imgur.com/pMNJhZp.jpg)
+* ![Overview of Pulmonary Embolism Management in the Context of Risk Stratification](https://i.imgur.com/LGR5v3G.jpg)
 
