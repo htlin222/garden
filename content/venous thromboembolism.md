@@ -22,7 +22,6 @@ title: venous thromboembolism
 * [[Long-term anticoagulation options-venous thromboembolism]]
 * [[Extended DOAC strategies-venous thromboembolism]]
 * [[Complications & prognosis-venous thromboembolism]]
-[[]]
 
 ## Ref:
 

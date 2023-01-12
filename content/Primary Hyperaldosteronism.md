@@ -9,3 +9,4 @@ title: Primary Hyperaldosteronism
 * [[adrenocortical cancer]],
 * [[glucocorticoid-remediable aldosteronism]]
 	* (GRA; ACTH-dep. rearranged promoter)
+* [[adrenal incidentaloma]]

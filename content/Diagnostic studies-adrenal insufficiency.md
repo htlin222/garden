@@ -3,7 +3,9 @@ title: Diagnostic studies-adrenal insufficiency
 ---
 # Diagnostic studies-adrenal insufficiency
  (JCEM 2016;101:364)
-* Early a.m. serum cortisol: <3 µg/dL virtually diagnostic; ≥18 µg/dL generally consistent with intact adrenal function, lower cutoff w/ modern specific assays (see Appendix)
+* Early a.m. serum cortisol:
+	* <3 µg/dL virtually diagnostic
+	* ≥18 µg/dL generally consistent with intact adrenal function, lower cutoff w/ modern specific assays (see Appendix)
 * Standard (250 µg) cosyntropin stimulation test (testing ability of ACTH → ↑ cortisol)
 normal = 60-min (or 30-min) post-ACTH cortisol ≥18 µg/dL
 abnormal in primary b/c adrenal gland diseased and unable to give adequate output
