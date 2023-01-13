@@ -1,13 +1,13 @@
 ---
-title: Obsidian
+title: mac的一些好用軟體
 date: "2023-01-13"
 enableToc: false
 ---
 
 > [!info]
-> 🌱 來自: [[如何打造一座知識花園]]
+> 🌱 來自: [[index]]
 
-# Obsidian
+# mac的一些好用軟體
 
 **👷 工事中，敬請期待 🚧**
 

@@ -41,5 +41,5 @@ enableToc: false
 ## Draft
 
 * paper note: [[journals/index.md]]
-* inbox: [[inbox/inbox]]
 * 一些書的筆記: [[books/index]]
+* inbox: [[inbox/inbox]]
