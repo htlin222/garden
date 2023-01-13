@@ -11,6 +11,8 @@ title: dermatology
 * Cutaneous Herpes Infections
 * Molluscum Contagiosum
 * Warts
+ddate
+ddd
 
 Other relevant topics in Dermatology are covered in the following rotation guides:
 

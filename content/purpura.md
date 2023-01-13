@@ -10,7 +10,6 @@ title: purpura
 platelet disorder: thrombocytopenia, defect in platelet fxn
 
 thromboemboli: DIC, TTP, cholesterol or fat emboli, other thrombotic microangiopathies
-
 trauma or vascular fragility: amyloidosis, Ehlers-Danlos, scurvy
 
 * Palpable (papular); vasculitis: leukocytoclastic, HSP, PAN, RMSF; infectious emboli: meningococcemia, bacterial endocarditis
