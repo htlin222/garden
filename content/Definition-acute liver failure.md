@@ -1,7 +1,7 @@
 ---
 title: Definition-acute liver failure
 ---
-# Definition-acute liver failure
+
 
 * Acute liver injury + coagulopathy + encephalopathy w/o preexisting liver dis. (<26 wks)
 

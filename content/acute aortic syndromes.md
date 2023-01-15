@@ -1,7 +1,7 @@
 ---
 title: acute aortic syndromes
 ---
-# acute aortic syndromes
+syndromes
 
 [[Definitions-acute aortic syndromes]]
 [[Classification-acute aortic syndromes]]

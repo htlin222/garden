@@ -1,7 +1,7 @@
 ---
 title: Appearance of cerebrospinal fluid
 ---
-# Appearance of cerebrospinal fluid
+spinal fluid
 
 * Clear and colorless：正常CSF
 * Turbid：可能代表 WBC > 200 或 RBC > 400

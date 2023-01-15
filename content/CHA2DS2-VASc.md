@@ -1,7 +1,7 @@
 ---
 title: CHA2DS2-VASc
 ---
-# CHA2DS2-VASc
+
 
 1. CHF (1 point); 
 2. HTN (1); 

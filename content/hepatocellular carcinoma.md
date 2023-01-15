@@ -1,26 +1,26 @@
 ---
 title: hepatocellular carcinoma
 ---
-# hepatocellular carcinoma
 
-### Risk factors (globally, 3rd leading cause of cancer death, espec. in Africa & Asia)
+
+sk factors (globally, 3rd leading cause of cancer death, espec. in Africa & Asia)
 * Cirrhosis: present in 70–90% HCC cases
 * Infectious: HCV & HBV (~75%), HBV/HDV coinfection; HBV can cause HCC w/o cirrhosis
 * Toxic: EtOH (⅓ cases in U.S.), tobacco, [[aflatoxin]] from Aspergillus
 * Metabolic disorders: NASH, [[diabetes mellitus]], autoimmune hepatitis, hemochromatosis
-### Screening (screen high-risk Pts: cirrhosis, chronic HBV)
+screen high-risk Pts: cirrhosis, chronic HBV)
 * Ultrasonography (U/S) + AFP q 6 mos; if high-risk may alternate U/S w/ MRI
 * If lesion found or increasing AFP, perform 3-phase contrast CT or MRI
 
-### Clinical manifestations
+stations
 * Exam: nonspec. c/w liver dysfxn (eg, hepatomegaly, ascites, jaundice, encephalopathy)
 * Labs: coagulopathy, low albumin, elevated LFTs; r/o other etiologies of liver dysfxn
 
-### Diagnosis
+sis
 * Can diagnose w/o biopsy in high-risk Pts with 3-phase contrast CT or MRI
 * Only 15% of liver masses are HCC; liver metastases from other 1° more common
 
-### Treatment (NEJM 2019;380:1450)
+
 [Hepatocellular Carcinoma | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMra1713263)
 * Localized disease (goal = cure) → resection if feasible (preferred), ablation, transarterial chemoembolization, or radiotherapy (SBRT) also options. Inadequate hepatic reserve → liver transplant if able (NEJM 1996;334:693); non-surgical local and/or systemic Rx if not.
 * Systemic Rx:

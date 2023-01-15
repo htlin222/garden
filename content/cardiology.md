@@ -1,7 +1,7 @@
 ---
 title: cardiology
 ---
-# cardiology
+
 * [[electrocardiography]]
 * [[chest pain]]
 * [[noninvasive evaluation of CAD]]
@@ -29,7 +29,7 @@ Arrhythmias
 Valvular Disease
 Pericardial Disease and Myocarditis
 
-## Other topics related to cardiology are covered in the following rotation guides:
+s related to cardiology are covered in the following rotation guides:
 
 Hypertension, Hypercholesterolemia (Ambulatory Care)
 Venous Thromboembolism (VTE) and Anticoagulation (Hematology)

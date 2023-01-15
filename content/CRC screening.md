@@ -1,7 +1,7 @@
 ---
 title: CRC screening
 ---
-# CRC screening
+screening
 
 (JAMA 2021;325:1978)
 

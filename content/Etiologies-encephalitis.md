@@ -1,7 +1,7 @@
 ---
 title: Etiologies-encephalitis
 ---
-# Etiologies-encephalitis
+s-encephalitis
 
 (specific etiology found in <20% of cases; Neurology 2006;66:75; CID 2008;47:303)
 * HSV-1 all ages/seasons. If sxs recur after Rx, consider viral relapse vs. autoimmune encephalitis b/c high rates of autoimmune disease wks later (Lancet Neurol 2018;17:760).

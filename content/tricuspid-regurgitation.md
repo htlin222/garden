@@ -1,7 +1,7 @@
 ---
 title: tricuspid-regurgitation
 ---
-# tricuspid-regurgitation
+spid-regurgitation
 
 
 TRICUSPID REGURGITATION (Circ 2014;129:2440; Lancet 2016;388:2431)

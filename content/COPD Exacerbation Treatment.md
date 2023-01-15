@@ -1,7 +1,7 @@
 ---
 title: COPD Exacerbation Treatment
 ---
-# COPD Exacerbation Treatment
+
 
 * [[Ipratropium of COPDAE]]
 * [[Albuterol of COPDAE]]

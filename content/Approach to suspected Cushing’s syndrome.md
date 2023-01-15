@@ -7,5 +7,5 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Diagnosis-Cushing’s Syndrome]]
 
-# Approach to suspected Cushing’s syndrome
+suspected Cushing’s syndrome
 

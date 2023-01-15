@@ -1,7 +1,7 @@
 ---
 title: Definition and causes-acute mesenteric ischemia
 ---
-# Definition and causes-acute mesenteric ischemia
+ses-acute mesenteric ischemia
 
 
 * Reduced or absent blood flow to small intestine, typically caused by arterial (ie, SMA or its branches) occlusion or transient hypoperfusion or less often by venous occlusion

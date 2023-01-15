@@ -1,15 +1,15 @@
 ---
 title: restrictive infiltrative
 ---
-# restrictive infiltrative
+strictive infiltrative
 
-## Definition (JACC 2018;71:1130 & 1149)
+
 
 * Restrictive CMP: ↓ ventricular filling with ↓ compliance in nonhypertrophied, nondilated ventricles; nl/↓ diastolic volumes, nl or near-nl EF; must r/o pericardial disease
 
 * Infiltrative CMP: myocardial deposition; ± ↑ wall thickness; may present as RCM or DCM
 
-## Etiologies (JACC 2018;71:1130 & 1149)
+s (JACC 2018;71:1130 & 1149)
 
 * Amyloidosis: age at presentation ~60 y; ♂:♀ = 3:2
 

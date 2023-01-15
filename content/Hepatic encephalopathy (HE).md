@@ -1,7 +1,7 @@
 ---
 title: Hepatic encephalopathy  HE 
 ---
-# Hepatic encephalopathy (HE)
+
 
 (NEJM 2016;375:1660; Hepatology 2014; 60:715)
 

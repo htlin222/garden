@@ -1,7 +1,7 @@
 ---
 title: Commonly drug-induced Acute interstitial nephritis
 ---
-# Commonly drug-induced Acute interstitial nephritis
+stitial nephritis
 
 * β-lactams, 
 * sulfa drugs, 

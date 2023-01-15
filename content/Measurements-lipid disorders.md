@@ -1,7 +1,7 @@
 ---
 title: Measurements-lipid disorders
 ---
-# Measurements-lipid disorders
+surements-lipid disorders
 
 腰圍: 體重*1/2 from ileic creast
 

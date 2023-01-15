@@ -1,7 +1,7 @@
 ---
 title: Clopidogrel
 ---
-# Clopidogrel
+
 
 300–600 mg × 1 → 75 mg qd
 ~6 h to steady state

@@ -1,7 +1,7 @@
 ---
 title: Epidemiology-tuberculosis
 ---
-# Epidemiology-tuberculosis
+sis
 
 (NEJM 2016;375:1081)
 * Transmission via aerosols; untreated active dx requires airborne isolation in healthcare facilities and community isolation measures; must involve local public health authorities

@@ -1,7 +1,7 @@
 ---
 title: Evaluation in patients without diabetes- but have hypoglycemia
 ---
-# Evaluation in patients without diabetes- but have hypoglycemia
+s without diabetes- but have hypoglycemia
 
 
 (JCEM 2009;94:709)

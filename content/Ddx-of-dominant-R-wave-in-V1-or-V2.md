@@ -1,7 +1,7 @@
 ---
 title: Ddx-of-dominant-R-wave-in-V1-or-V2
 ---
-# Ddx-of-dominant-R-wave-in-V1-or-V2
+
 
 * Ventricular abnl: RVH (RAD, RAA, deep S waves in I, V5, V6); HCM; Duchenne’s
 

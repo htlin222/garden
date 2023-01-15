@@ -1,7 +1,7 @@
 ---
 title: Evaluation-asthma-EXACERBATION
 ---
-# Evaluation-asthma-EXACERBATION
+sthma-EXACERBATION
 
 * History: baseline PEF, steroid requirement, ED visits, hospital admissions, prior intubation
 

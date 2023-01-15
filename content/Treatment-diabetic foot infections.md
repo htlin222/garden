@@ -1,7 +1,7 @@
 ---
 title: Treatment-diabetic foot infections
 ---
-# Treatment-diabetic foot infections
+s
 
 (CID 2012;54:e132)
 * Mild infxn: oral abx. Target GPCs (diclox, cephalexin, or amox/clav); use TMP-SMX or doxy for MRSA.

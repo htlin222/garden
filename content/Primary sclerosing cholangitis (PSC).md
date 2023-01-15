@@ -1,7 +1,7 @@
 ---
 title: Primary sclerosing cholangitis  PSC 
 ---
-# Primary sclerosing cholangitis (PSC)
+sclerosing cholangitis (PSC)
 
 (NEJM 2016;375:1161; Clin Liver Dis 2020;15:125)
 

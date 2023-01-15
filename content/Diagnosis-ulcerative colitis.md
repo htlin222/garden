@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-ulcerative colitis
 ---
-# Diagnosis-ulcerative colitis
+sis-ulcerative colitis
 
 * Colonoscopy: involves rectum (95%) & extends prox., circumfer., & contig. w/in colon
 

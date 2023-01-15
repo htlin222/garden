@@ -1,7 +1,7 @@
 ---
 title: Beta blockers-toxicology
 ---
-# Beta blockers-toxicology
+s-toxicology
 
 
 Bradycardia, AV block, hypotension, HF, hypoglycemia

@@ -1,7 +1,7 @@
 ---
 title: chronic obstructive pulmonary disease
 ---
-## CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+
 
 * [[Definition and epidemiology-chronic obstructive pulmonary disease]]
 * [[Emphysema vs. Chronic Bronchitis]]
@@ -11,5 +11,5 @@ title: chronic obstructive pulmonary disease
 * [[Chronic treatment-chronic obstructive pulmonary disease]]
 * [[Staging and prognosis-chronic obstructive pulmonary disease]]
 
-## EXACERBATION
+
 [[COPD Exacerbation Treatment]]

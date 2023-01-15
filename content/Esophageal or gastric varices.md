@@ -1,7 +1,7 @@
 ---
 title: Esophageal or gastric varices
 ---
-# Esophageal or gastric varices
+sophageal or gastric varices
 
 
 

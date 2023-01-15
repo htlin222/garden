@@ -1,7 +1,7 @@
 ---
 title: clinical case of epidural abscess
 ---
-# clinical case of epidural abscess
+se of epidural abscess
 
 A 50-year-old woman with end-stage kidney disease from hypertensive nephrosclerosis presents for her regularly scheduled hemodialysis session. Her chronic low back pain has become more severe in the past 3 days, and she has felt feverish at home. She denies bowel or bladder incontinence.
 While undergoing dialysis, she experiences rigors. Her temperature is 38.6°C, her blood pressure is 100/55 mm Hg, her heart rate is 110 beats per minute, and her oxygen saturation is 94% while she is breathing ambient air. Her tunneled, vascular access device in the subclavian vein has erythema and slight purulent drainage at the catheter exit site. Palpation over the lumbar vertebrae is painful, but there is no erythema on the overlying skin. She has full strength in the major muscle groups of ner arms and legs.

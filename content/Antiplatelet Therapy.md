@@ -1,16 +1,16 @@
 ---
 title: Antiplatelet Therapy
 ---
-# Antiplatelet Therapy
 
-## [[Aspirin]]
-## P2Y12 (ADP receptor) inhibitor (choose one of the following in addition to ASA).
+
+spirin]]
+se one of the following in addition to ASA).
 Timing (on presentation or at angiography) remains controversial.
-### [[Ticagrelor]] (preferred over clopi)
-### [[Prasugrel]] (preferred over clopi)
-### [[Clopidogrel]]
-### [[Cangrelor]]
-## GP IIb/IIIa inhibitors (GPI)
+
+sugrel]] (preferred over clopi)
+
+
+s (GPI)
 abciximab; eptifibatide; tirofiban
 
 Infusions given ≤24 h peri & post PCI; shorter (~2 h) as effective w/ ↓ bleeding (JACC 2009;53:837)

@@ -1,7 +1,7 @@
 ---
 title: Risk factors for bloodstream infections
 ---
-# Risk factors for bloodstream infections
+sk factors for bloodstream infections
 
 (JAMA 2012;308:502; CID;2020;71)
 * Syndromes with high likelihood of bacteremia:

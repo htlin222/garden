@@ -1,7 +1,7 @@
 ---
 title: Placement PA catheter and tailored therapy
 ---
-# Placement PA catheter and tailored therapy
+
 
 * Insertion site: R IJ or L subclavian veins preferred for “anatomic” flotation into PA
 

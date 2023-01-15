@@ -1,7 +1,7 @@
 ---
 title: Classification-autoimmune hepatitis  AIH 
 ---
-# Classification-autoimmune hepatitis (AIH)
+ssification-autoimmune hepatitis (AIH)
 
 (J Hep 2015;62:S100, World J Gastro 2015;21:60)
 

@@ -1,7 +1,7 @@
 ---
 title: New York Heart Association class
 ---
-# New York Heart Association class
+ssociation class
 
 Class I: no sx w/ ordinary activity
 class II: sx w/ ordinary activity

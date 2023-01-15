@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-pheochromocytoma and paraganglioma
 ---
-# Diagnostic studies-pheochromocytoma and paraganglioma
+stic studies-pheochromocytoma and paraganglioma
 
 
 (JCEM 2014;99:1915)

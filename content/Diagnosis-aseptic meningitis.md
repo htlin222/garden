@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-aseptic meningitis
 ---
-# Diagnosis-aseptic meningitis
+sis-aseptic meningitis
 
 - Obtain LP for CSF analysis: lymphocytic pleocytosis common in viral etiologies (see Typical CSF Findings in Meningitis table above)
 - Consider CSF cytology and MRI brain/spine to evaluate for malignancy

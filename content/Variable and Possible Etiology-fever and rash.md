@@ -1,7 +1,7 @@
 ---
 title: Variable and Possible Etiology-fever and rash
 ---
-# Variable and Possible Etiology-fever and rash
+ssible Etiology-fever and rash
 
 Summer/fall > other seasons Enterovirus
 Winter Parvovirus, Meningococcemia

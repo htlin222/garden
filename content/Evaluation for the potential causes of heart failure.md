@@ -1,7 +1,7 @@
 ---
 title: Evaluation for the potential causes of heart failure
 ---
-# Evaluation for the potential causes of heart failure
+ses of heart failure
 
 * ECG: evidence for CAD, LVH, LAE, heart block or low voltage (? infiltrative CMP/DCM)
 

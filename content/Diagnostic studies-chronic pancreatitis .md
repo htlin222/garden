@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-chronic pancreatitis 
 ---
-# Diagnostic studies-chronic pancreatitis 
+stic studies-chronic pancreatitis 
 
  (Pancreas 2014;43:1143; Am J Gastro 2020;115:322)
 

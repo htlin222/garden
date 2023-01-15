@@ -1,7 +1,7 @@
 ---
 title: Organopho- sphate-toxicology
 ---
-# Organopho- sphate-toxicology
+sphate-toxicology
 
 Salivation, lacrimation, diaphoresis, miosis, emesis, bronchospasm, ΔMS
 

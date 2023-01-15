@@ -1,12 +1,12 @@
 ---
 title: Etiologies of Hypocalcemia
 ---
-# Etiologies of Hypocalcemia
+s of Hypocalcemia
 [[Laboratory Findings in Calcium Disorders]]
-## [[Hypoparathyroidism]]
-## [[Pseudo-hypoparathyroidism]]
+sm]]
+seudo-hypoparathyroidism]]
 
-## Vit D defic. or resist
+sist
 (NEJM 2011;364:248; JCEM 2012;97:1153)
 * ⭐ 學習重點 ⭐
 	- 大多數血清 25-羥基維生素 D (25[OH]D) 為 12 至 20 ng/mL（30 至 50 nmol/L）的健康成人不需要任何額外評估。
@@ -20,16 +20,16 @@ title: Etiologies of Hypocalcemia
 * genetic (1α-hydroxylase, VDR mutations).
 * Deficiency more common.
  
-### [[vitamin D replacement]]
 
-## Chronic renal failure
+
+
 * ↓ 1,25-(OH)2D production from elevated FGF23, ↑ PO4 from ↓ clearance
 
-## Accelerated net bone formation
+
 * Postparathyroidectomy,
 * Paget’s disease (JBMR 2019;34:579),
 * osteoblastic metastases
 
-## Calcium sequestration
+sequestration
 * Pancreatitis, citrate excess (after blood transfusions),
 * acute ↑↑ PO4 (ARF, rhabdomyolysis, tumor lysis), bisphosphonates

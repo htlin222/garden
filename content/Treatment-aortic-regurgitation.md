@@ -1,7 +1,7 @@
 ---
 title: Treatment-aortic-regurgitation
 ---
-# Treatment-aortic-regurgitation
+
 
 * Acute decompensation (consider endocarditis as possible acute precipitant): surgery usually urgently needed for acute severe AR, which is poorly tolerated by LV IV afterload reduction (nitroprusside) and inotropic support (dobutamine) ± chronotropic support (↑ HR → ↓ diastole → ↓ time for regurgitation) pure vasoconstrictors and IABP contraindicated
 * In chronic AR, management decisions based on LV size and fxn (and before sx occur); low diastolic BP and high resting HR associated with mortality (JACC 2020;75:29)

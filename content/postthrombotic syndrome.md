@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Complications & prognosis-venous thromboembolism]]
 
-# postthrombotic syndrome
+stthrombotic syndrome
 
 * PTS symptoms include leg pain
 * sensations of leg heaviness, pulling, or fatigue
@@ -17,4 +17,4 @@ Symptoms can be present in various combinations, may be persistent or intermitte
 
 [The post-thrombotic syndrome - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6142466/)
 
-## Villalta PTS scale
+scale

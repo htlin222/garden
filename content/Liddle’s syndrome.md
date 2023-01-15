@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Etiologies-hyperaldosteronism]]
 
-# Liddle’s syndrome
+s syndrome
 
 Liddle syndrome is an inherited form of high blood pressure (hypertension). 
 

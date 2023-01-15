@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Mechanical intervention-venous thromboembolism]]
 
-# catheter-directed pharmacomech
+
 
 * low-dose lytic infused (eg, tPA 1 mg/h for 12–24 hr per catheter) + U/S or mech fragmentation of clot.
 * Consider if hemodyn. compromise or high risk & not candidate for systemic lysis or surgical thrombectomy

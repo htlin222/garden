@@ -1,7 +1,7 @@
 ---
 title: coagulation cascade and sites of action for anticoagulants
 ---
-# coagulation cascade and sites of action for anticoagulants
+scade and sites of action for anticoagulants
 
 ![image 22-10-02 08 57 05](https://i.imgur.com/vjuYH8L.png)
 

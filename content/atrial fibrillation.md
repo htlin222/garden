@@ -1,11 +1,11 @@
 ---
 title: atrial fibrillation
 ---
-# atrial fibrillation
+
 
 * [[Classification-atrial fibrillation]]
 * [[Epidemiology and etiologies-atrial fibrillation]]
-## Evaluation-atrial fibrillation
+
 * H&P, ECG, CXR, TTE (LA size, thrombus, valves, LV fxn, pericardium), K, Mg, Cr, TFTs
 * In acute AF <48º, ~70% spont. convert to SR w/in 48 hrs (NEJM 2019;380:1499)
 [[Approach to acute AF]]

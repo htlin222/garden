@@ -1,7 +1,7 @@
 ---
 title: Inflammatory diarrhea
 ---
-# Inflammatory diarrhea
+
 
 (⊕ fecal WBC, calprotectin, lactoferrin; ⊕ FOB; fever, abd pain)
 

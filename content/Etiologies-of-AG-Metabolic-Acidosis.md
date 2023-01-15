@@ -1,18 +1,18 @@
 ---
 title: Etiologies-of-AG-Metabolic-Acidosis
 ---
-# Etiologies-of-AG-Metabolic-Acidosis
+s-of-AG-Metabolic-Acidosis
 
 “GOLD MARK” = Glycols, Oxoproline, Lactic, D-Lactic, Methanol, ASA, Renal, Ketoacidosis
 
 
-## [[diabetic ketoacidosis]]
+sis]]
 Diabetes mellitus, alcoholism, starvation (NEJM 2015;372:546)
-## [[Lactic acidosis]] 
-## Renal failure
+sis]] 
+
 Accumulation of organic anions (eg, phosphates, sulfates, etc.)
 
-## Ingestions
+stions
 (NEJM 2020; 382:2544)
 * Glycols: Ethylene (antifreeze) → metab to glycolic and oxalic acids
 * Propylene (pharmaceutical solvent, eg, IV diazepam, lorazepam, and phenobarbital; antifreeze) → lactic acidosis

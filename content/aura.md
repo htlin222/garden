@@ -1,11 +1,11 @@
 ---
 title: aura
 ---
-# aura
+
 
 Aura is defined as transient focal neurological symptoms that usually precede, but sometimes accompany, the headache phase of a migraine attack. 
 
-## Less common
+ss common
 aphasic speech disturbance, 
 brainstem symptoms (such as dysarthria and vertigo), 
 motor weakness (in hemiplegic migraine) and 

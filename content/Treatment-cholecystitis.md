@@ -1,7 +1,7 @@
 ---
 title: Treatment-cholecystitis
 ---
-# Treatment-cholecystitis
+stitis
 
  (Ann Surg 2013;258:385; NEJM 2015;373:357)
 

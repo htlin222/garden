@@ -1,7 +1,7 @@
 ---
 title: peptic ulcer disease
 ---
-# peptic ulcer disease
+sease
 [[definition and etiologies of peptic ulcer disease]]
 
 (20–60%; duodenal>gastric)

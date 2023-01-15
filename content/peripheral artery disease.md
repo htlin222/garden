@@ -1,7 +1,7 @@
 ---
 title: peripheral artery disease
 ---
-# peripheral artery disease
+sease
 
 * [[Clinical features-peripheral artery disease]]
 * [[Diagnosis-peripheral artery disease]]

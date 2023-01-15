@@ -1,11 +1,11 @@
 ---
 title: Cryptococcus neoformans
 ---
-# Cryptococcus neoformans
+s neoformans
 
 A common infectious cause of subacute and chronic meningoencephalitis associated with raised intracranial pressure in immunocompromised patients is Cryptococcus neoformans.
 
-## 新型隱球菌 (Cryptococcus neoformans)
+s neoformans)
 
 新型隱球菌是一種普遍存在的酵母菌，屬於擔子菌門銀耳綱，常在鴿子的糞便中被發現。新型隱球菌會對人類造成伺機性感染，即對健康的人沒有感染力，但會對缺乏抵抗力的人造成危害。
 

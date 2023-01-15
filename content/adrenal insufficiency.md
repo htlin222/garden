@@ -1,7 +1,7 @@
 ---
 title: adrenal insufficiency
 ---
-# adrenal insufficiency
+sufficiency
 
 * [[Etiologies-adrenal insufficiency]]
 * [[Clinical manifestations-adrenal insufficiency]]

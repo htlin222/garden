@@ -1,7 +1,7 @@
 ---
 title: Hypoparathyroidism
 ---
-# Hypoparathyroidism
+sm
 
 
 (NEJM 2019;380:1738; JCEM 2020;105:1722)

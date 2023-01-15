@@ -1,7 +1,7 @@
 ---
 title: Treatment of Thyroid storm
 ---
-# Treatment of Thyroid storm
+storm
 
 * β-blocker, 
 * PTU or methimazole, 

@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Diagnosis-Cushing’s Syndrome]]
 
-# dexamethasone suppression test
+sone suppression test
 
 * give 1 mg at 11 p.m.;
 * ✓ 8 a.m. serum cortisol (suppression if <1.8 µg/dL);

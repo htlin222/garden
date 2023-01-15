@@ -1,7 +1,7 @@
 ---
 title: Ethylene glycol-toxicology
 ---
-# Ethylene glycol-toxicology
+
 
 
 CNS depression, ↑ AG & OG metabolic acidosis

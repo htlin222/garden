@@ -1,7 +1,7 @@
 ---
 title: Antibiotics of COPDAE
 ---
-# Antibiotics of COPDAE
+s of COPDAE
 
 Amox, TMP-SMX, doxy, azithro, antipneumococcal FQ all reasonable (no single abx proven superior). Consider local flora and avoid repeat courses of same abx. ≤5d course likely enough for mild–mod exacerbation (JAMA 2010;303:2035).
 H. flu, M. catarrhalis, S. pneumo

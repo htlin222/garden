@@ -1,18 +1,18 @@
 ---
 title: venous thromboembolism
 ---
-# venous thromboembolism
+s thromboembolism
 ![Flow Chart](https://i.imgur.com/Rf14Zgk.png)
 
 * [[Definitions-venous thromboembolism]]
 * [[Risk factors-venous thromboembolism]]
 * [[Thromboprophylaxis]]
 
-## clinical manifestations
+stations
 * [[deep vein thrombosis]]
 * [[pulmonary embolism]]
 
-## treatment
+
 
 * [[Whom to treat-venous thromboembolism]]
 * [[Initial anticoagulation options for-venous thromboembolism]]
@@ -23,7 +23,7 @@ title: venous thromboembolism
 * [[Extended DOAC strategies-venous thromboembolism]]
 * [[Complications & prognosis-venous thromboembolism]]
 
-## Ref:
+
 
 * [Acute Pulmonary Embolism: A Review | Emergency Medicine | JAMA | JAMA Network](https://jamanetwork-com.autorpa.kfsyscc.org/journals/jama/fullarticle/2796942)
 * ![Overview of Testing for Pulmonary Embolism in Outpatients or Patients in the Emergency Department.](https://i.imgur.com/pMNJhZp.jpg)

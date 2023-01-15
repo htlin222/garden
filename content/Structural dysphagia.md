@@ -1,15 +1,15 @@
 ---
 title: Structural dysphagia
 ---
-# Structural dysphagia
+sphagia
 
 (solids >liquids; JAMA 2015;313:18; Gastro 2018;155:1022)
 
-## Oropharyngeal
+
 * Zenker’s divertic. (pharyngeal pouch): in elderly, a/w aspir., dx w/ video fluoro, Rx endo/surg
 * Malignancy; proximal strictures/rings/webs; infection; radiation injury; goiter; osteophytes
  
-## Esophageal
+sophageal
 * Rings (intermittent dysphagia, concentric obstructing tissue, Schatzki ring): near GE jxn, a/w food impaction, linked to GERD; Rx w/ PPI, dilation
 * Webs: thin, partially occlusive structure, proximal, a/w Fe defic. (Plummer-Vinson synd.)
 * Peptic or XRT strictures, foreign body, tumor, vascular rings (dysphagia lusoria), compression from dilated left atrium compression
@@ -31,4 +31,4 @@ title: Structural dysphagia
     -   food impaction
 -   **Motility disorders** can be categorized as primary and secondary esophageal motility disorders as defined in the following table.
  
-## [[Neuromuscular dysphagia]]
+scular dysphagia]]

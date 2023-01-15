@@ -1,14 +1,14 @@
 ---
 title: Modified Duke Criteria
 ---
-# Modified Duke Criteria
+
 
 Definitive: 2 major or 1 major+3 minor or 5 minor; Possible: 1 major+1 minor or 3 minor
-## Major
+
 * BCx with common endocarditis pathogen (grown in 2 separate cx)
 * Coxiella serology ≥1:800
 * Endocardial involvement: vegetation, abscess, prosthetic dehiscence or new valvular regurgitation
-## Minor
+
 *  Predisposing condition (see risk factors)
 *  Fever
 *  Vascular phenomena: septic arterial or pulmonary emboli, mycotic aneurysms, ICH, Janeway lesions

@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-anaphylaxis
 ---
-# Diagnosis-anaphylaxis
+sis-anaphylaxis
 any of the three following criteria
 
 1) Acute illness with skin ± mucosal involvement (rash, flushing, hives), AND at least one of:

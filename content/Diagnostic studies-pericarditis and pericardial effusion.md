@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-pericarditis and pericardial effusion
 ---
-# Diagnostic studies-pericarditis and pericardial effusion
+stic studies-pericarditis and pericardial effusion
 
 * Need ≥2 of the following: chest pain (as noted above), friction rub, ECG findings, effusion
 * [[typical electrocardiogram in a patient with acute pericarditis]]

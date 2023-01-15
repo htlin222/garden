@@ -1,7 +1,7 @@
 ---
 title: Ibutilide
 ---
-# Ibutilide
+
 
 1 mg IV over 10’
 may repeat x 1

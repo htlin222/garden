@@ -1,9 +1,9 @@
 ---
 title: Acute bacterial skin and skin structure infections
 ---
-# Acute bacterial skin and skin structure infections
+skin and skin structure infections
 
-## Primary Regimens
+s
 * Elevate the involved leg
 * Inpatient parenteral therapy:
 	* Penicillin G 1 to 2 million units IV q6h

@@ -1,7 +1,7 @@
 ---
 title: Uremic bleeding
 ---
-# Uremic bleeding
+
 
 * Uremia → platelet dysfunction including ↓ aggregation, impaired adhesiveness
 

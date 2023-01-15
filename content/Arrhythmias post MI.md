@@ -1,7 +1,7 @@
 ---
 title: Arrhythmias post MI
 ---
-# Arrhythmias post MI
+s post MI
 
 Arrhythmias post-MI (treat all per ACLS protocols if unstable or symptomatic)
 

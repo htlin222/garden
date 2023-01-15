@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-ulcerative colitis
 ---
-# Clinical manifestations-ulcerative colitis
+stations-ulcerative colitis
 
 * Grossly bloody diarrhea, lower abdominal cramps, tenesmus, small, frequent BM
 

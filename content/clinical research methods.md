@@ -1,7 +1,7 @@
 ---
 title: clinical research methods
 ---
-# clinical research methods
+search methods
 
 Phase I Clinical Trials Phase I，人體藥理研究
 Phase II and III Clinical Trials Phase II，治療探索 Phase III，治療確認

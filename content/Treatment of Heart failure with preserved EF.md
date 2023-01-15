@@ -1,7 +1,7 @@
 ---
 title: Treatment of Heart failure with preserved EF
 ---
-# Treatment of Heart failure with preserved EF
+served EF
 
 diuresis, Rx HTN, tachycardia, and ischemia
 

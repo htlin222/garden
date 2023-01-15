@@ -1,7 +1,7 @@
 ---
 title: cirrhosis
 ---
-# cirrhosis
+sis
 * [[Definition-cirrhosis]]
 * [[Etiologies-cirrhosis]]
 * [[Clinical manifestations-cirrhosis]]
@@ -17,11 +17,11 @@ title: cirrhosis
 * [[hepatocellular carcinoma]]
 * [[Hepatopulmonary syndrome (HPS)]]
 
-## [[Other Complication-cirrhosis]]
+sis]]
 
-## [[Liver transplantation]]
+splantation]]
 
-## Other Etiologies
+s
 
 * [[Hemochromatosis & iron overload syndromes]]
 * [[Wilson disease]]

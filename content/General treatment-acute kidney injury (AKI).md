@@ -1,7 +1,7 @@
 ---
 title: General treatment-acute kidney injury  AKI 
 ---
-# General treatment-acute kidney injury (AKI)
+
 
  (CJASN 2008;3:962)
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-crohn’s disease
 ---
-# Diagnosis-crohn’s disease
+sis-crohn’s disease
 
 * Ileocolonoscopy + bx along w/ small bowel assessment (eg, MR-enterography)
 

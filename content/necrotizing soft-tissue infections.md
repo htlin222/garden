@@ -1,7 +1,7 @@
 ---
 title: necrotizing soft-tissue infections
 ---
-# necrotizing soft-tissue infections
+soft-tissue infections
 (NEJM 2017;377:2253)
 * [[Definition-necrotizing soft-tissue infections]]
 * [[Evolution of Necrotizing Fasciitis or Myonecrosis]]

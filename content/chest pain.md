@@ -4,7 +4,7 @@ title: chest pain
 
 [[Typical Characteristics and Diagnostic Studies of Chest Pain]]
 
-## Initial diagnostic studies
+stic studies
 * [[Focused history of chest pain]] 
 * Targeted exam: VS (incl. BP in both arms); gallops, murmurs, rubs; signs of vascular dis. (carotid/femoral bruits, ↓ pulses) or CHF; lung & abd. exam; chest wall for reproducibility
 * 12-lead ECG: obtain w/in 10 min; compare to priors & obtain serial ECGs; consider posterior leads (V7–V9) if hx c/w ACS but stnd ECG unrevealing or ST ↓ V1–V3 & pain refractory
@@ -13,7 +13,7 @@ title: chest pain
 
 * CXR; other imaging (echo, PE CTA, etc.) as indicated based on H&P and initial testing
 
-## Initial approach (Circ 2021;144:e368)
+
 
 * R/o life-threatening causes (ACS, PE, AoD, myopericarditis, etc.)
 * If possible ACS, risk stratify w/ clinician decision pathway (clinical factors + ECG + Tn)

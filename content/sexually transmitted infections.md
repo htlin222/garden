@@ -1,7 +1,7 @@
 ---
 title: sexually transmitted infections
 ---
-# sexually transmitted infections
+sexually transmitted infections
 
 * [[Risk Factors and Screening]] (MMWR 2021;70:1)
 

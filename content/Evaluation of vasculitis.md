@@ -1,7 +1,7 @@
 ---
 title: Evaluation of vasculitis
 ---
-# Evaluation of vasculitis
+sculitis
 
 * complete blood count (CBC) (with differential)
 * inflammatory markers (erythrocyte sedimentation rate [ESR] and C-reactive protein [CRP])

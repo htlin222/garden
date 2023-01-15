@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies of PE
 ---
-# Diagnostic studies of PE
+stic studies of PE
 
 
 (EHJ 2014;35:3033)

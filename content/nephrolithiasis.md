@@ -1,7 +1,7 @@
 ---
 title: nephrolithiasis
 ---
-# nephrolithiasis
+sis
 * [[Types of stones and risk factors]]
 * [[Clinical manifestations-nephrolithiasis]]
 * [[Workup-nephrolithiasis]]

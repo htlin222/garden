@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-nephrolithiasis
 ---
-# Clinical manifestations-nephrolithiasis
+stations-nephrolithiasis
 
 * Hematuria (absence does not exclude diagnosis), flank pain, N/V, dysuria, frequency
 

@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[spinal cord compression]]
-# Evaluation and treatment of spinal cord compression
+spinal cord compression
 
 * Empiric spine immobilization (collar, board) for all trauma patients
 

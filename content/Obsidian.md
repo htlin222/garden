@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[如何打造一座知識花園]]
 
-# Obsidian
+sidian
 
 **👷 工事中，敬請期待 🚧**
 

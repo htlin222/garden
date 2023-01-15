@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-clostridioides difficile infection
 ---
-# Diagnosis-clostridioides difficile infection
+sis-clostridioides difficile infection
 
  (Ann Intern Med 2018;169:49)
 

@@ -1,7 +1,7 @@
 ---
 title: Monomorphic ventricular tachycardia  MMVT 
 ---
-# Monomorphic ventricular tachycardia (MMVT)
+
 
 * All beats look similar; predominantly upward in V1 = RBBB-type vs. downward = LBBB-type
 * In obviously structurally abnormal heart: prior MI (scar); CMP

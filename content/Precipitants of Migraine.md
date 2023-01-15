@@ -1,7 +1,7 @@
 ---
 title: Precipitants of Migraine
 ---
-# Precipitants of Migraine
+s of Migraine
 
 * stress
 * foods (cheese, chocolate, MSG)

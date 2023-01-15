@@ -1,7 +1,7 @@
 ---
 title: Factitious disorder
 ---
-# Factitious disorder
+s disorder
 
 所以裝病症候群診斷的三個條件：  
 1.故意表現出一些身體或心理的症狀  

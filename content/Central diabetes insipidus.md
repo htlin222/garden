@@ -1,7 +1,7 @@
 ---
 title: Central diabetes insipidus
 ---
-# Central diabetes insipidus
+s insipidus
 
 ↓ ADH
 * Typically from mass lesion extrinsic to sella; pituitary tumor does not typically present w/ DI

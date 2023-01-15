@@ -1,7 +1,7 @@
 ---
 title: Precipitants-hypertensive crises
 ---
-# Precipitants-hypertensive crises
+s-hypertensive crises
 
 * Progression of essential HTN ± medical noncompliance (espec clonidine) or ∆ in diet
 * Progression of renovascular disease; acute glomerulonephritis; scleroderma; preeclampsia

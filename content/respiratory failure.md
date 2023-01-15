@@ -1,7 +1,7 @@
 ---
 title: respiratory failure
 ---
-# respiratory failure
+spiratory failure
 
 * A-a gradient = PAO2 – PaO2: normal (on room air) = “4 + age/4” or “2.5 + (0.2 × age)”
 * Hypoxemia + nl A-a gradient: problem is ↓ PiO2/FiO2 or ↑ PaCO2 (ie, hypoventilation)

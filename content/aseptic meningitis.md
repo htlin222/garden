@@ -1,9 +1,9 @@
 ---
 title: aseptic meningitis
 ---
-# aseptic meningitis
+septic meningitis
 
-## Definition
+
 - Clinical/lab evidence of meningeal inflammation with negative bacterial cx (CSF & blood)
 
 

@@ -1,7 +1,7 @@
 ---
 title: Malabsorption
 ---
-# Malabsorption
+sorption
 
 (fatty; ↑ fecal fat, ↑ osmotic gap, ↓ diarrhea w/ fasting)
 

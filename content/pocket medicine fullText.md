@@ -7252,7 +7252,7 @@ COPD exac. w/ ↑ PaCO2: ↓ intub. & mort., but if pH <7.3 → intubate
 
 Acute hypoxemic resp failure: ↓ intub. & mortality (JAMA 2020;324:57)
 
-High-risk extub. (age >65, CHF, APACHE II >12): NPPV × 24 h directly after extub. → ↓ reintub. and, if PaCO2 >45 mmHg during SBT, ↓ mortality. Does not Δ total # vent days (JAMA 2018;320:1881).
+High-risk extub. (age >65, CHF, APACHE II >12): NPPV × 24 h directly after extub. → ↓ reintub. and, if PaCO2 >45 mmHg during SBT, ↓ mortality. Does not Δ total s (JAMA 2018;320:1881).
 
 Hypoxemic resp failure after abdominal surgery: ↓ reintubation
 
@@ -7292,7 +7292,7 @@ A mode of partial vent support because no set rate
 
 Other
 
-Synch intermittent mand. vent: deliver min # supported breaths; VT of additional Pt-initiated breaths determined by Pt’s effort
+Synch intermittent mand. vent: deliver min supported breaths; VT of additional Pt-initiated breaths determined by Pt’s effort
 
 Proportional assist ventilation (PAV): delivers variable pressure to achieve targeted % of work of breathing
 
@@ -7352,7 +7352,7 @@ VT (tidal vol)
 
 Volume of breath delivered; lung-protective ventilation: goal ≤6 mL/kg IBW
 
-If no ARDS, similar # of vent days at higher VT (JAMA 2018;320:1872)
+If no ARDS, similar s at higher VT (JAMA 2018;320:1872)
 
 
 
@@ -7486,7 +7486,7 @@ preventive strategies (AJRCCM 2005;171:388): wash hands, HOB elevated, non-nasal
 
 edema: for Pts vent >36 h; ? predicted by ⊕ cuff leak test. Methylprednisolone 20 mg IV q4h starting 12 h pre-extub. → ↓↓ edema and 50% ↓ in reintubation (Lancet 2007;369:1003).
 
-ulceration: consider tracheostomy for Pts in whom expect >14 d of mech vent → ↓ duration mech vent, ↓ # ICU days (BMJ 2005;330:1243); no benefit to performing at ~1 wk vs. waiting until ~2 wk (JAMA 2010;303:1483)
+ulceration: consider tracheostomy for Pts in whom expect >14 d of mech vent → ↓ duration mech vent, ↓ s (BMJ 2005;330:1243); no benefit to performing at ~1 wk vs. waiting until ~2 wk (JAMA 2010;303:1483)
 
 * Malnutrition (for all critically ill Pts): enteral nutrition initiated early is safe but not necessary (JAMA 2012;307:795), but bolus may ↑ risk of VAP & C diff. (JPEN 2002;26:174); no clear benefit to ✓ing gastric residuals (JAMA 2013;309:249); permissive enteral underfeeding (~½ of calculated caloric req) & standard enteral feeding w/ similar outcomes (NEJM 2015;372:2398); parenteral nutrition should be delayed until after day 8 to ↓ risk of infections, cholestasis, RRT, ventilator days (NEJM 2011;365:506)
 
@@ -7903,7 +7903,7 @@ Neuromuscular dysphagia (solids & liquids; Neurogastero Motil 2021;33:e14058)
 
 2. Disorders of Peristalsis: Absent contractility (failed peristalsis); distal esophageal spasm (uncord. peristalsis w/ simult. contractions); hypercontractile esoph (high amp contract.; Rx w/PPI, nitrates/CCB/PDEi, TCA); ineffective esophageal motility (↓ amp of distal esoph contractions; seen in scleroderma, DM, hypothyroid.; Rx w/ underlying disorder & w/ PPI)
 
-## GASTROESOPHAGEAL REFLUX DISEASE (GERD)
+
 
 Pathophysiology (JAMA 2020;324:2536)
 
@@ -12200,7 +12200,7 @@ Duration, volume goal; K, Na, Ca, HCO3 in bath, anticoag
 
 Volume goal, K & Ca in replacement fluid (HCO3 vs. citrate)
 
-PD fluid (dextrose, icodextrin), dwell time, # cycles
+PD fluid (dextrose, icodextrin), dwell time, s
 
 
 
@@ -15510,7 +15510,7 @@ Cardiac disease (if RT or anthracycline), ? role of echo/stress at 10 y (controv
 
 Pulmonary toxicity (if bleomycin); Hypothyroidism (if RT), ∴ annual TSH (if neck RT)
 
-* International Prognostic Score (IPS; JCO 2012;30:3383) risk factors: albumin <4 g/dL, Hb <10.5 g/dL, male gender, age >45 y, stage IV, WBC ≥15 k/µL, lymphocytes <600/µL or <8% of diff. 5-yr PFS 62–88% based on # of risk factors.
+* International Prognostic Score (IPS; JCO 2012;30:3383) risk factors: albumin <4 g/dL, Hb <10.5 g/dL, male gender, age >45 y, stage IV, WBC ≥15 k/µL, lymphocytes <600/µL or <8% of diff. 5-yr PFS 62–88% based on sk factors.
 
 NON-HODGKIN LYMPHOMA (NHL)
 
@@ -16903,7 +16903,7 @@ Diagnostic evaluation, staging, and treatment (NCCN Guidelines v1.2022)
 
 * Multiparametric MRI (± endorectal coil): improves detection (NEJM 2018;378:1767)
 
-* Gleason score & grade group (histology): Gleason score determines Grade Group. 1 = best → 5 = worst. Group 1: 3+3=6 (most common histologic pattern is 1st #, next is 2nd #), Group 2: 3+4=7, Group 3: 4+3=7, Group 4: 4+4=8, Group 5: all higher.
+* Gleason score & grade group (histology): Gleason score determines Grade Group. 1 = best → 5 = worst. Group 1: 3+3=6 (most common histologic pattern is 1st s 2nd 
 
 
 
@@ -17138,7 +17138,7 @@ Pre RT ± chemo if rectal (NEJM 2006;355:1114)
 
 IIIB
 
-Varying # ⊕ LNs & local invasion
+Varying s & local invasion
 
 51–77%
 
@@ -20027,7 +20027,7 @@ Screening and Diagnosis (JAMA 2018;320:379)
 
 * If ⊕, Ab differentiation assay confirms and differentiates HIV-1 vs. -2 (MMWR 2013;62:489)
 
-* HIV RNA PCR viral load (VL) in plasma; assay range is 20–10 million copies/mL; false ⊕ can occur, but usually low # copies; in contrast, VL should be high (>750 k) in 1° infxn
+* HIV RNA PCR viral load (VL) in plasma; assay range is 20–10 million copies/mL; false ⊕ can occur, but usually low s; in contrast, VL should be high (>750 k) in 1° infxn
 
 * CD4 count: not a dx test, b/c can be HIV ⊕ w/ normal CD4 or be HIV ⊖ w/ low CD4
 
@@ -22923,7 +22923,7 @@ ACR/EULAR classification criteria (Arth Rheum 2010;62:2569)
 
 * Relevant for Pts with ≥1 joint with synovitis not better explained by another disease
 
-* Likelihood of RA ↑ w/ higher # (espec. ≥4) of small joints involved, ⊕ RF or anti-CCP (espec. high titer), ↑ ESR or CRP, and duration ≥6 wk
+* Likelihood of RA ↑ w/ higher spec. ≥4) of small joints involved, ⊕ RF or anti-CCP (espec. high titer), ↑ ESR or CRP, and duration ≥6 wk
 
 Management (Lancet 2017;389:2328 & 2338; JAMA 2018;320:1360)
 
@@ -23894,7 +23894,7 @@ Myocardial fibrosis; pericardial effusion; conduction abnormalities; CAD
 
 Pulmonary
 
-Pulmonary fibrosis (typically develops w/in 4 y); pulmonary arterial hypertension (typically develops after many yrs); #1 cause of mortality
+Pulmonary fibrosis (typically develops w/in 4 y); pulmonary arterial hypertension (typically develops after many yrs); se of mortality
 
 
 
@@ -25111,7 +25111,7 @@ Behçet’s syndrome (Nat Rev Dis Primers 2021;7:67)
 
 * Epi: usually young adults (25–35 y); ♂ = ♀, ↑ severity in ♂; a/w HLA-B51; ↑ prev on old Silk Road (Turkey, Middle East, Asia) w/ 5 vs. 370/100,000 in U.S. vs. Turkey
 
-* Classification criteria (#1 + ≥2 others is 91% Se & 96% Sp; Lancet 1990;335:1078)
+* Classification criteria (s is 91% Se & 96% Sp; Lancet 1990;335:1078)
 
 1. Recurrent oral aphthous ulceration (≥3× in 1 y, usually 1st manifestation)
 
@@ -28291,7 +28291,7 @@ Platelet
 
 Clumping → artifact, repeat plt count
 
-# → periph blood plt count ~10,000 plt for every 1 plt seen at hpf (100×)
+seen at hpf (100×)
 
 Size → MPV (mean platelet volume) enlarged in ITP
 

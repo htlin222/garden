@@ -1,9 +1,9 @@
 ---
 title: metastatic esophageal cancer
 ---
-# metastatic esophageal cancer
+static esophageal cancer
 
-## trial
+
 after fluropyrimidine and platinum-based chemotherapy
 * [[KEYNOTE-181]]
 * [[ATTRACTION-3]]

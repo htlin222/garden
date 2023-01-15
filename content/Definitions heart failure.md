@@ -1,7 +1,7 @@
 ---
 title: Definitions heart failure
 ---
-# Definitions heart failure
+s heart failure
 
 >> 各種定義
 
@@ -14,5 +14,5 @@ title: Definitions heart failure
 
 ---
 
-## TL;DR 小麻的提供的幾種定義：
+
 生理、高低輸出、左右、前後、收縮/舒張、保留/減少

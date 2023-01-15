@@ -7,6 +7,6 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Etiologies of hypercortisolism]]
 
-# pheochromocytoma
+
 
 

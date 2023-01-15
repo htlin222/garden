@@ -1,7 +1,7 @@
 ---
 title: Papillary thyroid cancer
 ---
-# Papillary thyroid cancer
+
 
 * Most common form (85% of differentiated thyroid cancers); peak incidence 30 to 50 y
 * Risk factors: childhood radiation exposure, FHx in 1° relative, familial syndrome

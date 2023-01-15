@@ -1,7 +1,7 @@
 ---
 title: Renal losses of Hypovolemic-hypotonic-hyponatremia
 ---
-# Renal losses of Hypovolemic-hypotonic-hyponatremia
+sses of Hypovolemic-hypotonic-hyponatremia
 
 
 * (UNa >20 mEq/L, FENa >1%): 

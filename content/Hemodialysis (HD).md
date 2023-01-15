@@ -1,7 +1,7 @@
 ---
 title: Hemodialysis  HD 
 ---
-# Hemodialysis (HD)
+sis (HD)
 
 * Solute removal across semipermeable membrane, countercurrent blood & dialysate flow
 

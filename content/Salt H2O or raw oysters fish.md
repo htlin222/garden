@@ -1,7 +1,7 @@
 ---
 title: Salt H2O or raw oysters fish
 ---
-# Salt H2O or raw oysters fish
+sters fish
 V. vulnificus
 Hemorrhagic bullae & sepsis (esp. in cirrhotics)
 Doxy + Ceftaz/CTX

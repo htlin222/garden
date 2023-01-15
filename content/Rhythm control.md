@@ -1,7 +1,7 @@
 ---
 title: Rhythm control
 ---
-# Rhythm control
+
 
 (Lancet 2016;388:829)
 * Consider if sx w/ rate control (eg, HF), difficult to control rate, or tachycardia-mediated CMP

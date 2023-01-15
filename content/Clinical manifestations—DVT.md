@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations—DVT
 ---
-# Clinical manifestations—DVT
+stations—DVT
 
 * Calf pain 
 * swelling (>3 cm c/w unaffected side) 

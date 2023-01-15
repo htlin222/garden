@@ -1,7 +1,7 @@
 ---
 title: pericardial disease
 ---
-# pericardial disease
+sease
 
 Anatomy
 * 2-layered (parietal & visceral) tissue sac surrounding heart & proximal great vessels
@@ -15,5 +15,5 @@ Disease states
 * [[pericardial tamponade]]
 * [[constrictive pericarditis]]
 
-## Treatment
+
 * Diuresis if intravascular volume overload; surgical pericardiectomy if infectious or advanced

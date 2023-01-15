@@ -1,7 +1,7 @@
 ---
 title: Imaging-Diagnosis-osteomyelitis
 ---
-# Imaging-Diagnosis-osteomyelitis
+sis-osteomyelitis
 
 
 Plain radiographs: normal early in disease; lytic lesions seen after 2–6 wk

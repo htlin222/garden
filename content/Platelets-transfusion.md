@@ -1,7 +1,7 @@
 ---
 title: Platelets-transfusion
 ---
-# Platelets-transfusion
+s-transfusion
 
 For plts <10k (NEJM 2010;362:600) due to chemo/abx. If <20k or if <50k w/ active bleeding. Variable pre-procedure.100k for neurosurgery. 1 U → ↑ plt ~30–60k. Single donor plt apheresis ↓ alloimmunization.
 

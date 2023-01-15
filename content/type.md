@@ -2,6 +2,6 @@
 title: type
 ---
 
-# type
+
 
 

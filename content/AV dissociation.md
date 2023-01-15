@@ -1,7 +1,7 @@
 ---
 title: AV dissociation
 ---
-# AV dissociation
+ssociation
 
 * Default: slowing of SA node allows subsidiary pacemaker (eg, AV junction) to take over
 * Usurpation: acceleration of subsidiary pacemaker (eg, AV junctional tach, VT)

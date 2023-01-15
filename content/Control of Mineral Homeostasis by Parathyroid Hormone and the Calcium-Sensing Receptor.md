@@ -1,12 +1,12 @@
 ---
 title: Control of Mineral Homeostasis by Parathyroid Hormone and the Calcium-Sensing Receptor
 ---
-# Control of Mineral Homeostasis by Parathyroid Hormone and the Calcium-Sensing Receptor
-## 重要名詞：
+stasis by Parathyroid Hormone and the Calcium-Sensing Receptor
+
 
 * 鈣敏感受體：calcium-sensing receptor (CaSR),
 
-## 重點
+
 - 血鈣降低會引發: 主要通過甲狀旁腺激素 (PTH) 和離子鈣 (Ca2+) 對 PTH 受體和鈣敏感受體 (CaSR) 的作用介導，這兩者都是 7-跨膜G蛋白偶聯受體( 7-transmembrane, G-protein–coupled receptors. )。
 - 在甲狀旁腺，血鈣水平變化的速度和幅度均由 CaSR 檢測。
 - 響應於鈣水平下降，觸發 PTH 分泌（藍色球體）。
@@ -22,5 +22,5 @@ title: Control of Mineral Homeostasis by Parathyroid Hormone and the Calcium-Sen
 - 血鈣水平降低，尿鈣排泄增加，血磷水平升高。
 - 腎鈣重吸收減少可表現為不正常的尿鈣水平或在低血鈣水平的情況下尿鈣水平升高。
 
-## TL;DR
+
 * 鈣低讓被CaSR發現，叫PTH出來打球，這球一是挖骨頭裡的鈣、二是叫腎收回來、二之一是叫腎臟生D，D叫腸多收點鈣磷進來

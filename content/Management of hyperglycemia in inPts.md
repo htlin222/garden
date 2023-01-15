@@ -1,7 +1,7 @@
 ---
 title: Management of hyperglycemia in inPts
 ---
-# Management of hyperglycemia in inPts
+s
 
 
 (for ICU: see “Sepsis”) (Clin Ther 2013;35:724)

@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[back and spinal cord disease]]
-# History taking of back and spinal cord disease
+story taking of back and spinal cord disease
 
 * location, 
 * timing (acute/subacute/chronic) 

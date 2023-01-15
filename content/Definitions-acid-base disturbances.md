@@ -1,7 +1,7 @@
 ---
 title: Definitions-acid-base disturbances
 ---
-# Definitions-acid-base disturbances
+s-acid-base disturbances
 * Acidemia → pH <7.36, alkalemia → pH >7.44; pH = 6.10 + log([HCO3]/[0.03xPCO2])
 * Acidosis → process that ↑ [H+] or ↓ pH by ↓ HCO3 or ↑ PaCO2
 * Alkalosis → process that ↓ [H+] or ↑ pH by ↑ HCO3 or ↓ PaCO2

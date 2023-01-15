@@ -1,7 +1,7 @@
 ---
 title: Evaluation for the presence of heart failure
 ---
-# Evaluation for the presence of heart failure
+sence of heart failure
 
 * CXR (see Radiology insert): pulm edema, pleural effusions ± cardiomegaly, cephalization, Kerley B-lines; lung U/S better than CXR (PPV & NPV 92% vs. 77%; Chest 2015;148:202)
 

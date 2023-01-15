@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-urinary tract infections
 ---
-# Diagnostic studies-urinary tract infections
+stic studies-urinary tract infections
 
 (NEJM 2016;374:562)
 * Urinalysis: pyuria + bacteriuria ± hematuria ± nitrites

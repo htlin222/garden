@@ -1,7 +1,7 @@
 ---
 title: Hemochromatosis & iron overload syndromes
 ---
-# Hemochromatosis & iron overload syndromes
+sis & iron overload syndromes
 
 (Am J Gastro 2019;114:1202)
 

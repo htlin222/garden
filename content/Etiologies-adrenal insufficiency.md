@@ -1,7 +1,7 @@
 ---
 title: Etiologies-adrenal insufficiency
 ---
-# Etiologies-adrenal insufficiency
+s-adrenal insufficiency
 
 * Primary = adrenocortical disease = Addison’s disease
 autoimmune: isolated or in assoc w/ APS (see table on page 7-2)

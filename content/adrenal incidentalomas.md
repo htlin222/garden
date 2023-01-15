@@ -1,7 +1,7 @@
 ---
 title: adrenal incidentalomas
 ---
-# adrenal incidentalomas
+s
 
 Epidemiology
 * 4% of Pts undergoing abdominal CT scan have incidentally discovered adrenal mass; prevalence ↑ with age

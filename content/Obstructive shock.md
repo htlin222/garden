@@ -1,7 +1,7 @@
 ---
 title: Obstructive shock
 ---
-# Obstructive shock
+structive shock
 
 Tension pneumothorax
 

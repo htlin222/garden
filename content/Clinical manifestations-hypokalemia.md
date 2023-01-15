@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-hypokalemia
 ---
-# Clinical manifestations-hypokalemia
+stations-hypokalemia
 
 * Nausea, vomiting, ileus, weakness, muscle cramps, rhabdomyolysis, ↓ insulin secretion
 

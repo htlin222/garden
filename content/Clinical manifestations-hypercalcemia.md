@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-hypercalcemia
 ---
-# Clinical manifestations-hypercalcemia
+stations-hypercalcemia
 (“bones, stones, abdominal groans, and psychic moans”)
 
 [[Primary hyperparathyroidism]]

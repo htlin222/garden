@@ -1,7 +1,7 @@
 ---
 title: Etiologies-wide-complex tachycardias  WCTS 
 ---
-# Etiologies-wide-complex tachycardias (WCTS)
+s-wide-complex tachycardias (WCTS)
 
 (Lancet 2012;380:1520)
 * Ventricular tachycardia (VT): accounts for 80% of WCT in unselected population

@@ -1,7 +1,7 @@
 ---
 title: macrocytic anemias
 ---
-# macrocytic anemias
+s
 > includes megaloblastic and nonmegaloblastic causes
 * [[Megaloblastic anemia]]
 * [[Folate deficiency]]

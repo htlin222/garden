@@ -1,7 +1,7 @@
 ---
 title: TAVI
 ---
-# TAVI
+
 
 TAVI (transcatheter AoV implantation) (JAMA 2021;325:2480; Circ 2021;143:e72)
 * Valves: balloon-expandable or self-expanding.
@@ -13,7 +13,7 @@ TAVI noninferior to SAVR in terms of risk of death or disabling stroke for high,
 intermediate, and low surgical risk Pts (NEJM 2014;370:1790; 2020;382:799; 2019;380:1695 &
 2019;380:1706; JACC 2021;77:1149).
 
-### Backlink：
+
 
 - [[Anticoagulation  antiplatelet therapy-prosthetic-heart-valves]]
 - [[aortic-stenosis]]

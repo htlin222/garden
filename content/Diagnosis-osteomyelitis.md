@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-osteomyelitis
 ---
-# Diagnosis-osteomyelitis
+sis-osteomyelitis
 
 (JAMA 2008;299:806)
 * Crucial to obtain cx data of causative organism to avoid long-term empiric abx

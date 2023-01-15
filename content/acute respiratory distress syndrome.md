@@ -1,7 +1,7 @@
 ---
 title: acute respiratory distress syndrome
 ---
-# acute respiratory distress syndrome
+spiratory distress syndrome
 
 [[Berlin definition]]
 [[Pathophysiology-acute respiratory distress syndrome]]

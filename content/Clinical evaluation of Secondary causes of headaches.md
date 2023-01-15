@@ -1,7 +1,7 @@
 ---
 title: Clinical evaluation of Secondary causes of headaches
 ---
-# Clinical evaluation of Secondary causes of headaches
+ses of headaches
 
 (Neurology 2019;92:134 & JAMA 2021;325:1874)
 

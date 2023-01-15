@@ -1,7 +1,7 @@
 ---
 title: Behçet’s syndrome
 ---
-# Behçet’s syndrome
+s syndrome
 
 (Nat Rev Dis Primers 2021;7:67)
 * Systemic vasculitis affecting all vessel sizes, venous and arterial, a/w painful oral and/or genital ulcers

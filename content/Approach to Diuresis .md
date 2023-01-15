@@ -1,7 +1,7 @@
 ---
 title: Approach to Diuresis 
 ---
-# Approach to Diuresis 
+sis 
 
 * Loop diuretic PO: ✓ response at 1–3 h, redose at 2× prior dose if needed
 

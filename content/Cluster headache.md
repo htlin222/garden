@@ -1,7 +1,7 @@
 ---
 title: Cluster headache
 ---
-# Cluster headache
+ster headache
 
 and other trigeminal autonomic cephalalgias (TACs) (Continuum 2018;24:1137)
 Characterized by unilateral headache a/w ipsilateral autonomic sx (rhinorrhea, red/tearing eye, miosis, ptosis, lid edema, sweating), subtypes differentiated by timing.

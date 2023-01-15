@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Pulmonary Embolism Severity Index PESI]]
 
-# critical actions of Pulmonary Embolism Severity Index PESI
+s of Pulmonary Embolism Severity Index PESI
 
 * The PESI is only meant for risk stratification of pulmonary embolism after the diagnosis has been made.
 * Findings which could point toward clinically significant PE should not be overlooked in the setting of a low PESI score.

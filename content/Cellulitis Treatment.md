@@ -1,36 +1,36 @@
 ---
 title: Cellulitis Treatment
 ---
-# Cellulitis Treatment
+s Treatment
 
 (NEJM 2014;370:2238; CID 2014;59:e10; JAMA 2016;316:325 & 2017;317:2088)
 | Purulent | Usual Micro | Severity | Treatment |
 
-## ![IDSA Algorithm for Management of SSTI](https://i.imgur.com/JahzGmi.png)
+s://i.imgur.com/JahzGmi.png)
 
-## No Purulent
+
 * Necrotizing Infection / Cellulitis / Erysipelas
 β-hemolytic Strep >S. aureus
 
-### Mild: Oral: PCN VK, cephalosporin, Dicloxacillin, Clindamycin
-### Mod: IV: PCN, ceftriaxone, cefazolin, Clindamycin
-### Severe: IV: vanc + pip/tazo (± clinda for toxic shock syndrome)
-### 嚴重的感染，要早點確定診斷，要排除不是Necrotizing Fasciitis
+sporin, Dicloxacillin, Clindamycin
+
+shock syndrome)
+sciitis
 * Monomicrobial  (嘴炮時間：根據2014 IDSA guideline non-purulent cellulitis，嚴重感染常見的病原菌有Strep pyogenes, Clostridial, Vibrio...，首選的治療主要是Penicillin加上Clinda，另外的選項也有Doxycycline, Ceftz, Cipro)
 	* Strep pyogenes
 	* Clostridial sp.
 	* Vibrio vulnificus
 	* Aeromonas hydrophila
 qv: 熱病 [[Acute bacterial skin and skin structure infections]]
-## Yes Purulent
+s Purulent
 > 如果已經有膿，這時我不會把診斷叫cellulitis，要叫furnucle, carbuncle, abscess
 
  S. aureus (incl. MRSA) >> β-hemolytic Strep 
 > 會造成這樣嚴重的感染，最需要排除的就是MRSA，同時一定要找整外評估，看是否要做切開流
 
-### Mild: Consider I&D only vs. I&D + clinda or TMP-SMX (NEJM 2017;376:2545)
-### Mod: I&D + TMP-SMX or doxycycline
-### Severe: I&D + IV vanc, daptomycin or linezolid (± clinda for toxic shock syndrome)
+sider I&D only vs. I&D + clinda or TMP-SMX (NEJM 2017;376:2545)
+
+shock syndrome)
 * 在嚴重的感染，等待培養出來前，我會先經驗性給後線可以Cover MRSA抗生素，
 * 如Vancomycin, Dpatomycin, Linezolid, Ceftaroline, 當然Baktar也是可以考慮一下
 * 如果結果是MSSA，就可以考慮降

@@ -1,7 +1,7 @@
 ---
 title: Acute mild-to-moderate elevation in ALT AST 
 ---
-# Acute mild-to-moderate elevation in ALT AST 
+
 
 (<15× ULN)
 

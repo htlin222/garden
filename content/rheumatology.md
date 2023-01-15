@@ -1,7 +1,7 @@
 ---
 title: rheumatology
 ---
-# rheumatology
+
 * [[allergy immunology]]
 
 * [[approach to rheumatic disease]]

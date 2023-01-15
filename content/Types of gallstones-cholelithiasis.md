@@ -1,7 +1,7 @@
 ---
 title: Types of gallstones-cholelithiasis
 ---
-# Types of gallstones-cholelithiasis
+s of gallstones-cholelithiasis
 
 (J Hepatol 2016;65:146)
 

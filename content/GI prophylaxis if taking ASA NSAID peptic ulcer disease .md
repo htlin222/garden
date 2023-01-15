@@ -1,7 +1,7 @@
 ---
 title: GI prophylaxis if taking ASA NSAID peptic ulcer disease 
 ---
-# GI prophylaxis if taking ASA NSAID peptic ulcer disease 
+s if taking ASA NSAID peptic ulcer disease 
 
 (Am J Gastro 2009;104:728)
 

@@ -1,7 +1,7 @@
 ---
 title: Sinusoidal obstruction syndrome  SOS 
 ---
-# Sinusoidal obstruction syndrome (SOS)
+soidal obstruction syndrome (SOS)
 
  (Bone Marrow Transplant 2020:55:485)
 

@@ -1,9 +1,9 @@
 ---
 title: physical findings may help identify the cause of a fever
 ---
-# physical findings may help identify the cause of a fever
+sical findings may help identify the cause of a fever
 
-## ✨重點:
+
 - 無汗症支持中暑或乾擾出汗的藥物。
 - 肌肉強直提示神經阻滯劑惡性綜合徵或惡性高熱。
 - 黃疸可見於細菌感染，與肝膽系統直接受累無關（如膽管炎或肝炎，見問題 14）。

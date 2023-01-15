@@ -1,9 +1,9 @@
 ---
 title: Severity of Asthma Exacerbation
 ---
-# Severity of Asthma Exacerbation
+sthma Exacerbation
 
-## Mild-Moderate
+
 Talks in phrases
 RR >20, HR 100-120, Room
 air Sa02 90-95%
@@ -11,7 +11,7 @@ air Sa02 90-95%
 02, SABA 4-10 puffs q20min,
 prednisone
 
-## Severe
+
 
 Talks in words, tripod
 positioning
@@ -22,7 +22,7 @@ Tx to acute facility,
 SABA, ipratropium, methylpred,
 IV Mg
 
-## Life-Threatening
+
 Drowsy
 Confused
 Silent chest

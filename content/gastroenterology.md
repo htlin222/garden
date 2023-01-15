@@ -1,7 +1,7 @@
 ---
 title: gastroenterology
 ---
-# gastroenterology
+stroenterology
 
 * [[esophageal and gastric disorders]]
 * [[gastrointestinal bleeding]]

@@ -4,7 +4,7 @@ date: "2023-01-09"
 mother: [[neurology]]
 ---
 
-# nerve root compression
+ssion
 
  (NEJM 2015;372:1240 & Continuum 2021;27:163)
 
@@ -15,5 +15,5 @@ mother: [[neurology]]
 * [[neurogenic claudication]] vs [[vascular claudication]]
 > Nb, diagnosis complicated by overlap between presentations & possibility of both diagnoses in the same patient.
 
-## [[Evaluation and treatment of nerve root compression]]
+ssion]]
 

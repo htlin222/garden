@@ -1,7 +1,7 @@
 ---
 title: syncope
 ---
-# syncope
+syncope
 
 [[Definition-syncope]]
 [[Etiologies-syncope]]

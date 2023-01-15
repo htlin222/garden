@@ -1,7 +1,7 @@
 ---
 title: Won’t Breathe as Etiologies of High elevated PaCO2
 ---
-# Won’t Breathe as Etiologies of High elevated PaCO2
+s Etiologies of High elevated PaCO2
 
 decreae RR
 Respiratory Drive

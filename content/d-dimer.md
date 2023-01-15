@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Diagnostic studies—DVT]]
 
-# d-dimer
+
 
 * by-product of the blood clotting and break-down process that can be measured via analysis of a blood sample. D-dimer is released when a blood clot begins to break down.
 *

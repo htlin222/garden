@@ -1,7 +1,7 @@
 ---
 title: Ablation-atrial fibrillation
 ---
-# Ablation-atrial fibrillation
+
 
 (Heart Rhythm 2017;14:e445; JACC 2020;75:1689)
 

@@ -1,7 +1,7 @@
 ---
 title: skin and soft tissue infections
 ---
-# skin and soft tissue infections
+skin and soft tissue infections
 
 [[Definitions-skin and soft tissue infections]]
 Risk Factors

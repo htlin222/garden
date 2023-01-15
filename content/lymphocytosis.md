@@ -1,22 +1,22 @@
 ---
 title: lymphocytosis
 ---
-# lymphocytosis
+sis
 
 (>4000–5000/µL)
 
-## Infection
+
 
 Usually viral; “atypical lymphocytes” with mononucleosis syndromes Other: pertussis, toxoplasmosis
 
-## Hypersensitivity
+sensitivity
 
 Drug-induced, serum sickness
 
-## Autoimmune
+
 
 Rheumatoid arthritis (large granular lymphocytes), malignant thymoma
 
-## Neoplasm
+sm
 
 Leukemia (eg, CLL, hairy cell, LGL), lymphoma (eg, mantle cell, folic.)

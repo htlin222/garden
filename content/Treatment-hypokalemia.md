@@ -1,7 +1,7 @@
 ---
 title: Treatment-hypokalemia
 ---
-# Treatment-hypokalemia
+
 
 (JAMA 2000;160:2429)
 

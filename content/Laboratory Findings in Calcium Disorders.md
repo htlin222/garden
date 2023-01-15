@@ -1,7 +1,7 @@
 ---
 title: Laboratory Findings in Calcium Disorders
 ---
-# Laboratory Findings in Calcium Disorders
+s in Calcium Disorders
 * [[interpretation of serum calcium]]
 * ![Fig. Laboratory Findings in Calcium Disorders](https://i.imgur.com/Aeg4duA.png)
 * [[Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia]]
@@ -24,7 +24,7 @@ title: Laboratory Findings in Calcium Disorders
 | down | var          | Acute calcium sequestration          | var          | var            | var            |
 | down | down         | Hypoparathyroidism                   | up           | var            | down to normal |
 
-## Pitfalls in measuring calcium
+s in measuring calcium
 * 生理活性鈣是游離的或電離的 (ICa)。
 * Serum Ca reflects total calcium (bound + unbound) and ∴ influenced by albumin (main Ca-binding protein).
 * 血清 Ca 反映總鈣（結合 + 未結合）和 所以：受白蛋白（主要 Ca 結合蛋白）的影響。

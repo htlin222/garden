@@ -1,7 +1,7 @@
 ---
 title: Takayasu’s arteritis
 ---
-# Takayasu’s arteritis
+su’s arteritis
 
 > TL;DR 
 

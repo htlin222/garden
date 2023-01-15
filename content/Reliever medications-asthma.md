@@ -1,7 +1,7 @@
 ---
 title: Reliever medications-asthma
 ---
-# Reliever medications-asthma
+s-asthma
 
 
  (used prn to quickly relieve sx)

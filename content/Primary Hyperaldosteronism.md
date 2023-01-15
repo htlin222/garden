@@ -1,7 +1,7 @@
 ---
 title: Primary Hyperaldosteronism
 ---
-# Primary Hyperaldosteronism
+steronism
 (adrenal disorders, renin-independent increase in aldosterone; JCEM 2015;100:1)
 
 * [[adrenal hyperplasia]] (60–70%),

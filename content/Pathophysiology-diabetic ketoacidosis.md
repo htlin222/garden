@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology-diabetic ketoacidosis
 ---
-# Pathophysiology-diabetic ketoacidosis
+siology-diabetic ketoacidosis
 
 
  (NEJM 2015;372:546)

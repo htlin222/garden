@@ -1,7 +1,7 @@
 ---
 title: Folate deficiency
 ---
-# Folate deficiency
+
 
 
 * Folate present in leafy green vegetables and fruit; total body stores sufficient for 2–3 mo

@@ -1,7 +1,7 @@
 ---
 title: Treatment gastroesophageal reflux disease 
 ---
-# Treatment gastroesophageal reflux disease 
+stroesophageal reflux disease 
 
 (World J Gastrointest Endosc 2018;10:175; Am J Gastro 2022;117:27)
 

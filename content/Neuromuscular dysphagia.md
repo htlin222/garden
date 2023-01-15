@@ -1,7 +1,7 @@
 ---
 title: Neuromuscular dysphagia
 ---
-# Neuromuscular dysphagia
+scular dysphagia
 
 (solids & liquids; Neurogastero Motil 2021;33:e14058)
 

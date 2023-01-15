@@ -1,7 +1,7 @@
 ---
 title: Celiac disease
 ---
-# Celiac disease
+sease
 
 (JAMA 2017;318:647; Lancet 2018;391:70; Gastro 2019;156:4)
 

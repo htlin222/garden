@@ -1,7 +1,7 @@
 ---
 title: Transudates
 ---
-# Transudates
+sudates
 
 * Congestive heart failure (40%): 80% bilateral, ± cardiomegaly on CXR occasionally exudative (especially after aggressive diuresis or if chronic)
 * Constrictive pericarditis (knock on exam, calcification or thickening on imaging)

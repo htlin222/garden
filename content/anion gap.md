@@ -1,7 +1,7 @@
 ---
 title: anion gap
 ---
-# anion gap
+
 
 * (AG) = Na+ – (Cl– + HCO3–) = unmeasured anions – unmeasured cations
 If ↑ glc, use measured not corrected Na

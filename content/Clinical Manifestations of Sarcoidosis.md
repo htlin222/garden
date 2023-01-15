@@ -1,7 +1,7 @@
 ---
 title: Clinical Manifestations of Sarcoidosis
 ---
-# Clinical Manifestations of Sarcoidosis
+stations of Sarcoidosis
 
 Pulmonary
 

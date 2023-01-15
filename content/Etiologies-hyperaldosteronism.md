@@ -1,7 +1,7 @@
 ---
 title: Etiologies-hyperaldosteronism
 ---
-# Etiologies-hyperaldosteronism
+s-hyperaldosteronism
 
 * [[Primary Hyperaldosteronism]]
 * [[Secondary Hyperaldosteronism]]

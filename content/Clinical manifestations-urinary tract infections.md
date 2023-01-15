@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-urinary tract infections
 ---
-# Clinical manifestations-urinary tract infections
+stations-urinary tract infections
 
 * Cystitis: dysuria, urgency, frequency, hematuria, suprapubic pain; fever absent. R/o vaginitis if symptoms of cystitis & urethritis. Neurogenic bladder Pts may have atypical sx (↑ spasticity, autonomic dysreflexia, malaise).
 * Urethritis: dysuria, urethral discharge (see “STI”)

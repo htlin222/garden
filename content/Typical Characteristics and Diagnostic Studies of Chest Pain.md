@@ -1,10 +1,10 @@
 ---
 title: Typical Characteristics and Diagnostic Studies of Chest Pain
 ---
-# Typical Characteristics and Diagnostic Studies of Chest Pain
-## Cardiovascular Causes
+stics and Diagnostic Studies of Chest Pain
+scular Causes
 
-## Pulmonary Causes
-## GI Causes
-## Musculoskeletal and Miscellaneous Causes
+ses
+ses
+sculoskeletal and Miscellaneous Causes
 

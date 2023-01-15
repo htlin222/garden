@@ -1,7 +1,7 @@
 ---
 title: Workup for effusion
 ---
-# Workup for effusion
+sion
 
 * r/o infxn: usually apparent from Hx & CXR; ? value of ✓ acute and convalescent serologies
 * r/o noninfectious etiologies: BUN, Cr, ANA, RF, HIV, screen for common malignancies

@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[nerve root compression]]
-# neurogenic claudication
+
 
 
 Lumbar spinal stenosis (with nerve root compression)

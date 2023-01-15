@@ -1,7 +1,7 @@
 ---
 title: endocrinology
 ---
-# endocrinology
+
 * [[pituitary disorders]]
 * [[thyroid disorders]]
 * [[adrenal disorders]]
@@ -10,7 +10,7 @@ title: endocrinology
 * [[lipid disorders]]
 * [[phosphate disorders]]
 
-## Resident 360 topics
+sident 360 topics
 * Diabetes
 * [[inpatient diabetes management]]
 * Thyroid Disorders

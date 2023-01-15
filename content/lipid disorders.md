@@ -1,7 +1,7 @@
 ---
 title: lipid disorders
 ---
-# lipid disorders
+sorders
 
 [[Measurements-lipid disorders]]
 [[Drug Treatment-lipid disorders]]

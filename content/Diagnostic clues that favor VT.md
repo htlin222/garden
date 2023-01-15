@@ -1,7 +1,7 @@
 ---
 title: Diagnostic clues that favor VT
 ---
-# Diagnostic clues that favor VT
+stic clues that favor VT
  (assume until proven o/w)
 * Prior MI, CHF, or LV dysfunction best predictors that WCT is VT (Am J Med 1998;84:53)
 * Hemodynamics and rate do not reliably distinguish VT from SVT

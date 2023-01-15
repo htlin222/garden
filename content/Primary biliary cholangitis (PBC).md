@@ -1,7 +1,7 @@
 ---
 title: Primary biliary cholangitis  PBC 
 ---
-# Primary biliary cholangitis (PBC)
+s (PBC)
 
 (Hep 2019;69:394; Nat Rev 2020;17:93; Lancet 2020;396:1915)
 

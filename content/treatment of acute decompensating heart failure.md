@@ -1,7 +1,7 @@
 ---
 title: treatment of acute decompensating heart failure
 ---
-# treatment of acute decompensating heart failure
+sating heart failure
 (NEJM 2017;377:1964)
 
 * Assess congestion & adequacy of perfusion

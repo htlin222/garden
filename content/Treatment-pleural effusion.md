@@ -1,7 +1,7 @@
 ---
 title: Treatment-pleural effusion
 ---
-# Treatment-pleural effusion
+sion
 
 
 * Symptomatic effusion: therapeutic thoracentesis, treat underlying disease process

@@ -1,15 +1,15 @@
 ---
 title: Pulmonary-complications of HIV AIDS
 ---
-# Pulmonary-complications of HIV AIDS
+s of HIV AIDS
 Radiographic Pattern Common Causes
-## Normal
+
 Early PCP
-## Diffuse interstitial infiltrates
+se interstitial infiltrates
 PCP, TB, viral, or disseminated fungal
-## Focal consolidation or masses
+solidation or masses
 Bacterial or fungal, TB, KS
-## Cavitary lesions
+sions
 TB, NTM, aspergillus, other fungal, bacterial (incl. Staph aureus, Nocardia, Rhodococcus)
-## Pleural effusion
+sion
 TB, bacterial or fungal, KS, lymphoma

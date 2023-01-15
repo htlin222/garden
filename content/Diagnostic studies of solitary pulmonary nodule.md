@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies of solitary pulmonary nodule
 ---
-# Diagnostic studies of solitary pulmonary nodule
+stic studies of solitary pulmonary nodule
 
 
 * PET: detects metab. activity of tumors, 97% Se & 78% Sp for malig (esp if >8 mm). Useful for deciding which lesions to bx vs. serial CT & for surgical staging b/c may detect mets.

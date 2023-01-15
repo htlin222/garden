@@ -1,13 +1,13 @@
 ---
 title: hematuria
 ---
-# hematuria
+
 
 
 [[Etiologies of Hematuria]]
 [[Workup-of-hematuria]]
 
-### Backlink：
+
 
 - [[asymptomatic glomerular hematuria]]
 - [[Clinical manifestations of Granulomatosis with polyangiitis]]

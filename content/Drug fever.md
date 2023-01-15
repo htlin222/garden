@@ -1,7 +1,7 @@
 ---
 title: Drug fever
 ---
-# Drug fever
+
 
 * Anticonvulsants
 * Minocycline

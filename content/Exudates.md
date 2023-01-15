@@ -1,7 +1,7 @@
 ---
 title: Exudates
 ---
-# Exudates
+s
 
 
 * Lung parenchymal infection (25%)

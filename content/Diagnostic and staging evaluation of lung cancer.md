@@ -1,7 +1,7 @@
 ---
 title: Diagnostic and staging evaluation of lung cancer
 ---
-# Diagnostic and staging evaluation of lung cancer
+stic and staging evaluation of lung cancer
 
 * [[Staging of lung cancer]]  
 [[5-y survival of lung cancer]]

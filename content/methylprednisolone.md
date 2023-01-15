@@ -1,9 +1,9 @@
 ---
 title: methylprednisolone
 ---
-# methylprednisolone
+solone
 
-## [[acute respiratory distress syndrome]]
+spiratory distress syndrome]]
 - IV (succinate): Loading dose of 1 mg/kg over 30 minutes,
 - 1 to 14: 1 mg/kg/day in divided doses or as a continuous infusion. ->前兩週1
 - 15 to 21: 0.5 mg/kg/day in divided doses or as a continuous infusion. -> 第三週減半

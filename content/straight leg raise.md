@@ -4,14 +4,14 @@ date: "2023-01-09"
 ---
 
  from: [[back and spinal cord disease]]
-# straight leg raise
+straight leg raise
 
 (sciatica or lumbosacral radiculopathy):
 radicular pain
 at 30–70°
 
-## ipsilateral:
+silateral:
 > 92% Se, 28% Sp
 
-## crossed (contralateral leg raised)
+ssed (contralateral leg raised)
 > 28% Se, 90% Sp

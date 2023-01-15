@@ -1,7 +1,7 @@
 ---
 title: diverticulosis
 ---
-# diverticulosis
+sis
 
 
 Definition & pathophysiology (Aliment Pharm Ther 2015;42:664)

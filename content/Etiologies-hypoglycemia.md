@@ -1,7 +1,7 @@
 ---
 title: Etiologies-hypoglycemia
 ---
-# Etiologies-hypoglycemia
+s-hypoglycemia
 
 * Pts w/ diabetes: excess insulin, oral hypoglycemics, missed meals, renal failure (↓ insulin & SU clearance); β-blockers can mask adrenergic symptoms of hypoglycemia
 * Pt without diabetes: low fasting glucose w/o sx can be normal

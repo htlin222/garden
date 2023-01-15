@@ -1,7 +1,7 @@
 ---
 title: ACC AHA Classification for Office-Based BP
 ---
-# ACC AHA Classification for Office-Based BP
+ssification for Office-Based BP
 
 (HTN 2018;71:e13)
 Category Systolic (mmHg) Diastolic (mmHg)

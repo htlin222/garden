@@ -1,7 +1,7 @@
 ---
 title: Secondary causes of headaches
 ---
-# Secondary causes of headaches
+ses of headaches
 
 * Traumatic: post-concussion, SAH, SDH, postcraniotomy
 * ↑ ICP: mass (tumor, abscess, vascular malformations, ICH), hydrocephalus, idiopathic intracranial hypertension (pseudotumor cerebri), altitude-associated cerebral edema

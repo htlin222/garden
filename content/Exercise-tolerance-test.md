@@ -1,7 +1,7 @@
 ---
 title: Exercise-tolerance-test
 ---
-# Exercise-tolerance-test
+se-tolerance-test
 
 * Generally preferred if Pt can meaningfully exercise; ECG ∆s w/ Se ~65%, Sp ~80%
 

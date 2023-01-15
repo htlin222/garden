@@ -1,7 +1,7 @@
 ---
 title: Risk factors-acute aortic syndromes
 ---
-# Risk factors-acute aortic syndromes
+sk factors-acute aortic syndromes
 
  (Lancet 2015;385:800)
 * Classic (in older Pts): HTN (h/o HTN in >70% of dissections); age (60s–70s), sex (~65% ♂); smoking; ↑ lipids. Acute ↑ BP: cocaine, Valsalva (eg, weightlifting).

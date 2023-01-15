@@ -3,7 +3,7 @@ title: title
 aliases: [title]
 linter-yaml-title-alias: title
 ---
-# title
+
 
 - question abcde
 	- answer abcde

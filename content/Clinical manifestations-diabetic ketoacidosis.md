@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-diabetic ketoacidosis
 ---
-# Clinical manifestations-diabetic ketoacidosis
+stations-diabetic ketoacidosis
 
 
  (Diabetes Care 2009;32:1335 & 2016;39:S99)

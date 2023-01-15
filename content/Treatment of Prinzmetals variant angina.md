@@ -1,7 +1,7 @@
 ---
 title: Treatment of Prinzmetals variant angina
 ---
-# Treatment of Prinzmetals variant angina
+s variant angina
 
 * high-dose CCB & standing nitrates (+SL prn),
 * ? α-blockers/statins; d/c smoking;

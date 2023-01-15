@@ -1,7 +1,7 @@
 ---
 title: Anticoagulation  antiplatelet therapy-prosthetic-heart-valves
 ---
-# Anticoagulation  antiplatelet therapy-prosthetic-heart-valves
+sthetic-heart-valves
 
  (Circ 2021;143:e72)
 * Mechanical: warfarin (not DOAC), INR 3 or 2.5 if low-risk mech AVR (none of following: prior thromboembolism, AF, EF <30–35%, hypercoagulable).

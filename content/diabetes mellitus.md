@@ -1,10 +1,10 @@
 ---
 title: diabetes mellitus
 ---
-# diabetes mellitus
+s mellitus
 [[Definition-diabetes mellitus]] (Diabetes Care 2022;45:S256)
 [[Categories-diabetes mellitus]]
-## Clinical manifestations
+stations
 * Polyuria, polydipsia, polyphagia with unexplained weight loss; may be asymptomatic
 * [[Diabetes Treatment Approach for ASCVD, HF, or CKD]]
 * [[Additional Diabetes Treatment Options]]

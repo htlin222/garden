@@ -1,7 +1,7 @@
 ---
 title: ambulatory
 ---
-# ambulatory
+
 
 Acute Respiratory Tract Infection
 Dizziness
@@ -20,6 +20,6 @@ Pneumonia (Infectious Diseases)
 Osteoarthritis (Rheumatology)
 Headache (Neurology)
 
-## 其他
+
 
 

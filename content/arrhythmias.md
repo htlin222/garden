@@ -1,7 +1,7 @@
 ---
 title: arrhythmias
 ---
-# arrhythmias
+s
 
 * [[bradycardias av block and av dissociation]]
 * [[supraventricular tachycardias (SVTS)]]

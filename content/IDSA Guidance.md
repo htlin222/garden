@@ -7,6 +7,6 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Treatment of UTIs]]
 
-# IDSA Guidance
+
 
 [[treatment of antimicrobial-resistant gram-negative infections]]

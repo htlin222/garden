@@ -1,33 +1,33 @@
 ---
 title: dyspnea
 ---
-# dyspnea
+spnea
 
 * [[Evaluation-dyspnea]]
 * [[alterations in circulatory and respiratory functions]] (Harrison's)
 * [[symptom to diagnosis of dyspnea]]
 
-## Airway obstruction (↑ resistance to airflow)
+struction (↑ resistance to airflow)
 Asthma, COPD, bronchiectasis, cystic fibrosis, tumor, foreign body, vocal cord dysfunction, anaphylaxis
-## Alveolar / Parenchymal disease
+sease
 Pulmonary edema: cardiogenic or noncardiogenic
 ILD; pneumonia; atelectasis
-## Vascular
+scular
 (V/Q mismatch)
 Large vessel: PE, tumor emboli
 Small vessel: PHT, vasculitis, ILD, emphysema, PNA
-## Chest wall
+st wall
 (↑ resistance to expansion; weakness of respir. muscles)
 Pleural disease: large effusion, fibrosis, pneumothorax
 Chest wall/diaphragm: kyphoscoliosis, ↑ abd girth
 Neuromuscular disorders (ALS, GBS, MG)
 Hyperinflation (COPD, asthma)
-## Stimulation of receptors
+s
 Chemoreceptors: hypoxemia, metabolic acidosis
 Mechanoreceptors: ILD, pulmonary edema, PHT, PE
-## ↓ O2 carrying cap. (but nl PaO2)
+
 Anemia, methemoglobinemia, CO poisoning
-## Psychological
+sychological
 Anxiety, panic attack, depression, somatization
 [[Dysphagia]]
 ![圖 3](https://i.imgur.com/F8hbF6e.png)

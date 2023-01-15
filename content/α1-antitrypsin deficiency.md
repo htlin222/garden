@@ -1,7 +1,7 @@
 ---
 title: α1-antitrypsin deficiency
 ---
-# α1-antitrypsin deficiency
+sin deficiency
 
 early-onset panacinar emphysema 
 or signif basilar disease, 
@@ -11,7 +11,7 @@ Suspect if age <45,
 
 lower lungs affected, 
 
-## extrathoracic manifestations 
+stations 
 * liver disease 
 * [not if heterozygote MZ], 
 * FMD = [[Fibromuscular dysplasia]] 

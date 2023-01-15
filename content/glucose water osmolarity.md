@@ -1,7 +1,7 @@
 ---
 title: glucose water osmolarity
 ---
-# glucose water osmolarity
+se water osmolarity
 
   g/180 * 1000
 

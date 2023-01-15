@@ -1,7 +1,7 @@
 ---
 title: Imaging of Diagnostic studies-gastrointestinal bleeding
 ---
-# Imaging of Diagnostic studies-gastrointestinal bleeding
+stic studies-gastrointestinal bleeding
 
 if too unstable for endo or recurrent bleeding, consider IR embolization or surgery
 

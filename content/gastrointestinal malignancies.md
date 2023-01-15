@@ -1,7 +1,7 @@
 ---
 title: gastrointestinal malignancies
 ---
-# gastrointestinal malignancies
+strointestinal malignancies
 
 * [[colorectal cancer]]
 * [[pancreatic tumors]]

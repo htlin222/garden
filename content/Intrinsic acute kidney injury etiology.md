@@ -1,22 +1,22 @@
 ---
 title: Intrinsic acute kidney injury etiology
 ---
-# Intrinsic acute kidney injury etiology
+sic acute kidney injury etiology
 
-## [[Acute tubular necrosis (ATN)]]
+sis (ATN)]]
 * Pigmented granular [[muddy brown casts]]
 * ± RBCs & protein from tubular damage
 * FENa >2%, BUN/Cr <20 (except pigment, CIN)
 * FEUN >50%
  
-## [[Acute interstitial nephritis]]
+stitial nephritis]]
 * WBCs, WBC casts, ± RBCs w/ neg UCx
 * ⊕ urine eos in abx
 * ⊕ lymphs in NSAIDs
  
-## [[Small-med vessel acute kidney injury]] 
+ssel acute kidney injury]] 
 * ± RBCs
 * ⊕ urine eos in chol emboli
  
-## Glomerulonephritis 
+s 
 * Dysmorphic RBCs, RBC casts

@@ -1,28 +1,28 @@
 ---
 title: Approach-electrocardiography
 ---
-# Approach-electrocardiography
 
-## Rate
+
+
 * tachy or brady
 
-## rhythm
+
 * ? P waves
 * regularity
 * P & QRS relationship
 
-## Intervals
+s
 * PR, QRS, QT
 
 ---
 
-## Axis
+s
 * LAD or RAD
 
-## chamber abnormal
+
 * LAA, RAA, LVH, RVH
 
-## QRST changes
+s
 * ? Q waves,
 * poor R-wave progression V1–V6,
 * ST ↑/↓

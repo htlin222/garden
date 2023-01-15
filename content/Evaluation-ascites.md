@@ -1,7 +1,7 @@
 ---
 title: Evaluation-ascites
 ---
-## Evaluation-ascites
+scites
 
 (World J Hepatol 2013;5:251; JAMA 2016;316:340)
 
@@ -15,7 +15,7 @@ title: Evaluation-ascites
 * [[Ascites fluid total protein (AFTP)]]
 * [[Cell count of ascites]]
 
-## Other tests
+sts
 * amylase (pancreatitis, gut perforation)
 * bilirubin (test in dark brown fluid, suggests bile leak or proximal intestinal perf); 
 * TG (chylous ascites);

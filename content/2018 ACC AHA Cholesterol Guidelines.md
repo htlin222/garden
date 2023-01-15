@@ -1,19 +1,19 @@
 ---
 title: 2018 ACC AHA Cholesterol Guidelines
 ---
-# 2018 ACC AHA Cholesterol Guidelines
+sterol Guidelines
 
 
 Population Recommendation
-## Very high-risk ASCVD*
+sk ASCVD*
 High-intensity statin; add EZE then PCSK9i if LDL-C ≥70
-## Clinical ASCVD
+
 High-intensity statin (? mod if >75 y), add EZE if LDL-C ≥70
-## LDL-C ≥190 mg/dL
+
 High-intensity statin; add EZE or PCKS9i if LDL-C ≥100
-## DM, age 40–75 y
+
 High-intensity statin (? moderate if no CV RFs)
-## Age 40–75 y (and none of above); calc 10-y risk
+sk
 ≥20%: High-intensity statin
 7.5%–<20%: Moderate-intensity statin; if uncertain consider CAC
 5–<7.5%: Moderate-intensity statin reasonable

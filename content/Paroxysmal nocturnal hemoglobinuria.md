@@ -1,7 +1,7 @@
 ---
 title: Paroxysmal nocturnal hemoglobinuria
 ---
-# Paroxysmal nocturnal hemoglobinuria
+smal nocturnal hemoglobinuria
 
 (PNH) (Blood 2009;113:6522)
 

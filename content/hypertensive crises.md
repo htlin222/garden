@@ -1,7 +1,7 @@
 ---
 title: hypertensive crises
 ---
-# hypertensive crises
+sive crises
 * Hypertensive emergency: ↑ BP (usually SBP >180 or DBP >120) → target-organ damage
 Neurologic damage: encephalopathy, hemorrhagic or ischemic stroke, papilledema
 Cardiac damage: ACS, HF/pulmonary edema, aortic dissection

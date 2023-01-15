@@ -1,16 +1,16 @@
 ---
 title: ICU
 ---
-# ICU
-## part 1: [[basic techniques and procedures]]
 
-## part 2: [[cardiovascular critical care]]
+sic techniques and procedures]]
 
-## part 3: [[pulmonary critical care]]
+scular critical care]]
 
-## part 4: [[neurologic critical care]]
 
-## part 5: [[surgical critical care]]
+
+
+
+surgical critical care]]
 
 * [[sepsis and shock]]
 * [[respiratory failure]]

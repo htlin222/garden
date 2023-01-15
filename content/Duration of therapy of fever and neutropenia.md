@@ -1,7 +1,7 @@
 ---
 title: Duration of therapy of fever and neutropenia
 ---
-# Duration of therapy of fever and neutropenia
+
 
 - Known source: complete standard course (eg, 14 d for bacteremia)
 - Unknown source: continue antibiotics until afebrile and ANC >500 cells/µL

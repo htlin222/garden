@@ -1,7 +1,7 @@
 ---
 title: pleural effusion
 ---
-# pleural effusion
+sion
 
 * [[Pathophysiology-pleural effusion]]
  

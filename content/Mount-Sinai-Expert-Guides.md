@@ -1,9 +1,9 @@
 ---
 title: Mount-Sinai-Expert-Guides
 ---
-# Mount-Sinai-Expert-Guides
+s
 
-## PART 1: BASIC TECHNIQUES AND PROCEDURES, 1
+
 1 [[Airway-Management]], 3
 2 Sedation and Analgesia, 10
 3 Vascular Access, 17
@@ -15,7 +15,7 @@ title: Mount-Sinai-Expert-Guides
 9 Prevention of Complications, 62
 10 Palliative Care, 68
 
-## PART 2: CARDIOVASCULAR CRITICAL CARE, 73
+
 11 Hemodynamic Monitoring, 75
 12 Vasoactive Drugs, 82
 13 Mechanical Circulatory Support, 89
@@ -26,7 +26,7 @@ title: Mount-Sinai-Expert-Guides
 18 Shock Syndromes, 148
 19 Cardiac Arrest, 159
 
-## PART 3: PULMONARY CRITICAL CARE, 167
+
 20 Respiratory Monitoring, 169
 21 Mechanical Ventilatory Support, 184
 22 Non‐Invasive Positive Pressure Ventilation, 194
@@ -34,7 +34,7 @@ title: Mount-Sinai-Expert-Guides
 24 Bronchospasm and Chronic Obstructive Pulmonary Disease, 216
 25 Weaning from Mechanical Ventilation, 231
 
-## PART 4: NEUROLOGIC CRITICAL CARE, 241
+
 26 Delirium, 243
 27 Stroke, 250
 29 Status Epilepticus, 275
@@ -42,7 +42,7 @@ title: Mount-Sinai-Expert-Guides
 31 Coma and Brain Death, 293
 32 Toxicology and Drug Reactions, 299
 
-## PART 5: SURGICAL CRITICAL CARE, 309
+
 33 Gastrointestinal Bleeding, 311
 34 Acute Abdomen and Abdominal Sepsis, 321
 35 Abdominal Compartment Syndrome, 326
@@ -53,7 +53,7 @@ title: Mount-Sinai-Expert-Guides
 40 Abdominal Organ Transplantation, 365
 41 Obstetric Emergencies, 377
 
-## PART 6: INFECTIOUS DISEASES, 387
+
 42 The Febrile Patient, 389 Gagangeet Sandhu
 
 44 Infections Acquired in the Intensive Care Unit, 414
@@ -62,14 +62,14 @@ title: Mount-Sinai-Expert-Guides
 47 Central Nervous System Infections, 463
 48 Acquired Immune Deficiency Syndrome, 480
 
-## PART 7: RENAL DISORDERS, 491
+
 49 Fluid Resuscitation, 493
 50 Acute Kidney Injury, 500
 51 Dialysis, 507
 52 Electrolyte Disorders, 513
 53 Acid–Base Disorders, 537
 
-## PART 8: HEMATOLOGY AND ONCOLOGY, 543
+
 54 Blood Products and Transfusions, 545
 55 Anticoagulation‐Related Bleeding, 552
 56 Coagulopathy and Thrombocytopenia, 561

@@ -1,7 +1,7 @@
 ---
 title: interpretation of serum calcium
 ---
-# interpretation of serum calcium
+serum calcium
 
 ![image 22-10-12 16 34 00](https://i.imgur.com/wEwrVxr.png)
 

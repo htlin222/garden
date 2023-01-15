@@ -1,7 +1,7 @@
 ---
 title: hypokalemia
 ---
-# hypokalemia
+
 
 * [[Transcellular shifts]] (UK:Cr <13 mEq/g)
 * [[GI potassium losses]] (UK:Cr <13 mEq/g)

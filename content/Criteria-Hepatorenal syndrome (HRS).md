@@ -1,7 +1,7 @@
 ---
 title: Criteria-Hepatorenal syndrome  HRS 
 ---
-# Criteria-Hepatorenal syndrome (HRS)
+syndrome (HRS)
 
 (1) cirrhosis w/ ascites; 
 (2) acute kidney injury (serum Cr ↑ ≥0.3 mg/dL w/in 48 h or ≥50% ↑ in serum Cr from baseline; Gut 2015;64:531)

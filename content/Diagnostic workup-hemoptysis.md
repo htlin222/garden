@@ -1,7 +1,7 @@
 ---
 title: Diagnostic workup-hemoptysis
 ---
-# Diagnostic workup-hemoptysis
+stic workup-hemoptysis
 
 * Localize bleeding site 
 * (r/o GI or ENT source by H&P ± endo); 

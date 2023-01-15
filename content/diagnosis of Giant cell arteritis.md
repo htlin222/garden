@@ -1,7 +1,7 @@
 ---
 title: diagnosis of Giant cell arteritis
 ---
-# diagnosis of Giant cell arteritis
+sis of Giant cell arteritis
 
 * ↑ ESR (Se 84%, Sp 30%), ↑ CRP (Se 86%, Sp 30%), anemia.
 

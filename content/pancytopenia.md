@@ -1,7 +1,7 @@
 ---
 title: pancytopenia
 ---
-# pancytopenia
+
 
 * [[Etiologies-pancytopenia]]
 * Clinical manifestations

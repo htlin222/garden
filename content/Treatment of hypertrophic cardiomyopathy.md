@@ -1,7 +1,7 @@
 ---
 title: Treatment of hypertrophic cardiomyopathy
 ---
-# Treatment of hypertrophic cardiomyopathy
+
 
 (Circ 2020;142:e558; Lancet 2021;398:2102; JACC 2022;79:390)
 

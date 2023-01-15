@@ -1,7 +1,7 @@
 ---
 title: Treatment of pericarditis
 ---
-# Treatment of pericarditis
+s
 
 ![Algorithm to select drainage procedure for pericardial effusion](https://i.imgur.com/esXzlV1.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Treatment-hypernatremia
 ---
-# Treatment-hypernatremia
+
 
 * Restore access to H2O or supply daily requirement of H2O (≥1 L/d)
 

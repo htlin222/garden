@@ -1,7 +1,7 @@
 ---
 title: Screening for latent TB
 ---
-# Screening for latent TB
+
 
 * Whom to screen: high likelihood of exposure and/or high risk of progression to active disease including HIV ⊕ and prior to immunosuppression (pre-transplant or anti-TNF)
 * Relies on host immune system, so limited Se in immunosuppressed individuals

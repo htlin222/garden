@@ -2,7 +2,7 @@
 title: acute mesenteric ischemia
 ---
 
-# acute mesenteric ischemia
+senteric ischemia
 
 * [[Definition and causes-acute mesenteric ischemia]]
 

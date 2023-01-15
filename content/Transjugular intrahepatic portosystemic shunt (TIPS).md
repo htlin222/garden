@@ -1,7 +1,7 @@
 ---
 title: Transjugular intrahepatic portosystemic shunt  TIPS 
 ---
-# Transjugular intrahepatic portosystemic shunt (TIPS)
+sjugular intrahepatic portosystemic shunt (TIPS)
 
 
 (Gastro 2017;152:157)

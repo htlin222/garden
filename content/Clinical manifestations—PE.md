@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations—PE
 ---
-# Clinical manifestations—PE
+stations—PE
 
 * Dyspnea (~50%),
 * pleuritic chest pain (~40%),

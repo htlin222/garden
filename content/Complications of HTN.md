@@ -1,7 +1,7 @@
 ---
 title: Complications of HTN
 ---
-# Complications of HTN
+s of HTN
 
 * Neurologic: TIA/CVA, ruptured aneurysms, vascular dementia
 * Retinopathy: stage I = arteriolar narrowing; II = copper-wiring, AV nicking; III = hemorrhages and exudates; IV = papilledema

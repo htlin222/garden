@@ -1,7 +1,7 @@
 ---
 title: hypoglycemia
 ---
-# hypoglycemia
+
 
 Clinical manifestations (glucose <~55 mg/dL)
 * CNS: headache, visual Δs, Δ MS, weakness, seizure, LOC (neuroglycopenic sx)

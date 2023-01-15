@@ -1,7 +1,7 @@
 ---
 title: IPF idiopathic pulm fibrosis
 ---
-# IPF idiopathic pulm fibrosis
+sis
 UIP imaging pattern: reticular opacities, honeycombing, traction bronchiectasis; peripheral, subpleural, & basal
 
 Sx >12 mo

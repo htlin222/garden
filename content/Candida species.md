@@ -1,7 +1,7 @@
 ---
 title: Candida species
 ---
-# Candida species
+species
 
 * Microbiology: normal GI flora; C. albicans & nonalbicans spp.
 * Epidemiology: neutropenia, immunosupp., broad-spectrum abx, intravascular catheters (esp. if TPN), IVDU, abd surgery, DM, renal failure, age >65

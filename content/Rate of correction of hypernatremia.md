@@ -1,7 +1,7 @@
 ---
 title: Rate of correction of hypernatremia
 ---
-# Rate of correction of hypernatremia
+
 
 
 depends on acuity of onset and risk:

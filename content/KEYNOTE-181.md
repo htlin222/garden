@@ -1,7 +1,7 @@
 ---
 title: KEYNOTE-181
 ---
-# KEYNOTE-181
+
 
 Purpose: Patients with advanced esophageal cancer have a poor prognosis and limited treatment options after first-line chemotherapy.
 

@@ -1,7 +1,7 @@
 ---
 title: Etiologies-hyperthyroidism
 ---
-# Etiologies-hyperthyroidism
+s-hyperthyroidism
 
 * Graves’ disease (60–80% of thyrotoxicosis)
 * Thyroiditis: thyrotoxic phase of subacute (granulomatous) or painless (lymphocytic)

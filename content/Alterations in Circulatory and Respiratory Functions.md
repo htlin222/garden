@@ -1,7 +1,7 @@
 ---
 title: Alterations in Circulatory and Respiratory Functions
 ---
-# Alterations in Circulatory and Respiratory Functions
+s in Circulatory and Respiratory Functions
 
 
 Chapter 37: Dyspnea

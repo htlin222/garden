@@ -1,7 +1,7 @@
 ---
 title: Blastomycosis
 ---
-# Blastomycosis
+stomycosis
 (CID 2008;46:1801)
 * Epidemiology endemic to the eastern ½ of U.S.
 * Clinical manifestations

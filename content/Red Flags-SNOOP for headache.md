@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[warning signs of headache]]
 
-# Red Flags-SNOOP for headache
+s-SNOOP for headache
 
 * Systemic Sx (fever, weight loss)
  Secondary risk factors (HIV, cancer)

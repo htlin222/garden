@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-acute pancreatitis
 ---
-# Diagnostic studies-acute pancreatitis
+stic studies-acute pancreatitis
 
 (Am J Gastro 2013;108:1400)
 
@@ -25,4 +25,4 @@ false ⊕: renal failure, other abd process, DKA, HIV, macrolipasemia
 
 ALT >3× ULN has 95% PPV for gallstone pancreatitis (Am J Gastro 1994;89:1863)
 
-## [[Imaging studies of acute pancreatitis]]
+studies of acute pancreatitis]]

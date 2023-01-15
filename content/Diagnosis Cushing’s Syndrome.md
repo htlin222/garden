@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Cushing’s Syndrome]]
 
-# Diagnosis Cushing’s Syndrome
+sis Cushing’s Syndrome
 
 
 * Typically performed in outPt setting
@@ -29,11 +29,11 @@ enableToc: false
 			- [[CRH stimulations test]]
 - if positive:
 
-## Differentiate level of defect by checking serum adrenocorticotrophic hormone
+serum adrenocorticotrophic hormone
 
 > ✅ ACTH level
 
-### adrenocorticotrophic hormone dependent
+
 - 48-hr or Overnight high-dose DST (or CRH test)
 	- will not suppress or negative stimulations
 		- chest/abdominal CT
@@ -48,7 +48,7 @@ enableToc: false
 		- negative -> Ectopic ACTH
 
 
-### adrenocorticotrophic hormone  independent
+
 * adrenal computed tomogram or magnetic resonance imaging
 * Adrenal tumor
 

@@ -1,12 +1,12 @@
 ---
 title: sepsis and shock
 ---
-# sepsis and shock
+sepsis and shock
 
 [[Definitions-sepsis and shock]]
 [[Shock]]
 
-## MANAGEMENT
+
 [[Fluids-sepsis and shock]]
 [[Pressors inotropes-sepsis and shock]]
 [[Targets-sepsis and shock]]

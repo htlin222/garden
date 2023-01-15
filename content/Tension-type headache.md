@@ -1,7 +1,7 @@
 ---
 title: Tension-type headache
 ---
-# Tension-type headache
+sion-type headache
 
 * bilateral, pressure-like pain of mild–mod intensity, 
 * not throbbing or aggravated by physical activity. 
@@ -10,7 +10,7 @@ title: Tension-type headache
 * Triggers: stress, sleep deprivation, dehydration, hunger. 
 * Episodic HA 
 
-## Rx: 
+
 NSAIDs, 
 acetaminophen (risk of med overuse HA); 
 chronic HA Rx: TCAs.

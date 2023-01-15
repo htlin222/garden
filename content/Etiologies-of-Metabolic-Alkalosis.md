@@ -1,9 +1,9 @@
 ---
 title: Etiologies-of-Metabolic-Alkalosis
 ---
-# Etiologies-of-Metabolic-Alkalosis
+s-of-Metabolic-Alkalosis
 
-## Saline responsive
+sponsive
 > UCl <25
 
 * GI loss of H+:
@@ -13,7 +13,7 @@ title: Etiologies-of-Metabolic-Alkalosis
 * Posthypercapnia(bilevel positive airway pressure for chronic obstructive pulmonary disease AE),
 	* sweat losses in cystic fibrosis
 
-## Saline resistant
+sistant
 > UCl >40
 
 Hypertensive (mineralocorticoid excess)

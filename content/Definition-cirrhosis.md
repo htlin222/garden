@@ -1,7 +1,7 @@
 ---
 title: Definition-cirrhosis
 ---
-# Definition-cirrhosis
+sis
 
 (Dig Dis 2016;34:374; NEJM 2016;375:767; J Hep 2016;64:717)
 

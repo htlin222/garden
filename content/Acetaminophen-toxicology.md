@@ -1,7 +1,7 @@
 ---
 title: Acetaminophen-toxicology
 ---
-# Acetaminophen-toxicology
+
 
 
 Vomiting, ↑ AG & nl OG metabolic acidosis, hepatitis & hepatic failure, renal failure

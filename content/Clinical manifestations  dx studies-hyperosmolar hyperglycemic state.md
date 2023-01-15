@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations  dx studies-hyperosmolar hyperglycemic state
 ---
-# Clinical manifestations  dx studies-hyperosmolar hyperglycemic state
+stations  dx studies-hyperosmolar hyperglycemic state
 
 (Diabetes Care 2014;37:3124)
 * Volume depletion and Δ MS

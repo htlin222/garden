@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies of hypertrophic cardiomyopathy
 ---
-# Diagnostic studies of hypertrophic cardiomyopathy
+stic studies of hypertrophic cardiomyopathy
 
 (EHJ 2014;35:2733)
 

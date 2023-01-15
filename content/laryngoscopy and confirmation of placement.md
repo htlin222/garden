@@ -1,9 +1,9 @@
 ---
 title: laryngoscopy and confirmation of placement
 ---
-# laryngoscopy and confirmation of placement
+scopy and confirmation of placement
 
-## ✨重點:
+
 - 在確保適當的準備、設備設置、功能監測器、定位和預氧合後，通常會為患者施用引起呼吸暫停的藥物和麻痺劑，這兩種藥物都是根據患者的情況和臨床情況選擇的。
 - 還應注意，在某些情況下，例如心臟驟停，可能不需要誘導劑。
 - 當患者被認為已適當麻醉時，喉鏡由提供者的左手拿著，而右手用他或她的拇指和食指以剪狀動作打開患者的嘴。

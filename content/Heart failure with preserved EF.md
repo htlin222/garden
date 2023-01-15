@@ -1,7 +1,7 @@
 ---
 title: Heart failure with preserved EF
 ---
-# Heart failure with preserved EF
+served EF
 (JACC 2022;epub)
 
 * Epidemiology: ~½ of Pts w/ HF have normal (EF ≥50%); risk factors for HFpEF incl ↑ age, ♀, DM, AF. Mort ≈ to those w/ HFrEF.

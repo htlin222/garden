@@ -1,7 +1,7 @@
 ---
 title: Glucose-6-phosphate dehydrogenase
 ---
-# Glucose-6-phosphate dehydrogenase
+se-6-phosphate dehydrogenase
 
 (G6PD) deficiency (Lancet 2008;371:64)
 

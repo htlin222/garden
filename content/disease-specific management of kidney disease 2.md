@@ -3,7 +3,7 @@ title: disease-specific management of kidney disease
 aliases: [disease-specific management of kidney disease]
 linter-yaml-title-alias: disease-specific management of kidney disease
 ---
-# disease-specific management of kidney disease
+sease-specific management of kidney disease
 * [[Acute interstitial nephritis]]
 * [[Cardiorenal syndrome]]
 * [[Contrast-induced acute kidney injury]]

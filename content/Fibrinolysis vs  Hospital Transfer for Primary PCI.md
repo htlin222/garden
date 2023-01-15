@@ -11,7 +11,7 @@ title: Fibrinolysis vs  Hospital Transfer for Primary PCI
 
 > Adapted from ACC/AHA 2013 STEMI Guidelines (Circ 2013;127:529)
 
-## Fibrinolysis
+sis
 
 * Indic: STE/LBBB + sx <12 h (& >120 min before PCI can be done); benefit if sx >12 h less clear; reasonable if persist. sx & STE, hemodynamic instability or large territory at risk
 * Mortality ↓ ~20% in anterior MI or LBBB and ~10% in IMI c/w Ø reperfusion Rx

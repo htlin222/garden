@@ -1,7 +1,7 @@
 ---
 title: Diagnostic evaluation of fever and neutropenia
 ---
-# Diagnostic evaluation of fever and neutropenia
+stic evaluation of fever and neutropenia
 
 - Exam: skin, **oropharynx**, lung, perirectal area, surgical & catheter sites; avoid rectal exam
 - Studies: U/A, blood (periph & through each indwelling catheter port), urine, & sputum cx; for localizing s/s → ✓ stool (C. diff, cx), peritoneal fluid, CSF (rare source)

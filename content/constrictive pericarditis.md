@@ -1,11 +1,11 @@
 ---
 title: constrictive pericarditis
 ---
-# constrictive pericarditis
+strictive pericarditis
 
 [[Etiology-constrictive pericarditis]]
 [[Pathophysiology-constrictive pericarditis]]
-## Clinical manifestations
+stations
 (NEJM 2011;364:1350)
 * Right-sided >left-sided heart failure (systemic congestion >pulmonary congestion)
 [[Physical exam-constrictive pericarditis]]

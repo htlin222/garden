@@ -1,7 +1,7 @@
 ---
 title: Acetaminophen hepatotoxicity
 ---
-# Acetaminophen hepatotoxicity
+
 
 (Clin J Transl Hepatol 2016;4:131; BMJ 2016;353:i2579)
 

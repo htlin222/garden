@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology-hypernatremia
 ---
-# Pathophysiology-hypernatremia
+siology-hypernatremia
 
 (Crit Care 2013;17:206; NEJM 2015;372:55)
 

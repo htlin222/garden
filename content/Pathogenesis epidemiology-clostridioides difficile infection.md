@@ -1,7 +1,7 @@
 ---
 title: Pathogenesis epidemiology-clostridioides difficile infection
 ---
-# Pathogenesis epidemiology-clostridioides difficile infection
+sis epidemiology-clostridioides difficile infection
 
 
 * Ingestion of C. diff spores → colonization when colonic flora Δ’d by abx or chemo → release of toxin A/B → colonic mucosal necrosis & inflammation → pseudomembranes

@@ -1,7 +1,7 @@
 ---
 title: Pneumocystis jiroveci  PCP  pneumonia
 ---
-# Pneumocystis jiroveci (PCP) pneumonia
+stis jiroveci (PCP) pneumonia
 
 fever, night sweats, dyspnea on exertion, dry (“doorstop”) cough
 CXR w/ interstitial pattern, ↓ PaO2, ↑ A-a ∇, ↑ LDH, ⊕ PCP sputum stain, ⊕ β-glucan

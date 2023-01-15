@@ -1,7 +1,7 @@
 ---
 title: packed red blood cells-resuscitation-initial management-gastrointestinal bleeding
 ---
-# packed red blood cells-resuscitation-initial management-gastrointestinal bleeding
+s-resuscitation-initial management-gastrointestinal bleeding
 
 resuscitate with packed red blood cells (RBCs) if hemoglobin (Hg) <7 g/dL, patient is hemodynamically unstable, or both
 

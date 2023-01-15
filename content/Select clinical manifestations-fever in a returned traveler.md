@@ -1,7 +1,7 @@
 ---
 title: Select clinical manifestations-fever in a returned traveler
 ---
-# Select clinical manifestations-fever in a returned traveler
+stations-fever in a returned traveler
 
 * Ebola: fever in traveler from area with active transmission of Ebola w/in 21 d
 * Malaria: nonspecific sx including diarrhea, headache, myalgias, cough, Δ MS

@@ -1,7 +1,7 @@
 ---
 title: neurologic critical care
 ---
-# neurologic critical care
+
 
 26 Delirium
 30 Intracranial Pressure and Neuromonitoring

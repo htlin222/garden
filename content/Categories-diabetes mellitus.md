@@ -1,7 +1,7 @@
 ---
 title: Categories-diabetes mellitus
 ---
-# Categories-diabetes mellitus
+s-diabetes mellitus
 
 * Type 1 (Lancet 2018;391:2449): islet cell destruction; absolute insulin deficiency; ketosis in absence of insulin; prevalence 0.4%; usual onset in childhood but can occur throughout adulthood; ↑ risk if ⊕ FHx; HLA associations; anti-GAD, anti-islet cell & anti-insulin autoAb
 * Type 2 (Lancet 2017;389:2239): insulin resistance + relative insulin ↓; prevalence 6%; onset generally later in life; no HLA assoc.; risk factors: age, ⊕ FHx, obesity, sedentary lifestyle

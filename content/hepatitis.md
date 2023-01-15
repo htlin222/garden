@@ -1,9 +1,9 @@
 ---
 title: hepatitis
 ---
-# hepatitis
+s
 
-## VIRAL
+
 * [[Hepatitis A]]
 * [[Hepatitis B]]
 * [[Hepatitis C]]
@@ -11,12 +11,12 @@ title: hepatitis
 * [[Hepatitis E]]
 * Other viruses (human pegivirus, CMV, EBV, HSV, VZV)
  
-## [[autoimmune hepatitis (AIH)]]
+s (AIH)]]
 
-## [[Alcohol-associated hepatitis]]
+ssociated hepatitis]]
 
-## [[Acetaminophen hepatotoxicity]]
 
-## [[Ischemic hepatitis]]
 
-## [[Nonalcoholic fatty liver disease (NAFLD)]]
+schemic hepatitis]]
+
+sease (NAFLD)]]

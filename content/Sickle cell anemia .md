@@ -1,7 +1,7 @@
 ---
 title: Sickle cell anemia 
 ---
-# Sickle cell anemia 
+
 
 (NEJM 2017;376:1561 & Lancet 2017;390:311)
 

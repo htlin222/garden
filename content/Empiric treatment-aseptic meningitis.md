@@ -1,7 +1,7 @@
 ---
 title: Empiric treatment-aseptic meningitis
 ---
-# Empiric treatment-aseptic meningitis
+septic meningitis
 
 - Suspected bacterial meningitis: see empiric treatment of bacterial meningitis above
 - Suspected viral meningitis: if concern for HSV meningoencephalitis → IV acyclovir

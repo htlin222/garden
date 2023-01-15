@@ -1,7 +1,7 @@
 ---
 title: Diagnosis gastroesophageal reflux disease 
 ---
-# Diagnosis gastroesophageal reflux disease 
+sis gastroesophageal reflux disease 
 
 (Annals 2015;163:ITC1; Nat Rev Gastro Hepatol 2016;13:501)
 

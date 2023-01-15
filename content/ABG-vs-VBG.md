@@ -1,7 +1,7 @@
 ---
 title: ABG-vs-VBG
 ---
-# ABG-vs-VBG
+s-VBG
 
 concordant for pH (~0.04), HCO3 (~2 mEq) but not PCO2 (~8±17 mmHg)
 VBG can be used to screen for hypercarbia w/ PCO2 cutoff ≥45 mmHg (100% Se),

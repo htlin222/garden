@@ -1,7 +1,7 @@
 ---
 title: Vasoactive Agents as Treatment-pulmonary hypertension
 ---
-# Vasoactive Agents as Treatment-pulmonary hypertension
+soactive Agents as Treatment-pulmonary hypertension
 
 * PDE-5 inhibitor sildenafil, tadalafil, [[vardenafil]]
 ↑ cGMP → vasodilatation, ↓ smooth muscle proliferation, ↓ sx, ↑ 6MWT, no data on clinical outcomes. Often 1st line b/c minimal side-effect profile: HA, vision Δ’s, sinus congestion.

@@ -2,7 +2,7 @@
 title: Treatment of acute advanced heart failure
 ---
 
-# Treatment of acute advanced heart failure
+
 (Circ 2013;128:e240)
 
 * Consider PAC if not resp to Rx, unsure re: vol status, HoTN, hypoperfusion, need inotropes

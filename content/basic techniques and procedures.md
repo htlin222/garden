@@ -1,7 +1,7 @@
 ---
 title: basic techniques and procedures
 ---
-# basic techniques and procedures
+sic techniques and procedures
 
 * [[Airway-Management]]
 * [[Sedation-and-Analgesia]]

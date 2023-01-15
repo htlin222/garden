@@ -3,7 +3,7 @@ title: Complications gastroesophageal reflux disease
 aliases: [Complications gastroesophageal reflux disease]
 linter-yaml-title-alias: Complications gastroesophageal reflux disease
 ---
-# Complications gastroesophageal reflux disease
+s gastroesophageal reflux disease
 
 (Gastro 2020;158:760)
 

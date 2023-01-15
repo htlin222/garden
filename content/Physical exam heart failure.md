@@ -1,7 +1,7 @@
 ---
 title: Physical exam heart failure
 ---
-# Physical exam heart failure
+sical exam heart failure
 (“2-minute” hemodynamic profile; JAMA 1996;275:630 & 2002;287:628)
 
 Physical exam (“2-minute” hemodynamic profile; JAMA 1996;275:630 & 2002;287:628)

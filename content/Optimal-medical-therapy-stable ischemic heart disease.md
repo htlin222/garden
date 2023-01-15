@@ -1,7 +1,7 @@
 ---
 title: Optimal-medical-therapy-stable ischemic heart disease
 ---
-# Optimal-medical-therapy-stable ischemic heart disease
+stable ischemic heart disease
 
 * ASA 75–162 mg/d; can substitute clopi if ASA-intolerant. ~12 mos after PCI, clopi monoRx ↓ risk of ischemic and bleeding events by ~30% c/w ASA monoRx (Lancet 2021;397:2487).
 * βB for 3 years post-MI or if ↓ EF; can consider in all Pts w/ SIHD

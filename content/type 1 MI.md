@@ -1,7 +1,7 @@
 ---
 title: type 1 MI
 ---
-# type 1 MI
+
 
 1. includes detection of a rise and/or fall of cTn with at least one value above the 99th percentile and with at least one of the following:
 2.  Symptoms of acute myocardial ischemia;

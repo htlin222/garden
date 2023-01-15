@@ -1,7 +1,7 @@
 ---
 title: Methotrexate
 ---
-# Methotrexate
+
 
 MTX is a folic acid antagonist. DNA synthesis is inhibited by inhibition of dihydrofolate reductase, which provides reduced folates for purine synthesis. The liquor half-time is approximately 4–8 h. For this reason, a protocol has been established, where MTX is injected twice weekly for treatment induction and, when required, weekly for consolidation.
 
@@ -12,7 +12,7 @@ MTX是葉酸拮抗劑。
 	* To minimize the risk of systemic methotrexate toxicity
 	* to all patients to minimize myelosuppression related to methotrexate leaving the CSF and entering the bloodstream before being eliminated by the kidneys.
 
-## Side effects
+s
 
 * Renal insufficiency, resulting in delayed excretion of methotrexate
 

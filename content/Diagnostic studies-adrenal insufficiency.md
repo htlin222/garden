@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-adrenal insufficiency
 ---
-# Diagnostic studies-adrenal insufficiency
+stic studies-adrenal insufficiency
  (JCEM 2016;101:364)
 * Early a.m. serum cortisol:
 	* <3 µg/dL virtually diagnostic

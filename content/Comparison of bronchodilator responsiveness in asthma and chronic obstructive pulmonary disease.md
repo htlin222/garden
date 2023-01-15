@@ -1,11 +1,11 @@
 ---
 title: Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease
 ---
-# Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease
+son of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease
 
 將支氣管擴張劑反應視為陽性的其他標準是支氣管擴張劑後 FEV1 百分比增加大於基線的 15%，支氣管擴張劑後 FEV1 增加大於預測值的 10% (10) 或 FEV1 絕對增加 400 ml (6)。
 
-## ✨重點:
+
 - 雖然已知哮喘患者對支氣管擴張劑的反應比慢性阻塞性肺病 (COPD) 患者更大，但尚未探索反應模式是否也不同。
 - 在支氣管哮喘（n=133）和（COPD）（n=116）的患者吸入 200 μg 沙丁胺醇之前和之後 20 分鐘測量用力肺活量 (FVC) 和第一秒用力呼氣量 (FEV1)。
 - 確定了三種類型的反應（定義為 > 或 = 12% 和 FEV1 或 FVC 增加 200 ml）：（i）僅 FVC 增加（FVC 反應），（ii）僅 FEV1（FEV1 反應），以及，（iii ) FVC 和 FEV1（雙響應）。

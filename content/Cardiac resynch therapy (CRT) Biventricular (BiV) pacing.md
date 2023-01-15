@@ -1,7 +1,7 @@
 ---
 title: Cardiac resynch therapy (CRT) Biventricular  BiV  pacing
 ---
-# Cardiac resynch therapy (CRT) Biventricular (BiV) pacing
+synch therapy (CRT) Biventricular (BiV) pacing
 
 (JACC 2013;61:e6)
 * 3-lead pacemaker (RA, RV, coronary sinus to LV); R >S in V1 suggests approp LV capture

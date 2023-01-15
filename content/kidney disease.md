@@ -1,7 +1,7 @@
 ---
 title: kidney disease
 ---
-# kidney disease
+sease
 
 * [[acute kidney injury (AKI)]]
 * [[disease-specific management of kidney disease]]

@@ -1,7 +1,7 @@
 ---
 title: Implantable cardiac defibrillator  ICD 
 ---
-# Implantable cardiac defibrillator (ICD)
+
 
  (Circ 2019;140:e382)
 * RV lead: defib & pacing (± antitachycardia pacing [ATP] = burst pacing > VT rate to stop VT); ± RA lead for dual-chamber PPM. Subcut-ICD (consider if young), but Ø pace/ATP.

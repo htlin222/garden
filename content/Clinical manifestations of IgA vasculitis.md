@@ -1,15 +1,15 @@
 ---
 title: Clinical manifestations of IgA vasculitis
 ---
-# Clinical manifestations of IgA vasculitis
+stations of IgA vasculitis
 
 關節、肚子、腎、皮
 
-## Palpable **purpura**
+
 	on extensor surfaces (lower extremity first) & buttocks
-## Polyarthralgias
+s
 	(nondeforming) esp. involving hips, knees, & ankles
-## Colicky abdominal pain
+
 	± GIB or intussusception
-## Nephritis
+s
 	ranging from microscopic hematuria & proteinuria to ESRD

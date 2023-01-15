@@ -1,7 +1,7 @@
 ---
 title: Treatment and prognosis-Aplastic anemia
 ---
-# Treatment and prognosis-Aplastic anemia
+sis-Aplastic anemia
 
 * Immunosuppression (CsA/tacrolimus, ATG): 70–80% respond, with 80–90% 5-y survival in responders (96% vs. 76% w/ horse vs. rabbit ATG; NEJM 2011;365:430); 15–20% 10-y incidence of clonal disorders (mostly MDS, AML, PNH)
 

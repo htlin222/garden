@@ -1,7 +1,7 @@
 ---
 title: Treatment of overt hypothyroidism
 ---
-# Treatment of overt hypothyroidism
+sm
 
 * Levothyroxine (1.5–1.7 µg/kg/d), re ✓ TSH q5–6wk, titrate q8-12 wks if TSH not in range
 * Lower starting dose (0.3–0.5 µg/kg/d) if at risk for ischemic heart disease or elderly

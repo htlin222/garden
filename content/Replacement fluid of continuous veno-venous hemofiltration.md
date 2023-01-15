@@ -1,7 +1,7 @@
 ---
 title: Replacement fluid of continuous veno-venous hemofiltration
 ---
-# Replacement fluid of continuous veno-venous hemofiltration
+s veno-venous hemofiltration
 
 Choice of replacement fluid buffer:
 

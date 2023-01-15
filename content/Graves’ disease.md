@@ -1,7 +1,7 @@
 ---
 title: Graves’ disease
 ---
-# Graves’ disease
+s’ disease
 
 
 * ♀:♂ ratio is 5–10:1, most Pts between 40 and 60 y at dx

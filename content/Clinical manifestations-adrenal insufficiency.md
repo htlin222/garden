@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-adrenal insufficiency
 ---
-# Clinical manifestations-adrenal insufficiency
+stations-adrenal insufficiency
 
 (Lancet 2021;397:613)
 * Primary or secondary: weakness and fatigability (95%), weight loss (70%), orthostatic hypotension (60%), nausea (50%), vomiting (50%), hyponatremia (75%)

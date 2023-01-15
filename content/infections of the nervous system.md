@@ -1,7 +1,7 @@
 ---
 title: infections of the nervous system
 ---
-# infections of the nervous system
+s of the nervous system
 
 >> [[cerebrospinal fluid lab results]]
 
@@ -14,5 +14,5 @@ title: infections of the nervous system
 - [[herpes simplex virus infection]] 單純皰疹病毒
 - [[computed tomogram in central nervous system infection]]
 - 
-## Further Reading:
+
 [Neurology - Meningitis & Encephalitis - Fast Facts | NEJM Resident 360](https://resident360.nejm.org/rotation-prep/neurology/cns-infection/fast-facts)

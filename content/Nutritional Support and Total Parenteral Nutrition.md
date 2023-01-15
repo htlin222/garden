@@ -1,7 +1,7 @@
 ---
 title: Nutritional Support and Total Parenteral Nutrition
 ---
-# Nutritional Support and Total Parenteral Nutrition
+
 
 * Enteral & parenteral with similar clinical outcomes (Lancet 2018;391:133)
 * Enteral (EN): starting w/in 48 h of ICU admit may ↓ infection & mortality. Contraindic. if bowel obstruction, major GIB, uncontrolled shock. Possible complic: ischemic bowel b/c ↑ demand for splanchnic blood, aspiration PNA, metabolic abnormality.

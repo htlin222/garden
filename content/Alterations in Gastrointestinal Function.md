@@ -1,7 +1,7 @@
 ---
 title: Alterations in Gastrointestinal Function
 ---
-# Alterations in Gastrointestinal Function
+s in Gastrointestinal Function
 
 
 Chapter 44: Dysphagia

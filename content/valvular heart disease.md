@@ -1,7 +1,7 @@
 ---
 title: valvular heart disease
 ---
-# valvular heart disease
+sease
 
 * [[aortic-stenosis]] (AS)
 * [[aortic-regurgitation]] (AR)

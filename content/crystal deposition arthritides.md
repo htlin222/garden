@@ -4,6 +4,6 @@ date: "2023-01-09"
 ---
 
  from: [[rheumatology]]
-# crystal deposition arthritides
+stal deposition arthritides
 
 

@@ -1,7 +1,7 @@
 ---
 title: Surgery of inflammatory bowel disease
 ---
-# Surgery of inflammatory bowel disease
+sease
 
 * UC: colectomy if sx refractory to or intolerable side effects from meds, CRC, perforation, toxic megacolon, uncontrolled hemorrhage. Often ileal pouch-anal anastomosis (IPAA).
 

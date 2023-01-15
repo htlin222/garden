@@ -1,7 +1,7 @@
 ---
 title: Antibiotics-sepsis and shock
 ---
-# Antibiotics-sepsis and shock
+s-sepsis and shock
 
 * Start empiric IV abx as soon as possible after recognition of severe sepsis or septic shock; every hr delay in abx admin a/w 7.6% ↑ in mortality (Crit Care Med 2006;34:1589), abx admin w/in 3 h of presentation in the ED a/w ↓ in-hospital mortality (NEJM 2017;376:2235)
 

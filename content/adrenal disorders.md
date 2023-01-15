@@ -1,7 +1,7 @@
 ---
 title: adrenal disorders
 ---
-# adrenal disorders
+sorders
 
 * [[Cushing’s Syndrome]] (Hypercortisolism)
 * [[hyperaldosteronism]]

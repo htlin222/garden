@@ -1,7 +1,7 @@
 ---
 title: viral respiratory infections
 ---
-# viral respiratory infections
+spiratory infections
 
 Microbiology  epidemiology-viral respiratory infections (http://www.cdc.gov/flu/weekly)
 * Typical pathogens: Short, mild = rhinovirus, other non-SARS-CoV-2 coronavirus.

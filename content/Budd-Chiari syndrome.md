@@ -1,7 +1,7 @@
 ---
 title: Budd-Chiari syndrome
 ---
-# Budd-Chiari syndrome
+syndrome
 
  (World J Hepatol 2016;8:691)
 

@@ -1,7 +1,7 @@
 ---
 title: Alterations in Body Temperature
 ---
-# Alterations in Body Temperature
+s in Body Temperature
 
 Chapter 18: Fever
 [[fever of unknown origin]]

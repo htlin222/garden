@@ -1,7 +1,7 @@
 ---
 title: Treatment-pulmonary hypertension
 ---
-# Treatment-pulmonary hypertension
+sion
 
 * Principles: 1) prevent & reverse vasoactive substance imbalance and vascular remodeling 2) prevent RV failure: ↓ wall stress (↓ PVR, PAP, RV diam); ensure adeq systemic DBP
 * Supportive

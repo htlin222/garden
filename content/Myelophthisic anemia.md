@@ -1,7 +1,7 @@
 ---
 title: Myelophthisic anemia
 ---
-# Myelophthisic anemia
+sic anemia
 
 (see also “Primary Myelofibrosis”)
 

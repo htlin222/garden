@@ -1,7 +1,7 @@
 ---
 title: Tachycardia-bradycardia  “tachy-brady”  syndrome
 ---
-# Tachycardia-bradycardia (“tachy-brady”) syndrome
+syndrome
 
  (“tachy-brady”) syndrome
 * Features may include: periods of unprovoked SB, SA arrest, paroxysms of SB and atrial

@@ -1,7 +1,7 @@
 ---
 title: Drug-induced TMA
 ---
-# Drug-induced TMA
+
 
 (clinically similar to TTP; Blood 2017;129:2857)
 

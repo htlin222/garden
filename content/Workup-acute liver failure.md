@@ -1,7 +1,7 @@
 ---
 title: Workup-acute liver failure
 ---
-# Workup-acute liver failure
+
 
 (Clin Liver Dis 2017;21:769)
 

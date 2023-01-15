@@ -1,7 +1,7 @@
 ---
 title: Treatment-fever of unknown origin
 ---
-# Treatment-fever of unknown origin
+
 
 * Empiric abx not indicated (unless Pt neutropenic or critically ill)
 * Empiric glucocorticoids not indicated unless strong suspicion for specific rheumatologic dx

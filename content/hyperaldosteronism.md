@@ -1,14 +1,14 @@
 ---
 title: hyperaldosteronism
 ---
-# hyperaldosteronism
+steronism
 
 * [[Etiologies-hyperaldosteronism]]
 * [[Clinical manifestations-hyperaldosteronism]]
 * [[Diagnosis-hyperaldosteronism]]
 * [[Treatment-hyperaldosteronism]]
 
-### Backlink：
+
 
 - [[adrenal disorders]]
 - [[adrenal incidentalomas]]

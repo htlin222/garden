@@ -1,7 +1,7 @@
 ---
 title: mitral-valve-prolapse
 ---
-# mitral-valve-prolapse
+se
 Definition and Etiology
 * Billowing of MV leaflet ≥2 mm above mitral annulus in parasternal long axis echo view
 * Primary: sporadic or familial myxomatous proliferation of spongiosa of MV apparatus

@@ -1,7 +1,7 @@
 ---
 title: toxicology
 ---
-# toxicology
+
 
 [[Acetaminophen-toxicology]]
 [[Salicylates-toxicology]]

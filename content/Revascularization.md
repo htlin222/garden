@@ -1,7 +1,7 @@
 ---
 title: Revascularization
 ---
-# Revascularization
+scularization
 
 * OMT should be initial focus if stable & w/o evidence of critical anatomy & w/ normal EF
 * Goal of revasc should be to ↓ risk of CV morbidity & mortality or to relieve refractory sx

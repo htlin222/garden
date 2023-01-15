@@ -1,7 +1,7 @@
 ---
 title: Nonalcoholic fatty liver disease  NAFLD 
 ---
-# Nonalcoholic fatty liver disease (NAFLD)
+sease (NAFLD)
 
 (JAMA 2020;323:1175; Lancet 2021;397:2212)
 
@@ -17,4 +17,4 @@ NAFL = steatosis, Ø inflam; NASH = steatosis + inflam ± fibrosis on bx
 
 * Dx: liver bx remains gold standard. VCT elastography emerging alternative (J Hepatol 2017;66:1022). FIB-4/NAFLD fibrosis score predicts NASH w/ advanced fibrosis w/ PPV >80%.
 
-## [[Treatment-Nonalcoholic fatty liver disease (NAFLD)]]
+sease (NAFLD)]]

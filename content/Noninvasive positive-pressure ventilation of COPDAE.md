@@ -1,7 +1,7 @@
 ---
 title: Noninvasive positive-pressure ventilation of COPDAE
 ---
-# Noninvasive positive-pressure ventilation of COPDAE
+sive positive-pressure ventilation of COPDAE
 
 Initiate early if moderate/severe dyspnea, ↓ pH / ↑ PaCO2, RR >25
 Results in 58% ↓ intubation, ↓ LOS by 3.2 d, 59% ↓ mortality

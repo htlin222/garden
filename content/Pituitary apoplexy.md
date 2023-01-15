@@ -1,7 +1,7 @@
 ---
 title: Pituitary apoplexy
 ---
-# Pituitary apoplexy
+
 
 * Rapid expansion of pituitary tumor (typically adenoma) due to hemorrhage or infarction
 * Sx include excruciating headache, diplopia, hypopituitarism

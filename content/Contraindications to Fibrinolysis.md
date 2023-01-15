@@ -1,9 +1,9 @@
 ---
 title: Contraindications to Fibrinolysis
 ---
-# Contraindications to Fibrinolysis
+s to Fibrinolysis
 
-## Absolute Contraindications
+solute Contraindications
 *Any prior ICH
 *Intracranial neoplasm, aneurysm, AVM
 *Ischemic stroke or closed head trauma w/in 3 mo; head/spinal surg. w/in 2 mo
@@ -12,7 +12,7 @@ title: Contraindications to Fibrinolysis
 *Severe uncontrollable HTN
 *For SK, SK Rx w/in 6 mo
 
-## Relative Contraindications
+s
 *H/o severe HTN, SBP >180 or DBP >110 on presentation (? absolute if low-risk MI)
 *Ischemic stroke >3 mo prior
 *CPR >10 min; trauma/major surg. w/in 3 wk

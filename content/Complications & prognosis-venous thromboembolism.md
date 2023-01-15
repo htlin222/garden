@@ -1,7 +1,7 @@
 ---
 title: Complications & prognosis-venous thromboembolism
 ---
-# Complications & prognosis-venous thromboembolism
+s & prognosis-venous thromboembolism
 
 * [[postthrombotic syndrome]] (23–60%)
 	pain, edema, venous ulcers

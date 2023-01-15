@@ -1,7 +1,7 @@
 ---
 title: SCLC staging and treatment
 ---
-# SCLC staging and treatment
+staging and treatment
 
 * SCLC usually disseminated at presentation; poor overall survival
 * Can be very responsive to chemotherapy, but rapidly develop resistance

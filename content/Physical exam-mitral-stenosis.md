@@ -1,7 +1,7 @@
 ---
 title: Physical exam-mitral-stenosis
 ---
-# Physical exam-mitral-stenosis
+sical exam-mitral-stenosis
 
 
 * Low-pitched mid-diastolic rumble at apex w/ presystolic accentuation (if not in AF); best heard in L lat decubitus position during expiration, ↑ w/ exercise; severity proportional to duration (not intensity) of murmur; loud S

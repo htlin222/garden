@@ -1,7 +1,7 @@
 ---
 title: Functional GI disease
 ---
-# Functional GI disease
+sease
 
 (~30 types per Rome IV criteria; Gastro 2016;150:1257)
 

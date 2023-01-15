@@ -1,7 +1,7 @@
 ---
 title: pheochromocytoma and paraganglioma
 ---
-# pheochromocytoma and paraganglioma
+
 
 [[Clinical manifestations-pheochromocytoma and paraganglioma]]
 [[Diagnostic studies-pheochromocytoma and paraganglioma]]

@@ -1,7 +1,7 @@
 ---
 title: Euvolemic-hypotonic-hyponatremia
 ---
-# Euvolemic-hypotonic-hyponatremia
+
 (ie, ↑ TBW relative to total body Na)
 
 * [[SIADH]]

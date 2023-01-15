@@ -1,7 +1,7 @@
 ---
 title: Other Post MI Complications
 ---
-# Other Post MI Complications
+st MI Complications
 
 | Complication               | Clinical Features                                                        | Treatment                                               |
 |----------------------------|--------------------------------------------------------------------------|---------------------------------------------------------|

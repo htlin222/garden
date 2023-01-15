@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology  risk factors -aortic aneurysms
 ---
-# Pathophysiology  risk factors -aortic aneurysms
+siology  risk factors -aortic aneurysms
 
  (JACC 2020:76:201 & 2021;78:201)
 * Medial degen and/or ↑ wall stress; wall stress ∝ [(∆P × r) / (wall thickness)] (Laplace’s law)

@@ -1,7 +1,7 @@
 ---
 title: nonthyroidal illness  sick euthyroid syndrome  
 ---
-# nonthyroidal illness (sick euthyroid syndrome) 
+ss (sick euthyroid syndrome) 
  > (J Endocrinol 2010;205:1)
 * TFT abnormalities in Pts w/ severe nonthyroidal illness (∴ in acute illness, ✓ TFTs only if ↑ concern for thyroid disease); may have acquired transient central hypothyroidism
 * If thyroid dysfxn suspected in critically ill Pt, TSH alone not reliable; must measure total T4, free T4, & T3

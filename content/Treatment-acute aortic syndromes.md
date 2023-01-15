@@ -1,7 +1,7 @@
 ---
 title: Treatment-acute aortic syndromes
 ---
-# Treatment-acute aortic syndromes
+syndromes
 
 (Circ 2010;121:1544; EHJ 2018;39:739; JACC 2019;74:1494 & 2020;76:1703)
 * ↓ dP/dt targeting HR <60 & central BP <120 (or lowest that preserves perfusion; r/o pseudohypotension, eg, arm BP ↓ due to subclavian dissection; use highest BP reading)

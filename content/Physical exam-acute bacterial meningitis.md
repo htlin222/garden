@@ -1,7 +1,7 @@
 ---
 title: Physical exam-acute bacterial meningitis
 ---
-# Physical exam-acute bacterial meningitis
+sical exam-acute bacterial meningitis
 - Brudzinski and Kernig signs of meningeal irritation appear unreliable for diagnosis or ruling out of meningitis.
 - 低sensitvity aka 有病的只有少數有陽
 - 高specificity aka 沒病的大多為陰， 但不代表為陰就是沒病

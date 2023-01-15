@@ -3,7 +3,7 @@ title: treatment gastroesophageal reflux disease
 aliases: [treatment gastroesophageal reflux disease]
 linter-yaml-title-alias: treatment gastroesophageal reflux disease
 ---
-# treatment gastroesophageal reflux disease
+stroesophageal reflux disease
 (World J Gastrointest Endosc 2018;10:175; Am J Gastro 2022;117:27)
 
 * Lifestyle: avoid precipitants, lose weight, no eating 2 hrs before bed, exercise, Ø tobacco

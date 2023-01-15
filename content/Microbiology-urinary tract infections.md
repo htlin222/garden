@@ -1,7 +1,7 @@
 ---
 title: Microbiology-urinary tract infections
 ---
-# Microbiology-urinary tract infections
+s
 
 
 * Uncomplicated: E. coli (80%), Proteus, Klebsiella, S. saprophyticus (CID 2004;39:75). In healthy, nonpregnant women, lactobacilli, enterococci, Group B strep, and coag-neg staph (except S. saprophyticus) are likely contaminants (Annals 2012;156:ITC3).

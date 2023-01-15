@@ -1,7 +1,7 @@
 ---
 title: Treatment-anaphylaxis
 ---
-# Treatment-anaphylaxis
+s
 
 
 * Epi: 0.5 mg IM (0.5 mL of 1 mg/mL solution) q5–15min as needed. For those who do not respond, IV infusion starting at 0.1 mcg/kg/min.

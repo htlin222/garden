@@ -3,9 +3,9 @@ title: Immune Complex (IC) Disease  granular staining
 aliases: [Immune Complex (IC) Disease (granular staining)]
 linter-yaml-title-alias: Immune Complex (IC) Disease (granular staining)
 ---
-# Immune Complex (IC) Disease (granular staining)
+sease (granular staining)
 
-## Renal-Limited Diseases
+seases
 * Infection-Related GN
 	* (Staph & Strep; ↓ C3, ± ASLO)
 * Membranoproliferative GN (MPGN) (↓ C3)
@@ -13,7 +13,7 @@ linter-yaml-title-alias: Immune Complex (IC) Disease (granular staining)
 * [[IgA nephropathy]] (normal C3, ±↑ IgA) 
 	* (NEJM 2013;368:2402; CJASN 2017;12:677)
 
-## Systemic Diseases
+stemic Diseases
 * SLE (CJASN 2017;12:825)
 	* (⊕ ANA, ⊕ anti-dsDNA, ⊕ anti-Sm, ↓ C3, ↓ C4)
 * Cryoglobulinemia

@@ -1,7 +1,7 @@
 ---
 title: hyperpituitary syndromes
 ---
-# hyperpituitary syndromes
+syndromes
 
 * [[Pituitary tumors]] (NEJM 2020;382:937)
 * [[Hyperprolactinemia]]

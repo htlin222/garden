@@ -1,7 +1,7 @@
 ---
 title: Cat bite
 ---
-# Cat bite
+
 
 *Cat scratch disease caused by Bartonella acquired via cat scratch or bite. Results in lymphadenitis.
 

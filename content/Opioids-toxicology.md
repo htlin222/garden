@@ -1,7 +1,7 @@
 ---
 title: Opioids-toxicology
 ---
-# Opioids-toxicology
+s-toxicology
 
 
 ↓ mentation, ↓ RR, miosis

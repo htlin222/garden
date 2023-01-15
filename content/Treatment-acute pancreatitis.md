@@ -1,7 +1,7 @@
 ---
 title: Treatment-acute pancreatitis
 ---
-# Treatment-acute pancreatitis
+s
 
 * Fluid resusc.: aggressive in 1st 24 hrs, even if mild. 20 mL/kg IVB → 3 mL/kg/hr. Goal ↓ BUN & Hct over 12–24 h. ✓ UOP (goal 0.5–1 cc/kg/hr); LR superior to NS (↓ SIRS; avoid if ↑ Ca).
 

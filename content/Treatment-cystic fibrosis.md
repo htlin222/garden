@@ -1,7 +1,7 @@
 ---
 title: Treatment-cystic fibrosis
 ---
-# Treatment-cystic fibrosis
+stic fibrosis
 
 
 Lancet 2021;397:2195)

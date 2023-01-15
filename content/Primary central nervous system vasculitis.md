@@ -1,7 +1,7 @@
 ---
 title: Primary central nervous system vasculitis
 ---
-# Primary central nervous system vasculitis
+s system vasculitis
 
 原發性中樞神經系統血管炎是一種罕見的且知識淵博的血管炎，僅限於大腦和脊髓。
 認識到這種疾病是一種獨特的病態實體，其歷史可以追溯到1950年代中期，

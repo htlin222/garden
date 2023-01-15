@@ -1,7 +1,7 @@
 ---
 title: Wilson disease
 ---
-# Wilson disease
+son disease
 
 (World J Hepatol 2015;7:2859)
 

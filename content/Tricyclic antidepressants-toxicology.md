@@ -1,7 +1,7 @@
 ---
 title: Tricyclic antidepressants-toxicology
 ---
-# Tricyclic antidepressants-toxicology
+ssants-toxicology
 
 Hypotension, seizures, arrhythmia, ↑ QRS, ↑ QT
 

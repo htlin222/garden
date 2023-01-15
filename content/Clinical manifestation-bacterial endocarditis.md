@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestation-bacterial endocarditis
 ---
-# Clinical manifestation-bacterial endocarditis
+station-bacterial endocarditis
 
 
 (Lancet 2016;387:882)

@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Liddle’s syndrome]]
 
-# epithelial sodium channel - ENaC
+sodium channel - ENaC
 
 * open in response to signals that
 * sodium levels in the blood are too low,

@@ -1,14 +1,14 @@
 ---
 title: headache
 ---
-# headache
+
 * [[Primary headache syndromes]]
 * [[Secondary causes of headaches]]
 * [[Migraine]]
 * [[Clinical evaluation of Secondary causes of headaches]] 
 * [[headaches from symptom to diagnosis]]
 
-### Backlink：
+
 
 - [[Acromegaly]]
 - [[acute bacterial meningitis]]

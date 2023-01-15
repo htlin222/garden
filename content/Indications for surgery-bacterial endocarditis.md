@@ -1,7 +1,7 @@
 ---
 title: Indications for surgery-bacterial endocarditis
 ---
-# Indications for surgery-bacterial endocarditis
+s for surgery-bacterial endocarditis
 
 (consult early; JTCS 2017;153:1241; Circ 2021;143:e72)
 * Emergent if refractory cardiogenic shock

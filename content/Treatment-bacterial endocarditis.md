@@ -1,23 +1,23 @@
 ---
 title: Treatment-bacterial endocarditis
 ---
-# Treatment-bacterial endocarditis
+s
 
-## Empiric
+
 NVE or PVE >12 mos post-op: vanc + CTX
 PVE <12 mos post op: vanc + CTX ± gentamicin (if OK renal fxn)
-## Strep
+
 Penicillin, ampicillin, cftx; if PVE consider gentamicin in discussion w/ ID
-## Staph (S. aureus and lugdunensis)
+s and lugdunensis)
 MRSA: vanc or dapto
 MSSA: nafcillin, oxacillin, or cefazolin (avoid if CNS involvement due to poor penetration); vanc inferior to β-lactam for MSSA
 For PCN allergy w/ MSSA consider desensitization
 Consider rifampin / gentamicin in PVE in discussion w/ ID
-## Enterococci
+
 Ampicillin + [CTX or gent]; if VRE: linezolid, dapto, ampicillin if sensitive
-## Gram negatives
+s
 HACEK: CTX, ampicillin or FQ. Pseudomonas: 2 anti-Pseudomonal agents [eg, β-lactam + (aminoglycoside or FQ)]
-## Fungi (candida, aspergillus)
+spergillus)
 Candida: amphotericin B ± flucytosine or micafungin
 Aspergillus: amphotericin B or voriconazole
 Ophtho consult for fungemia to rule out endophthalmitis

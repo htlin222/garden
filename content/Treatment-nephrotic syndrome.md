@@ -1,7 +1,7 @@
 ---
 title: Treatment-nephrotic syndrome
 ---
-# Treatment-nephrotic syndrome
+syndrome
 
 (NEJM 2013;368:10)
 

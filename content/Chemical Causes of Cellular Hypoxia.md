@@ -1,7 +1,7 @@
 ---
 title: Chemical Causes of Cellular Hypoxia
 ---
-# Chemical Causes of Cellular Hypoxia
+ses of Cellular Hypoxia
 
 ![Chemical Causes of Cellular Hypoxia](https://i.imgur.com/JHQhtIG.png)
 

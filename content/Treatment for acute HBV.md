@@ -1,7 +1,7 @@
 ---
 title: Treatment for acute HBV
 ---
-# Treatment for acute HBV
+
 
 * [[When to treat chronic HBV with anti-virals]]
 * [[Entecavir or tenofovir]]

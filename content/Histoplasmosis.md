@@ -1,7 +1,7 @@
 ---
 title: Histoplasmosis
 ---
-# Histoplasmosis
+stoplasmosis
 
 
 (CID 2007;45:807)

@@ -1,7 +1,7 @@
 ---
 title: Hepatitis E
 ---
-# Hepatitis E
+s E
 
 (ssRNA; World J Gastro 2016;22:7030; Gastro Clin N Am 2017;46:393)
 

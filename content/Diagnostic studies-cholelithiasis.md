@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-cholelithiasis
 ---
-# Diagnostic studies-cholelithiasis
+stic studies-cholelithiasis
 
 * Labs normal in most
 

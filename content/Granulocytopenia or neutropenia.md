@@ -1,7 +1,7 @@
 ---
 title: Granulocytopenia or neutropenia
 ---
-# Granulocytopenia or neutropenia
+
 
 (includes DM, ESRD → functional impairment)
 Bacteria: Gram positive: coag ⊖ staph, S. aureus, viridans strep, S. pneumo, other strep; Corynebacterium spp., Bacillus spp. Gram negative: E. coli, Klebsiella, Pseudomonas

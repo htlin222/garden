@@ -1,7 +1,7 @@
 ---
 title: acute pancreatitis
 ---
-# acute pancreatitis
+s
 
 * [[Pathogenesis-acute pancreatitis]]
 * [[Etiologies-acute pancreatitis]]

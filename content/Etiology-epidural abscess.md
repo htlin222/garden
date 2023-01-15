@@ -1,7 +1,7 @@
 ---
 title: Etiology-epidural abscess
 ---
-# Etiology-epidural abscess
+scess
 
 
 * Hematogenous spread (⅔): skin infection, soft tissue (dental abscess), or endocarditis

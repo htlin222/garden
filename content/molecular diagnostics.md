@@ -1,7 +1,7 @@
 ---
 title: molecular diagnostics
 ---
-# molecular diagnostics
+stics
 
 Sequencing
 Cytogenetics

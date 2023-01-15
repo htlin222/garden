@@ -1,7 +1,7 @@
 ---
 title: Precipitants of acute heart failure
 ---
-# Precipitants of acute heart failure
+s of acute heart failure
 
 * Dietary indiscretion or medical nonadherence (~40% of cases)
 * Myocardial ischemia or infarction (~10–15% of cases); myocarditis

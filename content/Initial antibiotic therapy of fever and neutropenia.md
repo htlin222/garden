@@ -1,7 +1,7 @@
 ---
 title: Initial antibiotic therapy of fever and neutropenia
 ---
-# Initial antibiotic therapy of fever and neutropenia
+
 
 * Empiric regimens should include antipseudomonal activity; consider VRE coverage if ⊕
 * Low risk: PO abx or home IV abx may be considered in select Pts (JCO 2013;31:1149)

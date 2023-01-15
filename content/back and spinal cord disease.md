@@ -2,9 +2,9 @@
 title: back and spinal cord disease
 ---
 
-## [[differential diagnosis of back pain]]
+sis of back pain]]
 
-## Initial evaluation of back and spinal cord disease
+spinal cord disease
 
 > Lancet 2017;389:736 & Continuum 2021;27:12
 

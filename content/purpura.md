@@ -1,7 +1,7 @@
 ---
 title: purpura
 ---
-# purpura
+
 
 (nonblanching purple/red lesions due to extravasation of RBCs into dermis)
 

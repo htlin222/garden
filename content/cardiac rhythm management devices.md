@@ -1,7 +1,7 @@
 ---
 title: cardiac rhythm management devices
 ---
-# cardiac rhythm management devices
+s
 
 [[Pacemaker Code]]
 [[Common Pacing Modes]]

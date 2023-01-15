@@ -1,7 +1,7 @@
 ---
 title: ACLS
 ---
-# ACLS
+
 [[CPR人力配置]]
 [[ICU]]
 

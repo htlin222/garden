@@ -1,7 +1,7 @@
 ---
 title: Etiologies-cirrhosis
 ---
-# Etiologies-cirrhosis
+s-cirrhosis
 
 * Alcohol, toxins (eg, arsenic)
 

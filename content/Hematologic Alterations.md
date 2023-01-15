@@ -1,7 +1,7 @@
 ---
 title: Hematologic Alterations
 ---
-# Hematologic Alterations
+s
 
 Chapter 62: Interpreting Peripheral Blood Smears
 Chapter 63: Anemia and Polycythemia

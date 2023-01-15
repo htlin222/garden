@@ -1,7 +1,7 @@
 ---
 title: respiratory-alkalosis
 ---
-# respiratory-alkalosis
+spiratory-alkalosis
 
 Etiologies (NEJM 2002;347:43; Crit Care 2010;14:220)
 * Hypoxia → hyperventilation: pneumonia, CHF, PE, restrictive lung disease, anemia

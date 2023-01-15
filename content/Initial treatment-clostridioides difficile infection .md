@@ -1,7 +1,7 @@
 ---
 title: Initial treatment-clostridioides difficile infection 
 ---
-# Initial treatment-clostridioides difficile infection 
+stridioides difficile infection 
 
 (CID 2021;73:5; Am J Gastro 2021;116:1124)
 

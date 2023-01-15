@@ -1,7 +1,7 @@
 ---
 title: Refractory ascites
 ---
-# Refractory ascites
+scites
 
 seen in 5–10% of Pts; 2-y survival 25%
 

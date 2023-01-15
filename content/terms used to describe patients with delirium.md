@@ -1,7 +1,7 @@
 ---
 title: terms used to describe patients with delirium
 ---
-# terms used to describe patients with delirium
+s used to describe patients with delirium
 
 encephalopathy 
 acute brain failure

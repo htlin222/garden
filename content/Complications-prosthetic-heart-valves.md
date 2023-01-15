@@ -1,7 +1,7 @@
 ---
 title: Complications-prosthetic-heart-valves
 ---
-# Complications-prosthetic-heart-valves
+s-prosthetic-heart-valves
 
 * Structural failure (r/o endocarditis); mechanical valves: rare except for Bjork-Shiley; bioprosth: up to 30% rate w/in 10–15 y, mitral >aortic; consider TAVR (JACC 2017; 69:2253)
 * Paravalvular leak (r/o endocarditis); small central jet of regurg is normal in mech. valves

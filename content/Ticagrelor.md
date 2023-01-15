@@ -1,7 +1,7 @@
 ---
 title: Ticagrelor
 ---
-# Ticagrelor
+
 
 180 mg × 1 → 90 mg bid
 Reversible, but wait 3–5 d prior to surg. Antidote being developed (NEJM 2019;380:1825).

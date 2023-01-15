@@ -1,7 +1,7 @@
 ---
 title: Calcium channel blockers-toxicology
 ---
-# Calcium channel blockers-toxicology
+s-toxicology
 
 
 Bradycardia, AV block, hypotension, HF, hyperglycemia

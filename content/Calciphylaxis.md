@@ -1,7 +1,7 @@
 ---
 title: Calciphylaxis
 ---
-# Calciphylaxis
+s
 
 calcific uremic arteriopathy, NEJM 2018;378:1704)
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies acute coronary syndromes
 ---
-# Diagnostic studies acute coronary syndromes
+stic studies acute coronary syndromes
 * ECG: ST ↓/↑, TWI, new LBBB, hyperacute Tw; Qw/PRWP may suggest prior MI & ∴ CAD
 ✓ ECG w/in 10 min of presentation, with any ∆ in sx & at 6–12 h; compare w/ baseline
 * STEMI dx challenging w/ old LBBB or ventricular pacing:

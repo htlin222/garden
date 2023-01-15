@@ -1,7 +1,7 @@
 ---
 title: Treatment-hypertensive crises
 ---
-# Treatment-hypertensive crises
+sive crises
  (Circ 2018;138:e426)
 * AoD, eclampsia/severe preeclampsia, pheo: target SBP <140 (<120 for AoD) in 1 hour
 * Emerg w/o above: ↓ BP by ~25% in 1 h; to 160/100–110 over next 2–6 h, then nl over 1–2 d

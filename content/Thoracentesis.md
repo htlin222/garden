@@ -1,7 +1,7 @@
 ---
 title: Thoracentesis
 ---
-# Thoracentesis
+sis
 
  (ideally U/S guided) (NEJM 2006;355:e16)
 [[indications of thoracentesis]]  

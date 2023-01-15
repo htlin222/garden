@@ -1,7 +1,7 @@
 ---
 title: Definitions-tuberculosis
 ---
-# Definitions-tuberculosis
+s-tuberculosis
 
 * Primary: new Mycobacterium tuberculosis (TB) in a naïve host; symptomatic or asymptomatic; 90% of infected normal hosts will never develop clinically evident disease
 * Latent: well-controlled infection without clinical or radiographic evidence of active disease; can persist for years to decades

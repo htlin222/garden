@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-cholecystitis
 ---
-# Clinical manifestations-cholecystitis
+stations-cholecystitis
 
 * History: RUQ/epigastric pain ± radiation to R shoulder/back, nausea, vomiting, fever
 

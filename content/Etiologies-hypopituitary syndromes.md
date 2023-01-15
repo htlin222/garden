@@ -1,9 +1,9 @@
 ---
 title: Etiologies-hypopituitary syndromes
 ---
-# Etiologies-hypopituitary syndromes
+s-hypopituitary syndromes
 
-## Primary: 
+
 * surgery
 * radiation (develops after avg 4–5 y), 
 * tumors (primary or metastatic), 
@@ -19,7 +19,7 @@ title: Etiologies-hypopituitary syndromes
 * empty sella
 * genetic
  
-## Secondary: (hypothalamic dysfunction or stalk interruption): 
+sfunction or stalk interruption): 
 * tumors (including craniopharyngioma)
 * infection
 * infiltration

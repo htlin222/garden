@@ -1,7 +1,7 @@
 ---
 title: Treatment of Antiphospholipid syndrome
 ---
-# Treatment of Antiphospholipid syndrome
+spholipid syndrome
 
 * UFH/LMWH → warfarin (lifelong for most Pts)
 

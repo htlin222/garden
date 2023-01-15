@@ -1,7 +1,7 @@
 ---
 title: aortic aneurysms
 ---
-# aortic aneurysms
+sms
 
 [[Definitions-aortic aneurysms]]
 [[Epidemiology-aortic aneurysms]]
@@ -9,7 +9,7 @@ title: aortic aneurysms
 [[Screening-aortic aneurysms]]
 [[Diagnostic studies-aortic aneurysms]]
 [[Treatment-aortic aneurysms]]
-## Surgery-aortic aneurysms
+sms
 (EHJ 2014;25:2873)
 * Resection & replacement w/ graft. If involves root, need to address AoV & coronaries.
 [[Endovascular repair EVAR-aortic aneurysms]]

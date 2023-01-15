@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[spinal cord compression]]
-# Etiologies of spinal cord compression
+s of spinal cord compression
 
 * tumor (vertebral mets
 * intradural meningioma/[[neurofibroma]])

@@ -1,11 +1,11 @@
 ---
 title: Thyroiditis
 ---
-# Thyroiditis
+s
 
-## Acute: 
+
 * bacterial infection (very rare in U.S. except postsurgical), typically Staph/Strep spp.
-## Subacute: 
+
 transient thyrotoxicosis → transient hypothyroidism → normal thyroid fxn
 
 Painful (viral, granulomatous or de Quervain’s): fever, ↑ ESR; Rx = NSAIDs, ASA, steroids

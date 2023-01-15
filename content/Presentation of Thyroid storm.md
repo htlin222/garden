@@ -1,7 +1,7 @@
 ---
 title: Presentation of Thyroid storm
 ---
-# Presentation of Thyroid storm
+sentation of Thyroid storm
 
 * delirium, 
 * fever, 

@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-acute liver failure
 ---
-# Clinical manifestations-acute liver failure
+stations-acute liver failure
 
 * Initial presentation: N/V, malaise, RUQ pain, jaundice, encephalopathy, multiorgan failure
 

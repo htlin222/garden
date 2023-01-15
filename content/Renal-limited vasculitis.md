@@ -1,7 +1,7 @@
 ---
 title: Renal-limited vasculitis
 ---
-# Renal-limited vasculitis
+sculitis
 
 * Small vessel pauci-immune vasculitis causing RPGN w/o other organ involvement
 * Dx studies: 80% ⊕ ANCA (MPO >PR3); biopsy with pauci-immune GN ± granulomas

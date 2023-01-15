@@ -1,7 +1,7 @@
 ---
 title: Thrombotic thrombocytopenic purpura  TTP 
 ---
-# Thrombotic thrombocytopenic purpura (TTP)
+
 
 Pathophys: ↓↓ ADAMTS13 protease activity (hereditary [Upshaw Schulman Syn.] or autoAb) → vWF multimers persist on endothelial surface → plt adhesion/aggregation → thrombosis
 

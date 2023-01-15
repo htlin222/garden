@@ -1,7 +1,7 @@
 ---
 title: nephrotic syndrome
 ---
-# nephrotic syndrome
+syndrome
 * [[proteinuria]]
 * [[Definition-nephrotic syndrome]]
 * [[Primary glomerular diseases (grouped by pathology)]]

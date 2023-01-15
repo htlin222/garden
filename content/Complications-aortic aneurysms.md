@@ -1,7 +1,7 @@
 ---
 title: Complications-aortic aneurysms
 ---
-# Complications-aortic aneurysms
+s-aortic aneurysms
 
 (Circ 2010;121:e266; Nat Rev Cardiol 2011;8:92)
 * Pain: gnawing chest, back, or abdominal pain; new or worse pain may signal rupture

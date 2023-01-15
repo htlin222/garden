@@ -1,7 +1,7 @@
 ---
 title: Diagnostic-studies-workup-pulmonary hypertension
 ---
-# Diagnostic-studies-workup-pulmonary hypertension
+stic-studies-workup-pulmonary hypertension
 
 * High-res chest CT: dilat. & pruning of pulm arteries, ↑ RA & RV; r/o parenchymal lung dis.
 * ECG: RAD, RBBB, RAE (“P pulmonale”), RVH (Se 55%, Sp 70%)

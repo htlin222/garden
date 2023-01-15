@@ -1,22 +1,22 @@
 ---
 title: monocytosis
 ---
-# monocytosis
+sis
 
 (>500/µL)
 
-## Infection
+
 
 Usually TB, SBE, Listeria, Brucella, Rickettsia, fungi, parasites, syphilis
 
-## Inflammation
+
 
 IBD, sarcoidosis, collagen vascular diseases
 
-## Stress
+ss
 
 MI, splenectomy, exercise (Cytokine 2013;61:364)
 
-## Neoplasm
+sm
 
 Hodgkin lymphoma, leukemias, MPNs, carcinomas

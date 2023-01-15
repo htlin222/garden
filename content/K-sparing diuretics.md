@@ -1,7 +1,7 @@
 ---
 title: K-sparing diuretics
 ---
-# K-sparing diuretics
+sparing diuretics
 
 (NEJM 2017;377:1964)
 

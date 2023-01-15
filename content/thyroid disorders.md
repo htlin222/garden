@@ -1,7 +1,7 @@
 ---
 title: thyroid disorders
 ---
-# thyroid disorders
+sorders
 
 * [[Common Diagnostic Tests in Thyroid Disorders]]
 * [[Specialized Diagnostic Tests in Thyroid Disorders]]

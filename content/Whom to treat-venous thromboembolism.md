@@ -1,7 +1,7 @@
 ---
 title: Whom to treat-venous thromboembolism
 ---
-# Whom to treat-venous thromboembolism
+s thromboembolism
 
 (JAMA 2020;324:1765; Chest 2021;160:e545)
 

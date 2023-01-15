@@ -1,7 +1,7 @@
 ---
 title: Asthma plus syndromes
 ---
-# Asthma plus syndromes
+sthma plus syndromes
 
 
 * Atopy = asthma + allergic rhinitis + atopic dermatitis

@@ -1,7 +1,7 @@
 ---
 title: Recurrent infection-clostridioides difficile infection
 ---
-# Recurrent infection-clostridioides difficile infection
+stridioides difficile infection
 
 (15–30% risk after d/c of abx, most w/in 2 wk of stopping abx)
 

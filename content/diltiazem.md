@@ -1,7 +1,7 @@
 ---
 title: diltiazem
 ---
-# diltiazem
+
 
 Wt/4
 

@@ -1,17 +1,17 @@
 ---
 title: Thrombotic microangiopathies
 ---
-# Thrombotic microangiopathies
+s
 
 (TMA; NEJM 2014;371:654; Lancet 2017;390:681)
 > Endothelial injury → plt aggreg. & microvasc. thrombosis → ↓ plt & RBC hemolysis (MAHA)
 
-## [[Diagnosis of Thrombotic microangiopathies]]
-## [[Thrombotic thrombocytopenic purpura (TTP)]]
-## [[Hemolytic-uremic syndrome]] (HUS)
-## [[atypical hemolytic uremic syndrome]] (aHUS)
-## [[Drug-induced TMA]]
+sis of Thrombotic microangiopathies]]
+
+syndrome]] (HUS)
+syndrome]] (aHUS)
+
 
 ---
 
-## [[Disseminated intravascular coagulation (DIC)]]
+sseminated intravascular coagulation (DIC)]]

@@ -1,7 +1,7 @@
 ---
 title: Cardiac output PA catheter and tailored therapy
 ---
-# Cardiac output PA catheter and tailored therapy
+
 
 * Thermodilution: saline injected in RA or intermittent heating of prox thermal filament in some PA lines (“continuous CO”). ∆ in temp over time measured at thermistor (in PA) used to calc CO. Inaccurate if ↓ CO, severe TR, or shunt.
 

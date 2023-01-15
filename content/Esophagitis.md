@@ -1,7 +1,7 @@
 ---
 title: Esophagitis
 ---
-# Esophagitis
+sophagitis
 
 (15%)
 

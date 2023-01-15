@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Etiologies-hyperaldosteronism]]
 
-# Nonaldosterone mineralocorticoid excess
+sterone mineralocorticoid excess
 
 11β-HSD defic. (→ lack of inactivation of cortisol, which binds to mineralocorticoid recept.)
 [[Liddle’s syndrome]] (constitutively activated/overexpressed distal tubular renal Na channel)

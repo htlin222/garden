@@ -1,7 +1,7 @@
 ---
 title: Pharmacologic options-Treatment-hypertension
 ---
-# Pharmacologic options-Treatment-hypertension
+s-Treatment-hypertension
 
 Pre-HTN: ARB prevents onset of HTN, no ↓ in clinical events (NEJM 2006;354:1685)
 HTN: choice of therapy controversial, concomitant disease and stage may help guide Rx; ? improved control with nighttime administration (EHJ 2020;41:4564)

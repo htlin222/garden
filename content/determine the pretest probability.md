@@ -1,7 +1,7 @@
 ---
 title: determine the pretest probability
 ---
-# determine the pretest probability
+st probability
 
 
 A.  Use a validated CDR

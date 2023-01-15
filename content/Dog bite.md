@@ -1,7 +1,7 @@
 ---
 title: Dog bite
 ---
-# Dog bite
+
 
 Pasturella & Capnocytophaga spp
 Can cause severe sepsis w/ DIC & gangrene in asplenic/cirrhotics and other immunosupp.

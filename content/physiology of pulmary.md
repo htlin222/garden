@@ -1,7 +1,7 @@
 ---
 title: physiology of pulmary
 ---
-# physiology of pulmary
+siology of pulmary
 
 ![Lung vol detected by spirometry](https://i.imgur.com/Aiq4c9I.png)
 

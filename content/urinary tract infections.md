@@ -1,7 +1,7 @@
 ---
 title: urinary tract infections
 ---
-# urinary tract infections
+s
 
 * [[Definitions-urinary tract infections]]
 * [[Microbiology-urinary tract infections]]

@@ -1,7 +1,7 @@
 ---
 title: pathogenesis of disseminated intravascular coagulation  DIC 
 ---
-# pathogenesis of disseminated intravascular coagulation (DIC)
+sis of disseminated intravascular coagulation (DIC)
 
 
 * massive activation of coagulation that overwhelms control mechanisms

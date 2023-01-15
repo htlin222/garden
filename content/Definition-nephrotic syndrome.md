@@ -1,7 +1,7 @@
 ---
 title: Definition-nephrotic syndrome
 ---
-# Definition-nephrotic syndrome
+syndrome
 
 (JASN 2014;25:2393)
 

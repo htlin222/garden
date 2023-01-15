@@ -1,7 +1,7 @@
 ---
 title: pituitary disorders
 ---
-# pituitary disorders
+sorders
 
 * [[hypopituitary syndromes]]
 * [[hyperpituitary syndromes]]

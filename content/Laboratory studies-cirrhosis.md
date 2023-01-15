@@ -1,7 +1,7 @@
 ---
 title: Laboratory studies-cirrhosis
 ---
-# Laboratory studies-cirrhosis
+studies-cirrhosis
 
 * LFTs: ↑ bili, ↑ PT/INR (poor correlation w/ bleeding; factor VIII nl b/c not synthesized by liver), ↓ alb, ± ↑ aminotransferases (AST >ALT if late) and ↑ Aϕ (variable)
 

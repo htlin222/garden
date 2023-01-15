@@ -1,7 +1,7 @@
 ---
 title: Hepatitis B
 ---
-# Hepatitis B
+s B
 
 * Transmission: blood (IVDU, transfusion), sexual, perinatal (vertical)
 * Incubation: 6 wk–6 mo (mean 12–14 wk)
@@ -10,6 +10,6 @@ title: Hepatitis B
 * HCC: ↑ risk if cirrhosis, ⊕ FHx HCC, African >20 y old, Asian ♂ >40 y old or ♀ >50 y old, or >40 y old w/ ↑ ALT ± HBV DNA >2000. Screen w/ AFP & U/S q6mo.
 * Extrahepatic syndromes: PAN (<1%), membranous nephropathy, MPGN, arthritis
 
-## [[Serologic and virologic tests]]
-## [[Phases of Chronic HBV Infection]]
-## [[Treatment for acute HBV]]
+sts]]
+ses of Chronic HBV Infection]]
+

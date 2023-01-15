@@ -1,9 +1,9 @@
 ---
 title: Diagnosis-skin and soft tissue infections
 ---
-# Diagnosis-skin and soft tissue infections
+sis-skin and soft tissue infections
 
-## [[Differential Diagnosis of Cellulitis]]
+sis of Cellulitis]]
 
 * Clinical diagnosis based on physical examination
 * Cultures from intact skin are not helpful and should not be performed (CID 2014;59:e10)

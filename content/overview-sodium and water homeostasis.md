@@ -1,7 +1,7 @@
 ---
 title: overview-sodium and water homeostasis
 ---
-# overview-sodium and water homeostasis
+sodium and water homeostasis
 
 General (NEJM 2015;372:55 & 373:1350)
 
@@ -12,6 +12,6 @@ General (NEJM 2015;372:55 & 373:1350)
 	* Δs in brain cell volume →
 	* Δ MS, seizures
 
-## Key hormones
+s
 * [[Antidiuretic hormone]] (ADH)
 * [[Aldosterone]]

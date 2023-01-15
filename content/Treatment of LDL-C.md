@@ -1,7 +1,7 @@
 ---
 title: Treatment of LDL-C
 ---
-# Treatment of LDL-C
+
 
 * Statins: every 1 mmol (39 mg/dL) ↓ LDL-C → 22% ↓ major vascular events (CV death, MI, stroke, revasc) in individuals w/ & w/o CAD (Lancet 2010;376:1670)
 * Ezetimibe: ↓ major vascular events incl MI & stroke when added to statin post-ACS, w/ magnitude of benefit consistent w/ LDL-statin relationship (IMPROVE-IT, NEJM 2015;372:2387)

@@ -1,7 +1,7 @@
 ---
 title: Epidemiology-aortic aneurysms
 ---
-# Epidemiology-aortic aneurysms
+sms
 
  (Circ 2010;121:e266, 2011;124:2020; Nat Rev Cardiol 2011;8:92)
 * TAA: ~10/100,000 Pt-yrs; ♂:♀ 2:1; ~60% root/ascending; 40% descending

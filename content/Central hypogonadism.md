@@ -1,7 +1,7 @@
 ---
 title: Central hypogonadism
 ---
-# Central hypogonadism
+sm
 
 * Clinical manifestations: ↓ libido, impotence, oligomenorrhea or amenorrhea, infertility, ↓ muscle mass, osteoporosis
 * Physical exam: ↓ testicular size; loss of axillary, pubic and body hair

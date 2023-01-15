@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-pericarditis and pericardial effusion
 ---
-# Clinical manifestations-pericarditis and pericardial effusion
+stations-pericarditis and pericardial effusion
 
 NEJM 2014;371:2410; JACC 2020;75:76)
 * Pericarditis: retrosternal CP, pleuritic, positional (often ↓ by sitting forward), → trapezius; may be absent in TB, neoplastic, XRT, or uremic; ± fever; ± s/s of systemic etiologies

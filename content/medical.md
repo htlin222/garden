@@ -3,7 +3,7 @@ title: medical
 enableToc: false
 ---
 
-# 歡迎來到🦎的Medical Wiki
+
 
 * [[cardiology]]
 * [[pulmonary]]
@@ -15,7 +15,7 @@ enableToc: false
 * [[endocrinology]]
 * [[rheumatology]]
 
-## 內科的其他知識
+
 
 * [[clinical reasoning]]
 * ⚡[[ICU]]
@@ -27,7 +27,7 @@ enableToc: false
 * [[geriatrics]]
 * [[pain and palliative care]]
 
-## 其他科
+
 
 * [[dermatology]]
 * [[ophthalmic issues]]
@@ -38,7 +38,7 @@ enableToc: false
 * [[surgical issues]]
 
 
-## Draft
+
 
 * paper note: [[journals/index.md]]
 * 一些書的筆記: [[books/index]]

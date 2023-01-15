@@ -1,7 +1,7 @@
 ---
 title: Hypervolemic hypotonic hyponatremia
 ---
-# Hypervolemic hypotonic hyponatremia
+
 
  (ie, ↑ total body Na, ↑ ↑ TBW)
 

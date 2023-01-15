@@ -1,9 +1,9 @@
 ---
 title: Etiologies-of thrombocytopenia
 ---
-# Etiologies-of thrombocytopenia
+s-of thrombocytopenia
 
-## ↓ production
+
 
 * Hypocellular bone marrow: aplastic anemia (qv), rarely MDS, drugs (eg, thiazides, antibiotics, chemotherapy), alcohol, cirrhosis, viral infection
 
@@ -11,7 +11,7 @@ title: Etiologies-of thrombocytopenia
 
 * Marrow replacement: myelofibrosis, hematologic and solid malignancies, granulomas
 
-## ↑ destruction
+struction
 
 * Immune-mediated (distinguish primary from secondary; Blood 2009;113:2386)
 
@@ -21,11 +21,11 @@ title: Etiologies-of thrombocytopenia
 
 * Non–immune-mediated: MAHA (DIC, HUS, TTP), ticlopidine/clopidogrel, vasculitis, preeclampsia/HELLP, cardiopulm bypass, CVVH, IABP, cavernous hemangioma, viral
 
-## Abnormal distribution or pooling: 
+stribution or pooling: 
 splenic sequestration, dilutional, hypothermia
 
-## Critical illness
+ss
 multifactorial (Hematology Am Soc Hematol Educ Program 2017;1:660)
 
-## Unknown: 
+
 ehrlichiosis/anaplasmosis, babesiosis, RMSF

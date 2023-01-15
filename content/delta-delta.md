@@ -1,7 +1,7 @@
 ---
 title: delta-delta
 ---
-# delta-delta
+
 
 * (Δ/Δ = ΔAG/ΔHCO3) to assess if there is an additional metabolic
 

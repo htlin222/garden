@@ -1,14 +1,14 @@
 ---
 title: History heart failure
 ---
-# History heart failure
-## Low output: 
+story heart failure
+
     fatigue, 
     weakness, 
     exercise intolerance, 
     ∆ MS, 
     anorexia
-## Congestive: 
+stive: 
     left-sided → 
         dyspnea, orthopnea, paroxysmal nocturnal dyspnea
     right-sided → 

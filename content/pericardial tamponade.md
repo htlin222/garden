@@ -1,7 +1,7 @@
 ---
 title: pericardial tamponade
 ---
-# pericardial tamponade
+
 
 * [[Etiology-pericardial tamponade]]
 * [[Pathophysiology-pericardial tamponade]]

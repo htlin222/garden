@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-gastrointestinal bleeding
 ---
-# Diagnostic studies-gastrointestinal bleeding
+stic studies-gastrointestinal bleeding
 
 (JACR 2021;18:S139)
 

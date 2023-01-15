@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Approach to suspected Cushing’s syndrome]]
 
-# Cushing’s disease
+shing’s disease
 
 Cushing’s syndrome 2° to pituitary ACTH hypersecretion
 

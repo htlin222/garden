@@ -1,7 +1,7 @@
 ---
 title: Treatment of asymptomatic 1° HPT
 ---
-# Treatment of asymptomatic 1° HPT
+symptomatic 1° HPT
 
 * Surgery if: age <50 y; serum Ca >1 mg/dL >ULN; CrCl <60 mL/min, DEXA T score <–2.5
 * If surgery declined/deferred, can Rx with cinacalcet (↓ Ca & PTH but may not ↑ BMD)

@@ -1,7 +1,7 @@
 ---
 title: Differential Diagnosis of Delirium
 ---
-# Differential Diagnosis of Delirium
+sis of Delirium
 
 Toxins
 Prescription medications: especially those with anticholinergic properties, narcotics, and benzodiazepines

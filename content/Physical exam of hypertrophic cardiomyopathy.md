@@ -1,7 +1,7 @@
 ---
 title: Physical exam of hypertrophic cardiomyopathy
 ---
-# Physical exam of hypertrophic cardiomyopathy
+sical exam of hypertrophic cardiomyopathy
 
 * Sustained PMI, S2 paradoxically split if severe outflow obstruction, ⊕ S4 (occ. palpable)
 

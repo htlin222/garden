@@ -1,7 +1,7 @@
 ---
 title: Dx studies of Granulomatosis with polyangiitis
 ---
-# Dx studies of Granulomatosis with polyangiitis
+studies of Granulomatosis with polyangiitis
 
 90% ⊕ ANCA (80% PR3, 20% MPO), less Se in limited upper-airway disease
  

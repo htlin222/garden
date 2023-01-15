@@ -1,7 +1,7 @@
 ---
 title: Atypical ANCA patterns
 ---
-# Atypical ANCA patterns
+s
 
 * drug-induced vasculitis, 
 * nonvasculitic rheumatic diseases, 

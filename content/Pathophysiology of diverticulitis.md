@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology of diverticulitis
 ---
-# Pathophysiology of diverticulitis
+siology of diverticulitis
 
 (NEJM 2007;357:2057; Gastro 2015;149:1944)
 

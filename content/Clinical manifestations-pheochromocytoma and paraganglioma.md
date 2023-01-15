@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-pheochromocytoma and paraganglioma
 ---
-# Clinical manifestations-pheochromocytoma and paraganglioma
+stations-pheochromocytoma and paraganglioma
  (NEJM 2019;381:552)
 * Neuroendocrine neoplasm leads to inappropriate and paroxysmal release of adrenergic agents including epinephrine, norepinephrine, and rarely dopamine
 * Classic triad: episodic headaches, palpitations and profuse sweating; only 50% have paroxysmal hypertension and most Pts do not have three classic sx

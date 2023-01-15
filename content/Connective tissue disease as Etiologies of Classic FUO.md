@@ -1,7 +1,7 @@
 ---
 title: Connective tissue disease as Etiologies of Classic FUO
 ---
-# Connective tissue disease as Etiologies of Classic FUO
+ssue disease as Etiologies of Classic FUO
 
 
 [[Giant cell arteritis]]

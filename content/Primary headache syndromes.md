@@ -1,7 +1,7 @@
 ---
 title: Primary headache syndromes
 ---
-# Primary headache syndromes
+syndromes
 
 * [[Tension-type headache]]
 * [[Cluster headache]]

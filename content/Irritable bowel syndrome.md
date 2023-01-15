@@ -1,7 +1,7 @@
 ---
 title: Irritable bowel syndrome
 ---
-# Irritable bowel syndrome
+syndrome
 
 (JAMA 2015;313:949; Gastro 2015;149:1399 & 2018;154:1140)
 

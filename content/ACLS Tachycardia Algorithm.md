@@ -1,7 +1,7 @@
 ---
 title: ACLS Tachycardia Algorithm
 ---
-# ACLS Tachycardia Algorithm
+
 
 * [[electrocardiography]]
 

@@ -1,7 +1,7 @@
 ---
 title: Benzodiazepines-toxicology
 ---
-# Benzodiazepines-toxicology
+s-toxicology
 
 
 ↓ mentation, ataxia, ↓ RR

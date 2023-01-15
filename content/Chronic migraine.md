@@ -1,7 +1,7 @@
 ---
 title: Chronic migraine
 ---
-# Chronic migraine
+
 
 Chronic migraine is defined as
 ≥15 headache days per month for >3 months

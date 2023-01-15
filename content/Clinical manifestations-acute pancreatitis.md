@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-acute pancreatitis
 ---
-# Clinical manifestations-acute pancreatitis
+stations-acute pancreatitis
 
 * Epigastric abdominal or LUQ pain (90%), only ½ w/ bandlike pain radiating to back
 

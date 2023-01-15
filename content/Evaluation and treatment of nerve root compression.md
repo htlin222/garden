@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[nerve root compression]]
-# Evaluation and treatment of nerve root compression
+ssion
 
 (NEJM 2016;374:1763)
 

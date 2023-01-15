@@ -1,33 +1,33 @@
 ---
 title: Thromboprophylaxis
 ---
-# Thromboprophylaxis
+s
 
 Blood Adv 2018;2:3198
 
-## Low-risk med; same-day surg & <40 y
+sk med; same-day surg & <40 y
 
 Early, aggressive ambulation ± mechanical
 
-## Moderate-risk (hosp., ≥1 risk factor) or high-risk medical (hosp., ICU, cancer, stroke)
+sk (hosp., ≥1 risk factor) or high-risk medical (hosp., ICU, cancer, stroke)
 
 LMWH or UFH (if renal failure) or fonda (if HIT ⊕). Pharmacologic favored vs. mechanical, but may personalize based on bleeding & thrombotic risk.
 
-## Low-risk surgery (minor surgery)
+sk surgery (minor surgery)
 
 Mechanical Ppx
 
-## Moderate-risk surgery (eg, major surgery, trauma, immobilization)
+sk surgery (eg, major surgery, trauma, immobilization)
 
 If low bleeding risk: LMWH or UFH SC
 
 If high bleeding risk: mech Ppx
 
-## High-risk nonorthopedic surgery (multiple risk factors), stroke or ICH
+sk nonorthopedic surgery (multiple risk factors), stroke or ICH
 
 [LMWH or UFH SC] + mech. Stroke s/p lytic or ICH: mech 24 h or until bleed stable, then + pharm.
 
-## Ortho surgery (cont pharmacoRx up to 35 d [hip] or 10–14 d [knee])
+surgery (cont pharmacoRx up to 35 d [hip] or 10–14 d [knee])
 
 LMWH or DOAC (or fonda, UFH, or warfarin [INR 2–3]) + mech Ppx.
 

@@ -1,7 +1,7 @@
 ---
 title: Standard workup-hypertension
 ---
-# Standard workup-hypertension
+sion
 * Goals: (1) identify CV risk factors; (2) consider 2° causes; (3) assess for target-organ damage
 * History: CAD, HF, TIA/CVA, PAD, DM, renal insufficiency, sleep apnea, preeclampsia; ⊕ FHx for HTN; diet, Na intake, smoking, alcohol, prescription and OTC meds, OCP
 * Physical exam: ✓ BP in both arms; funduscopic exam, BMI, cardiac (LVH, murmurs), vascular (bruits, radial-femoral delay), abdominal (masses or bruits), neuro exam

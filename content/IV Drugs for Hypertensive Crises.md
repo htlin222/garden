@@ -1,7 +1,7 @@
 ---
 title: IV Drugs for Hypertensive Crises
 ---
-# IV Drugs for Hypertensive Crises
+s for Hypertensive Crises
 
  (Circ 2018;138:e426; Stroke 2018;49:46)
 Labetalol 20–80 mg IVB q10min or 0.4–2 mg/min AoD, ACS, Stroke, Eclampsia

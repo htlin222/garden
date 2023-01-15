@@ -1,7 +1,7 @@
 ---
 title: definition and etiologies of peptic ulcer disease
 ---
-# definition and etiologies of peptic ulcer disease
+s of peptic ulcer disease
 
 
 (BMJ 2019;367:5495)

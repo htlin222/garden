@@ -1,7 +1,7 @@
 ---
 title: Treatment-mitral-stenosis
 ---
-# Treatment-mitral-stenosis
+stenosis
 
 
 * Medical: Na restriction, cautious diuresis, βB, AF control, sx-limited physical stress

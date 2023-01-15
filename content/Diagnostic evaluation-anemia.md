@@ -1,7 +1,7 @@
 ---
 title: Diagnostic evaluation-anemia
 ---
-# Diagnostic evaluation-anemia
+stic evaluation-anemia
 
 * History: bleeding, systemic illness, drugs, exposures, alcohol, diet (including pica), FHx
 

@@ -1,7 +1,7 @@
 ---
 title: Workup-syncope
 ---
-# Workup-syncope
+syncope
 
 (etiology cannot be determined in ~40% of cases) (JAMA 2019;321:2448)
 * H&P incl. orthostatic VS have highest yield and most cost effective

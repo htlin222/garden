@@ -1,12 +1,12 @@
 ---
 title: respiratory-acidosis
 ---
-# respiratory-acidosis
+spiratory-acidosis
  (NEJM 1989;321:1223; Crit Care 2010;14:220)
 
 [[Etiologies of High elevated PaCO2]]
 
-## Etiologies 
+s 
 (also see “Hypercapnia”; PaCO2 = VCO2/VE(1-VD/VT); VE = RR x VT)
 * ↑ CO2 production (↑ VCO2): fever, thyrotoxicosis, sepsis, steroids, overfeeding (carbs)
 * CNS depression (↓ RR and/or VT): sedatives (opiates, benzos, etc.), CNS trauma, central sleep apnea, obesity, hypoventilation, hypothyroidism

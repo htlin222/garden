@@ -1,7 +1,7 @@
 ---
 title: von Willebrand’s disease  vWD 
 ---
-# von Willebrand’s disease (vWD)
+s disease (vWD)
 
 (NEJM 2016;375:2067)
 

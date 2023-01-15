@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Primary Hyperaldosteronism]]
 
-# adrenal incidentaloma
+
 
 
 All patients with an adrenal mass that is discovered during diagnostic testing for another condition (an “incidentaloma”) should undergo biochemical testing to detect **pheochromocytoma** and excess cortisol secretion, and those who also have high blood pressure should undergo biochemical testing to detect primary hyperaldosteronism.

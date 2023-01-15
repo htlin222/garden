@@ -1,7 +1,7 @@
 ---
 title: Diagnostic evaluation-hemolytic anemias
 ---
-# Diagnostic evaluation-hemolytic anemias
+stic evaluation-hemolytic anemias
 
 * ↑ retic count (RI >2%), ↑ LDH, ↓ hapto (83% Se, 96% Sp), ↑ indirect bili, ✓ vit C & Cu
 

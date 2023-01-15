@@ -2,7 +2,7 @@
 title: infectious disease
 enableToc: false
 ---
-# infectious disease
+s disease
 * [[pneumonia]]
 * [[fungal infections]]
 * [[infxns in immunosuppressed hosts]]
@@ -18,7 +18,7 @@ enableToc: false
 * [[antibiotics]]
 * [[pathogen]]
 
-## Resident 360 topics
+sident 360 topics
 * [[Diabetic Foot Infection]]
 * [[opportunistic infections]]
 * Tuberculosis

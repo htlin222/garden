@@ -1,7 +1,7 @@
 ---
 title: Definition and etiologies-chronic kidney disease  CKD 
 ---
-# Definition and etiologies-chronic kidney disease (CKD)
+s-chronic kidney disease (CKD)
 
  (Lancet 2021;10302:786)
 

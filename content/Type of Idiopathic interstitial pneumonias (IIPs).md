@@ -1,7 +1,7 @@
 ---
 title: Type of Idiopathic interstitial pneumonias  IIPs 
 ---
-# Type of Idiopathic interstitial pneumonias (IIPs)
+stitial pneumonias (IIPs)
 
 
 [[IPF idiopathic pulm fibrosis]]

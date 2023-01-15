@@ -1,7 +1,7 @@
 ---
 title: Classic-Eponymous-Signs-in-Chronic-AR
 ---
-# Classic-Eponymous-Signs-in-Chronic-AR
+ssic-Eponymous-Signs-in-Chronic-AR
 
 | Sign               | Description                                                       |
 |--------------------|-------------------------------------------------------------------|

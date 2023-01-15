@@ -1,7 +1,7 @@
 ---
 title: Etiology-aortic-stenosis
 ---
-# Etiology-aortic-stenosis
+stenosis
  
 * Calcific: predominant cause in Pts >70 y; risk factors: HTN, ↑ LDL-C, ↑ Lp(a), ESRD
 * Congenital (ie, bicuspid AoV w/ premature calcification): cause in 50% of Pts <70 y

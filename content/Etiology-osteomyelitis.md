@@ -1,7 +1,7 @@
 ---
 title: Etiology-osteomyelitis
 ---
-# Etiology-osteomyelitis
+steomyelitis
 
 (Lancet 2004;364:369)
 * Hematogenous: S. aureus; mycobacterial infection of vertebral body = Pott’s disease

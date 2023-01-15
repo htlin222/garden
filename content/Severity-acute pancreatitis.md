@@ -1,7 +1,7 @@
 ---
 title: Severity-acute pancreatitis
 ---
-# Severity-acute pancreatitis
+s
 
  (Gut 2013;62:102; Gastro 2018;154:1096)
 

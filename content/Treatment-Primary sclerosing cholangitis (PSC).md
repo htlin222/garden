@@ -1,7 +1,7 @@
 ---
 title: Treatment-Primary sclerosing cholangitis  PSC 
 ---
-# Treatment-Primary sclerosing cholangitis (PSC)
+sclerosing cholangitis (PSC)
 
 
 * supportive care, fat-soluble vitamins; no meds have improved survival

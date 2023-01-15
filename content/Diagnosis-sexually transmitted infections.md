@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-sexually transmitted infections
 ---
-# Diagnosis-sexually transmitted infections
+sis-sexually transmitted infections
 
 (MMWR 2021;70:1; JAMA 2022;327:161)
 * Syphilis: 1st step is treponemal test: IgG to T. pallidum. ⊕ for life.

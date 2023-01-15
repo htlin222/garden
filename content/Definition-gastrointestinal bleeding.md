@@ -1,7 +1,7 @@
 ---
 title: Definition-gastrointestinal bleeding
 ---
-# Definition-gastrointestinal bleeding
+strointestinal bleeding
 
 上消化道 (GI) 出血是指來自 Treitz 韌帶上方
 

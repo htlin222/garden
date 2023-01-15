@@ -1,9 +1,9 @@
 ---
 title: Normal GFR but with ↓ renal K excretion-hyperkalemia
 ---
-# Normal GFR but with ↓ renal K excretion-hyperkalemia
 
-## Normal aldosterone function
+
+sterone function
 
 * ↓ EAV (K excretion limited by ↓ distal Na delivery & urine flow): CHF, cirrhosis
 
@@ -11,7 +11,7 @@ title: Normal GFR but with ↓ renal K excretion-hyperkalemia
 
 * Ureterojejunostomy (absorption of urinary K in jejunum)
 
-## Hypoaldosteronism: 
+steronism: 
 > same as etiologies of hypoaldo RTA (type IV)
 
 * ↓ renin: DM, NSAIDs, chronic interstitial nephritis, HIV, multiple myeloma, Gordon’s

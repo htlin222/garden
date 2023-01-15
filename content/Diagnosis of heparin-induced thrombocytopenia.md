@@ -1,8 +1,8 @@
 ---
 title: Diagnosis of heparin-induced thrombocytopenia
 ---
-# Diagnosis of heparin-induced thrombocytopenia
-## [[Evaluation of Suspected HIT]] (“4T’s”)
+sis of heparin-induced thrombocytopenia
+spected HIT]] (“4T’s”)
 
 * Clinical: plt <100k or ↓ 50% from baseline; or venous (DVT/PE) or arterial (limb ischemia, CVA, MI) thrombosis (4:1 ratio); skin necrosis; ? ↑ heparin resistance
 

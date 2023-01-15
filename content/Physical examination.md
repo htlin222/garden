@@ -3,7 +3,7 @@ title: Physical Examination
 aliases: [Physical Examination]
 linter-yaml-title-alias: Physical Examination
 ---
-# Physical Examination
+sical Examination
 
 * Wheezing and prolonged expiratory phase
 

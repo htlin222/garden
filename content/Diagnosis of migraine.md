@@ -1,7 +1,7 @@
 ---
 title: Diagnosis of migraine
 ---
-# Diagnosis of migraine
+sis of migraine
 
 * Record medical history
 * Apply diagnostic criteria

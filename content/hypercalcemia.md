@@ -1,7 +1,7 @@
 ---
 title: hypercalcemia
 ---
-# hypercalcemia
+
 * [[Etiologies of Hypercalcemia]]
 * [[Clinical manifestations-hypercalcemia]] (“bones, stones, abdominal groans, and psychic moans”)
 * [[Diagnostic studies-hypercalcemia]]

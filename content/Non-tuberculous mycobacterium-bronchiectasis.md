@@ -1,7 +1,7 @@
 ---
 title: Non-tuberculous mycobacterium-bronchiectasis
 ---
-# Non-tuberculous mycobacterium-bronchiectasis
+s mycobacterium-bronchiectasis
 
 
 (NTM; eg, MAC, Mycobacterium kansaii)

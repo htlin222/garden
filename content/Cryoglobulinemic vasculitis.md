@@ -1,13 +1,13 @@
 ---
 title: Cryoglobulinemic vasculitis
 ---
-# Cryoglobulinemic vasculitis
+sculitis
 
 (Lancet 2012;379:348; Nat Rev Dis Primers 2018;4:11)
 * Cryoglobulins: proteins that precipitate from serum or plasma on exposure to cold and redissolve on rewarming, characterized by their composition; a/w chronic immune stimulation and/or lymphoproliferation
 * Distinguish from cryofibrinogenemia = proteins (eg, fibrin, fibrinogen) that precipitate only from plasma; found in autoimmune dis, malignancies, infxns; unclear clinical significance
  
-## [[Types of Cryoglobulinemia]] (J Autoimmun 2019;105:102313)
+s of Cryoglobulinemia]] (J Autoimmun 2019;105:102313)
 
 * Epidemiology: ~1/100,000, but prevalence varies with HCV rates; ♀ >♂
 * Etiologies (idiopathic in ~10%)

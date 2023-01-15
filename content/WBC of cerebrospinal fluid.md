@@ -1,7 +1,7 @@
 ---
 title: WBC of cerebrospinal fluid
 ---
-# WBC of cerebrospinal fluid
+spinal fluid
 
 * 正常 CSF WBC < 5
 * 若 traumatic tapping，每 500–1500 個 RBC 要減去 1 WBC

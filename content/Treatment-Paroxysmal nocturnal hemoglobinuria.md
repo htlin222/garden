@@ -1,7 +1,7 @@
 ---
 title: Treatment-Paroxysmal nocturnal hemoglobinuria
 ---
-# Treatment-Paroxysmal nocturnal hemoglobinuria
+smal nocturnal hemoglobinuria
 
 
 supportive care (iron, folate, transfusions); consider anticoagulation.

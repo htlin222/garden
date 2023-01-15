@@ -1,7 +1,7 @@
 ---
 title: Nervous System Dysfunction
 ---
-# Nervous System Dysfunction
+s System Dysfunction
 
 
 Chapter 21: Syncope

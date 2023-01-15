@@ -1,7 +1,7 @@
 ---
 title: Maldigestion
 ---
-# Maldigestion
+stion
 
  (fatty; ↑ fecal fat, ↑ osmotic gap, ↓ diarrhea w/ fasting)
 

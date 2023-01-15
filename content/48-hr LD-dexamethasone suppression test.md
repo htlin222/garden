@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Approach to suspected Cushing’s syndrome]]
 
-# 48-hr LD-dexamethasone suppression test
+sone suppression test
 
 * 48-h LD DST + CRH =
 	* 0.5 mg q6h × 2 d, then IV CRH 2 h later;

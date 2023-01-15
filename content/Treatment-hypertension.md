@@ -1,7 +1,7 @@
 ---
 title: Treatment-hypertension
 ---
-# Treatment-hypertension
+sion
 
 * Every ↓ 5 mmHg → ~10% ↓ ischemic heart disease, stroke, and HF (Lancet 2021;397:1625)
 * Lifestyle modifications (each may ↓ SBP ~5 mmHg)

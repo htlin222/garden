@@ -1,7 +1,7 @@
 ---
 title: Definitions-acute aortic syndromes
 ---
-# Definitions-acute aortic syndromes
+s-acute aortic syndromes
 
 (Circ 2010;121:e266; Eur Heart J 2012;33:26)
 * Aortic dissection: intimal tear → blood extravasates into Ao media (creates false lumen)

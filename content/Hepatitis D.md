@@ -1,7 +1,7 @@
 ---
 title: Hepatitis D
 ---
-# Hepatitis D
+s D
 
 (RNA; Gastro 2019:156;461)
 

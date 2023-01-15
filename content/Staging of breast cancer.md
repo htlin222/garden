@@ -1,7 +1,7 @@
 ---
 title: Staging of breast cancer
 ---
-# Staging of breast cancer
+st cancer
 * Anatomic: tumor size, chest wall invasion, axillary LN mets (strongest prognostic factor)
 * Histopathologic: type (little prognostic relevance) & grade; lymphatic/vascular invasion
     In situ carcinoma: no invasion of surrounding stroma
@@ -12,7 +12,7 @@ title: Staging of breast cancer
     Paget disease (see above): ductal cancer invading nipple epidermis ± associated mass
 * Tissue biomarkers: estrogen and progesterone receptor (ER/PR), HER2
 * Oncotype DX 21-gene expression recurrence score predicts which ER ⊕, HER2 ⊖ will have minimal benefit from adjuvant chemo in LN ⊖ (NEJM 2018;379:111) and LN ⊕ (1–3) disease (NEJM 2021;385:2336)
-## Simplified Staging & 5-y Dis. Specific Survival (CA Cancer J Clin 2017;67:290; SEER 2017)
+s. Specific Survival (CA Cancer J Clin 2017;67:290; SEER 2017)
 | Stage  | Characteristics                               | Description           | 5-y DSS |
 |        |                                               |                       |         |
 | I      | Tumor       ≤2 cm                             | Operable locoregional | 99%     |
@@ -23,6 +23,6 @@ title: Staging of breast cancer
 | IV     | Distant metastases                            | Metastatic            | 27%     |
 
 
-### 相關連結：
+
 
 - [[breast cancer]]

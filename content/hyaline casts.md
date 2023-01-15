@@ -1,7 +1,7 @@
 ---
 title: hyaline casts
 ---
-# hyaline casts
+sts
 
 * Casts are clusters of urinary sediment elements 
 * (red blood cells, white blood cells, fat bodies, etc.) wrapped in a protein matrix. 

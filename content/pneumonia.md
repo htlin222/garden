@@ -1,7 +1,7 @@
 ---
 title: pneumonia
 ---
-# pneumonia
+
 * [[Definitions-and-clinical-manifestations]]
 * [[Microbiology-of-Pneumonia]]
 * [[Diagnostic studies-pneumonia]] (AJRCC 2019;200:e45)

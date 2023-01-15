@@ -1,7 +1,7 @@
 ---
 title: clinical manifestations-anemia
 ---
-# clinical manifestations-anemia
+stations-anemia
 
 * Symptoms: ↓ O2 delivery → fatigue, exertional dyspnea, angina (if CAD)
 

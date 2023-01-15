@@ -1,7 +1,7 @@
 ---
 title: Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state
 ---
-# Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state
+s, pathophysiology-hyperosmolar hyperglycemic state
 
 
 (Med Clin North Am 2017;101:587)

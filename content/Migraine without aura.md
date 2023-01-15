@@ -1,7 +1,7 @@
 ---
 title: Migraine without aura
 ---
-# Migraine without aura
+
 
 ![5-4-3-2-1 PUMA 嘔怕](https://i.imgur.com/NvsjpYd.png)
 Migraine without aura is characterized by 

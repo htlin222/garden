@@ -1,7 +1,7 @@
 ---
 title: Complications-cholecystitis
 ---
-# Complications-cholecystitis
+s-cholecystitis
 
 * Gangrenous cholecystitis: necrosis w/ risk of empyema and perforation
 

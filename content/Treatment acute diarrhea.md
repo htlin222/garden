@@ -1,7 +1,7 @@
 ---
 title: Treatment acute diarrhea
 ---
-# Treatment acute diarrhea
+
 
 (Am J Gastro 2016;111:602; Clin Infect Dis 2017;65:e45)
 

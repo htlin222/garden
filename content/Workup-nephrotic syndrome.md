@@ -1,7 +1,7 @@
 ---
 title: Workup-nephrotic syndrome
 ---
-# Workup-nephrotic syndrome
+syndrome
 
 (BMJ 2008;336:1185)
 

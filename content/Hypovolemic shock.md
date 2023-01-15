@@ -1,9 +1,9 @@
 ---
 title: Hypovolemic shock
 ---
-# Hypovolemic shock
+shock
 
-## Hemorrhagic
+
 
 Trauma
 
@@ -11,9 +11,9 @@ GI bleeding
 
 Ruptured ectopic pregnancy
 
-## GI losses
+sses
 
-## Burns
+s
 
 Polyuria
 

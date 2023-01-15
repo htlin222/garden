@@ -1,6 +1,6 @@
 ---
 title: dysnatremias
 ---
-# dysnatremias
+snatremias
 
 [[overview-sodium and water homeostasis]]

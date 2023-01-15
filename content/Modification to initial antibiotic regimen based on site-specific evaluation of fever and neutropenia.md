@@ -1,7 +1,7 @@
 ---
 title: Modification to initial antibiotic regimen based on site-specific evaluation of fever and neutropenia
 ---
-# Modification to initial antibiotic regimen based on site-specific evaluation of fever and neutropenia
+sed on site-specific evaluation of fever and neutropenia
 
 * Vancomycin only if HoTN, PNA, clinically apparent catheter-related or soft-tissue infxn, gram ⊕ BCx, mucositis + on quinolone Ppx; d/c when BCx ⊖ × 48 h for GPCs
 * Mouth/esoph (ulcer, thrush): anaerobic (if necrotizing), anti-HSV and/or antifungal Rx

@@ -1,7 +1,7 @@
 ---
 title: Follow-up-aortic aneurysms
 ---
-# Follow-up-aortic aneurysms
+sms
 
 
 (Circ 2010;121:e266; Nat Rev Cardiol 2011;8:92; JAMA 2013;309:806)

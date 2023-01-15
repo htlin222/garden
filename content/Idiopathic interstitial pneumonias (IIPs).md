@@ -1,7 +1,7 @@
 ---
 title: Idiopathic interstitial pneumonias  IIPs 
 ---
-# Idiopathic interstitial pneumonias (IIPs)
+stitial pneumonias (IIPs)
 
 
 (AJRCCM 2013;188:733)

@@ -1,17 +1,17 @@
 ---
 title: Medical Therapy of Ulcerative Colitis
 ---
-# Medical Therapy of Ulcerative Colitis
+s
 
-## Mild
+
 * Rectal mesalamine or glucocorticoids as suppository or enema
 
-## Mild- moderate
+
 * Oral 5-ASA: many formulations (sulfasalazine, mesalamine, olsalazine, balsalazide) depending on disease location. Used for induction & maintenance of remission. Complications: pancreatitis, abd pain, diarrhea.
 
 * MMX-budesonide: PO budesonide released throughout colon for flare. 1st-pass metab ↓ systemic steroid adverse effects of steroid.
 
-## Moderate- severe
+severe
 * PO prednisone: 40–60 mg w/ taper over several wks to induce remission
 
 * AZA/6-MP: 0.5–1 mg/kg and uptitrate over several wks for maintenance
@@ -25,7 +25,7 @@ title: Medical Therapy of Ulcerative Colitis
 * Anti-TNF: ↑ remission rate when AZA combined w/ IFX (Gastro 2014;146:392)
 
 
-## Severe or refractory disease
+sease
 (Lancet 2017; 389:1218; NEJM 2016; 374:1754 & 2017; 76:1723; JAMA 2019; 321:156)
 
 * IV steroids: 100 mg hydrocort q8h or 16–20 mg methylpred q8h to induce remission w/ plan to taper & switch to non-steroid maintenance.

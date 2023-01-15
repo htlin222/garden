@@ -1,7 +1,7 @@
 ---
 title: Vitamin B12 deficiency
 ---
-# Vitamin B12 deficiency
+
 
 (NEJM 2013;368:149)
 

@@ -1,9 +1,9 @@
 ---
 title: Migraine
 ---
-# Migraine
 
-## 小麻內容
+
+
 * [[Definition and clinical manifestations of Migraine]]
 * [[Treatment of Migraine]] (Lancet 2021;397:1505 & Continuum 2021;27:613)
 

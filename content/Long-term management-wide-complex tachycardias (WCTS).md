@@ -1,7 +1,7 @@
 ---
 title: Long-term management-wide-complex tachycardias  WCTS 
 ---
-# Long-term management-wide-complex tachycardias (WCTS)
+s (WCTS)
 
 
 (EHJ 2015;36:2793; Circ 2018;138:e272; NEJM 2019;380:1555)

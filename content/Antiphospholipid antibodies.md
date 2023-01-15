@@ -1,7 +1,7 @@
 ---
 title: Antiphospholipid antibodies
 ---
-# Antiphospholipid antibodies
+spholipid antibodies
 
 [[Antiphospholipid syndrome (APS)]]
 

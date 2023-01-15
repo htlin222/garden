@@ -1,7 +1,7 @@
 ---
 title: Whipple’s disease
 ---
-# Whipple’s disease
+s disease
 
 infxn w/ T. whipplei (Lancet 2016;16:13)
 

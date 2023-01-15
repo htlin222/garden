@@ -1,7 +1,7 @@
 ---
 title: coronavirus  covid-19 
 ---
-# coronavirus (covid-19)
+s (covid-19)
 
 Microbiology & epidemiology
 * Person-to-person transmission via respiratory particles; asx & pre-sx transmission can occur

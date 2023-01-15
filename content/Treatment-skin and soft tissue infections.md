@@ -1,7 +1,7 @@
 ---
 title: Treatment-skin and soft tissue infections
 ---
-# Treatment-skin and soft tissue infections
+skin and soft tissue infections
 
  (CID 2014;60:169)
 * Urgent surgical exploration with debridement of necrotic tissue and ID consultation

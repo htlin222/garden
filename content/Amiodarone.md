@@ -1,7 +1,7 @@
 ---
 title: Amiodarone
 ---
-# Amiodarone
+
 
 * 150 mg/3 mL
 * loading infusion：150 mg in 100 mL over 10 min；

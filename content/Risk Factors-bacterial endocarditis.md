@@ -1,7 +1,7 @@
 ---
 title: Risk Factors-bacterial endocarditis
 ---
-# Risk Factors-bacterial endocarditis
+sk Factors-bacterial endocarditis
 
 * Abnormal valve (JAMA 1997;277:1794; JACC 2018;72:2443)
 High risk: prior endocarditis, prosthetic valve or ring, some congenital heart disease (unrepaired cyanotic; shunt/conduit; prosthesis in past 6 mos), transplant heart, valvulopathy, VAD

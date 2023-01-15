@@ -1,7 +1,7 @@
 ---
 title: Aldosterone-antagonists
 ---
-# Aldosterone-antagonists
+sterone-antagonists
 
 * Add after RASi and bB if adeq. renal fxn and w/o hyperkalemia
 

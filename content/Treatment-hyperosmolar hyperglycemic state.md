@@ -1,7 +1,7 @@
 ---
 title: Treatment-hyperosmolar hyperglycemic state
 ---
-# Treatment-hyperosmolar hyperglycemic state
+smolar hyperglycemic state
 
 * Rule-out possible precipitants; ~15% mortality due to precipitating factors
 * Aggressive hydration: initially NS, then ½ NS, average fluid loss up to 8–10 L

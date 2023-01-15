@@ -1,6 +1,6 @@
 ---
 title: myelodysplastic syndromes
 ---
-# myelodysplastic syndromes
+splastic syndromes
 see:  [[pancytopenia]]
 

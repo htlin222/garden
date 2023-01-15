@@ -1,7 +1,7 @@
 ---
 title: Diagnostic-studies-aortic-stenosis
 ---
-# Diagnostic-studies-aortic-stenosis
+stic-studies-aortic-stenosis
 
 * ECG: may see LVH, LAE, LBBB, AF (in late disease)
 * CXR: cardiomegaly, AoV calcification, poststenotic dilation of ascending Ao, pulmonary congestion

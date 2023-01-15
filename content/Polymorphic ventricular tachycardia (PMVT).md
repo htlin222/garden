@@ -1,7 +1,7 @@
 ---
 title: Polymorphic ventricular tachycardia  PMVT 
 ---
-# Polymorphic ventricular tachycardia (PMVT)
+
 
 * QRS morphology changes from beat to beat
 * Etiologies: ischemia; CMP; catecholaminergic

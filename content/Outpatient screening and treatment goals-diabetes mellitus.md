@@ -1,7 +1,7 @@
 ---
 title: Outpatient screening and treatment goals-diabetes mellitus
 ---
-# Outpatient screening and treatment goals-diabetes mellitus
+screening and treatment goals-diabetes mellitus
 
 (Diabetes Care 2022;45;S83 & S144)
 * ✓ HbA1C q3–6mo, goal <7% for most Pts. Goal <6.5% if low-risk hypoglycemia; ≤8% if h/o severe hypoglycemia, elderly or other comorbid.

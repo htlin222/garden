@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[deep vein thrombosis]]
 
-# Diagnostic studies—DVT
+stic studies—DVT
 
 * [[d-dimer]]:
 	* (DVT excluded at D-dimer levels <0.5 µg/mL = 500 µg/L).

@@ -1,9 +1,9 @@
 ---
 title: hypertrophic cardiomyopathy
 ---
-# hypertrophic cardiomyopathy
 
-## Definition, epidemiology, pathology (Circ Res 2017;121:749)
+
+s 2017;121:749)
 
 * LV (usually ≥15 mm) and/or RV hypertrophy disproportionate to hemodynamic load
 
@@ -15,9 +15,9 @@ title: hypertrophic cardiomyopathy
 
 * Ddx: LVH 2° to HTN, AS, elite athletes (wall usually <13 mm & symmetric and nl/↑ rates of tissue Doppler diastolic relaxation; Circ 2011;123:2723), Fabry dis. (↑ Cr, skin findings)
 
-## [[Pathophysiology of hypertrophic cardiomyopathy]]
+siology of hypertrophic cardiomyopathy]]
 
-## Clinical manifestations (70% are asymptomatic at dx)
+stations (70% are asymptomatic at dx)
 
 * Dyspnea (90%): due to ↑ LVEDP, MR, and diastolic dysfunction
 
@@ -25,7 +25,7 @@ title: hypertrophic cardiomyopathy
 
 * Arrhythmias (AF in 20–25%; VT/VF): palpitations, syncope, sudden cardiac death
 
-## [[Physical exam of hypertrophic cardiomyopathy]]
+sical exam of hypertrophic cardiomyopathy]]
 
-## [[Diagnostic studies of hypertrophic cardiomyopathy]]
-## [[Treatment of hypertrophic cardiomyopathy]]
+stic studies of hypertrophic cardiomyopathy]]
+

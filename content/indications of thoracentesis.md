@@ -1,7 +1,7 @@
 ---
 title: indications of thoracentesis
 ---
-# indications of thoracentesis
+s of thoracentesis
 
 * all effusions >1 cm in decubitus view
 * if suspect due to CHF, can diurese and see if effusions resolve (75% do so in 48 h); 

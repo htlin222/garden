@@ -1,7 +1,7 @@
 ---
 title: Physical-exam-aortic-stenosis
 ---
-# Physical-exam-aortic-stenosis
+sical-exam-aortic-stenosis
 
 * Midsystolic crescendo-decrescendo murmur at RUSB, harsh, high-pitched, radiates to carotids, apex (holosystolic = Gallavardin effect), ↑ w/ passive leg raise, ↓ w/ standing & Valsalva. Dynamic outflow obstruction (HCM) is the reverse.
 * Ejection click after S1 sometimes heard with bicuspid AoV

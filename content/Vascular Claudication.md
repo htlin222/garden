@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[nerve root compression]]
-# Vascular Claudication
+scular Claudication
 
 Peripheral artery disease
 

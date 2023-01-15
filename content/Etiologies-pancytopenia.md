@@ -1,7 +1,7 @@
 ---
 title: Etiologies-pancytopenia
 ---
-# Etiologies-pancytopenia
+s-pancytopenia
 
 * Hypocellular bone marrow (nl cellularity ~100 – age): aplastic anemia, hypoplastic MDS
 

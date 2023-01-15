@@ -1,7 +1,7 @@
 ---
 title: Bioprosthetic
 ---
-# Bioprosthetic
+sthetic
 
 * Bovine pericardial or porcine heterograft (eg, Carpentier-Edwards), homograft
 * Less durable, but min. thrombogenic; consider if >~65 y, lifespan <20 y, or Ø anticoag

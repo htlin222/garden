@@ -1,7 +1,7 @@
 ---
 title: Resistant HTN
 ---
-# Resistant HTN
+sistant HTN
 
  (BP >goal on ≥3 drugs incl diuretic; HTN 2018;72:e53)
 * Exclude: 2° causes (see table) and pseudoresistance: inaccurate measure (cuff size), diet noncomp (↑ Na), poor Rx compliance/dosing, white coat HTN (✓ ABPM)

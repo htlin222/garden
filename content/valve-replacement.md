@@ -1,7 +1,7 @@
 ---
 title: valve-replacement
 ---
-# valve-replacement
+
 
 (Circ 2021;143:e72)
 * Based on symptoms: once they develop → AVR needed

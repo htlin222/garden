@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-pericardial tamponade
 ---
-# Clinical manifestations-pericardial tamponade
+stations-pericardial tamponade
 
 * Cardiogenic shock (hypotension, fatigue) without pulmonary edema
 * Dyspnea (seen in ~85%) may be due to ↑ respiratory drive to augment venous return

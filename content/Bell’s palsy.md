@@ -1,7 +1,7 @@
 ---
 title: Bell’s palsy
 ---
-# Bell’s palsy
+s palsy
 
 Definition & clinical manifestations
 * Acute idiopathic unilat. facial nerve palsy (CN VII), often presumed HSV reactivation

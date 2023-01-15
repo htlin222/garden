@@ -1,7 +1,7 @@
 ---
 title: disorders of leukocytes
 ---
-# disorders of leukocytes
+sorders of leukocytes
 * [[neutrophilia]]
 * [[neutropenia]]
 * [[monocytosis]]

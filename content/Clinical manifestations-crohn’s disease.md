@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-crohn’s disease
 ---
-# Clinical manifestations-crohn’s disease
+stations-crohn’s disease
 
 
 * Abdominal pain, 

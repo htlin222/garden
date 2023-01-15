@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-cholecystitis
 ---
-# Diagnostic studies-cholecystitis
+stic studies-cholecystitis
 
 * RUQ U/S: high Se & Sp for stones, but need specific signs of cholecystitis: GB wall thickening >4 mm, pericholecystic fluid and a sonographic Murphy’s sign
 

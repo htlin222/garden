@@ -1,7 +1,7 @@
 ---
 title: β-blocker
 ---
-# β-blocker
+
 
 
 (data for carvedilol, metoprolol, bisoprolol)

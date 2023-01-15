@@ -1,7 +1,7 @@
 ---
 title: Treatment-Acetaminophen hepatotoxicity
 ---
-# Treatment-Acetaminophen hepatotoxicity
+
 
 NG lavage, activated charcoal if w/in 4 h. Consider early transfer to transplant ctr
 

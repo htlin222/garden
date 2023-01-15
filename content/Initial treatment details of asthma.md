@@ -1,7 +1,7 @@
 ---
 title: Initial treatment details of asthma
 ---
-# Initial treatment details of asthma
+s of asthma
 
 * Oxygen to keep SaO2 ≥93–95%
 

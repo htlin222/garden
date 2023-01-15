@@ -1,7 +1,7 @@
 ---
 title: Complications-acute aortic syndromes
 ---
-# Complications-acute aortic syndromes
+s-acute aortic syndromes
 
 
 (occur in ~20%; Circ 2010;121:e266; Lancet 2015;385:800)

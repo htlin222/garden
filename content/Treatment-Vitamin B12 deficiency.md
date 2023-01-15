@@ -1,7 +1,7 @@
 ---
 title: Treatment-Vitamin B12 deficiency
 ---
-# Treatment-Vitamin B12 deficiency
+
 
 
 * 1 mg B12 IM qd × 7 d → q wk × 4–8 wk → q month for life

@@ -1,14 +1,14 @@
 ---
 title: sensible and insensible fluid losses
 ---
-# sensible and insensible fluid losses
+sensible and insensible fluid losses
 
-## Insensible losses (nonmeasurable)
+sensible losses (nonmeasurable)
 * Lungs: 200 mL
 * Skin: 600 mL
 * Sweat: Variable
 
-## Sensible losses (measurable)
+sible losses (measurable)
 * Fecal: 200 mL
 * Urine: 800 to 1500 mL
 

@@ -1,7 +1,7 @@
 ---
 title: Epidemiology and risk factors-lung cancer
 ---
-# Epidemiology and risk factors-lung cancer
+sk factors-lung cancer
 
 * Most common cause of cancer-related death for both men and women in the U.S.
 * Two main types: non-small cell (NSCLC, ~85% of cases); small cell (SCLC, ~15%)

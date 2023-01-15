@@ -1,7 +1,7 @@
 ---
 title: Acute tubular necrosis  ATN 
 ---
-# Acute tubular necrosis (ATN)
+sis (ATN)
 
 * Allergic: β-lactams, sulfa drugs, NSAIDs, PPIs
 
@@ -11,16 +11,16 @@ title: Acute tubular necrosis  ATN
 
 * Autoimmune: Sjögren’s, TINU, IgG4, SLE, ICIs
 
-## Cause of acute tubular necrosis
+se of acute tubular necrosis
 
-### Ischemia
+schemia
 - sepsis
 - Hypovolemic
 - congestive heart failure, Cirrhosis
 - Medication that cause the decrease renal perfusion e.g. ACE inhibitor, angiotensin receptor blocker 
 - Renal vascular disease: artery trhombosis, stenosis, embolization, thrombotic thrombocytopenic purpura, hemolytic uremic syndrome 
   
-### Toxicity
+
 <!--ID: 1669722171223-->
 
 - aminoglycosides

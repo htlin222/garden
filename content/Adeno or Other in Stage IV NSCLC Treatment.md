@@ -1,7 +1,7 @@
 ---
 title: Adeno or Other in Stage IV NSCLC Treatment
 ---
-# Adeno or Other in Stage IV NSCLC Treatment
+
 
 | Genetics                 | %    | Treatment                                                                                                      |
 | ------                   | ---- | ----------------------                                                                                         |

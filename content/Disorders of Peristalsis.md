@@ -1,7 +1,7 @@
 ---
 title: Disorders of Peristalsis
 ---
-# Disorders of Peristalsis
+sorders of Peristalsis
 
 * Absent contractility (failed peristalsis);
 * distal esophageal spasm (uncord. peristalsis w/ simult. contractions);

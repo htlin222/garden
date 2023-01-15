@@ -1,9 +1,9 @@
 ---
 title: Classification criteria of Behçet’s syndrome
 ---
-# Classification criteria of Behçet’s syndrome
+ssification criteria of Behçet’s syndrome
 
-(#1 + ≥2 others is 91% Se & 96% Sp; Lancet 1990;335:1078)
+(s is 91% Se & 96% Sp; Lancet 1990;335:1078)
 1. Recurrent oral aphthous ulceration (≥3× in 1 y, usually 1st manifestation)
 2. Recurrent genital ulceration (labia in females, scrotum in males)
 3. Eye lesions: uveitis, scleritis, retinal vasculitis, optic neuritis; may threaten vision

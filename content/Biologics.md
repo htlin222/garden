@@ -1,7 +1,7 @@
 ---
 title: Biologics
 ---
-# Biologics
+s
 
 (eg, TNF inhibitors, anti-B- cell Rx; ✓ for TB before starting)
 Bacteria: sepsis, septic arthritis, TB, NTM, Listeria, Legionella

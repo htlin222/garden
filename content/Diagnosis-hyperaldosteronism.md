@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-hyperaldosteronism
 ---
-# Diagnosis-hyperaldosteronism
+sis-hyperaldosteronism
 
 (JCEM 2016;101:1889; Endo Metab Clin 2019;48:681; J Clin Endo Met 2021;106:2423)
 * 5–10% of Pts w/ HTN; ∴ screen if HTN + hypoK, adrenal mass, refractory/early onset HTN

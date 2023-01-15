@@ -1,7 +1,7 @@
 ---
 title: model for clinical reasoning
 ---
-# model for clinical reasoning
+soning
 
 Step 1: Identify the Problem
 Step 2: Frame the Differential Diagnosis

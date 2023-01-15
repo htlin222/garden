@@ -1,7 +1,7 @@
 ---
 title: Electrolyte-abnormalities
 ---
-# Electrolyte-abnormalities
+s
 
 * ↑ K: tented Tw, ↓ QT, ↑ PR, AVB, wide QRS, STE; ↓ K: flattened Tw, U waves, ↑ QT
 

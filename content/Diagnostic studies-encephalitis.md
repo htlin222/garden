@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-encephalitis
 ---
-# Diagnostic studies-encephalitis
+stic studies-encephalitis
 
  (CID 2013;57:1114)
 * CSF analysis: lymphocytic pleocytosis; PCR for HSV (95% Se & Sp), VZV; consider other PCR based on risk factors (CMV/EBV, HIV, JC, adeno/enterovirus, WNV)

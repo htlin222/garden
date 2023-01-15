@@ -1,7 +1,7 @@
 ---
 title: osteomyelitis
 ---
-# osteomyelitis
+steomyelitis
 
 Infection of bone due to hematogenous seeding or direct spread from contiguous focus
 [[Etiology-osteomyelitis]]

@@ -1,12 +1,12 @@
 ---
 title: oncology
 ---
-# oncology
-## [[hematology]]
+
+
 
 [[NCCN guideline]]
 
-## Pocket Oncology
+
 * [[general oncology]]
 * [[inpatient oncology]]
 * [[clinical research methods]]
@@ -24,7 +24,7 @@ title: oncology
 * [[immunotherapy and cellular therapy]]
 * [[oncologic emergencies.md]]
 
-## Solid Tumor
+
 * [[genitourinary malignancies]]
 * [[thoracic malignancies]]
 * [[lung cancer]]

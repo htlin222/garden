@@ -1,7 +1,7 @@
 ---
 title: Initial evaluation-solitary pulmonary nodule
 ---
-# Initial evaluation-solitary pulmonary nodule
+solitary pulmonary nodule
 
 
 * History: h/o cancer, smoking, age (<30 y = 2% malignant, +15% each decade >30)

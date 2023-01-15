@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-hypocalcemia
 ---
-# Clinical manifestations-hypocalcemia
+stations-hypocalcemia
 
 * Neuromuscular irritability: perioral paresthesias, cramps, ⊕ Trousseau’s (inflation of BP cuff ≥3 min → carpal spasm), ⊕ Chvostek’s (tapping facial nerve → contraction of facial muscles), laryngospasm; irritability, depression, psychosis, seizures, ↑ QT
 

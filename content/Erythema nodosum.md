@@ -1,7 +1,7 @@
 ---
 title: Erythema nodosum
 ---
-# Erythema nodosum
+sum
 
 tender erythematous or violaceous nodules usually symmetric on LE
 Infxn etiol: Strep, TB, EBV, Bartonella, HBV, psittacosis, fungal, L. venereum, etc.

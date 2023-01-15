@@ -1,7 +1,7 @@
 ---
 title: History-Initial management-gastrointestinal bleeding
 ---
-# History-Initial management-gastrointestinal bleeding
+story-Initial management-gastrointestinal bleeding
 
 prior upper gastrointestinal bleed
 tempo of current bleed,

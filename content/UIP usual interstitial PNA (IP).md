@@ -1,7 +1,7 @@
 ---
 title: UIP usual interstitial PNA  IP 
 ---
-# UIP usual interstitial PNA (IP)
+sual interstitial PNA (IP)
 
 UIP imaging pattern: reticular opacities, honeycombing, traction bronchiectasis; peripheral, subpleural, & basal
 

@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[venous thromboembolism]]
 
-# deep vein thrombosis
+sis
 
 * [[Clinical manifestations—DVT]]
 * [[Simplified Wells Pretest Probability Scoring of DVT]]

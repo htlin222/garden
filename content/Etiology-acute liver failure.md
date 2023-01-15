@@ -1,7 +1,7 @@
 ---
 title: Etiology-acute liver failure
 ---
-# Etiology-acute liver failure
+
 
  (J Hepatol 2015;62:S112)
  

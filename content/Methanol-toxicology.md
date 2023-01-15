@@ -1,7 +1,7 @@
 ---
 title: Methanol-toxicology
 ---
-# Methanol-toxicology
+
 
 
 CNS depression, blindness

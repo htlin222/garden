@@ -1,7 +1,7 @@
 ---
 title: pericarditis and pericardial effusion
 ---
-# pericarditis and pericardial effusion
+s and pericardial effusion
 
 * [[Etiologies of Acute Pericarditis]]
 * [[Clinical manifestations-pericarditis and pericardial effusion]]

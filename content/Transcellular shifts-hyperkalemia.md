@@ -1,7 +1,7 @@
 ---
 title: Transcellular shifts-hyperkalemia
 ---
-# Transcellular shifts-hyperkalemia
+scellular shifts-hyperkalemia
 
 (BMJ 2009;339:1019)
 

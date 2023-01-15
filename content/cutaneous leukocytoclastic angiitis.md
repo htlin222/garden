@@ -1,7 +1,7 @@
 ---
 title: cutaneous leukocytoclastic angiitis
 ---
-# cutaneous leukocytoclastic angiitis
+s leukocytoclastic angiitis
 
 * Occurs 7–10 days after certain medications 
 * (penicillins, cephalosporins, sulfonamides, phenytoin, allopurinol) or 

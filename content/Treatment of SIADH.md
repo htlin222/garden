@@ -1,7 +1,7 @@
 ---
 title: Treatment of SIADH
 ---
-# Treatment of SIADH
+
 
 (NEJM 2007;356:2064; AJKD 2020;76:203): fluid restrict + treat underlying cause
 

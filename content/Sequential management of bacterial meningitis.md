@@ -1,13 +1,13 @@
 ---
 title: Sequential management of bacterial meningitis
 ---
-# Sequential management of bacterial meningitis
+s
 
 1. Blood cx, initiate empiric antibiotics, consider corticosteroids (vide infra)
 2. CT head if indicated (see below)
 3. LP ASAP (if not contraindicated); yield of CSF cx unlikely to be changed if obtained w/in ~4 h of initiation of abx
  
-## Diagnostic studies (NEJM 2017;388:3036)
+stic studies (NEJM 2017;388:3036)
 * Blood cultures ×2 before abx
 * WBC count: >10,000 in >90% of bacterial meningitis in healthy hosts
 * Head CT to r/o mass effect before LP if ≥1 high-risk feature: immunosupp., h/o CNS disease, new-onset seizure, focal neuro findings, papilledema, GCS <15 (CID 2004;39:1267)

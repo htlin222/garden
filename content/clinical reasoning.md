@@ -1,15 +1,15 @@
 ---
 title: clinical reasoning
 ---
-# clinical reasoning
+soning
 
 * [[positive and negative predictive values of tests]]
 
-## [[symptom to diagnosis]] 
-## [[Physical Exam Secret]]
+symptom to diagnosis]] 
+sical Exam Secret]]
 
 
-## cardinal manifestations
+stations
 1. [[Pain]]
 2. [[Alterations in Body Temperature]]
 3. [[Nervous System Dysfunction]]

@@ -1,11 +1,11 @@
 ---
 title: Etiologies of Decreased Responsiveness
 ---
-# Etiologies of Decreased Responsiveness
+s of Decreased Responsiveness
 
 see: [[Differential Diagnosis of Delirium]]
 
-## 1° Neurologic (usually with focal signs)
+sually with focal signs)
 * Vasc: ischemic stroke/TIA, ICH, VST, PRES, vasculitis, pituitary apoplexy
 * Seizure: postictal, status, nonconvulsive
 * Infxn: meningitis, encephalitis, abscess
@@ -14,7 +14,7 @@ see: [[Differential Diagnosis of Delirium]]
 * Autoimmune/paraneoplastic enceph.
 * Neurodeg: late-stage (eg, Alzheimer’s) or rapidly progressive (eg, CJD)
 
-## Systemic (esp. in elderly or prior CNS injury)
+stemic (esp. in elderly or prior CNS injury)
 * Cardiac: global ischemia, HoTN, HTN enceph
 * Pulmonary: ↓ PaO2, ↑ PaCO2
 * GI: liver failure, ↑ NH3

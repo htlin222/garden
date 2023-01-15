@@ -1,7 +1,7 @@
 ---
 title: Other diagnostic studies-syncope
 ---
-# Other diagnostic studies-syncope
+stic studies-syncope
 
 (consider based on results of H&P and ECG)
 * Ambulatory ECG monitoring: if suspect arrhythmogenic syncope

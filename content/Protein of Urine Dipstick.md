@@ -1,7 +1,7 @@
 ---
 title: Protein of Urine Dipstick
 ---
-# Protein of Urine Dipstick
+stick
 
 * Detects albuminuria (>300 mg/d); False ⊖: dilute urine
  

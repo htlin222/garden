@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations of Polyarteritis nodosa
 ---
-# Clinical manifestations of Polyarteritis nodosa
+stations of Polyarteritis nodosa
 
 (Arth Rheum 2010;62:616): 
 

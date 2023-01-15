@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology-ascites
 ---
-# Pathophysiology-ascites
+siology-ascites
 
  (Hepatology 2021;74:1014)
 

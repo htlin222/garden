@@ -1,7 +1,7 @@
 ---
 title: Consider Advanced Airway
 ---
-# Consider Advanced Airway
+sider Advanced Airway
 
 * Endotracheal intubation or supraglottic advanced aiway
 * Clinical assessment: bilat. chest expansion & breath sounds

@@ -1,7 +1,7 @@
 ---
 title: Anemia of chronic inflammation
 ---
-# Anemia of chronic inflammation
+
 
 (ACI; NEJM 2012;366:4)
 

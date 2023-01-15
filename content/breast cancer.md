@@ -1,13 +1,13 @@
 ---
 title: breast cancer
 ---
-# breast cancer
+st cancer
 [[index]]
-## [[Epidemiology of breast cancer]]
-## [[Clinical manifestations of breast cancer]]
-## [[Screening of breast cancer]]
-## [[Diagnostic evaluation of breast cancer]]
-## [[Staging of breast cancer]]
-## [[general approach to treatment of breast cancer]] (JAMA 2019;321:288 & 1716)
-## [[surgery and radiation for local control of breast cancer]]
-## [[systemic therapy of breast cancer]]
+st cancer]]
+stations of breast cancer]]
+st cancer]]
+stic evaluation of breast cancer]]
+st cancer]]
+st cancer]] (JAMA 2019;321:288 & 1716)
+surgery and radiation for local control of breast cancer]]
+systemic therapy of breast cancer]]

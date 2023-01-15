@@ -1,7 +1,7 @@
 ---
 title: Systemic thrombolysis
 ---
-# Systemic thrombolysis
+stemic thrombolysis
 
  (EHJ 2020;41:543; Chest 2021;160:e545)
 

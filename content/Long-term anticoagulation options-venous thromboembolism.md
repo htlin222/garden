@@ -1,7 +1,7 @@
 ---
 title: Long-term anticoagulation options-venous thromboembolism
 ---
-# Long-term anticoagulation options-venous thromboembolism
+s-venous thromboembolism
 
 * For nonpregnant Pt without severe renal dysfunction or active cancer → DOAC
 

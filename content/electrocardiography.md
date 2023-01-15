@@ -1,7 +1,9 @@
 ---
 title: electrocardiography
+alias: EKG
 ---
-## approach to EKG
+
+
 
 [[貼片]]
 
@@ -21,3 +23,7 @@ title: electrocardiography
 * [[Low-voltage]]
 * [[Electrolyte-abnormalities]]
 * [[ECG-in-young-athletes]] (JACC 2017;69:805)
+
+> [!note]
+>
+> [[EKG pocket brain]]

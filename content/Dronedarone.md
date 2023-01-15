@@ -1,7 +1,7 @@
 ---
 title: Dronedarone
 ---
-# Dronedarone
+
 
 n/a 
 400 mg bid 

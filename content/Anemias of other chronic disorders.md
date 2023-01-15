@@ -1,7 +1,7 @@
 ---
 title: Anemias of other chronic disorders
 ---
-# Anemias of other chronic disorders
+s of other chronic disorders
 
 * Anemia of CKD: ↓ Epo; treat w/ Epo & iron (see “Chronic Kidney Disease”)
 

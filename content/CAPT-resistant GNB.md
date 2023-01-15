@@ -1,7 +1,7 @@
 ---
 title: CAPT-resistant GNB
 ---
-# CAPT-resistant GNB
+sistant GNB
 
 * Gram-negative bacteria (GNB) co-resistant to carbapanems, aminoglycosides, polymyxins and tigecycline (CAPT-resistant)
 

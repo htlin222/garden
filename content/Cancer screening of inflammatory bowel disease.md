@@ -1,7 +1,7 @@
 ---
 title: Cancer screening of inflammatory bowel disease
 ---
-# Cancer screening of inflammatory bowel disease
+screening of inflammatory bowel disease
 
 (NEJM 2015;372:1441)
 

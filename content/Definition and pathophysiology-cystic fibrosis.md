@@ -1,7 +1,7 @@
 ---
 title: Definition and pathophysiology-cystic fibrosis
 ---
-# Definition and pathophysiology-cystic fibrosis
+siology-cystic fibrosis
 
 
 (NEJM 2015;372:351)

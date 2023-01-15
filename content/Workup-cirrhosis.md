@@ -1,7 +1,7 @@
 ---
 title: Workup-cirrhosis
 ---
-# Workup-cirrhosis
+sis
 
  (Am J Gastro 2017;112:18; Lancet 2021;398:1359)
 

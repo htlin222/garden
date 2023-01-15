@@ -1,7 +1,7 @@
 ---
 title: GI potassium losses
 ---
-# GI potassium losses
+ssium losses
 
 * GI losses plus metabolic acidosis: diarrhea, laxative abuse, villous adenoma
 

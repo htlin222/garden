@@ -1,7 +1,7 @@
 ---
 title: Serologic and virologic tests
 ---
-# Serologic and virologic tests
+sts
 
 ![image 22-10-01 20 57 27](https://i.imgur.com/mwATrDy.png)
 

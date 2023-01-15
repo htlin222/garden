@@ -1,7 +1,7 @@
 ---
 title: Treatment-aortic aneurysms
 ---
-# Treatment-aortic aneurysms
+sms
 
  (Circ 2010;121:e266 & 2016;133:680; JACC 2020;76:201; NEJM 2021;385:1690)
 * Goal is to prevent rupture (50% mortality prior to hospital) by modifying risk factors

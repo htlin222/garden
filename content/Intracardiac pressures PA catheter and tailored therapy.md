@@ -1,7 +1,7 @@
 ---
 title: Intracardiac pressures PA catheter and tailored therapy
 ---
-# Intracardiac pressures PA catheter and tailored therapy
+ssures PA catheter and tailored therapy
 
 * Transmural pressure (≈ preload) = measured intracardiac pressure – intrathoracic pressure
 

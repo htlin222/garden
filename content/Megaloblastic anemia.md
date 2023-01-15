@@ -1,7 +1,7 @@
 ---
 title: Megaloblastic anemia
 ---
-# Megaloblastic anemia
+stic anemia
 
 
 * Impaired DNA synthesis → cytoplasm matures faster than nucleus → ineffective erythropoiesis and macrocytosis; due to folate or B12 deficiency; also in MDS

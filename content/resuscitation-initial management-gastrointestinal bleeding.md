@@ -1,11 +1,11 @@
 ---
 title: resuscitation-initial management-gastrointestinal bleeding
 ---
-# resuscitation-initial management-gastrointestinal bleeding
+suscitation-initial management-gastrointestinal bleeding
 
-## placement of 2 large-bore (18-gauge or larger) intravenous lines.
+s lines.
 放置 2 條大口徑（18 號或更大）靜脈導管。
-## Volume replacement: NS or LR to achieve normal VS, UOP, & mental status.
+status.
 容量更換：NS 或 LR 以達到正常的 VS、UOP 和精神狀態。
 
 初步處理：嚴重或嚴重的非靜脈曲張性上消化道出血是一種醫療急症，需要在急診室或緊急護理機構進行評估。有關上消化道靜脈曲張出血的信息，請參閱肝硬化並發症。關鍵的初始步驟包括：

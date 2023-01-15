@@ -1,7 +1,7 @@
 ---
 title: Indications for urgent dialysis
 ---
-# Indications for urgent dialysis
+s for urgent dialysis
 
 * Acid-base disturbance: refractory acidemia
 

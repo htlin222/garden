@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Clinical evaluation of Secondary causes of headaches]]
 
-# warning signs of headache
+signs of headache
 
 (should prompt neuroimaging)
 

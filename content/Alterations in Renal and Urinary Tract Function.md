@@ -1,7 +1,7 @@
 ---
 title: Alterations in Renal and Urinary Tract Function
 ---
-# Alterations in Renal and Urinary Tract Function
+s in Renal and Urinary Tract Function
 
 
 Chapter 51: Interstitial Cystitis/Bladder Pain Syndrome

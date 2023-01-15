@@ -1,7 +1,7 @@
 ---
 title: Flecainide
 ---
-# Flecainide
+
 
 300 mg PO x1 
 100-150 mg bid

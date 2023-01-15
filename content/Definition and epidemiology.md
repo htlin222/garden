@@ -1,7 +1,7 @@
 ---
 title: Definition and epidemiology
 ---
-# Definition and epidemiology
+
 
 (Lancet 2018;391:783)
 

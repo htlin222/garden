@@ -1,7 +1,7 @@
 ---
 title: Ivabradine
 ---
-# Ivabradine
+
 
 
 Reasonable if EF ≤35%, NYHA II or III, HR ≥70, NSR on max bB.

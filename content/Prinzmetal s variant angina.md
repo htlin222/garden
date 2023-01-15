@@ -3,7 +3,7 @@ title: Prinzmetal's variant angina
 aliases: ["Prinzmetal's variant angina"]
 linter-yaml-title-alias: "Prinzmetal's variant angina"
 ---
-# Prinzmetal's variant angina
+s variant angina
 
 * Coronary spasm →
 	* transient STE usually w/o MI

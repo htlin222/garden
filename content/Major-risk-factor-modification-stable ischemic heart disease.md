@@ -1,7 +1,7 @@
 ---
 title: Major-risk-factor-modification-stable ischemic heart disease
 ---
-# Major-risk-factor-modification-stable ischemic heart disease
+sk-factor-modification-stable ischemic heart disease
 
 * Lipids: statin (typically high-intensity) ± ezetimibe & PCSK9i (see “Dyslipidemia”)
 * BP <130/80 (see “Hypertension”); in SIHD may opt for ACEI and βB (if angina)

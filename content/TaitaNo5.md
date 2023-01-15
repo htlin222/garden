@@ -1,7 +1,7 @@
 ---
 title: TaitaNo5
 ---
-# TaitaNo5
+
 
 * 鈉離子 36mEq/L
 * 氯離子 17 mEq/L

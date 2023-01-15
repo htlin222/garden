@@ -1,7 +1,7 @@
 ---
 title: Gastroesophageal varices and UGIB-cirrhosis
 ---
-# Gastroesophageal varices and UGIB-cirrhosis
+stroesophageal varices and UGIB-cirrhosis
 
 See: [[gastrointestinal bleeding]]
 

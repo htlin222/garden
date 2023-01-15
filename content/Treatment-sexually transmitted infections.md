@@ -1,7 +1,7 @@
 ---
 title: Treatment-sexually transmitted infections
 ---
-# Treatment-sexually transmitted infections
+sexually transmitted infections
 
 (MMWR 2021;70:1; JAMA 2022;327:161)
 * Syphilis

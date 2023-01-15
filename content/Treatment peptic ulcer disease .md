@@ -1,7 +1,7 @@
 ---
 title: Treatment peptic ulcer disease 
 ---
-# Treatment peptic ulcer disease 
+sease 
 
 (Lancet 2016;388:2355; Gastro 2016;151:51; Gut 2017;66:6; AJG 2017;112:212)
 * If H. pylori ⊕ → eradicate (“test and treat”); if ⊖ → gastric acid suppression w/ PPI

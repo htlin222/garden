@@ -1,7 +1,7 @@
 ---
 title: Anaplastic thyroid cancer
 ---
-# Anaplastic thyroid cancer
+stic thyroid cancer
 
 * ♀:♂ 1.5–2:1; poorly differentiated, extremely aggressive, mortality 90% at 5 y
 * P/w rapidly growing fixed & hard neck mass, regional or distant spread in 90% at dx

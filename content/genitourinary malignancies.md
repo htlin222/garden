@@ -1,7 +1,7 @@
 ---
 title: genitourinary malignancies
 ---
-# genitourinary malignancies
+s
 
 * [[prostate cancer]]
 * [[renal-cell-carcinoma]]

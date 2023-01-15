@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-interstitial lung disease
 ---
-# Diagnostic studies-interstitial lung disease
+stic studies-interstitial lung disease
 
 
 see Appendix & Radiology inserts)

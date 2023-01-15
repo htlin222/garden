@@ -1,7 +1,7 @@
 ---
 title: Poor-R-wave-progression
 ---
-# Poor-R-wave-progression
+ssion
 
 * Definition: loss of anterior forces w/o frank Q waves (V1–V3); R wave in V3 ≤3 mm
 

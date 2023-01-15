@@ -1,7 +1,7 @@
 ---
 title: Chvostek sign
 ---
-# Chvostek sign
+stek sign
 
 
 * ![image 22-10-11 23 35 13](https://i.imgur.com/brleBB1.png)

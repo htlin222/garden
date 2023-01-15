@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Risk factors-venous thromboembolism]]
 
-# Pulmonary Embolism Severity Index PESI
+sm Severity Index PESI
 
 > Predicts 30-day outcome of patients with pulmonary embolism using 11 clinical criteria.
 

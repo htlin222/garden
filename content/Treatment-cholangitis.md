@@ -1,7 +1,7 @@
 ---
 title: Treatment-cholangitis
 ---
-# Treatment-cholangitis
+s
 
 
 * Antibiotics (broad spectrum) to cover common bile pathogens (see above) ampicillin + gentamicin (or levofloxacin) ± MNZ (if severe); carbapenems; pip/tazo

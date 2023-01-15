@@ -1,15 +1,15 @@
 ---
 title: complications of HIV AIDS
 ---
-# complications of HIV AIDS
+s of HIV AIDS
 
-## Any
+
 S. pneumo, TB, VZV, HPV complications, Kaposi’s sarcoma, lymphoma, ↑ CVD risk, ↓ bone density.
-## <500
+
 Constitutional sx. Mucocutaneous: seborrheic dermatitis; psoriasis; oral hairy leukoplakia; HSV. Recurrent bacterial infxns.
-## <200
+
 PCP, Toxo, PML, Crypto, candida, Histo/Coccidio (endemic areas)
-## <50–100
+
 CMV, MAC, CNS lymphoma, invasive aspergillosis, bacillary angiomatosis (dissem. Bartonella), death (<50 is medical emergency)
 
 * [[Fever workup in patient with HIV AIDS]]

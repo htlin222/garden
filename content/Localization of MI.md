@@ -1,7 +1,7 @@
 ---
 title: Localization of MI
 ---
-# Localization of MI
+
 
 | Anatomic Area | ECG Leads w/ STE                                                           | Coronary Artery         |
 |---------------|----------------------------------------------------------------------------|-------------------------|

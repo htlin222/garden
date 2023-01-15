@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[back and spinal cord disease]]
-# differential diagnosis of back pain
+sis of back pain
 
 * [[Musculoskeletal ddx of back pain]]
 

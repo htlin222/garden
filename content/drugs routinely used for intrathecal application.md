@@ -1,7 +1,7 @@
 ---
 title: drugs routinely used for intrathecal application
 ---
-# drugs routinely used for intrathecal application
+s routinely used for intrathecal application
 
 
 * [[Methotrexate]] MTX, 

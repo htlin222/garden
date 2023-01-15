@@ -1,7 +1,7 @@
 ---
 title: fever syndromes
 ---
-# fever syndromes
+syndromes
 
 Temperature ≥100.4°F or ≥38°C
 [[What are the most commonly encountered fever patterns]]

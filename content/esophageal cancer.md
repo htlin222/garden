@@ -1,7 +1,7 @@
 ---
 title: esophageal cancer
 ---
-# esophageal cancer
+sophageal cancer
 
 OVERALL BOTTOM LINE
 The incidence of esophageal cancer has increased in certain populations (e.g. adenocarcinoma in patients with undertreated reflux esophagitis) without much improvement in survival over the past three decades. Five-year survival for all stages is 18%.

@@ -1,7 +1,7 @@
 ---
 title: ulcerative colitis
 ---
-# ulcerative colitis
+s
 
 
 (Lancet 2018;389:1756; Am J Gastro 2019:114:384)

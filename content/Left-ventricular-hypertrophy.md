@@ -1,7 +1,7 @@
 ---
 title: Left-ventricular-hypertrophy
 ---
-# Left-ventricular-hypertrophy
+
 
 * Etiologies: HTN, AS/AI, HCM, coarctation of aorta
 

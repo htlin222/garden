@@ -1,7 +1,7 @@
 ---
 title: Secondary Hyperaldosteronism
 ---
-# Secondary Hyperaldosteronism
+steronism
 
 (extra-adrenal disorders, ↑ aldosterone is renin-dependent)
 2° hyperaldosteronism

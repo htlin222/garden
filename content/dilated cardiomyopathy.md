@@ -1,13 +1,13 @@
 ---
 title: dilated cardiomyopathy
 ---
-# dilated cardiomyopathy
 
-## Definition and epidemiology (JACC 2016;67:2996; Lancet 2017;390:400)
+
+
 
 * LV or biventricular dilatation and global ↓ contractility ± ↓ wall thickness in the absence of ischemia/infarct, valvular disease or HTN. Pts w/ prior MI complicated by LV dilation and ↓ EF are often termed “ischemic CMP.”
 
-## Etiologies (JACC 2021;77:2551; can also be prior myocarditis, vide infra)
+s (JACC 2021;77:2551; can also be prior myocarditis, vide infra)
 
 * Familial/genetic (>35%): Pt & ≥2 closely related family members w/ unexplained DCM; ~30 genes identified to date, encoding structural & nuclear proteins (eg, titin)
 
@@ -31,7 +31,7 @@ anthracyclines (risk ↑ >550 mg/m2, may manifest late), CYC, trastuzumab, TKIs.
 
 * Metab/other: hypothyroid, acromegaly, pheo, OSA, Vit B1, selenium or carnitine defic.
 
-## Clinical manifestations
+stations
 
 * Heart failure: both congestive & poor forward flow sx; signs of L- & R-sided HF
 
@@ -55,7 +55,7 @@ Diagnostic studies and workup (JACC 2016;67:2996)
 
 * Endomyocardial biopsy: consider if fulminant myocarditis or suspect infiltrative disease
 
-## Treatment (see “Heart Failure” for standard HF Rx)
+see “Heart Failure” for standard HF Rx)
 
 * Possibility of reversibility of CMP may temper implantation of devices
 

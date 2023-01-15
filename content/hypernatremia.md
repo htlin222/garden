@@ -1,7 +1,7 @@
 ---
 title: hypernatremia
 ---
-# hypernatremia
+
 
 * [[Pathophysiology-hypernatremia]]
 * [[Workup-hypernatremia]]

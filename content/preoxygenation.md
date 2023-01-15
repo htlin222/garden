@@ -1,7 +1,7 @@
 ---
 title: preoxygenation
 ---
-# preoxygenation
+
 
 - 除最緊急的情況外，應在所有情況下提供充分的預氧合。
 - 目的是用氧氣代替肺部的氮氣。

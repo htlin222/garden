@@ -1,7 +1,7 @@
 ---
 title: Parathyroid MIBI Scan
 ---
-# Parathyroid MIBI Scan
+
 
 https://www.insideradiology.com.au/parathyroid-mibi-scan-hp/
 

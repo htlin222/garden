@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-diabetic ketoacidosis
 ---
-# Diagnostic studies-diabetic ketoacidosis
+stic studies-diabetic ketoacidosis
 
 
 * ↑ Anion gap metabolic acidosis (pH <7.3 & HCO3 <18): can later develop nonanion gap acidosis due to urinary loss of ketones (HCO3 equiv.) & fluid resuscitation w/ chloride

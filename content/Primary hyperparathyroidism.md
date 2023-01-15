@@ -1,7 +1,7 @@
 ---
 title: Primary hyperparathyroidism
 ---
-# Primary hyperparathyroidism
+sm
 
 The serum level of parathyroid hormone, calcium, phosphorus, and 25-hydroxyvitamin D should be measured. 
 Patients with secondary hyperparathyroidism usually have low-normal calcium and elevated parathyroid hormone. 

@@ -1,7 +1,7 @@
 ---
 title: Mixed-disorders
 ---
-# Mixed-disorders
+sorders
 
 * If compensation less or greater than predicted, may be two disorders:
 PaCO2 too low → concomitant 1° resp. alk.; PaCO2 too high → concomitant 1° resp. acid.

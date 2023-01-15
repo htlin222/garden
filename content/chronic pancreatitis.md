@@ -1,7 +1,7 @@
 ---
 title: chronic pancreatitis
 ---
-# chronic pancreatitis
+s
 
 * [[Pathogenesis etiology-chronic pancreatitis]]
 * [[Clinical manifestations-chronic pancreatitis]]

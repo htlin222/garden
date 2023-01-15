@@ -1,7 +1,7 @@
 ---
 title: Complications-cholelithiasis
 ---
-# Complications-cholelithiasis
+s-cholelithiasis
 
 * Cholecystitis: 20% of Pts with symptomatic biliary pain progress to cholecystitis w/in 2 y
 

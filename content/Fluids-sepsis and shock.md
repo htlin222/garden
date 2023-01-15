@@ -1,7 +1,7 @@
 ---
 title: Fluids-sepsis and shock
 ---
-# Fluids-sepsis and shock
+s-sepsis and shock
 
 ![The Composition of Saline, Lactated Ringer’s Solution, and Plasma-Lyte 148.](https://i.imgur.com/D7b446h.png)
 

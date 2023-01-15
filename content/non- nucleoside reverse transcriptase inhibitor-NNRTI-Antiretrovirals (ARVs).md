@@ -1,7 +1,7 @@
 ---
 title: non- nucleoside reverse transcriptase inhibitor-NNRTI-Antiretrovirals  ARVs 
 ---
-# non- nucleoside reverse transcriptase inhibitor-NNRTI-Antiretrovirals (ARVs)
+side reverse transcriptase inhibitor-NNRTI-Antiretrovirals (ARVs)
 
 efavirenz (EFV; Sustiva)
 etravirine (ETR; Intelence)

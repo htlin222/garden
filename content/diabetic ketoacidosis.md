@@ -1,7 +1,7 @@
 ---
 title: diabetic ketoacidosis
 ---
-# diabetic ketoacidosis
+sis
 
 [[Precipitants-diabetic ketoacidosis]] (the I’s)
 [[Pathophysiology-diabetic ketoacidosis]]

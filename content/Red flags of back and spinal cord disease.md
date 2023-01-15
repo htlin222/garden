@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[back and spinal cord disease]]
-# Red flags of back and spinal cord disease
+s of back and spinal cord disease
 
 1. acute change (pain, weakness),
 2. upper motor neuron signs (hyperreflexia, upgoing toes)

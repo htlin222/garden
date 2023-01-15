@@ -1,7 +1,7 @@
 ---
 title: CXR of Diagnostic studies-chronic obstructive pulmonary disease
 ---
-# CXR of Diagnostic studies-chronic obstructive pulmonary disease
+stic studies-chronic obstructive pulmonary disease
 
  (see Radiology inserts): 
 * hyperinflation, 

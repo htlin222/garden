@@ -1,7 +1,7 @@
 ---
 title: Primary immune thrombocytopenic purpura  ITP  
 ---
-# Primary immune thrombocytopenic purpura (ITP) 
+
 
 (Blood 2010;115:168)
 
@@ -9,7 +9,7 @@ title: Primary immune thrombocytopenic purpura  ITP
 
 * Clinical manifestations: insidious onset of mucocutaneous bleeding; ♀:♂ = 3:1
 
-## Diagnosis of exclusion 
+sis of exclusion 
 (r/o 2° ITP); no robust clinical or lab parameters, but typically:
 
 * CBC: isolated ↓ plt (<100,000/µL); 10% have ITP + AIHA = Evans syndrome
@@ -21,8 +21,8 @@ title: Primary immune thrombocytopenic purpura  ITP
 * ✓ HBSAg & anti-HBc prior to rituximab (and before IVIg, which could alter results)
 
 
-## Treatment
+
 * rarely indicated if plt >50,000/µL unless bleeding, trauma/surgery, anticoag.
- ## [[Treatment of Primary ITP in Adults]]
+ s]]
  
 > Post-splenectomy vaccinations needed. (Blood Adv 2019;3:3829; Eur J Haem 2018;100:304)

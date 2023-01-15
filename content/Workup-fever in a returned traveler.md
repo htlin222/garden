@@ -1,7 +1,7 @@
 ---
 title: Workup-fever in a returned traveler
 ---
-# Workup-fever in a returned traveler
+
 
 
 * Routine testing: CBC w/ diff, BMP, LFTs, BCx, UA, rapid malaria test

@@ -1,7 +1,7 @@
 ---
 title: supraventricular tachycardias  SVTS 
 ---
-# supraventricular tachycardias (SVTS)
+supraventricular tachycardias (SVTS)
 
 Arise above the ventricles, ∴ narrow QRS unless aberrant conduction or pre-excitation.
 [[Common Etiologies of SVT]]

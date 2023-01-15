@@ -1,7 +1,7 @@
 ---
 title: other-Secondary Causes of Hypertension
 ---
-# other-Secondary Causes of Hypertension
+ses of Hypertension
 
 Obstructive sleep apnea (qv); alcohol
 Medications: OCP, steroids, [[licorice]]; NSAIDs (espec COX-2); Epo; CsA; TKI

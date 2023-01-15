@@ -1,7 +1,7 @@
 ---
 title: coagulopathies
 ---
-# coagulopathies
+s
 * [[Screening Test Abnormalities in Inherited and Acquired Coagulopathies]]
 * [[Further coagulation tests]]
 * [[Hemophilias]]

@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Risk factors-venous thromboembolism]]
 
-# Virchow’s triad
+s triad
 
 > s.i.t: statis, injury, thrombophilia
 

@@ -1,7 +1,7 @@
 ---
 title: Hepatitis C
 ---
-# Hepatitis C
+s C
  > (ssRNA; ~10% of acute viral hepatitis in U.S.; Lancet 2015;385:1124)
 * [[Recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens]]
  * Transmission: blood (IVDU, transfusion before 1992) >sexual; 20–30% w/o clear precipitant
@@ -13,11 +13,11 @@ title: Hepatitis C
 * [[hepatitis C virus extrahepatic syndromes]]
 * [[hepatitis C virus Serologic, virologic, & genetic tests]]
 
-## [[hepatitis C virus Treatment indications]]
+s C virus Treatment indications]]
 
-## [[hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens]]
+s C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens]]
 
-## [[hepatitis C virus Monitoring on Rx]]
+s C virus Monitoring on Rx]]
 
 * Goal is sustained virologic response (SVR) = Ø viremia 12 wks after completion of Rx. Success depends on genotype but SVR rates >90% with current regimens.
 

@@ -1,7 +1,7 @@
 ---
 title: Autoimmune hemolytic anemia
 ---
-# Autoimmune hemolytic anemia
+
 
 * Acquired, antibody-mediated RBC destruction
 

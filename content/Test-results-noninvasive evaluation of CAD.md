@@ -1,7 +1,7 @@
 ---
 title: Test-results-noninvasive evaluation of CAD
 ---
-# Test-results-noninvasive evaluation of CAD
+st-results-noninvasive evaluation of CAD
 
 
 * HR (must achieve ≥85% of max pred HR [220-age] for exer. test to be dx), BP response, peak double product (HR × BP; nl >20k), HR recovery (HRpeak – HR1 min later; nl >12)

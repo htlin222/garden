@@ -1,12 +1,12 @@
 ---
 title: management-inflammatory bowel disease
 ---
-# management-inflammatory bowel disease
+sease
 
 (Lancet 2017;398:1756; Mayo 2017;92:1088)
-## [[Initial evaluation-management-inflammatory bowel disease]]
+sease]]
 
-## Goals of treatment
+s of treatment
 (Ther Adv Gastro 2015;8:143)
 
 * Induce remission of acute flare → maintain remission; mucosal healing 1° goal

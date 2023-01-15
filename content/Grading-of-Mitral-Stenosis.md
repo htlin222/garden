@@ -1,7 +1,7 @@
 ---
 title: Grading-of-Mitral-Stenosis
 ---
-# Grading-of-Mitral-Stenosis
+sis
 
 | Grading of Mitral Stenosis Stage | Mean V (mmHg) | Pressure ½ Time | MVA (cm-) | PA sys (mmHg) |
 |----------------------------------|---------------|-----------------|-----------|---------------|

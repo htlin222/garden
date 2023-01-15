@@ -1,7 +1,7 @@
 ---
 title: Etiologies-Aplastic anemia
 ---
-# Etiologies-Aplastic anemia
+s-Aplastic anemia
 
 * idiopathic (½ – ⅔ of cases)
 

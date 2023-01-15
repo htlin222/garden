@@ -2,7 +2,7 @@
 title: Diagnostic studies-acute mesenteric ischemia
 ---
 
-# Diagnostic studies-acute mesenteric ischemia
+stic studies-acute mesenteric ischemia
 
 * Dx relies on high level of suspicion; rapid dx essential to avoid infarction (occurs w/in hrs)
 

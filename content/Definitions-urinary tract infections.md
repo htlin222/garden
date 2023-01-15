@@ -1,7 +1,7 @@
 ---
 title: Definitions-urinary tract infections
 ---
-# Definitions-urinary tract infections
+s-urinary tract infections
 
 * Asymptomatic bacteriuria: presence of bacteria in urine without signs or sx of infection
 * Uncomplicated: confined to bladder. No upper tract or systemic infection signs.

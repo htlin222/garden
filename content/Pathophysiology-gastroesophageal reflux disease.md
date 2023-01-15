@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology-gastroesophageal reflux disease
 ---
-# Pathophysiology-gastroesophageal reflux disease
+siology-gastroesophageal reflux disease
  Gastroesophageal reflux disease (GERD) is the second most common gastrointestinal diagnosis in the ambulatory setting and affects 18%–28% of people living in the North America. It is caused by transient relaxation of the lower esophageal sphincter (LES), which allows acidic stomach contents to reflux into the esophagus.
 
 (JAMA 2020;324:2536)

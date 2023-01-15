@@ -1,7 +1,7 @@
 ---
 title: Hepatitis A
 ---
-# Hepatitis A
+s A
 
  (ssRNA; 30–45% of acute viral hepatitis in U.S; MMWR 2018;67:1208)
 * Transmission & RFs: fecal–oral route; contam. food, water, shellfish; daycare ctr; intl travel

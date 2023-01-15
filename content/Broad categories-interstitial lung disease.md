@@ -1,7 +1,7 @@
 ---
 title: Broad categories-interstitial lung disease
 ---
-# Broad categories-interstitial lung disease
+s-interstitial lung disease
 
 * (1) Sarcoid; (2) Exposures (eg, drugs, XRT, organic & inorganic dusts, vaping);
 

@@ -1,7 +1,7 @@
 ---
 title: Etiologies-acute pancreatitis
 ---
-# Etiologies-acute pancreatitis
+s-acute pancreatitis
 
  (JAMA 2021;325:382)
 

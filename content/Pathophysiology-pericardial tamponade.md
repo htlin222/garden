@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology-pericardial tamponade
 ---
-# Pathophysiology-pericardial tamponade
+siology-pericardial tamponade
 
 * ↑ intrapericardial pressure, compression of heart chambers, ↓ venous return → ↓ CO
 * Diastolic pressures ↑ & equalize in all cardiac chambers → minimal flow of blood from RA to RV when TV opens → blunted y descent

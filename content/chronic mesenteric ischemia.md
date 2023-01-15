@@ -1,7 +1,7 @@
 ---
 title: chronic mesenteric ischemia
 ---
-# chronic mesenteric ischemia
+senteric ischemia
 
 
 * Pathophysiology: ↓ blood flow to gut typically because of mesenteric atherosclerosis

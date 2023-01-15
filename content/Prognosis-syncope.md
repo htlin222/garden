@@ -1,7 +1,7 @@
 ---
 title: Prognosis-syncope
 ---
-# Prognosis-syncope
+sis-syncope
 
 
 (Ann Emerg Med 1997;29:459; NEJM 2002;347:878)

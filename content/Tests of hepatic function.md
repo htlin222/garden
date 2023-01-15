@@ -1,7 +1,7 @@
 ---
 title: Tests of hepatic function
 ---
-# Tests of hepatic function
+sts of hepatic function
 
 * Albumin: marker for liver protein synthesis, can help differentiate acute vs. chronic liver failure, may be normal in acute hepatocellular injury (t1/2 ~15–18 d)
 

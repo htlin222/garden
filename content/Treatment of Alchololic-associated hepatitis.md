@@ -1,7 +1,7 @@
 ---
 title: Treatment of Alchololic-associated hepatitis
 ---
-# Treatment of Alchololic-associated hepatitis
+ssociated hepatitis
 
 consider if MDF ≥32, MELD >18, or presence of encephalopathy
 

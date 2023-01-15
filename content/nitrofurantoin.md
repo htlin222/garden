@@ -1,13 +1,13 @@
 ---
 title: nitrofurantoin
 ---
-# nitrofurantoin
 
-## Tradename
+
+
 
 Macrodantin, Furadantin, Macrobid
 
-## Usage and Dosing
+sage and Dosing
 
 *   Nitrofurantoin is used to treat uncomplicated lower urinary tract infections (UTI), e.g., cystitis, urethritis.
 *   Not effective for infections outside of the urinary tract.
@@ -20,26 +20,26 @@ Macrodantin, Furadantin, Macrobid
     *   See [Table](https://webedition-sanfordguide-com.autorpa.kfsyscc.org/en/comparisons-1/pregnancy risk lactation safety).
 *   Systematic Review: [J Antimicrob Chemother 70:2456, 2015](http://www-ncbi-nlm-nih-gov.autorpa.kfsyscc.org:2048/pubmed?term=%22The+Journal+of+antimicrobial+chemotherapy%22%5BJour%5D+AND+70%5Bvolume%5D+AND+2456%5Bpage%5D&cmd=detailssearch)
 
-### Adult Dose
+se
 
 <table><tbody><tr><td>Active UTI</td><td>(Furadantin or Macrodantin) 50-100 mg po qid x 5-7 days or for at least 3 days after sterile urine achieved</td></tr><tr><td>&nbsp;</td><td>(Macrobid) 100 mg po bid x 5-7 days</td></tr><tr><td>UTI Prophylaxis</td><td>(Furadantin or Macrodantin) 50-100 mg po at bedtime</td></tr></tbody></table>
 
-### Pediatric Dose
+se
 
 *   Age > 28 days
 
 <table><tbody><tr><td>Oral dose: Cystitis</td><td>5-7 mg/kg/day (divided q 6h)</td></tr><tr><td>Oral Dose: UTI prophylaxis</td><td>1-2 mg/kg/day (once daily)</td></tr></tbody></table>
 
-### Renal Adjustment
+stment
 
 *   CrCl >50 mL/min: Give usual dose
 *   CrCl <50 mL/min: See comment
 
-### Hepatic Adjustment
+stment
 
 *   None
 
-### Adverse Effects
+se Effects
 
 *   Rare but serious liver injury.
 *   Peripheral neuropathy can occur.
@@ -49,9 +49,9 @@ Macrodantin, Furadantin, Macrobid
 *   DRESS syndrome: Drug rash, eosinophilia, systemic symptoms hypersensitivity syndrome reported ([Neth J Med 67:147, 2009](http://www-ncbi-nlm-nih-gov.autorpa.kfsyscc.org:2048/pubmed?term=%22The+Netherlands+journal+of+medicine%22%5BJour%5D+AND+67%5Bvolume%5D+AND+147%5Bpage%5D&cmd=detailssearch)).
 *   In retrospective study, Nitrofurantoin was associated with increased risk of birth defects ([Arch Ped Adol Med 163:978, 2009](http://www-ncbi-nlm-nih-gov.autorpa.kfsyscc.org:2048/pubmed?term=%22Archives+of+pediatrics+%26+adolescent+medicine%22%5BJour%5D+AND+163%5Bvolume%5D+AND+978%5Bpage%5D&cmd=detailssearch)); in contrast, subsequent study shows no risk of major malformations after exposure to Nitrofurantoin during the first trimester ([J Clin Pharmacol 53:991, 2013](http://www-ncbi-nlm-nih-gov.autorpa.kfsyscc.org:2048/pubmed/23873250)).
 
-## Antimicrobial Spectrum
 
-## Pharmacology
+
+
 
 | Class | Nitrofuran |
 | --- | --- |
@@ -102,7 +102,7 @@ Penetration<sup>6</sup> (%) | No data |
 *   <sup>8</sup> Volume of Distribution (Vd):
 *   <sup>9</sup> Area under drug concentration curve (AUC)
 
-## Major Drug Interactions
+s
 
 | Drug | Effect on concentration |  Suggested management |
 | --- | --- | --- |
@@ -110,7 +110,7 @@ Penetration<sup>6</sup> (%) | No data |
 | Probenecid |  ↑ nitrofurantoin | Monitor or avoid |
 | Sulfinpyrazone |  ↑ nitrofurantoin | Monitor or avoid |
 
-## Comments
+s
 
 *   None
 [[inbox]]

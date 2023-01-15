@@ -1,7 +1,7 @@
 ---
 title: Etiology-constrictive pericarditis
 ---
-# Etiology-constrictive pericarditis
+strictive pericarditis
 
 (Circ 2011;124:1270)
 * Any cause of pericarditis (~1–2% incidence overall after acute pericarditis)

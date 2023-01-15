@@ -1,7 +1,7 @@
 ---
 title: IgA nephropathy
 ---
-# IgA nephropathy
+
 
 (CJASN 2017;12:677; AJKD 2021;78:429)
 
@@ -13,7 +13,7 @@ title: IgA nephropathy
 
 ---
 
-# IgA vasculitis
+sculitis
 
 (formerly Henoch-Schönlein purpura [HSP]) (Rheumatol 2019;58:1607)
 * IgA-mediated small-vessel vasculitis w/ predilection for skin, GI tract, and kidneys

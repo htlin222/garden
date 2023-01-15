@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[neurology]]
-# spinal cord compression
+spinal cord compression
 
  (Continuum 2021;27:163)
 

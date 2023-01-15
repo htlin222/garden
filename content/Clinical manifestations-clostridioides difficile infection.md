@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-clostridioides difficile infection
 ---
-# Clinical manifestations-clostridioides difficile infection
+stations-clostridioides difficile infection
 
 * Asx colonization: <3% healthy adults; ~20% in hospitalized patients on antibiotics
 

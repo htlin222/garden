@@ -1,7 +1,7 @@
 ---
 title: ICU-level care-asthma-EXACERBATION
 ---
-# ICU-level care-asthma-EXACERBATION
+sthma-EXACERBATION
 
 * Invasive ventilation:
 

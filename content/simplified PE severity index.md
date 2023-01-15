@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Risk stratification for Pts with PE]]
 
-# simplified PE severity index
+simplified PE severity index
 
 * age >80 y
 

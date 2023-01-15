@@ -1,7 +1,7 @@
 ---
 title: Distributive shock
 ---
-# Distributive shock
+stributive shock
 
 Septic shock
 

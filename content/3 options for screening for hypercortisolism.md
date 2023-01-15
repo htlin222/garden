@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Approach to suspected Cushing’s syndrome]]
 
-# 3 options for screening for hypercortisolism
+s for screening for hypercortisolism
 
 
 1. [[24-hour urinary free cortisol]] (UFC) 

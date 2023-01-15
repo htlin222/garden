@@ -1,7 +1,7 @@
 ---
 title: Prognosis-Alcohol-associated hepatitis
 ---
-# Prognosis-Alcohol-associated hepatitis
+sis-Alcohol-associated hepatitis
 
 scoring systems include Maddrey’s discriminant fxn (MDF), Lille model, MELD
 

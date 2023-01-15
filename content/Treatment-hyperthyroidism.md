@@ -1,7 +1,7 @@
 ---
 title: Treatment-hyperthyroidism
 ---
-# Treatment-hyperthyroidism
+sm
 
 * β-blockers: control tachycardia (propranolol also ↓ T4 → T3 conversion)
 * Graves’ disease: either antithyroid drugs or radioactive iodine (NEJM 2016;375:1552)

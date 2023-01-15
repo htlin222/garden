@@ -1,7 +1,7 @@
 ---
 title: IMI complications
 ---
-# IMI complications
+s
 
 * Heart block: ~20%, occurs in part because RCA typically supplies AV node
 

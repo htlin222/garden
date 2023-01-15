@@ -1,7 +1,7 @@
 ---
 title: Thyroid storm
 ---
-# Thyroid storm
+storm
 
 * [[Presentation of Thyroid storm]]: 
 * Diagnosis: no universally accepted criteria. 

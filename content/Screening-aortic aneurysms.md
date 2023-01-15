@@ -1,7 +1,7 @@
 ---
 title: Screening-aortic aneurysms
 ---
-# Screening-aortic aneurysms
+sms
 
  (JAMA 2015;313:1156)
 * TAA: if bicuspid AoV or 1° relative w/: (a) TAA or bicuspid AoV, (b) CTD as above

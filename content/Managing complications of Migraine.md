@@ -1,7 +1,7 @@
 ---
 title: Managing complications of Migraine
 ---
-# Managing complications of Migraine
+s of Migraine
 
 * Identify comorbid conditions
 * Select drugs and adiust their use according to comorbidities present

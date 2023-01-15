@@ -1,7 +1,7 @@
 ---
 title: Coccidioidomycosis
 ---
-# Coccidioidomycosis
+sis
 
 
 * Epidemiology: endemic to SW U.S., Central and South America

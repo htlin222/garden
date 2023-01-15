@@ -1,7 +1,7 @@
 ---
 title: ipratropium
 ---
-# ipratropium
+
 
 Atrovent，屬於一種支氣管擴張藥。
 * 本品通常用於治療慢性阻塞性肺病以及哮喘，通常以吸入劑或霧化劑的形式銷售。

@@ -1,7 +1,7 @@
 ---
 title: α1-antitrypsin deficiency  α1-AT 
 ---
-# α1-antitrypsin deficiency (α1-AT)
+sin deficiency (α1-AT)
 
  (J Hepatol 2016;65:413; NEJM 2020;382:1443)
 

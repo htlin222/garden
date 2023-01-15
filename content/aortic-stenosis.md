@@ -1,7 +1,7 @@
 ---
 title: aortic-stenosis
 ---
-# aortic-stenosis
+stenosis
 
 * [[Etiology-aortic-stenosis]]
 * [[Clinical-manifestations-aortic-stenosis]]

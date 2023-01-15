@@ -1,7 +1,7 @@
 ---
 title: Workup-acute kidney injury  AKI 
 ---
-# Workup-acute kidney injury (AKI)
+
 
 * H&P: meds, contrast, or other nephrotoxins; ↓ PO intake, HoTN, infxn/sepsis; trauma, myalgias; BPH/retention. Search for insult 24–48 hr prior ↑ Cr. VS, vol status, rash.
 

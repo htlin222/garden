@@ -1,7 +1,7 @@
 ---
 title: Clinical-manifestations-aortic-stenosis
 ---
-# Clinical-manifestations-aortic-stenosis
+stations-aortic-stenosis
 (usually indicates AVA <1 cm2 or concomitant CAD
 
 * Angina: ↑ O2 demand (hypertrophy) + ↓ O2 supply (↓ cor perfusion pressure) ± CAD

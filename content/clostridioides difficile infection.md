@@ -1,7 +1,7 @@
 ---
 title: clostridioides difficile infection
 ---
-# clostridioides difficile infection
+stridioides difficile infection
 
 * [[Pathogenesis epidemiology-clostridioides difficile infection]]
 * [[Clinical manifestations-clostridioides difficile infection]]

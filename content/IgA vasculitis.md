@@ -1,13 +1,13 @@
 ---
 title: IgA vasculitis
 ---
-# IgA vasculitis
+sculitis
 
 (formerly Henoch-Schönlein purpura [HSP]) (Rheumatol 2019;58:1607)
 * IgA-mediated small-vessel vasculitis
 	* w/ predilection偏好 for skin, GI tract, and kidneys
 	
-## Epidemiology:
+
 	* incidence 140/million/y;
 	* 冬天的女孩
 		* ♂ >♀,
@@ -20,7 +20,7 @@ title: IgA vasculitis
 and C3 deposition in vessel wall;
 	* renal bx → mesangial IgA deposition
 
-## Treatment:
+
 	* often self-limiting over 4 wk;
 	* steroids ± DMARDs for renal or severe disease
 

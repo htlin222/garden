@@ -1,7 +1,7 @@
 ---
 title: Carbon monoxide-toxicology
 ---
-# Carbon monoxide-toxicology
+
 
 
 HA, dizziness, nausea, ΔMS

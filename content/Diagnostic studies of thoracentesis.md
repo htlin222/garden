@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies of thoracentesis
 ---
-# Diagnostic studies of thoracentesis
+stic studies of thoracentesis
 
 
 * ✓ total protein, 

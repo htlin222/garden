@@ -1,7 +1,7 @@
 ---
 title: Isopropanol-toxicology
 ---
-# Isopropanol-toxicology
+sopropanol-toxicology
 
 
 CNS depression, gastritis

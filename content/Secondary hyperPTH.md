@@ -1,7 +1,7 @@
 ---
 title: Secondary hyperPTH
 ---
-# Secondary hyperPTH
+
 
 ↑ PO4, ↑ FGF-23, ↓ calcitriol, & ↓ Ca → ↑ PTH → renal osteodystrophy
 

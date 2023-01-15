@@ -7,11 +7,11 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Risk factors-venous thromboembolism]]
 
-# Venous Thromboembolism and Cancer
+s Thromboembolism and Cancer
 
 [Venous Thromboembolism and Cancer | Circulation](https://www.ahajournals.org/doi/full/10.1161/circulationaha.113.002702)
 
-## Pathophysiological changes that favor thrombosis in patients with cancer include
+siological changes that favor thrombosis in patients with cancer include
 
 * platelet activation
 * direct factor X activation,

@@ -1,7 +1,7 @@
 ---
 title: Management of ICU patient-pulmonary hypertension
 ---
-# Management of ICU patient-pulmonary hypertension
+sion
 
 * Avoid tachyarrhythmias & overly aggressive volume resuscitation
 

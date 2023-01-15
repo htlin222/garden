@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-Screening for latent TB
 ---
-# Clinical manifestations-Screening for latent TB
+stations-Screening for latent TB
 
  (Lancet 2016;387:1211)
 * Constitutional symptoms are common in all manifestations, but may be absent

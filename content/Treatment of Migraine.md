@@ -1,7 +1,7 @@
 ---
 title: Treatment of Migraine
 ---
-# Treatment of Migraine
+
 
 Abortive Rx: 5-HT1 agonists (triptans) effective if given early in migraine attack;
 Abortive: The goal of abortive treatment is to stop a migraine once it starts.

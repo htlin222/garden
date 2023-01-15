@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations of lung cancer
 ---
-# Clinical manifestations of lung cancer
+stations of lung cancer
 
 * ~10% asymptomatic at dx, detected incidentally (only 16% w/ localized dis. at presentation)
 * Endobronchial growth of 1° tumor: cough, hemoptysis, dyspnea, pain, wheezing, post-obstructive pneumonia; more common with squamous or small cell (central location)

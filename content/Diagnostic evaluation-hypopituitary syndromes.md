@@ -1,7 +1,7 @@
 ---
 title: Diagnostic evaluation-hypopituitary syndromes
 ---
-# Diagnostic evaluation-hypopituitary syndromes
+stic evaluation-hypopituitary syndromes
 
 * Hormonal studies
 Chronic: ↓ target gland hormone + ↓ or (inappropriately) normal trophic pituitary hormone

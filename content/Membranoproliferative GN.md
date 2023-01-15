@@ -1,7 +1,7 @@
 ---
 title: Membranoproliferative GN
 ---
-# Membranoproliferative GN
+
 
 (5%, mixed nephrotic/nephritic features; CJASN 2014;9:600)
 

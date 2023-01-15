@@ -1,7 +1,7 @@
 ---
 title: Imaging-for-stress-test
 ---
-# Imaging-for-stress-test
+stress-test
 
 * Use if uninterpretable ECG (V-paced, LBBB, resting ST ↓ >1 mm, digoxin, LVH, WPW), after indeterminate ECG test, or if pharmacologic test
 

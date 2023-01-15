@@ -1,7 +1,7 @@
 ---
 title: Sideroblastic anemia
 ---
-# Sideroblastic anemia
+stic anemia
 
 
 * Defective heme biosynthesis within RBC precursors

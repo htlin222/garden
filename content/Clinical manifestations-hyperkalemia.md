@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-hyperkalemia
 ---
-# Clinical manifestations-hyperkalemia
+stations-hyperkalemia
 
 * Weakness, nausea, paresthesias, palpitations; Renal: ↓ NH4+ secretion → acidosis
 

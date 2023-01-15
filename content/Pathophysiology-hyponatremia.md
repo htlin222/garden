@@ -1,10 +1,10 @@
 ---
 title: Pathophysiology-hyponatremia
 ---
-# Pathophysiology-hyponatremia
+siology-hyponatremia
  (JASN 2008;19:1076; NEJM 2015;372:1349)
  
-## Pathophysiology 
+siology 
 (JASN 2008;19:1076; NEJM 2015;372:1349)
 
 * Excess H2O relative to Na, usually due to ↑ ADH

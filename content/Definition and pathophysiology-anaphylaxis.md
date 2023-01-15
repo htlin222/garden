@@ -1,7 +1,7 @@
 ---
 title: Definition and pathophysiology-anaphylaxis
 ---
-# Definition and pathophysiology-anaphylaxis
+siology-anaphylaxis
 
 
 (Ann Emerg Med 2006;47:373)

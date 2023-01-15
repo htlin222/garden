@@ -1,7 +1,7 @@
 ---
 title: pulsus paradoxus
 ---
-# pulsus paradoxus
+sus paradoxus
 
 * 正常情況下，吸氣時血壓會稍微降低，
 * 而呼氣時血壓會稍微上升，下降的正常範圍是<10 mmHg

@@ -1,7 +1,7 @@
 ---
 title: Prasugrel
 ---
-# Prasugrel
+sugrel
 
 60 mg × 1 at PCI → 10 mg qd (consider 5 mg/d if <60 kg)
 Wait 7 d prior to surgery

@@ -2,7 +2,7 @@
 title: neurology
 ---
 
-# neurology
+
 
 * [[change in mental status]]
 * [[seizures]]
@@ -16,4 +16,4 @@ title: neurology
 	* [[nerve root compression]]
 * [[head injury]]
  
-## part 4: [[neurologic critical care]]
+

@@ -1,7 +1,7 @@
 ---
 title: Sinus bradycardia
 ---
-# Sinus bradycardia
+s bradycardia
 
 (SB, <50–60 bpm) (NEJM 2000;342:703, Circ 2019;140:e382)
 * Etiologies: meds (incl βB, CCB, amio, Li, dig), ↑ vagal tone (incl. athletes, sleep, IMI), metabolic (hypoxia, sepsis, myxedema, hypothermia, ↓ glc), OSA, ↑ ICP

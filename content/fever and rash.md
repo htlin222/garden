@@ -1,7 +1,7 @@
 ---
 title: fever and rash
 ---
-# fever and rash
+sh
 
 Approach to diagnostic workup
 * Meningococcemia, endocarditis, RMSF, sepsis, & toxic shock need urgent dx & Rx

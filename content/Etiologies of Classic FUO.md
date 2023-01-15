@@ -1,16 +1,16 @@
 ---
 title: Etiologies of Classic FUO
 ---
-# Etiologies of Classic FUO
+s of Classic FUO
 
-## [[Infection as Etiologies of Classic FUO]]
+s Etiologies of Classic FUO]]
 ~30%
-## [[Connective tissue disease as Etiologies of Classic FUO]]
+ssue disease as Etiologies of Classic FUO]]
 ~30%
-## [[Neoplasm Etiologies of Classic FUO]]
+sm Etiologies of Classic FUO]]
 ~20%
 
-## Misc ~20%
+sc ~20%
 * [[Drug fever]]
 * [[Factitious disorder]]
 * [[venous thromboembolism]]

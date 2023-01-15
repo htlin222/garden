@@ -1,15 +1,15 @@
 ---
 title: management of Barrett’s esophagitis
 ---
-# management of Barrett’s esophagitis
+s esophagitis
 
 PPI. 
 
-## W/o dysplasia: 
+splasia: 
 surveillance EGD q3–5y. 
 
-## Low-grade dysplasia: 
+splasia: 
 EGD q12mo; possible endoscopic eradication. 
 
-## High-grade dysplasia: 
+splasia: 
 endoscopic eradication; consider chemoprophylaxis w/ high-dose PPI & ASA (Lancet 2018;392:400).

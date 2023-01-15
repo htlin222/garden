@@ -1,10 +1,10 @@
 ---
 title: Glomerular Diseases
 ---
-# Glomerular Diseases
+seases
 
 
-### Backlink：
+
 
 - [[nephrology]]
 - [[nephrotic syndrome]]

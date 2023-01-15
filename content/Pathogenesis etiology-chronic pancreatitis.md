@@ -1,7 +1,7 @@
 ---
 title: Pathogenesis etiology-chronic pancreatitis
 ---
-# Pathogenesis etiology-chronic pancreatitis
+sis etiology-chronic pancreatitis
 
  (Gastro 2013;144:1292; JAMA 2019;322:2422)
 

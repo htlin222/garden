@@ -1,7 +1,7 @@
 ---
 title: Portal vein thrombosis  PVT  
 ---
-# Portal vein thrombosis (PVT) 
+sis (PVT) 
 
  (Clin Liver Dis 2017;10:152; Gastro 2019;156:1582)
 

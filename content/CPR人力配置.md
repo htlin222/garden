@@ -1,7 +1,7 @@
 ---
 title: CPR人力配置
 ---
-# CPR人力配置
+
 
 三人組：
 * 換下來的人要負責check pulse

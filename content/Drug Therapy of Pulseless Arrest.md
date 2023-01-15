@@ -1,7 +1,7 @@
 ---
 title: Drug Therapy of Pulseless Arrest
 ---
-# Drug Therapy of Pulseless Arrest
+seless Arrest
 
 * Establish IV/O access (do not interrupt CPR)
 * Epinephrine 1 mg IV q3-5min (or 2 mg via ETT)

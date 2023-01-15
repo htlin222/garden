@@ -1,7 +1,7 @@
 ---
 title: Other  Uosm >700–800 
 ---
-# Other (Uosm >700–800)
+sm >700–800)
 
 * Na overload: hypertonic saline (eg, resuscitation w/ NaHCO3), mineralocorticoid excess
 

@@ -1,7 +1,7 @@
 ---
 title: Pulmonary infiltrates with eosinophilia  PIE 
 ---
-# Pulmonary infiltrates with eosinophilia (PIE)
+s with eosinophilia (PIE)
 
 eos on BAL é peripheral blood
 

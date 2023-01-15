@@ -1,7 +1,7 @@
 ---
 title: Peritoneal dialysis  PD 
 ---
-# Peritoneal dialysis (PD)
+sis (PD)
 
  (JAMA 2017;317:1864)
 

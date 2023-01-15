@@ -1,24 +1,24 @@
 ---
 title: metabolic-acidosis
 ---
-# metabolic-acidosis
+sis
 
-## Initial workup (NEJM 2014;371:1434)
+
 
 * ✓ [[anion gap]] 
 
-## [[Etiologies-of-AG-Metabolic-Acidosis]]
-## [[Workup-for-AG-metabolic-acidosis]] (AJKD 2021;78:A16)
-## [[Ingestions-caused-metabolic-acidosis]] 
-## [[Etiologies of Non-AG Metabolic Acidosis]]
-## [[Workup for non-AG metabolic acidosis]]
-## [[Renal tubular acidoses]] 
+s-of-AG-Metabolic-Acidosis]]
+sis]] (AJKD 2021;78:A16)
+stions-caused-metabolic-acidosis]] 
+s of Non-AG Metabolic Acidosis]]
+sis]]
+ses]] 
 
 Figure 4-2 [[Approach to metabolic acidosis]]
 
 ---
 
-## Treatment of severe metabolic acidoses (pH <7.2) (Nat Rev Nephrol 2012;8:589)
+severe metabolic acidoses (pH <7.2) (Nat Rev Nephrol 2012;8:589)
 * DKA: insulin, IVF, K repletion (NEJM 2015;372:546); AKA: dextrose, IVF, replete K, Mg, PO4
 * Lactic acidosis: treat underlying condition, avoid vasoconstrictors, avoid “Type B” meds
 * Renal failure: hemodialysis

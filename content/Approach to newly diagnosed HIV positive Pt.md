@@ -1,7 +1,7 @@
 ---
 title: Approach to newly diagnosed HIV positive Pt
 ---
-# Approach to newly diagnosed HIV positive Pt
+sed HIV positive Pt
 
 (CID 2020;73:e3572)
 * Counsel re: excellent prognosis w/adherence to treatment, treatment options, & disclosure

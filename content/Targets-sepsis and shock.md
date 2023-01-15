@@ -1,7 +1,7 @@
 ---
 title: Targets-sepsis and shock
 ---
-# Targets-sepsis and shock
+s-sepsis and shock
 
 * Lactate clearance (≥20%/2 h) as effective as ScvO2 to guide resusc. (JAMA 2010;303:739)
 

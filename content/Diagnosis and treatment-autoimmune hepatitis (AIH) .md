@@ -1,7 +1,7 @@
 ---
 title: Diagnosis and treatment-autoimmune hepatitis  AIH  
 ---
-# Diagnosis and treatment-autoimmune hepatitis (AIH) 
+sis and treatment-autoimmune hepatitis (AIH) 
 
  (J Hepatol 2015;63:1543, Clin Liver Dis 2015;19:57)
 

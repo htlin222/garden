@@ -1,7 +1,7 @@
 ---
 title: Risk factors-venous thromboembolism
 ---
-# Risk factors-venous thromboembolism
+sk factors-venous thromboembolism
 
 * [[Virchow’s triad]] for thrombogenesis.
 
@@ -14,7 +14,7 @@ title: Risk factors-venous thromboembolism
 * Obesity, smoking, acute infection, postpartum
 	* (JAMA 1997;277:642; Circ 2012;125:2092)
 
-## Criteria
+
 
 * [[Hestia Criteria for Outpatient Pulmonary Embolism Treatment]]
 * [[Pulmonary Embolism Severity Index PESI]]

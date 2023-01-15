@@ -1,7 +1,7 @@
 ---
 title: Fourth Universal Definition of Myocardial Infarction  2018 
 ---
-# Fourth Universal Definition of Myocardial Infarction (2018)
+sal Definition of Myocardial Infarction (2018)
 ![官網一張圖看完](https://i.imgur.com/f0UkPNT.jpg)
 
 - myocardial cell death due to prolonged ischemia

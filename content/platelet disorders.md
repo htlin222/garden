@@ -1,9 +1,9 @@
 ---
 title: platelet disorders
 ---
-# platelet disorders
+sorders
 
-## thrombocytopenia
+
 * [[Thrombocytopenia and Risk of Bleeding]]
 * [[Etiologies-of thrombocytopenia]]
 * [[Diagnostic evaluation of thrombocytopenia]]
@@ -16,7 +16,7 @@ title: platelet disorders
 
 ---
 
-## disorders of platelet function
+sorders of platelet function
 * [[Mechanisms and Etiologies of Platelet Function Abnormalities]]
 * Platelet aggregation tests: measure aggregation in response to agonists (eg, ADP)
 * [[von Willebrand’s disease (vWD)]] 

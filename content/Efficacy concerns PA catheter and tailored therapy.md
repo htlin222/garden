@@ -1,7 +1,7 @@
 ---
 title: Efficacy concerns PA catheter and tailored therapy
 ---
-# Efficacy concerns PA catheter and tailored therapy
+s PA catheter and tailored therapy
 
 > Efficacy concerns (NEJM 2006;354:2213; JAMA 2005;294:1664)
 

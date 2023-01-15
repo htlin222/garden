@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-pneumonia
 ---
-# Diagnostic studies-pneumonia
+stic studies-pneumonia
 
 (AJRCC 2019;200:e45)
 * Sputum Gram stain/Cx: reliable if high quality (ie, sputum not saliva; <10 squam cells/lpf). If bacterial PNA should be purulent (>25 PMN/lpf). Yield ↓ >10 h after abx (CID 2014;58:1782).

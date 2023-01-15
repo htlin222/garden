@@ -1,15 +1,15 @@
 ---
 title: Antiarrhythmic Drugs  AAD  for AF
 ---
-# Antiarrhythmic Drugs (AAD) for AF
+s (AAD) for AF
 
 ![Antiarrhythmic Drugs (AAD) for AF](https://i.imgur.com/DUFlNrk.png)
 
-## III
 
-## IC 
 
-## IA 
+
+
+
 
 ---
 

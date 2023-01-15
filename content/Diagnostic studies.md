@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies
 ---
-# Diagnostic studies
+stic studies
 
 (JAMA 2017;318:279)
 

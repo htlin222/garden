@@ -1,7 +1,7 @@
 ---
 title: aortic-regurgitation
 ---
-# aortic-regurgitation
+
 
 * [[Etiology-aortic-regurgitation]] (Circ 2006;114:422)
 * [[Clinical-manifestations-aortic-regurgitation]]

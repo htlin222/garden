@@ -1,7 +1,7 @@
 ---
 title: Duration of full-intensity anticoagulation-venous thromboembolism
 ---
-# Duration of full-intensity anticoagulation-venous thromboembolism
+sity anticoagulation-venous thromboembolism
 
 * Superficial venous thrombosis: **4 wk**
 

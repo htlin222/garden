@@ -1,9 +1,9 @@
 ---
 title: Uremia
 ---
-# Uremia
 
-## hemodialysis indication:
+
+sis indication:
 pericarditis, encephalopathy, bleeding
 
 [[Residual syndrome]]

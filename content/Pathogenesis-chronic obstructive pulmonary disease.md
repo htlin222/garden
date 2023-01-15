@@ -1,7 +1,7 @@
 ---
 title: Pathogenesis-chronic obstructive pulmonary disease
 ---
-# Pathogenesis-chronic obstructive pulmonary disease
+sis-chronic obstructive pulmonary disease
 
 Lancet 2017;389:1931
 

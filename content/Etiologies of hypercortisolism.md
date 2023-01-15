@@ -1,7 +1,7 @@
 ---
 title: Etiologies of hypercortisolism
 ---
-# Etiologies of hypercortisolism
+s of hypercortisolism
 
 * Most commonly iatrogenic caused by exogenous glucocorticoids (though underreported)
 * [[Cushing’s disease]] (60–70% of non-iatrogenic CS): 

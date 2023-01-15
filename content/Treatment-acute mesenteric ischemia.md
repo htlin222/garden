@@ -1,7 +1,7 @@
 ---
 title: Treatment-acute mesenteric ischemia
 ---
-# Treatment-acute mesenteric ischemia
+senteric ischemia
 
 * IVF, NPO, optimize hemodynamics (minimize pressors), broad-spectrum abx, anticoagulation w/ heparin ± tPA (for occlusive disease), IV papaverine (vasodilator; for non-occlusive mesenteric ischemia)
 

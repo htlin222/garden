@@ -1,7 +1,7 @@
 ---
 title: Oxygen for chronic obstructive pulmonary disease
 ---
-# Oxygen for chronic obstructive pulmonary disease
+structive pulmonary disease
 
 * if PaO2 ≤55 mmHg or SaO2 ≤89% (during rest, exercise, or sleep) to prevent cor pulmonale;
 * only Rx proven to ↓ mortality (Annals 1980;93:391; Lancet 1981;i:681);

@@ -1,7 +1,7 @@
 ---
 title: Complications-acute pancreatitis
 ---
-# Complications-acute pancreatitis
+s-acute pancreatitis
 
 * Systemic: ARDS, abdominal compartment syndrome, AKI, GIB (pseudoaneurysm), DIC
 

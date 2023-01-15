@@ -1,7 +1,7 @@
 ---
 title: Diagnostic-studies-mitral-regurgitation
 ---
-# Diagnostic-studies-mitral-regurgitation
+stic-studies-mitral-regurgitation
 
 Diagnostic studies
 * ECG: can see LVH, LAD, abnl repol; CXR: cardiomegaly ± ascending Ao dilatation

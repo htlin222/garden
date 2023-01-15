@@ -1,7 +1,7 @@
 ---
 title: initial test of hypophosphatemia
 ---
-# initial test of hypophosphatemia
+st of hypophosphatemia
 - serum calcium, vitamin D, and parathyroid hormone levels;
 - arterial blood gas;
 - urine phosphorus and creatinine levels;

@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[IDSA Guidance]]
 
-# treatment of antimicrobial-resistant gram-negative infections
+sistant gram-negative infections
 
 ![Table 1. Suggested dosing of antibiotics for the treatment of infections caused by antimicrobial-resistant organisms](https://i.imgur.com/Zku9l7C.png)
 

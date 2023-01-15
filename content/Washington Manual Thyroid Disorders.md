@@ -1,8 +1,8 @@
 ---
 title: Washington Manual Thyroid Disorders
 ---
-# Washington Manual Thyroid Disorders
-## Hyperthyroidism4,5
+shington Manual Thyroid Disorders
+sm4,5
 GENERAL PRINCIPLES
 
 Graves’ disease causes most cases of hyperthyroidism, especially in young patients. This autoimmune disorder may also cause proptosis (exophthalmos) and pretibial myxedema, neither of which is found in other causes of hyperthyroidism.
@@ -94,7 +94,7 @@ Plasma-free T4 is measured every 4–6 days. When free T4 approaches the normal
 Hyperthyroidism in pregnancy: If hyperthyroidism is suspected, plasma TSH should be measured. Plasma TSH declines in early pregnancy but rarely to <0.1 µU/mL due to the stimulatory effect of hCG on TSH receptors.
 If TSH is <0.1 µU/mL, the diagnosis should be confirmed by measurement of plasma-free T4.
 RAI is contraindicated in pregnancy, and therefore, patients should be treated with PTU in the first trimester because of its lower risk of severe congenital defects, whereas methimazole can be used in later pregnancy. The dose should be adjusted at 4-week intervals to maintain the plasma-free T4 near the upper limit of the normal range to avoid fetal hypothyroidism. The dose required often decreases in the later stages of pregnancy.
-## Goiter, Thyroid Nodules, and Thyroid Carcinoma6,7
+s, and Thyroid Carcinoma6,7
 GENERAL PRINCIPLES
 
 The evaluation of goiter is based on palpation of the thyroid and evaluation of thyroid function. If the thyroid is enlarged, the examiner should determine whether the enlargement is diffuse or nodular. Both forms of goiter are common, especially in women.

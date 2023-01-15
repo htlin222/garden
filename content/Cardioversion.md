@@ -1,7 +1,7 @@
 ---
 title: Cardioversion
 ---
-# Cardioversion
+sion
 
 * Consider if: 1st AF, sx, tachycardia-mediated CMP, or difficult to rate control
 If AF >48 h 2–5% risk stroke w/ cardioversion (pharmacologic or electric) ∴ either TEE to r/o thrombus or ensure therapeutic anticoagulation ≥3 wk prior

@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-constrictive pericarditis
 ---
-# Diagnostic studies-constrictive pericarditis
+stic studies-constrictive pericarditis
 
 * ECG: nonspecific, AF common (up to 33%) in advanced cases
 * CXR: calcification (MTb most common), espec in lateral view (although not specific)

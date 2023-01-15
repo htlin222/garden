@@ -1,7 +1,7 @@
 ---
 title: Microangiopathic hemolytic anemia
 ---
-# Microangiopathic hemolytic anemia
+
 
 (MAHA; NEJM 2014;371:654)
 

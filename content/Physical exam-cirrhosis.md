@@ -1,7 +1,7 @@
 ---
 title: Physical exam-cirrhosis
 ---
-# Physical exam-cirrhosis
+sical exam-cirrhosis
 
 * Liver: initially enlarged, palpable (L lobe predom), firm; eventually shrunken, nodular
 

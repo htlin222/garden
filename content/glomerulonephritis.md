@@ -1,7 +1,7 @@
 ---
 title: glomerulonephritis
 ---
-# glomerulonephritis
+s
 * [[Definition-glomerulonephritis]]
 * [[ANCA positive Vasculitis]]
 * [[Anti-GBM Disease]]

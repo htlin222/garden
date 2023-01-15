@@ -1,7 +1,7 @@
 ---
 title: Microbiology and severity-diabetic foot infections
 ---
-# Microbiology and severity-diabetic foot infections
+severity-diabetic foot infections
 
 
 (CID 2004;39:885)

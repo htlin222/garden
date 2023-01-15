@@ -1,7 +1,7 @@
 ---
 title: Hereditary spherocytosis  HS  
 ---
-# Hereditary spherocytosis (HS) 
+spherocytosis (HS) 
 
 (Lancet 2008;372:1411)
 

@@ -1,12 +1,12 @@
 ---
 title: CAR-T-Toxicity
 ---
-# CAR-T-Toxicity
-## Toxicities
+
+s
 * Cytokine release syndrome (CRS): fever, HoTN, shock secondary to overwhelming cytokine release from proliferating T cells
 * Immune effector cell-associated neurotoxicitiy synd. (ICANS): cerebral edema → HA, aphasia, delirium, lethargy/obtundation. Graded using ICE score (vide infra).
 
-## CRS cytokine release syndrome 
+se syndrome 
 發燒、低血壓、呼吸變喘，嚴重者甚至可能昏迷
 1 Fever (≥38°C) ± other sx
 2 Fever + HoTN not needing pressors ± O2 by nasal cannula
@@ -14,7 +14,7 @@ title: CAR-T-Toxicity
 4 Fever + >1 pressor ± ⊕ pressure vent
 * Treatment : Supportive (fluids, O2), ± steroids ± anti-IL-6 (tocilizumab or siltuximab), depending on severity
  
-## ICANS cytokine release encephalopathy 
+se encephalopathy 
 僵化、不講話、沒反應，嚴重者可能眼睛看不見
 1 ICE 7–9 pts
 2 ICE 3–6 pts

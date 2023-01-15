@@ -1,7 +1,7 @@
 ---
 title: Definition-diabetes mellitus
 ---
-# Definition-diabetes mellitus
+s mellitus
 
 (Diabetes Care 2022;45:S256)
 * Either HbA1c ≥6.5, fasting glc ≥126 mg/dL, or glc 2 h after OGTT ≥200 mg/dL × 2 (for any test) or single random glc ≥200 mg/dL w/ classic sx of hyperglycemia; all tests equally reasonable (nb, may be ⊕ on one test but not another); OGTT preferred during preg

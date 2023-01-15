@@ -1,7 +1,7 @@
 ---
 title: Definition-Antiphospholipid syndrome
 ---
-# Definition-Antiphospholipid syndrome
+spholipid syndrome
 
 dx requires ≥1 clinical & ≥1 laboratory criteria
 

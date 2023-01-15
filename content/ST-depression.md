@@ -1,7 +1,7 @@
 ---
 title: ST-depression
 ---
-# ST-depression
+ssion
 
 * Myocardial ischemia (± Tw abnl)
 

@@ -1,7 +1,7 @@
 ---
 title: Steroids-sepsis and shock
 ---
-# Steroids-sepsis and shock
+s-sepsis and shock
 
 
 Steroids (Crit Care Med 2018;46:1411)

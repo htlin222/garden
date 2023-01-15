@@ -1,7 +1,7 @@
 ---
 title: macos config
 ---
-# macos config
+s config
 
 
 MACOS CATALINA 10.15 第三方软件文件提示已损坏解决办法

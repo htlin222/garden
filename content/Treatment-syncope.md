@@ -1,7 +1,7 @@
 ---
 title: Treatment-syncope
 ---
-# Treatment-syncope
+syncope
 
  (JACC 2017;70:620 & 2019;74:2410; EHJ 2018;39:1883)
 * Arrhythmia, cardiac mechanical or neurologic syncope: treat underlying disorder, ? ICD if Brugada pattern, sarcoid, ARVC, early repol + syncope

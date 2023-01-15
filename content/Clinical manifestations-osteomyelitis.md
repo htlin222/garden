@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-osteomyelitis
 ---
-# Clinical manifestations-osteomyelitis
+stations-osteomyelitis
 
 * Surrounding soft-tissue compromise ± fistula to superficial skin
 * ± Fever, malaise, and night sweats (more common in hematogenous than contiguous)

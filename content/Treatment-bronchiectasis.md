@@ -1,7 +1,7 @@
 ---
 title: Treatment-bronchiectasis
 ---
-# Treatment-bronchiectasis
+sis
 
 * Acute exacerbations: antibiotics directed against prior pathogens; if no prior Cx data → FQ
 

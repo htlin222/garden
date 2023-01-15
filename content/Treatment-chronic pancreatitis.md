@@ -1,7 +1,7 @@
 ---
 title: Treatment-chronic pancreatitis
 ---
-# Treatment-chronic pancreatitis
+s
 
 
 (JAMA 2019;322:2422; Lancet 2020;396:499)

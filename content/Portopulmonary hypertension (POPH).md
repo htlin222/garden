@@ -1,7 +1,7 @@
 ---
 title: Portopulmonary hypertension  POPH 
 ---
-# Portopulmonary hypertension (POPH)
+sion (POPH)
 
 (Expert Rev Gastro Hepatol 2015;9:983)
 * Pulm HTN in Pt w/ portal HTN w/o other cause. ESLD→ ↑ endothelin→ pulm vasoconst.

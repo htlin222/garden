@@ -4,7 +4,7 @@ date: "2023-01-09"
 ---
 
  from: [[differential diagnosis of back pain]]
-# Musculoskeletal ddx of back pain
+sculoskeletal ddx of back pain
 
 * involving spine (vertebra, facet joints),
 * paraspinal muscles & ligaments

@@ -1,7 +1,7 @@
 ---
 title: Salicylates-toxicology
 ---
-# Salicylates-toxicology
+s-toxicology
 
 
 Tinnitus, hyperventilation, abd. pain, vomiting, ΔMS, mixed ↑ AG & nl OG metabolic acidosis + respiratory alkalosis

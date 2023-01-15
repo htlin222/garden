@@ -1,7 +1,7 @@
 ---
 title: thyroid cancer
 ---
-# thyroid cancer
+
 [[Thyroid nodules]] (JAMA 2018;319:914)
 [[Papillary thyroid cancer]]
 [[Follicular thyroid cancer]]

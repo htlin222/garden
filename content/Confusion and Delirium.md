@@ -1,7 +1,7 @@
 ---
 title: Confusion and Delirium
 ---
-# Confusion and Delirium
+sion and Delirium
 [[terms used to describe patients with delirium]]
 
 - altered attention & awareness,

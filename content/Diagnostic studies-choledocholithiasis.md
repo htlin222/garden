@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-choledocholithiasis
 ---
-# Diagnostic studies-choledocholithiasis
+stic studies-choledocholithiasis
 
 
 (J Hepatol 2016;65:146; Gastrointest Endosc 2019;89:1075)

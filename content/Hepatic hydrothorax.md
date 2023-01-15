@@ -1,7 +1,7 @@
 ---
 title: Hepatic hydrothorax
 ---
-# Hepatic hydrothorax
+
 
 
 2° diaphragmatic defect; often unilateral, R >L, ± ascites

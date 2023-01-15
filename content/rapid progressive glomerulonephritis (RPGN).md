@@ -1,7 +1,7 @@
 ---
 title: rapid progressive glomerulonephritis  RPGN 
 ---
-# rapid progressive glomerulonephritis (RPGN)
+ssive glomerulonephritis (RPGN)
 
 
 切片下典型會出現廣泛的新月形成(crescent formation)。

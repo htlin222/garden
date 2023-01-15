@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-mitral-stenosis
 ---
-# Diagnostic studies-mitral-stenosis
+stic studies-mitral-stenosis
 
 
 * ECG: LAE (“P mitrale”), ± AF, ± RVH

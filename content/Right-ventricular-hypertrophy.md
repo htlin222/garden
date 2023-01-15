@@ -1,7 +1,7 @@
 ---
 title: Right-ventricular-hypertrophy
 ---
-# Right-ventricular-hypertrophy
+
 
 * Etiologies: cor pulmonale, congenital (tetralogy of Fallot, TGA, PS, ASD, VSD), MS, TR
 

@@ -1,7 +1,7 @@
 ---
 title: Treatment-hyperaldosteronism
 ---
-# Treatment-hyperaldosteronism
+steronism
 
 (SCNA 2014;94:643)
 * Adenoma → adrenalectomy vs. medical Rx w/ spironolactone or eplerenone

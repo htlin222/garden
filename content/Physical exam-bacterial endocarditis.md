@@ -1,7 +1,7 @@
 ---
 title: Physical exam-bacterial endocarditis
 ---
-# Physical exam-bacterial endocarditis
+sical exam-bacterial endocarditis
 
 * Cardiac murmur (85%), s/s of new HF (pulmonary edema, JVP elevation, edema)
 * Skin/ocular changes (uncommon but highly specific)

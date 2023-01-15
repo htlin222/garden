@@ -1,14 +1,14 @@
 ---
 title: chest radiograph
 ---
-# chest radiograph
+st radiograph
 
-## Tips:
+s:
 > Are There Many Lung Lesion
 > Can I ?
 
-## Consolidation: 水、血、膿
-### SILHOUETTE SIGN
+solidation: 水、血、膿
+
 * heart, aorta, or diaphragm
 * bronchopneumonia: Multifocal consolidation
 * DIFFUSE CONSOLIDATION: crazy paving
@@ -18,27 +18,27 @@ title: chest radiograph
 	* Pneumocystis
 * Cryptogenic organizing pneumonia
 	* predominant peribronchial and peripheral distribution
-### FOCAL AND MULTIFOCAL CONSOLIDATION
-### EXTENSIVE CONFLUENT AND DIFFUSE CONSOLIDATION
-### ACUTE CAUSES OF PARENCHYMAL CONSOLIDATION
-### CHRONIC CAUSES OF PARENCHYMAL CONSOLIDATION
+
+
+
+
 
 ---
 
-## Atelectasis
+sis
 
-#### Obstructive atelectasis
+structive atelectasis
 Distal to obstruction of a bronchus
-#### Passive atelectasis
+ssive atelectasis
 Retraction of lung in the presence of pneumothorax
-#### Compressive atelectasis
+ssive atelectasis
 Compression by a space-occupying process, such as a pleural effusion, pulmonary mass, or bulla
-#### Adhesive atelectasis
+sive atelectasis
 Caused by deficiency of surfactant (e.g., radiation pneumonitis)
-#### Cicatrization atelectasis
+sis
 Caused by contraction of fibrous tissue as it matures; can be focal (e.g., tuberculosis) or diffuse (e.g., idiopathic pulmonary fibrosis)
 
-### Patterns of Atelectasis
+s of Atelectasis
 S sign of Golden
 juxtaphrenic peak
 Luftsichel sign
@@ -46,29 +46,29 @@ thymic sail sign
 
 ---
 
-## Nodules and Masses
-### CONGENITAL
+s and Masses
+
 Pulmonary arteriovenous malformation
-### INFECTIOUS
+
 * Septic embolism
 * Lung abscesses
 * Invasive aspergillosis
 * Candidiasis
-## NEOPLASTIC
+
 * Pulmonary metastases
 * Multicentric adenocarcinoma
 * Lymphoma
 * Kaposi sarcoma
-## VASCULITIC
+
 * Granulomatosis with polyangiitis
 * Eosinophilic granulomatosis with polyangitis
 * Rheumatoid nodules
-## TRAUMATIC
+
 * Hematomas
 
 ---
 
-## Interstitial Patterns
+stitial Patterns
 * Septal Pattern
 	* Kerley's A, B, and C Lines
 * Reticular Pattern
@@ -85,5 +85,5 @@ Pulmonary arteriovenous malformation
 * Limitations of the Pattern Approach
 ---
 
-## Decreased Lung Density
+sed Lung Density
 * mastectomy

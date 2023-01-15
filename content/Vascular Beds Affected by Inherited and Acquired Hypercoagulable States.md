@@ -1,29 +1,29 @@
 ---
 title: Vascular Beds Affected by Inherited and Acquired Hypercoagulable States
 ---
-# Vascular Beds Affected by Inherited and Acquired Hypercoagulable States
+scular Beds Affected by Inherited and Acquired Hypercoagulable States
 
-## Inher.
 
-### Venous
+
+s
 * Factor V Leiden
 * Prothrombin mutation ↓ protein C, S or AT III
  
-### Venous and Arterial
+s and Arterial
 * Hyperhomocysteinemia (inherited or acquired)
 * Dysfibrinogenemia
 
 ---
 
-## Acquired
 
-### Venous
+
+s
 * Stasis: immobilization, surgery, CHF
 * Malignancy
 * Hormonal: OCPs, HRT, tamoxifen, pregnancy
-* Nephrotic syndrome## Venous
+* Nephrotic syndromes
 
-### Venous and Arterial
+s and Arterial
 * Platelet defects: myeloproliferative disorders, HIT, PNH (although venous >arterial)
 * Hyperviscosity: polycythemia vera, Waldenström’s -macroglobulinemia, sickle cell, acute leukemia
 * Vessel wall defects: vasculitis, trauma, foreign bodies

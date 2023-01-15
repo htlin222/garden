@@ -1,7 +1,7 @@
 ---
 title: Etiologies-syncope
 ---
-# Etiologies-syncope
+s-syncope
 
 
 * Vasovagal (a.k.a. neurocardiogenic, ~25%): ↑ sympathetic tone → vigorous contraction of LV → LV mechanoreceptors trigger ↑ vagal tone (hyperactive Bezold-Jarisch reflex) → ↓ HR (cardioinhib.) and/or ↓ BP (vasodepressor). Cough, deglutition, defecation, & micturition → ↑ vagal tone and thus can be precipitants. Carotid sinus hypersensitivity (exag vagal resp to carotid massage) is related disorder.

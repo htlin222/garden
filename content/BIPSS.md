@@ -7,12 +7,12 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Diagnosis-Cushing’s Syndrome]]
 
-# BIPSS
+
 
 bilat. Inferior petrosal 顳骨岩部 sinus vein sampling;
 ✓ petrosal:peripheral ACTH ratio (⊕ ≥2 basal, ≥3 after CRH)
 
-## ddx: pituitary or ectopic origin
+
 with a sensitivity and specificity of 88–100% and 67–100%, respectively.
 
 [[Rationale of BIPSS]]

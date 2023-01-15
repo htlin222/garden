@@ -1,7 +1,7 @@
 ---
 title: Pancoast’s syndrome
 ---
-# Pancoast’s syndrome
+st’s syndrome
 
 apical tumor → brachial plexus involvement (C8, T1, T2) → [[Horner’s syndrome]], shoulder pain, rib destruction, atrophy of hand muscles
 

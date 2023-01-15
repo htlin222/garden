@@ -1,7 +1,7 @@
 ---
 title: type 2 MI
 ---
-# type 2 MI
+
 
 
 1. includes detection of a rise and/or fall of cTn with at least one value above the 99th percentile and evidence of an imbalance between myocardial oxygen supply and demand unrelated to coronary thrombosis, requiring at least one of the following:

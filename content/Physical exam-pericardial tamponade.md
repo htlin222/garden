@@ -1,7 +1,7 @@
 ---
 title: Physical exam-pericardial tamponade
 ---
-# Physical exam-pericardial tamponade
+sical exam-pericardial tamponade
 
 * Beck’s triad (present in minority of cases): distant heart sounds (28%), ↑ JVP (76%) w/ blunted y descent, hypotension (26%); ± pericardial friction rub (30%)
 * Reflex tachycardia (77%), cool extremities

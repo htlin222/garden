@@ -1,7 +1,7 @@
 ---
 title: Principles of treatment-asthma
 ---
-# Principles of treatment-asthma
+s of treatment-asthma
 
 
 * Education and avoidance of environmental triggers (Lancet 2015;386:1075); yearly flu shot

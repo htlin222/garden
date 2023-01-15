@@ -1,7 +1,7 @@
 ---
 title: Adrenal crisis in adrenal insufficiency
 ---
-# Adrenal crisis in adrenal insufficiency
+sis in adrenal insufficiency
 
 (NEJM 2019;381;852)
 * Precipitants: preexisting adrenal insufficiency + serious infection or GI illness, bilateral adrenal hemorrhage or infarction, pituitary infarction

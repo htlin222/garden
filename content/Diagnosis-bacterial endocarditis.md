@@ -1,7 +1,7 @@
 ---
 title: Diagnosis-bacterial endocarditis
 ---
-# Diagnosis-bacterial endocarditis
+sis-bacterial endocarditis
 
 
 (CID 2010;51:131; EHJ 2015;36:3075; Circ 2015;132:1435)

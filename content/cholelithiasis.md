@@ -1,7 +1,7 @@
 ---
 title: cholelithiasis
 ---
-# cholelithiasis
+sis
 * [[Epidemiology  pathogenesis-cholelithiasis]]
 * [[Types of gallstones-cholelithiasis]]
 * [[Clinical manifestations-cholelithiasis]]

@@ -1,7 +1,7 @@
 ---
 title: Sarcoidosis
 ---
-# Sarcoidosis
+sis
 
 (AJRCCM 2020;201:e26; JAMA 2022;327:856)
 

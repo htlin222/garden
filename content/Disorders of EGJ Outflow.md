@@ -1,7 +1,7 @@
 ---
 title: Disorders of EGJ Outflow
 ---
-# Disorders of EGJ Outflow
+sorders of EGJ Outflow
 
 Isolated EGJ outflow obstruction or achalasia.
 Achalasia: simult. ↓ amp contractions & ↓ LES relaxation;

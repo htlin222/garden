@@ -1,7 +1,7 @@
 ---
 title: Lactic acidosis
 ---
-# Lactic acidosis
+sis
 
 Type A: hypoxic (eg, shock, mesenteric ischemia, CO poisoning, cyanide)
 Type B: nonhypoxic. ↓ clearance (eg, hepatic dysfxn) or ↑ generation [eg, malig, EtOH, thiamine def., meds (metformin, NRTIs, salicylates, propylene glycol, propofol, isoniazid, linezolid)]

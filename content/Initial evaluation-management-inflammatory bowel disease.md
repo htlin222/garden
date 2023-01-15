@@ -1,7 +1,7 @@
 ---
 title: Initial evaluation-management-inflammatory bowel disease
 ---
-# Initial evaluation-management-inflammatory bowel disease
+sease
 
 * H&P (✓ for intestinal & extraintestinal manifestations) and dx studies as above
 

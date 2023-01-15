@@ -2,7 +2,7 @@
 title: change in mental status
 ---
 
-# change in mental status
+status
 
 * [[Consciousness Arousal]]
 * [[Etiologies of Decreased Responsiveness]]

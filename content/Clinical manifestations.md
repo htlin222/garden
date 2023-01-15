@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations
 ---
-# Clinical manifestations
+stations
 
 * Classic triad = wheezing, cough, dyspnea; others include chest tightness, sputum; symptoms typically chronic with episodic exacerbation
 

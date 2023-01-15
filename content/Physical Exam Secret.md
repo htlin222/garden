@@ -1,7 +1,7 @@
 ---
 title: Physical Exam Secret
 ---
-# Physical Exam Secret
+sical Exam Secret
 
 1. Postural dizziness (severe enough to stop the test) or an increase in heart rate of at least 30 beats/minute has sensitivity of 97% and specificity of 96% for blood loss >630 mL. Unless associated with dizziness, postural hypotension of any degree has little value.
 2. Body fat “distributions” by waist circumference (WC) and waist-to-hip ratio (WHR) are much better markers for cardiovascular risk than the body mass index (BMI) alone. In fact, a WC <100 cm practically excludes insulin resistance.

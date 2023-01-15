@@ -1,7 +1,7 @@
 ---
 title: Gastroparesis
 ---
-# Gastroparesis
+stroparesis
 
 (Nat Rev Dis Primers 2018;4:41)
 

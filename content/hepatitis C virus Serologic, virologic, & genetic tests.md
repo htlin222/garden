@@ -1,7 +1,7 @@
 ---
 title: hepatitis C virus Serologic, virologic, & genetic tests
 ---
-# hepatitis C virus Serologic, virologic, & genetic tests
+s C virus Serologic, virologic, & genetic tests
 
 (screen all adults [✓ anti-HCV] JAMA 2020;323:970)
 anti-HCV (ELISA): ⊕ in 6 wk, does not = recovery or immunity; can be ⊖ after recovery

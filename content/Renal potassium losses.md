@@ -1,9 +1,9 @@
 ---
 title: Renal potassium losses
 ---
-# Renal potassium losses
+ssium losses
 
-## Hypotensive or normotensive
+sive or normotensive
 
 * acidosis: DKA, RTA [distal RTAs (type I) >proximal RTAs (type II)]
 
@@ -17,7 +17,7 @@ title: Renal potassium losses
 
 * ↓ Mg: less Mg to inhibit principal cell ROMK channel, ∴ ↑ K secretion (JASN 2010;21:2109)
 
-## Hypertensive: mineralocorticoid excess
+sive: mineralocorticoid excess
 
 * 1° hyperaldosteronism (eg, Conn’s syndrome, glucocorticoid-remediable aldosteronism)
 

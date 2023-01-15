@@ -1,7 +1,7 @@
 ---
 title: Acute severe elevation in ALT AST
 ---
-# Acute severe elevation in ALT AST
+severe elevation in ALT AST
 
 
  (>1000)

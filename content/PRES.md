@@ -7,10 +7,10 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[warning signs of headache]]
 
-# PRES
+
 
 Posterior reversible encephalopathy syndrome (PRES)
-## characterized by
+
 headache,
 visual disturbances
 seizures

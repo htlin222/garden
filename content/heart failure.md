@@ -1,7 +1,7 @@
 ---
 title: heart failure
 ---
-# heart failure
+
 
 * [[Definitions heart failure]] (Braunwald’s Heart Disease, 12th ed., 2022)
 

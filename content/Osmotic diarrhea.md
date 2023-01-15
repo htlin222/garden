@@ -1,7 +1,7 @@
 ---
 title: Osmotic diarrhea
 ---
-# Osmotic diarrhea
+smotic diarrhea
 
 (watery; ⊖ fecal fat, ↑ osmotic gap, ↓ diarrhea w/ fasting)
 

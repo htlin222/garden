@@ -1,7 +1,7 @@
 ---
 title: Aspirin
 ---
-# Aspirin
+spirin
 
 162–325 mg × 1, then 81 mg qd
 (non–enteric-coated, chewable)

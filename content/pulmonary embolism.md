@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[venous thromboembolism]]
 
-# pulmonary embolism
+sm
 
 * [[Clinical manifestations—PE]]
 * [[Modified Wells Pretest Probability Scoring for PE ]]

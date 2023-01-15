@@ -3,7 +3,7 @@ title: Diagnosis gastroesophageal reflux
 aliases: [Diagnosis gastroesophageal reflux]
 linter-yaml-title-alias: Diagnosis gastroesophageal reflux
 ---
-# Diagnosis gastroesophageal reflux
+sis gastroesophageal reflux
   (Annals 2015;163:ITC1; Nat Rev Gastro Hepatol 2016;13:501)
 * Clinical diagnosis based on sx and response to empiric trial of PPI (“PPI test”)
 * EGD if: Ø response to PPI or alarm features: dysphagia, vomiting, ↓ wt, anemia, age >60

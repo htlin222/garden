@@ -1,7 +1,7 @@
 ---
 title: Treatment-Candida species
 ---
-# Treatment-Candida species
+species
 
 Mucocutaneous
 Clotrimazole, nystatin, fluconazole, itraconazole

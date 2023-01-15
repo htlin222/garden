@@ -1,7 +1,7 @@
 ---
 title: empiric replacement fluids can be used for fluid losses
 ---
-# empiric replacement fluids can be used for fluid losses
+s can be used for fluid losses
 
 [Sample Osmolarity calculations - GlobalRPH](https://globalrph.com/sample-osmolarity-calculations/)
 

@@ -1,7 +1,7 @@
 ---
 title: Follow-up, treatment response and failure of Migraine
 ---
-# Follow-up, treatment response and failure of Migraine
+sponse and failure of Migraine
 
 * Use headache calendars
 * Assess effectiveness and adverse events

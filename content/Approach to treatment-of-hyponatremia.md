@@ -1,7 +1,7 @@
 ---
 title: Approach to treatment-of-hyponatremia
 ---
-# Approach to treatment-of-hyponatremia
+
 
 * depends on volume status, acuity of hyponatremia, and if symptomatic
 

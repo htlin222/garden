@@ -1,7 +1,7 @@
 ---
 title: Genetics of Diagnostic and staging evaluation of lung cancer
 ---
-# Genetics of Diagnostic and staging evaluation of lung cancer
+s of Diagnostic and staging evaluation of lung cancer
 
 (usually just in adv/metastatic disease):
 

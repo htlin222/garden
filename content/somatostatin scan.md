@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Approach to suspected Cushing’s syndrome]]
 
-# somatostatin scan
+somatostatin scan
 
 * An octreotide scan is a type of SPECT scintigraphy used to find carcinoid, pancreatic neuroendocrine tumors, and to localize sarcoidosis.
 * It is also called somatostatin receptor scintigraphy (SRS).

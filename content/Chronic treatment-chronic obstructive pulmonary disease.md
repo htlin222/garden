@@ -1,20 +1,20 @@
 ---
 title: Chronic treatment-chronic obstructive pulmonary disease
 ---
-# Chronic treatment-chronic obstructive pulmonary disease
+structive pulmonary disease
 
 COPD Staging and Recommended Therapies by GOLD Criteria
 
-## 一年兩次以下算A,B
+
 * A Short-acting inh dilator prn
 * B LAMA
  
-## 一年兩次以上算C,D
+
 * C LAMA
 * D LAMA + LABA ± ICS
 	* 考慮在支氣管擴張劑中添加PDE-4抑制
 	 
-## Treatment	 
+
 * [[Bronchodilators]] 
 * [[Corticosteroids for chronic obstructive pulmonary disease]]
 * Triple Therapy (LAMA+LABA+ICS) ↓ exac, ↓ hosp, ↑ PNA (NEJM 2020;383:35)

@@ -1,7 +1,7 @@
 ---
 title: Treatment of Behçet’s syndrome
 ---
-# Treatment of Behçet’s syndrome
+s syndrome
 
 Mucocutaneous: Mild: topical steroids, colchicine (esp. for erythema nodosum), dapsone, apremilast (PDE-4 inhib) for oral ulcers and ? genital ulcers (NEJM 2019;381:1918). Severe: oral steroids, steroid-sparing agents.
 

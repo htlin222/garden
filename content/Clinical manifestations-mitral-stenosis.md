@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-mitral-stenosis
 ---
-# Clinical manifestations-mitral-stenosis
+stations-mitral-stenosis
 
 
 * Dyspnea and pulmonary edema (if due to RHD, sx usually begin in 30s) precipitants: exercise, fever, anemia, volume overload (incl. pregnancy), tachycardia, AF

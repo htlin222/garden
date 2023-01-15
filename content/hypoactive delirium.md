@@ -1,7 +1,7 @@
 ---
 title: hypoactive delirium
 ---
-# hypoactive delirium
+
 
 In striking contrast is the hypoactive subtype,
 exemplified by benzodiazepine intoxication,

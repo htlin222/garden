@@ -1,7 +1,7 @@
 ---
 title: Collagen vascular diseases
 ---
-# Collagen vascular diseases
+scular diseases
 (Chest 2013;143:814)
 
 * Rheumatologic disease

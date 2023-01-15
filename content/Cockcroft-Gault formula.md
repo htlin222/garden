@@ -7,6 +7,6 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Hestia Criteria for Outpatient Pulmonary Embolism Treatment]]
 
-# Cockcroft-Gault formula
+
 
 

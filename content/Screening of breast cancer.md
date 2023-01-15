@@ -1,7 +1,7 @@
 ---
 title: Screening of breast cancer
 ---
-# Screening of breast cancer
+st cancer
  (JAMA 2015;314:1599; Annals 2019;170:547)
 * Mammography: ~20–30% ↓ in breast cancer mortality, smaller abs. benefit in women <50 y (JAMA 2018;319:1814); digital breast tomosynthesis (3-D) ↑ specificity (JAMA Oncol 2019;5:635); suspicious findings: clustered microcalcifications, spiculated, enlarging
 * ACS: annual mammo starting at 45 (consider biennial after 54), cont. if life expect ≥10 y

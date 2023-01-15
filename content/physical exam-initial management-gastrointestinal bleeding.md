@@ -1,7 +1,7 @@
 ---
 title: physical exam-initial management-gastrointestinal bleeding
 ---
-# physical exam-initial management-gastrointestinal bleeding
+sical exam-initial management-gastrointestinal bleeding
 
 * localizable abdominal tenderness,
 	* 可局部化的腹部壓痛

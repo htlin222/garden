@@ -1,25 +1,25 @@
 ---
 title: Etiologies of Non-AG Metabolic Acidosis
 ---
-# Etiologies of Non-AG Metabolic Acidosis
+s of Non-AG Metabolic Acidosis
 
-## GI losses of HCO3
+sses of HCO3
 Diarrhea, intestinal or pancreatic fistulas or drainage
 
-## RTAs
+s
 [[Renal tubular acidoses]]
 
-## Early renal failure
+
 Impaired generation of ammonia
 
-## Ingestions
+stions
 Acetazolamide, sevelamer, cholestyramine, toluene
 
-## Dilutional
+
 Due to rapid infusion of bicarbonate-free IV fluids
 
-## Posthypocapnia
+sthypocapnia
 Respiratory alkalosis → renal wasting of HCO3; rapid correction of resp. alk. → transient acidosis until HCO3 regenerated
 
-## Ureteral diversion
+sion
 Colonic Cl–/HCO3– exchange, ammonium reabsorption

@@ -1,9 +1,9 @@
 ---
 title: Etiologies of Hematuria
 ---
-# Etiologies of Hematuria
+s of Hematuria
 
-## Extrarenal (far more common)
+
 * Nephrolithiasis
 * Neoplasm: transitional cell, prostate
 * Infxn: cystitis, urethritis, prostatitis
@@ -11,7 +11,7 @@ title: Etiologies of Hematuria
 * BPH 
 * [[Schistosoma haematobium]]
  
-## Intrarenal
+
 * Nephrolithiasis or crystalluria
 * Neoplasm
 * Trauma/exercise
@@ -19,7 +19,7 @@ title: Etiologies of Hematuria
 * Glomerular: IgA, thin BM, others
 * PKD (NEJM 2008;359:1477)
  
-## Wide, overlapping ages for various etiologies, but general guide for common causes:
+s for various etiologies, but general guide for common causes:
 
 <20 y: GN, UTI, congenital; 20–60 y: UTI, nephrolithiasis, cancer
 >60 y ♂: prostatitis, cancer, UTI; >60 y ♀: UTI, cancer

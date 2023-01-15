@@ -1,9 +1,9 @@
 ---
 title: complications of bacterial meningitis
 ---
-# complications of bacterial meningitis
+s of bacterial meningitis
 
-## The neurologic complications of bacterial meningitis include:
+s of bacterial meningitis include:
 
 * Impaired mental status
 

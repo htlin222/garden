@@ -7,19 +7,19 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Risk stratification for Pts with PE]]
 
-# risk classification of pulmonary embolism
+sk classification of pulmonary embolism
 
-## High risk (“massive”):
+sk (“massive”):
 	* hemodyn unstable w/ arrest,
 	* obstructive shock
 	* persistent HoTN
 
-## Intermediate risk (“submassive”):
+sk (“submassive”):
 	* sPESI ≥1
 		* “Intermediate-high” if both RV dysfunction & elevated Tn
 		* “Intermediate-low” if either or neither RV dysfunction or elevated Tn
 
-## Low risk:
+sk:
 	* clinically stable,
 	* sPESI = 0,
 	* normal RV function,

@@ -1,7 +1,7 @@
 ---
 title: Treatment-pericardial tamponade
 ---
-# Treatment-pericardial tamponade
+
 
 * Volume (but be careful b/c overfilling can worsen tamponade) and ⊕ inotropes (avoid βB)
 * Avoid vasoconstrictors b/c will ↓ stroke volume & potentially ↓ HR

@@ -1,7 +1,7 @@
 ---
 title: Education and patient centricity
 ---
-# Education and patient centricity
+
 
 Provide appropriate reassurance
 Agree on realistic objectives

@@ -1,7 +1,7 @@
 ---
 title: Giant cell arteritis
 ---
-# Giant cell arteritis
+s
 
 * Females > 50 years old. 阿嫲
 * Unilateral headache, possible temporal artery tenderness, jaw claudication.

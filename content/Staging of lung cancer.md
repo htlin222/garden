@@ -1,7 +1,7 @@
 ---
 title: Staging of lung cancer
 ---
-# Staging of lung cancer
+
 
 * based on tumor size and extent of invasion (T),
 * regional LN involvement [N: N0 (none), N1 (ipsilat. hilar), N2 (ipsilat. mediast.), N3 (contralat., supraclav.)] and

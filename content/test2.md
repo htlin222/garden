@@ -24,7 +24,7 @@ What is pathophysiology of contrast induced kidney injury?
 
 There are many potential mechanisms for contrast induced kidney injury, but the most likely one is that the contrast agent causes vasoconstriction of the renal arteries, leading to reduced blood flow and oxygen to the kidneys. This can cause cell death and damage to the kidney tissue.
 
-## What is the first line chemotherapy regimen of small cell lung cancer:
+s the first line chemotherapy regimen of small cell lung cancer:
 
 The first line chemotherapy regimen of small cell lung cancer is typically a combination of drugs, such as cisplatin and etoposide.
 

@@ -1,7 +1,7 @@
 ---
 title: Cardiogenic shock
 ---
-# Cardiogenic shock
+shock
 
 Myocardial infarction
 

@@ -1,7 +1,7 @@
 ---
 title: Aplastic anemia
 ---
-# Aplastic anemia
+stic anemia
 
  (stem cell failure) (NEJM 2015;373:35)
 

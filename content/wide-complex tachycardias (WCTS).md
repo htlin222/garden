@@ -1,7 +1,7 @@
 ---
 title: wide-complex tachycardias  WCTS 
 ---
-# wide-complex tachycardias (WCTS)
+s (WCTS)
 
 [[Etiologies-wide-complex tachycardias (WCTS)]]
 [[Monomorphic ventricular tachycardia (MMVT)]]

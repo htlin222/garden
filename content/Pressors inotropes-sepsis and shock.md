@@ -1,7 +1,7 @@
 ---
 title: Pressors inotropes-sepsis and shock
 ---
-# Pressors inotropes-sepsis and shock
+ssors inotropes-sepsis and shock
 
 
 * MAP target 65 mmHg as good as 80–85 and ↓ AF (NEJM 2014;370:1583; JAMA 2020;323:938)

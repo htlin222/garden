@@ -1,7 +1,7 @@
 ---
 title: Workup-hyperkalemia
 ---
-# Workup-hyperkalemia
+
 
 (Crit Care Med 2008;36:3246)
 

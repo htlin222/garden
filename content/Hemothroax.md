@@ -1,7 +1,7 @@
 ---
 title: Hemothroax
 ---
-# Hemothroax
+
 
 * Hemothorax is an accumulation of blood within the pleural space.
 * Hematocrit of the pleural fluid is greater than 50% of the hematocrit of the patient’s peripheral blood in hemothorax.

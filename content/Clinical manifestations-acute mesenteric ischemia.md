@@ -2,7 +2,7 @@
 title: Clinical manifestations-acute mesenteric ischemia
 ---
 
-# Clinical manifestations-acute mesenteric ischemia
+stations-acute mesenteric ischemia
 
 * Arterial occlusion: sudden intense abd pain out of proportion to tenderness on exam
 

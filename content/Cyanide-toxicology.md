@@ -1,7 +1,7 @@
 ---
 title: Cyanide-toxicology
 ---
-# Cyanide-toxicology
+
 
 
 Coma, seizure, metabolic acidosis, hypotension

@@ -1,7 +1,7 @@
 ---
 title: Device infection
 ---
-# Device infection
+
 
 
 (Heart Rhythm 2017;14:e503, NEJM 2019;380:1895)

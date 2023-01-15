@@ -1,7 +1,7 @@
 ---
 title: excursion
 ---
-# excursion
+sion
 
 1. Wandering from the usual course.
 2. The extent of movement of a part such as the extremities or eyes.

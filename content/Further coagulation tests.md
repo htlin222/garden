@@ -1,7 +1,7 @@
 ---
 title: Further coagulation tests
 ---
-# Further coagulation tests
+sts
 
 (JAMA 2016;316:2146)
 

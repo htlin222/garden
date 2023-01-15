@@ -1,7 +1,7 @@
 ---
 title: premedication of airway-management
 ---
-# premedication of airway-management
+
 
 A: Atopine 1mg
 C: Cardiac monitor

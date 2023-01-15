@@ -1,7 +1,7 @@
 ---
 title: ST-elevation
 ---
-# ST-elevation
+
 
 * Acute MI: upward convexity STE (ie, a “frown”) ± TWI (or prior MI w/ persistent STE)
 

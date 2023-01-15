@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-aortic aneurysms
 ---
-# Diagnostic studies-aortic aneurysms
+stic studies-aortic aneurysms
 
 
 (JACC 2020;76:201)

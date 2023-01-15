@@ -1,7 +1,7 @@
 ---
 title: pulmonary
 ---
-# pulmonary
+
 * [[dyspnea]]
 * [[pulmonary function tests]]
 * [[asthma]]

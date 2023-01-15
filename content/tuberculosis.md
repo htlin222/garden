@@ -1,7 +1,7 @@
 ---
 title: tuberculosis
 ---
-# tuberculosis
+sis
 
 * [[Definitions-tuberculosis]]
 * [[Epidemiology-tuberculosis]]

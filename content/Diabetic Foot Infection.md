@@ -1,7 +1,7 @@
 ---
 title: Diabetic Foot Infection
 ---
-# Diabetic Foot Infection
+
 
 
 ----

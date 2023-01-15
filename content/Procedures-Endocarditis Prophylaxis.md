@@ -1,7 +1,7 @@
 ---
 title: Procedures-Endocarditis Prophylaxis
 ---
-# Procedures-Endocarditis Prophylaxis
+s-Endocarditis Prophylaxis
 
 Dental: manipulation of gingival tissue or periapical region of teeth or perf oral mucosa (eg, extraction, periodontal, implant, root canal, cleaning)
 

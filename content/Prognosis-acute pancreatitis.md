@@ -1,7 +1,7 @@
 ---
 title: Prognosis-acute pancreatitis
 ---
-# Prognosis-acute pancreatitis
+sis-acute pancreatitis
 
 (NEJM 2016;375:1972)
 

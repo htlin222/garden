@@ -1,7 +1,7 @@
 ---
 title: Pharmacologic-stress-test
 ---
-# Pharmacologic-stress-test
+stress-test
 
 
 * Use if unable to exercise, low exercise tolerance, or recent MI. Se & Sp ≈ exercise.

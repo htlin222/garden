@@ -1,7 +1,7 @@
 ---
 title: Prognosis-cirrhosis
 ---
-# Prognosis-cirrhosis
+sis-cirrhosis
 
 (www.mdcalc.com/child-pugh-score-cirrhosis-mortality)
 

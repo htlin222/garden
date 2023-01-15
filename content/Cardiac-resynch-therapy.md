@@ -1,7 +1,7 @@
 ---
 title: Cardiac-resynch-therapy
 ---
-# Cardiac-resynch-therapy
+synch-therapy
 
 
 Consider if EF ≤35%, LBBB (QRS ≥130 ms) and symptomatic HF

@@ -1,7 +1,7 @@
 ---
 title: NSTE-ACS
 ---
-# NSTE-ACS
+
 
 Key issues are antithrombotic regimen and decision regarding angiography
 

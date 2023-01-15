@@ -1,7 +1,7 @@
 ---
 title: Subclinical hypothyroidism
 ---
-# Subclinical hypothyroidism
+sm
 
 * Mild ↑ TSH and 
 	* normal free T4 with only subtle or no sx

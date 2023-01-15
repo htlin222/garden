@@ -1,7 +1,7 @@
 ---
 title: diuresis
 ---
-# diuresis
+sis
 * [[General considerations-diuresis]]
 * [[Loop diuretics]]
 * [[Thiazide diuretics ]]

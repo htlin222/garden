@@ -1,20 +1,20 @@
 ---
 title: Bundle-Branch-Blocks
 ---
-# Bundle-Branch-Blocks
+s
 
-## Normal
+
 ![V1,V6](https://i.imgur.com/93o0KE6.png)
 Initial depol. left to right across septum (r in V1 & q in V6; nb, absent in LBBB) followed by LV & RV free wall, with LV dominating (nb, RV depol. later and visible in RBBB).
 
-## RBBB
+
 ![RBBB EKG](https://i.imgur.com/K5yt4gf.png)
 1.QRS ≥120 msec (110–119 msec = IVCD or “incomplete”)
 2.rSR′ in R precordial leads (V1, V2)
 3.Wide S wave in I and V6
 4.± ST↓ or TWI in R precordial leads
 
-## LBBB
+
 ![LBBB EKG](https://i.imgur.com/ghxfU9G.png)
     
 1.QRS ≥120 msec (110–119 msec = IVCD or “incomplete”)

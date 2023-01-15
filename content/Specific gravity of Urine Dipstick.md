@@ -1,7 +1,7 @@
 ---
 title: Specific gravity of Urine Dipstick
 ---
-# Specific gravity of Urine Dipstick
+stick
 
 正常值：300-1000 mOsm/kg H2O 
 

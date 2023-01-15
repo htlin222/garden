@@ -7,6 +7,6 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[infectious disease]]
 
-# opportunistic infections
+stic infections
 
 test

@@ -1,7 +1,7 @@
 ---
 title: fever in a returned traveler
 ---
-# fever in a returned traveler
+
 
 See CDC.gov/travel for up to date information on regional risks and recommendations
 [[Region or Exposure Common Etiologies -fever in a returned traveler]]

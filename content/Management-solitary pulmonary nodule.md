@@ -1,7 +1,7 @@
 ---
 title: Management-solitary pulmonary nodule
 ---
-# Management-solitary pulmonary nodule
+solitary pulmonary nodule
 
 
 * Low risk (<5%): serial CT (freq depending on risk); shared decision w/ Pt re: bx

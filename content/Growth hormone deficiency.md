@@ -1,7 +1,7 @@
 ---
 title: Growth hormone deficiency
 ---
-# Growth hormone deficiency
+
 
 ↓ GH
 * ↑ chronic risk for osteoporosis, fatigue, decreased lean body mass

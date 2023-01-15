@@ -1,7 +1,7 @@
 ---
 title: Treatment-osteomyelitis
 ---
-# Treatment-osteomyelitis
+steomyelitis
 
 * Antibiotics: based on cx data. 
 If clinically stable, consider holding antibiotics until bone bx obtained. 

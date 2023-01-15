@@ -1,20 +1,20 @@
 ---
 title: Background of vasculitis
 ---
-# Background of vasculitis
+sculitis
 * [Vasculitis Pathophysiology Overview - YouTube](https://www.youtube.com/watch?v=D9h6-LPySPI&ab channel=ArmandoHasudungan)
 * [Vasculitis | Clinical Presentation - YouTube](https://www.youtube.com/watch?v=VfdeBT7e-dc&ab channel=Medscape)
-## Classified 
+ssified 
 * by size of predominant vessel affected (Arthritis Rheum 2013;65:1); overlap of vessel size affected is common
 	* 看一下這張圖：![Distribution of vessel involvement](https://i.imgur.com/dzJB1GR.png)
 	* 有很多部分會重疊：注意是所有種的都會影響到大中小，所以不能排除
 	 
-## Clinical manifestations 
+stations 
 * based on size of vessels involved; specific symptom
 * constitutional sx (low-grade fever, fatigue, weight loss, myalgias, anorexia) 
 	* common to all from inflammatory response
 
-## Vasculitis is typically divided into 2 main categories:
+sculitis is typically divided into 2 main categories:
 * primary (idiopathic)
 * secondary, caused by an underlying condition, such as an autoimmune process, infection, a neoplastic process, or certain medications
 

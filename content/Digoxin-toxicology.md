@@ -1,7 +1,7 @@
 ---
 title: Digoxin-toxicology
 ---
-# Digoxin-toxicology
+
 
 N/V, bradycardia, AV block, delirium, xanthopsia
 

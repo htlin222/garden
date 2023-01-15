@@ -1,7 +1,7 @@
 ---
 title: Pure red cell aplasia
 ---
-# Pure red cell aplasia
+sia
 
 * Destructive antibodies or lymphocytes → ineffective erythropoiesis
 

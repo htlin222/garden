@@ -1,7 +1,7 @@
 ---
 title: dysmotility and nutrition
 ---
-# dysmotility and nutrition
+smotility and nutrition
 * [[Functional GI disease]]
 * [[Gastroparesis]]
 * [[Paralytic ileus of the colon & small bowel]]

@@ -3,7 +3,7 @@ title: Blood Products and Indications
 aliases: [Blood Products and Indications]
 linter-yaml-title-alias: Blood Products and Indications
 ---
-# Blood Products and Indications
+s and Indications
 
 (Lancet 2013;381:1845)
 * [[Packed red blood cells]] (PRBCs)

@@ -1,7 +1,7 @@
 ---
 title: High-risk features-syncope
 ---
-# High-risk features-syncope
+sk features-syncope
 
  (admit w/ tele; JACC 2017;70:620; EHJ 2018;39:1883)
 * Age >60 y, h/o CAD, HF/CMP, valvular or congenital heart dis., arrhythmias, FHx SCD

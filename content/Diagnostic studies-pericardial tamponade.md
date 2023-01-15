@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-pericardial tamponade
 ---
-# Diagnostic studies-pericardial tamponade
+stic studies-pericardial tamponade
 
 * ECG: ↑ HR, ↓ voltage (seen in 42%), electrical alternans (20%), ± signs of pericarditis
 
@@ -11,7 +11,7 @@ diastolic collapse of RA (Se 85%, Sp 80%) and/or RV (Se <80%, Sp 90%)
 respirophasic ∆’s in transvalvular velocities (↑ across TV & ↓ across MV w/ inspir.)
 postsurgical tamponade may be localized and not easily visible
 
-## Echocardiogram
+
 * 心包積液
 * 心臟在液體中擺動
 * 二尖瓣 (>30%) 或三尖瓣 (>60%) 流速的呼吸變異增加

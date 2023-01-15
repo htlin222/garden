@@ -1,7 +1,7 @@
 ---
 title: T-wave-inversion
 ---
-# T-wave-inversion
+sion
 
 * Ischemia or infarct; Wellens’ sign (deep, symm precordial TWI) → critical prox LAD lesion
 

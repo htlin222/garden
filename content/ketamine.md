@@ -1,7 +1,7 @@
 ---
 title: ketamine
 ---
-# ketamine
+
 
  contraindicated in patients with underlying conditions in which increased blood pressure would pose a risk of complications such as aortic dissection, uncontrolled hypertension, myocardial infarction, or aneurysms.
 

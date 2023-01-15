@@ -1,7 +1,7 @@
 ---
 title: bronchiectasis
 ---
-# bronchiectasis
+sis
 
 * [[Definition and epidemiology-bronchiectasis]]
 * [[Initial workup-bronchiectasis]]

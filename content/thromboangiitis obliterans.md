@@ -1,9 +1,9 @@
 ---
 title: thromboangiitis obliterans
 ---
-# thromboangiitis obliterans
+s obliterans
 
-# Buerger disease
+sease
 
 * Heavy tobacco smoking history, males < 40 years old.
 * Intermittent claudication. May lead to gangrene, autoamputation of digits, superficial nodular phlebitis.

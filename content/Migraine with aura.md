@@ -1,7 +1,7 @@
 ---
 title: Migraine with aura
 ---
-# Migraine with aura
+
 
 [[aura]] 
  

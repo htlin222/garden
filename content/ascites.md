@@ -1,7 +1,7 @@
 ---
 title: ascites
 ---
-#  ascites
+scites
 
 * Due to portal HTN (defined as hepatic venous pressure gradient [HVPG] >5 mmHg)
 * Develops in 60% w/in 10 y; often first decompensating event
@@ -12,7 +12,7 @@ title: ascites
 * [[Etiologies-ascites]]
 * [[Treatment-ascites]]
 
-## [[Refractory ascites]]
+scites]]
 
-## [[Hepatic hydrothorax]]
-## [[Bacterial peritonitis]] 
+
+s]] 

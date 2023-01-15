@@ -1,7 +1,7 @@
 ---
 title: Eaton-Lambert
 ---
-# Eaton-Lambert
+
 
 > Lambert-Eaton myasthenic syndrome
 
@@ -16,7 +16,7 @@ title: Eaton-Lambert
 * 用重複刺激時，低頻刺激可看到振幅遞減反應，若使用高頻刺激(如每秒10-50次)，會讓運動電位的振幅明顯增加，若有100％以上的增加，則診斷此疾病的特異性很高。單纖維肌電圖會顯示抖動(jitter)增加
 
 
-## 治療：
+
 
 * 除去或治療惡性腫瘤，可讓抗體的生成減少。
 * 免疫治療包括類固醇、azathioprine、血漿置換、靜脈注射免疫球蛋白。

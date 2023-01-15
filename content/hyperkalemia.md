@@ -1,7 +1,7 @@
 ---
 title: hyperkalemia
 ---
-# hyperkalemia
+
 
 * [[Transcellular shifts-hyperkalemia]]
 * [[Decreased GFR-hyperkalemia]]

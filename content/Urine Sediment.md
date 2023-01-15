@@ -1,11 +1,11 @@
 ---
 title: Urine Sediment
 ---
-# Urine Sediment
+
 
  (Am J Kidney Dis 2008;51:1052)
 
-## Method
+
 * Centrifuge fresh sample (prox. port if Foley) × 3–5 min at 1500–3000 rpm
 * pour off supernatant in one motion
 * resuspend pellet by agitating base of tube
@@ -13,12 +13,12 @@ title: Urine Sediment
 * view under “high dry” power 
 * phase contrast for RBC morphology
 
-## Urine Sediment Cells
+s
 * RBCs: assess amount & morphology (many dysmorphic → glomerular)
 * WBCs: PMNs (UTI) vs. eosinophils (AIN; may require special stain)
 * Epithelial cells: tubular (ATN), transitional (bladder or ureters), squamous
 
-## Urine Sediment Casts
+sts
 * Proteins molded in lumen of renal tubule ± entrapped cellular elements RBC → GN
 * WBC → AIN, pyelonephritis, GN
 * Granular (“muddy brown”): degenerating cellular casts → ATN
@@ -26,7 +26,7 @@ title: Urine Sediment
 * Hyaline: Tamm-Horsfall protein (nonspecific)
 * Waxy and broad → advanced chronic kidney disease
 
-## Urine Sediment Crystals
+stals
 * Calcium oxalate monohydrate: spindle, oval, or dumbbell shaped
 * Calcium oxalate dihydrate: envelope shaped or octahedral
 * Uric acid: variable shape; polychromatic under polarized light

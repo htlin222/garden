@@ -1,7 +1,7 @@
 ---
 title: Hemophilias
 ---
-# Hemophilias
+s
 
 (Lancet 2016;388:187)
 

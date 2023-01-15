@@ -1,7 +1,7 @@
 ---
 title: Paralytic ileus of the colon & small bowel
 ---
-# Paralytic ileus of the colon & small bowel
+s of the colon & small bowel
 
  (Dis Colon Rectum 2021;64:1046)
  

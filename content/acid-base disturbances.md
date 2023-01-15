@@ -1,13 +1,13 @@
 ---
 title: acid-base disturbances
 ---
-# acid-base disturbances
+se disturbances
 
-## [[Definitions-acid-base disturbances]]
-## [[Consequences-of-Severe-Acid-Base-Disturbances]]
-## [[Workup-acid-base disturbances]]
+s-acid-base disturbances]]
+sequences-of-Severe-Acid-Base-Disturbances]]
+se disturbances]]
 ---
-## [[metabolic-acidosis]]
-## [[metabolic-alkalosis]]
-## [[respiratory-acidosis]]
-## [[respiratory-alkalosis]]
+sis]]
+sis]]
+spiratory-acidosis]]
+spiratory-alkalosis]]

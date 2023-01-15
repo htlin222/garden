@@ -1,7 +1,7 @@
 ---
 title: HER2
 ---
-# HER2
+
 (Lancet 2017;389: 2415)
 
 HER2- targeted

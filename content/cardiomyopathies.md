@@ -1,7 +1,7 @@
 ---
 title: cardiomyopathies
 ---
-# cardiomyopathies
+s
 
 > Diseases with mechanical and/or electrical dysfunction of the myocardium
 

@@ -1,9 +1,9 @@
 ---
 title: Etiologies-pulmonary hypertension
 ---
-# Etiologies-pulmonary hypertension
+s-pulmonary hypertension
 
-## Primary pulmonary arterial HTN (PAH) (group 1)
+
 Precapillary PHT
 PCWP ≤15 mmHg
 ↑ transpulm grad
@@ -18,11 +18,11 @@ PCWP ≤15 mmHg
 * Pulmonary veno-occlusive disease: ? 2° chemo, BMT; orthopnea, pl eff, CHF, nl PCWP; art vasodil. worsen CHF (AJRCCM 2000;162:1964)
 * Pulmonary capillary hemangiomatosis
 
-## Left heart disease (group 2). ↑ PCWP
+sease (group 2). ↑ PCWP
 * Left atrial or ventricular (diastolic or systolic) dysfunction
 * Left-sided valvular heart disease (eg, MS/MR)
 
-## Lung diseases and/ or chronic hypoxemia (group 3)
+seases and/ or chronic hypoxemia (group 3)
 * COPD
 * Alveolar hypoventilation (eg, NM disease)
 * ILD
@@ -30,11 +30,11 @@ PCWP ≤15 mmHg
 * Sleep apnea
 * Developmental abnormalities
 
-## Chronic thrombo- embolic dis (group 4)
+s (group 4)
 * Prox or distal PEs; ~½ w/o clinical h/o PE (NEJM 2011;364:351)
 * Nonthrombotic emboli (tumor, foreign body, parasites)
 
-## Miscellaneous/ Multifactorial (group 5)
+scellaneous/ Multifactorial (group 5)
 * Sarcoidosis, histiocytosis X, LAM, schistosomiasis, ESRD
 * Compression of pulm vessels (adenopathy, tumor, fibrosing mediastinitis, histoplasmosis, XRT)
 * Other: thyroid dis., glycogen storage dis., Gaucher dis, HHT, sickle cell, etc., chronic myeloprolif d/o, splenectomy

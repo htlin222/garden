@@ -1,7 +1,7 @@
 ---
 title: transthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis
 ---
-# transthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis
+sthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis
 
 |                       | NVE    | PVE | Abscess |
 |-----------------------|--------|-----|---------|

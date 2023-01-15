@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Aldosterone]]
 
-# aldosterone synthetic pathway
+sterone synthetic pathway
 
 Figure: ![🏞️](https://i.imgur.com/n41oLdK.png)
 

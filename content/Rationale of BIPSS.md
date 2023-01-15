@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[BIPSS]]
 
-# Rationale of BIPSS
+
 
 In the setting of hypercortisolemia, the procedure is performed to differentiate a pituitary from an ectopic source of ACTH.
 

@@ -1,7 +1,7 @@
 ---
 title: JAMA review of hyponatremia
 ---
-## Diagnosis and Management of Hyponatremia
+sis and Management of Hyponatremia
 JAMA. 2022;328(3):280-291.
 經過這麼多年後，熱騰騰的Hyponatremia review.
 

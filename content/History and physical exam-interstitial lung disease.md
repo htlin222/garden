@@ -1,7 +1,7 @@
 ---
 title: History and physical exam-interstitial lung disease
 ---
-# History and physical exam-interstitial lung disease
+story and physical exam-interstitial lung disease
 
 * Occupational, exposures (eg, birds), tobacco, meds, XRT, FHx, precipitating event
 

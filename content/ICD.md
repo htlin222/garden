@@ -1,7 +1,7 @@
 ---
 title: ICD
 ---
-# ICD
+
 
 
 For 1° prevention if EF ≤30–35% or 2° prevention; not if NYHA IV

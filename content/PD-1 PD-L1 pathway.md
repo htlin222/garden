@@ -1,8 +1,8 @@
 ---
 title: PD-1 PD-L1 pathway
 ---
-# PD-1 PD-L1 pathway
-### Programmed Cell Death Protein 1 (PD-1)
+
+
 
 original: [PD-1/PD-L1 pathway: current researches in cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7136921/?report=reader)
 

@@ -1,7 +1,7 @@
 ---
 title: Malignancy workup-adrenal incidentalomas
 ---
-# Malignancy workup-adrenal incidentalomas
+s
 
 * CT and MRI characteristics may suggest adenoma vs. carcinoma
 Benign features: unenhanced CT <10 Hounsfield units or CT contrast-medium washout >50% at 10 min; size <4 cm; smooth margins, homogenous and hypodense appearance; can follow such incidentalomas w/ periodic scans

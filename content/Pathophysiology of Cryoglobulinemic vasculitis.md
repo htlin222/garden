@@ -1,7 +1,7 @@
 ---
 title: Pathophysiology of Cryoglobulinemic vasculitis
 ---
-# Pathophysiology of Cryoglobulinemic vasculitis
+siology of Cryoglobulinemic vasculitis
 
 
 Type I: cryo precipitation in microcirculation → hyperviscosity & vascular occlusion

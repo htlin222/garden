@@ -1,7 +1,7 @@
 ---
 title: Preoperative evaluation
 ---
-# Preoperative evaluation
+
 
 (Circ 2014;130:e278, NEJM 2015;373:2258, JAMA 2020;324:279)
 

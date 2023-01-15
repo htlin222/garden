@@ -1,18 +1,18 @@
 ---
 title: Acinetobacter sp
 ---
-# Acinetobacter sp
+sp
 
 aerobic non-fermentative coccobacilary gram negative bacilli
 
-## cause
+se
 - soft tissue, wounds and bone, urinary tract infections, meningitis ;eye infection
 
-## resistance is a problem
+sistance is a problem
 - 50% multidrug resistant
 - extended spectrum beta-lactamase
 
-## Tigecycine is not recommended
+s not recommended
 - sub-theraputic serum concentrations in bacteremia
 - increased risk of all cause mortality
 

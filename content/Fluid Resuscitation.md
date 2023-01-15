@@ -1,7 +1,7 @@
 ---
 title: Fluid Resuscitation
 ---
-# Fluid Resuscitation
+suscitation
 
 * [[sensible and insensible fluid losses]]
 * [[classes of hemorrhagic shock]]

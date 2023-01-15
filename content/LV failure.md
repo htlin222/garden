@@ -1,7 +1,7 @@
 ---
 title: LV failure
 ---
-# LV failure
+
 
 * Diurese to achieve PCWP ~14 → ↓ pulmonary edema, ↓ myocardial O2 demand
 * ↓ Afterload → ↑ stroke volume & CO, ↓ myocardial O2 demand. Can use IV NTG or nitroprusside (although risk of coronary steal) → short-acting ACEI.

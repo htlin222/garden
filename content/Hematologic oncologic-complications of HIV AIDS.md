@@ -1,7 +1,7 @@
 ---
 title: Hematologic oncologic-complications of HIV AIDS
 ---
-# Hematologic oncologic-complications of HIV AIDS
+s of HIV AIDS
 
 (NEJM 2018;378:1029)
 * Cytopenia: ACD, BM infiltration by tumor/infxn (eg, MAC/TB), drug toxicity, hemolysis, ITP

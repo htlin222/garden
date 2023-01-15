@@ -1,7 +1,7 @@
 ---
 title: Erosive gastropathy
 ---
-# Erosive gastropathy
+sive gastropathy
 
 (4–30%)
 

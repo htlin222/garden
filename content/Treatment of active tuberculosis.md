@@ -1,7 +1,7 @@
 ---
 title: Treatment of active tuberculosis
 ---
-# Treatment of active tuberculosis
+sis
 (NEJM 2015;373:2149; Lancet 2016;387:1211)
 * Prior to treatment, consult ID, check LFTs, Cr, HIV & hepatitis A/B/C screen, DM screen, pregnancy screen, vision testing for acuity and color, EtOH use history
 * Treatment requires several drugs to prevent resistance (see below)

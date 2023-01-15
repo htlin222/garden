@@ -1,11 +1,11 @@
 ---
 title: 常見主訴的apporach
 ---
-# 常見主訴的apporach
+
 
 > 這是一個很好的思考練區
 
-##
+
 1. [[diagnostic process]]
 2. [[screening and health maintenance]]
 3. [[abdominal pain]]

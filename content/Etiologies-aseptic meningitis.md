@@ -1,7 +1,7 @@
 ---
 title: Etiologies-aseptic meningitis
 ---
-# Etiologies-aseptic meningitis
+s-aseptic meningitis
 
 (Neurology 2006;66:75)
 * Viral: enteroviruses are most common cause (summer/fall; rash, GI, URI sx), HIV, HSV, VZV, mumps (parotitis), lymphocytic choriomeningitis virus (rodent exposure), encephalitis viruses, adenovirus, polio, CMV, EBV, WNV

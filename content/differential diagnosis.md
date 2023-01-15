@@ -1,7 +1,7 @@
 ---
 title: differential diagnosis
 ---
-# differential diagnosis
+sis
 
 
 (“all that wheezes is not asthma…”)

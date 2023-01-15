@@ -1,7 +1,7 @@
 ---
 title: Prognosis-pulmonary hypertension
 ---
-# Prognosis-pulmonary hypertension
+sis-pulmonary hypertension
 
 
 * Median survival after dx ~2.8 y; PAH (all etiologies): 2-y 66%, 5-y 48% (Chest 2004;126:78–S)

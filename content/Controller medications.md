@@ -1,7 +1,7 @@
 ---
 title: Controller medications
 ---
-# Controller medications
+s
 
 
  (JAMA 2020;324:2301)

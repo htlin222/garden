@@ -1,7 +1,7 @@
 ---
 title: Workup-glomerulonephritis
 ---
-# Workup-glomerulonephritis
+s
 
 (JAMA 2017;318:1276)
 

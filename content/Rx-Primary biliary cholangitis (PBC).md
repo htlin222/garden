@@ -1,7 +1,7 @@
 ---
 title: Rx-Primary biliary cholangitis  PBC 
 ---
-# Rx-Primary biliary cholangitis (PBC)
+s (PBC)
 
 * Obeticholic acid (FXR agonist): monoRx if cannot tolerate UDCA (but not in decompen cirrhosis) or if no Δ w/ UDCA after 1 y; found to ↓ Aφ, ↑ pruritus (NEJM 2016;375:631)
 * ursodeoxycholic acid (UDCA) (13–15 mg/kg bid), monitor for 3–6 mos → ~25% complete response, ↑ survival & ↓ histologic change & ↓ complications (varices). Biochemical response predicts clinical outcome.

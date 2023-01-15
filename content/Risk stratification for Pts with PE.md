@@ -1,7 +1,7 @@
 ---
 title: Risk stratification for Pts with PE
 ---
-# Risk stratification for Pts with PE
+sk stratification for Pts with PE
 
 * clinical: [[simplified PE severity index]]
 	* [[Hestia Criteria for Outpatient Pulmonary Embolism Treatment]]

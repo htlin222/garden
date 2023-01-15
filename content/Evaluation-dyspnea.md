@@ -1,9 +1,9 @@
 ---
 title: Evaluation-dyspnea
 ---
-# Evaluation-dyspnea
+spnea
 
-## History:
+story:
 quality of sensation, tempo, positional dependence, exac./allev. factors, exertion
 - 0. 除了劇烈運動外，不會因呼吸困難而煩惱。
 - 1. 在平坦的地面上行走或在小山坡上行走時呼吸短促。
@@ -19,7 +19,7 @@ quality of sensation, tempo, positional dependence, exac./allev. factors, exerti
 
 * Based on results of initial evaluation: PFT, chest CT, TTE, cardiopulmonary testing
 
-## BNP & NT-proBNP ↑ in CHF (also ↑ in AF, RV strain from PE, COPD flare, PHT, ARDS)
+so ↑ in AF, RV strain from PE, COPD flare, PHT, ARDS)
 * <100 pg/mL to r/o CHF (90% Se),
 * >400 to r/i (NEJM 2002;347:161) NT-proBNP
 * <300 pg/mL to r/o CHF (99% Se);

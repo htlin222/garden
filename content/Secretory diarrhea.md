@@ -1,7 +1,7 @@
 ---
 title: Secretory diarrhea
 ---
-# Secretory diarrhea
+
 
 (watery; nl osmotic gap, no Δ diarrhea w/ fasting, nocturnal, cramps)
 

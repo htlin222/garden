@@ -1,7 +1,7 @@
 ---
 title: Tailored therapy in cardiogenic shock 
 ---
-# Tailored therapy in cardiogenic shock 
+shock 
 
 * Goals: optimize both MAP and CO while ↓ risk of pulmonary edema
 

@@ -1,7 +1,7 @@
 ---
 title: Central hypothyroidism
 ---
-# Central hypothyroidism
+sm
 
 ↓ TSH
 * Sx of central hypothyroidism similar to 1° (see “Thyroid Disorders”) except absence of goiter

@@ -1,7 +1,7 @@
 ---
 title: Diagnostic studies-pleural effusion
 ---
-# Diagnostic studies-pleural effusion
+stic studies-pleural effusion
 
 * [[Thoracentesis]]
 * [[Transudate vs exudate]]

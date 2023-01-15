@@ -4,11 +4,11 @@ date: "2023-01-09"
 ---
 
  from: [[back and spinal cord disease]]
-# spurling sign
+spurling sign
 
 (cervical radiculopathy):
 
-## radicular pain
+
 * with:
 	* downward force to extended &
 	* ipsilaterally rotated head

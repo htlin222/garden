@@ -1,7 +1,7 @@
 ---
 title: Polyarteritis nodosa
 ---
-# Polyarteritis nodosa
+s nodosa
 
 * Usually middle-aged males.
 * Hepatitis B seropositivity in 30% of patients. Fever, weight loss, malaise, headache.
@@ -15,7 +15,7 @@ title: Polyarteritis nodosa
 * Incidence ~2/million/y; ↑ in HBV-endemic areas; ♂ >♀; av. age ~50; 10% HBV-assoc
 * [[Clinical manifestations of Polyarteritis nodosa]] 
 * Dx (Arthritis Care Res 2021;73:1061): ↑ ESR/CRP; r/o ANCA, HBV; ↓ C3/C4 if HBV-assoc.
-## Angiogram 
+
 	* (mesenteric or renal vessels) → microaneurysms & focal vessel narrowing
 	* string of beads on angiogram
 	

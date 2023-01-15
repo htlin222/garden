@@ -1,7 +1,7 @@
 ---
 title: anaphylaxis
 ---
-# anaphylaxis
+s
 
 * [[Definition and pathophysiology-anaphylaxis]]
 * [[Diagnosis-anaphylaxis]]

@@ -7,7 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[Mechanical intervention-venous thromboembolism]]
 
-# surgical embolectomy
+surgical embolectomy
 
 if large, proximal PE + hemodynamic compromise + contraindic. to lysis;
 consider in experienced ctr if large prox. PE + RV dysfxn

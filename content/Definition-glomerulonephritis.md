@@ -1,7 +1,7 @@
 ---
 title: Definition-glomerulonephritis
 ---
-# Definition-glomerulonephritis
+s
 
 Lancet 2016;387:2036; JASN 2016;27:1278)
 

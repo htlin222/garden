@@ -1,7 +1,7 @@
 ---
 title: Serum-ascites albumin gradient  SAAG 
 ---
-# Serum-ascites albumin gradient (SAAG)
+scites albumin gradient (SAAG)
 
 
 * serum alb (g/dL) – ascites alb (g/dL)

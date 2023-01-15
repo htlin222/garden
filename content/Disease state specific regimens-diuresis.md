@@ -1,7 +1,7 @@
 ---
 title: Disease state specific regimens-diuresis
 ---
-# Disease state specific regimens-diuresis
+sease state specific regimens-diuresis
 
 
 * Renal insufficiency: loop diuretic (↑ dose to achieve effective delivery to ThAL) ± thiazide

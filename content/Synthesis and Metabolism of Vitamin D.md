@@ -1,7 +1,7 @@
 ---
 title: Synthesis and Metabolism of Vitamin D
 ---
-# Synthesis and Metabolism of Vitamin D
+sis and Metabolism of Vitamin D
 
 - 維生素 D 最初是在皮膚中通過維生素 D3 到維生素 D3 的非酶轉化產生的。
 - 維生素 D 的膳食攝入量通常相對有限，因為除某些魚類外，很少有食物含有大量；補充劑是常用的。
@@ -15,6 +15,6 @@ title: Synthesis and Metabolism of Vitamin D
 
 * ![image 22-10-12 00 04 07](https://i.imgur.com/PjFCoV0.png)
 
-## KEY:
+
 * 陽光在皮膚生成D3
 * 肝加25、腎加1

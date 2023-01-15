@@ -1,7 +1,7 @@
 ---
 title: Treatment-hypopituitary syndromes
 ---
-# Treatment-hypopituitary syndromes
+syndromes
 
 
 * Replace deficient target gland hormones

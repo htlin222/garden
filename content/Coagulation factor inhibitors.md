@@ -1,7 +1,7 @@
 ---
 title: Coagulation factor inhibitors
 ---
-# Coagulation factor inhibitors
+s
 
 (anti-factor antibodies; anti-factor VIII most common)
 

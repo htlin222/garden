@@ -1,7 +1,7 @@
 ---
 title: Aspergillosis
 ---
-# Aspergillosis
+spergillosis
 
  (Lancet 2021;397:499)
 * ABPA: airway hypersensitivity secondary to aspergillus colonization

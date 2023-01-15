@@ -1,7 +1,7 @@
 ---
 title: cholecystitis
 ---
-# cholecystitis
+stitis
 
 * [[Pathogenesis-cholecystitis]]
 * [[Clinical manifestations-cholecystitis]]

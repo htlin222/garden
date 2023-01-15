@@ -1,7 +1,7 @@
 ---
 title: Treatment-Hepatorenal syndrome  HRS 
 ---
-# Treatment-Hepatorenal syndrome (HRS)
+syndrome (HRS)
 
 * if critically ill → vasopressor (eg, norepinephrine or vasopressin) + albumin (1 g/kg, max 100 g, bolus daily) to ↑ MAP 10 mmHg. 
  

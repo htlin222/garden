@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations gastroesophageal reflux disease
 ---
-# Clinical manifestations gastroesophageal reflux disease
+stations gastroesophageal reflux disease
 
 * Esophageal: heartburn, atypical chest pain, regurgitation, sour taste, dysphagia 
 * Extraesophageal: dry cough, asthma (often poorly controlled), laryngitis, dental erosions

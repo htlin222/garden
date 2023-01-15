@@ -1,7 +1,7 @@
 ---
 title: Glucose of cerebrospinal fluid
 ---
-# Glucose of cerebrospinal fluid
+se of cerebrospinal fluid
 
 * 正常約 50–75 mg/dL，約是 serum 的 0.5–0.8
 * 上升：通常是因為高血糖

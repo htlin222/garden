@@ -1,7 +1,7 @@
 ---
 title: Clinical-manifestations-aortic-regurgitation
 ---
-# Clinical-manifestations-aortic-regurgitation
+stations-aortic-regurgitation
 
 
 * Acute: sudden ↓ forward SV and ↑ LVEDP (noncompliant ventricle) → pulmonary edema ± hypotension and cardiogenic shock

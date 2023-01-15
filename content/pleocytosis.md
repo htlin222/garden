@@ -1,7 +1,7 @@
 ---
 title: pleocytosis
 ---
-# pleocytosis
+sis
 在血中叫leukocytosis
 在CSF 中叫做pleocytosis
 兩者都在是在細胞增多的意思

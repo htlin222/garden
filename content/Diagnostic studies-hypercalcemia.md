@@ -1,9 +1,9 @@
 ---
 title: Diagnostic studies-hypercalcemia
 ---
-# Diagnostic studies-hypercalcemia
+stic studies-hypercalcemia
 
-## [[hyperparathyroidism]]
+sm]]
 * Hyperparathyroidism (HPT) and malignancy account for 90% of cases of ↑ Ca; HPT more likely if asx or chronic; malignancy (usually overt) more likely if acute or sx
 	* 甲狀旁腺功能亢進（HPT）和惡性腫瘤佔↑Ca病例的90%；
 	* 如果 asx 或慢性，HPT 更有可能；如果急性或 sx，則更有可能發生惡性腫瘤（通常是明顯的）

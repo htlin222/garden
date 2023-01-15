@@ -1,7 +1,7 @@
 ---
 title: herpes simplex virus infection
 ---
-# herpes simplex virus infection
+s simplex virus infection
 
 * 通常引起急性腦炎，伴有快速發熱、頭痛、癲癇發作、
 * 局灶性神經系統體徵和意識改變。

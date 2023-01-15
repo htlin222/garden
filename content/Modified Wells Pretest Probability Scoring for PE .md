@@ -1,7 +1,7 @@
 ---
 title: Modified Wells Pretest Probability Scoring for PE 
 ---
-# Modified Wells Pretest Probability Scoring for PE 
+s Pretest Probability Scoring for PE 
 
 (Annals 2011;154:709)
 
@@ -19,7 +19,7 @@ title: Modified Wells Pretest Probability Scoring for PE
 
 *Hemoptysis=1.0
 
-## Simplified Wells Probability Assessment
+s Probability Assessment
 
 ≤4 = ”Unlikely” (13% probability)
 

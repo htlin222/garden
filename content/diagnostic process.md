@@ -1,7 +1,7 @@
 ---
 title: diagnostic process
 ---
-# diagnostic process
+stic process
 
 * [[Common biases in clinical reasoning]].
 * [[model for clinical reasoning]]

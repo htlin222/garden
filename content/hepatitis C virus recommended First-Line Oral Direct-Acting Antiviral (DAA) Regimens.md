@@ -1,13 +1,13 @@
 ---
 title: hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral  DAA  Regimens
 ---
-# hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens
+s C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens
 
-## Sofosbuvir & velpatasvir
+sbuvir & velpatasvir
 
 Genotypes 1–6, 12 weeks Rx
 
-## Glecaprevir & pibrentasvir
+svir
 
 Gentotypes 1–6; 8 weeks Rx
 

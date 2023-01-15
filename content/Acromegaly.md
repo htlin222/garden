@@ -1,7 +1,7 @@
 ---
 title: Acromegaly
 ---
-# Acromegaly
+
 
 (↑ GH; 10% of adenomas; Nat Rev Dis Primer 2019;5:1)
 * Physiology:

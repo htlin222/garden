@@ -1,7 +1,7 @@
 ---
 title: Ddx  causes of myocardial ischemia infarction other than atherosclerotic plaque rupture 
 ---
-# Ddx  causes of myocardial ischemia infarction other than atherosclerotic plaque rupture 
+ses of myocardial ischemia infarction other than atherosclerotic plaque rupture 
 
 * Ischemia w/o plaque rupture (“type 2” MI): ↑ demand (eg, ↑ HR), ↓ supply (eg, HoTN). More likely in older, ♀, non-CAD comorbidities (CKD, etc.) (JACC 2021;77:848). Distinguishing from ACS is clinical dx; angiography is gold standard.
 

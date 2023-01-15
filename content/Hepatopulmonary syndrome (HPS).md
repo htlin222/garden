@@ -1,7 +1,7 @@
 ---
 title: Hepatopulmonary syndrome  HPS 
 ---
-# Hepatopulmonary syndrome (HPS)
+syndrome (HPS)
 
 
 (Dig Dis Sci 2015;60:1914, Hepatology 2021;74:1014)

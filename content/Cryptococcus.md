@@ -1,7 +1,7 @@
 ---
 title: Cryptococcus
 ---
-# Cryptococcus
+s
 
 * Epidemiology: immunosupp. most susceptible (espec. AIDS, transplant recipients, and cirrhosis); can occur in healthy hosts (esp C. gattii)
 * Clinical manifestations

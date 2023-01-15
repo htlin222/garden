@@ -1,7 +1,7 @@
 ---
 title: levamisole
 ---
-# levamisole
+sole
 
 適應症
 治療蛔蟲、鉤蟲、糞圓蟲

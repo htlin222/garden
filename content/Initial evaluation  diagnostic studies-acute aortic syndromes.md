@@ -1,7 +1,7 @@
 ---
 title: Initial evaluation  diagnostic studies-acute aortic syndromes
 ---
-# Initial evaluation  diagnostic studies-acute aortic syndromes
+stic studies-acute aortic syndromes
 
 
 (Circ 2010;121:e266; EHJ 2018;39:739)

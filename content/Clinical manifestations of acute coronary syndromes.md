@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations of acute coronary syndromes
 ---
-# Clinical manifestations of acute coronary syndromes
+stations of acute coronary syndromes
 
 * Cardiac chest pain (“angina”):
 	* retrosternal pressure/pain/tightness ± radiation to neck, jaw, arms. Precipitated by exertion (physical or emotional), ↓ w/ rest or NTG. In ACS: new-onset, crescendo or at rest.

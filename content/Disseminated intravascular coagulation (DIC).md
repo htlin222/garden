@@ -1,7 +1,7 @@
 ---
 title: Disseminated intravascular coagulation  DIC 
 ---
-# Disseminated intravascular coagulation (DIC)
+sseminated intravascular coagulation (DIC)
 (NEJM 2014;370:847)
 
 * Etiologies: trauma, shock, infection, malignancy (esp. APL), obstetric complications

@@ -1,7 +1,7 @@
 ---
 title: Etiology-mitral-stenosis
 ---
-# Etiology-mitral-stenosis
+stenosis
 
 
 * Rheumatic heart disease (RHD): fusion of commissures → “fish-mouth” valve from autoimmune rxn to β strep infxn; seen largely in developing world (Circ 2020;142:e337)

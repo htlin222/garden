@@ -1,7 +1,7 @@
 ---
 title: Complications-ulcerative colitis
 ---
-# Complications-ulcerative colitis
+s-ulcerative colitis
 
 * Toxic megacolon (5%): colon dilatation (≥6 cm on KUB), colonic atony, systemic toxicity, & ↑ risk of perf. Rx w/ IV steroids & broad-spectrum abx; surgery if needed.
 

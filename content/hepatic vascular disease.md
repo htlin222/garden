@@ -1,7 +1,7 @@
 ---
 title: hepatic vascular disease
 ---
-# hepatic vascular disease
+scular disease
 
 * [[Normal hepatic vasculature]]
 * [[Portal vein thrombosis (PVT) ]]

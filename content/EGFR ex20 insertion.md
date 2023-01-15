@@ -1,7 +1,7 @@
 ---
 title: EGFR ex20 insertion
 ---
-# EGFR ex20 insertion
+sertion
 
 * EGFR 第20號外顯子(exon 20）插入突變是非小細胞肺癌(NSCLC) 中的特亞群
 * 約佔所有 EGFR 突變 9%，這類型患者對於現有的三代 EGFR 受體酪胺酸激酶抑製劑（TKI）治療並不敏感

@@ -1,7 +1,7 @@
 ---
 title: Pseudo-hypoparathyroidism
 ---
-# Pseudo-hypoparathyroidism
+seudo-hypoparathyroidism
 
 (Endo Metab Clin North Am 2018;47:865)
 * 1a, 1b, & 1c: PTH end-organ resistance (∴ ↑ serum PTH)

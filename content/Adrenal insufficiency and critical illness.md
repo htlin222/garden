@@ -1,7 +1,7 @@
 ---
 title: Adrenal insufficiency and critical illness
 ---
-# Adrenal insufficiency and critical illness
+sufficiency and critical illness
 
 (NEJM 2003;348:727; JAMA 2009;301:2362)
 * Low cortisol binding proteins; ∴ dx of adrenal insufficiency problematic (NEJM 2013;368:1477)

@@ -1,7 +1,7 @@
 ---
 title: Granulomatosis with polyangiitis
 ---
-# Granulomatosis with polyangiitis
+sis with polyangiitis
 
 * GPA, formerly Wegener’s granulomatosis
  

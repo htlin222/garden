@@ -1,7 +1,7 @@
 ---
 title: Clinical manifestations-gastrointestinal bleeding
 ---
-# Clinical manifestations-gastrointestinal bleeding
+stations-gastrointestinal bleeding
 
 * Hematemesis = blood in vomitus (UGIB)
 

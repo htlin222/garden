@@ -1,7 +1,7 @@
 ---
 title: pulmonary function tests
 ---
-# pulmonary function tests
+sts
 
 [[physiology of pulmary]]
 
@@ -22,7 +22,7 @@ causes
 * DLCO: evaluates functional surface area for gas exchange; helps differentiate causes of obstructive and restrictive diseases and screens for vascular disease & early ILD
 * DLCO：評估氣體交換的功能表面積；有助於區分阻塞性和限制性疾病的原因，並篩查血管疾病和早期 ILD
 
-## Approach to pulmonary function test
+st
 * 先從FEV1/forced vital capacity<LLN  及 total lung capacity < 80%
 	* 可以分是氣管塞住、還是限制性
 		* 如何分是Asthma or chronic obstructive pulm dis 

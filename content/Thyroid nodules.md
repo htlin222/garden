@@ -1,7 +1,7 @@
 ---
 title: Thyroid nodules
 ---
-# Thyroid nodules
+s
 
 * Prevalence 5–10% (50–60% if screen with U/S), ♀ > ♂, ~7–15% malignant
 * Screening U/S recommended if FHx of MEN2 or medullary thyroid cancer, personal h/o neck XRT, palpable nodules or multinodular goiter

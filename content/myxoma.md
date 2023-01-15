@@ -1,7 +1,7 @@
 ---
 title: myxoma
 ---
-# myxoma
+
 
 * 黏液瘤」（myxoma），脂肪瘤裡是脂肪，
 * 而黏液瘤則是以黏液素或稱黏蛋白（mucin）為主要成份，

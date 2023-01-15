@@ -1,7 +1,7 @@
 ---
 title: Corticosteroids for chronic obstructive pulmonary disease
 ---
-# Corticosteroids for chronic obstructive pulmonary disease
+steroids for chronic obstructive pulmonary disease
 
 * (inhaled, ICS): 
  * ~11% ↓ in exacerbations & slows ↓ FEV1;
