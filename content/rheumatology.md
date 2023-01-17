@@ -3,7 +3,6 @@ title: rheumatology
 ---
 # rheumatology
 * [[allergy immunology]]
-
 * [[approach to rheumatic disease]]
 * [[rheumatoid arthritis]]
 * [[adult-onset Still’s disease ]]& relapsing polychondritis
@@ -21,10 +20,10 @@ title: rheumatology
 [[Undifferentiated Inflammatory Arthritis]]
 
 [[spondyloarthritis]]
-Crystal-Induced Arthritis
-Acute Septic Arthritis
+[[crystal-induced arthritis]]
+[[acute septic arthritis]]
 Selected Vasculitides
 Systemic Lupus Erythematosus (SLE)
 Systemic Sclerosis
 Inflammatory Myopathies
-[[Fibromyalgia]] (Ambulatory Care)
+[[fibromyalgia]] (Ambulatory Care)

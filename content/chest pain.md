@@ -5,7 +5,7 @@ title: chest pain
 [[Typical Characteristics and Diagnostic Studies of Chest Pain]]
 
 ## Initial diagnostic studies
-* [[Focused history of chest pain]] 
+* [[Focused history of chest pain]]
 * Targeted exam: VS (incl. BP in both arms); gallops, murmurs, rubs; signs of vascular dis. (carotid/femoral bruits, ↓ pulses) or CHF; lung & abd. exam; chest wall for reproducibility
 * 12-lead ECG: obtain w/in 10 min; compare to priors & obtain serial ECGs; consider posterior leads (V7–V9) if hx c/w ACS but stnd ECG unrevealing or ST ↓ V1–V3 & pain refractory
 * [[Troponin]]

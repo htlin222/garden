@@ -15,4 +15,4 @@ title: ascites
 ## [[Refractory ascites]]
 
 ## [[Hepatic hydrothorax]]
-## [[Bacterial peritonitis]] 
+## [[Bacterial peritonitis]]

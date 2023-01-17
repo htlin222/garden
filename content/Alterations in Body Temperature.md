@@ -3,7 +3,6 @@ title: Alterations in Body Temperature
 ---
 # Alterations in Body Temperature
 
-Chapter 18: Fever
-[[fever of unknown origin]]
-Chapter 19: Fever and Rash
-Chapter 20: Fever of Unknown Origin
+Chapter 18: [[fever]]
+Chapter 19: [[fever and rash]]
+Chapter 20: [[fever of unknown origin]]

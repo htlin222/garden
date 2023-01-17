@@ -5,7 +5,7 @@ title: fever and rash
 
 Approach to diagnostic workup
 * Meningococcemia, endocarditis, RMSF, sepsis, & toxic shock need urgent dx & Rx
-* Workup: CBC w/diff, BMP, LFTs, LDH, CK, U/A, HIV Ag/Ab ± PCR, BCx 
+* Workup: CBC w/diff, BMP, LFTs, LDH, CK, U/A, HIV Ag/Ab ± PCR, BCx
 off abx)
 * To narrow Ddx: characterize time course of rash, progression, & morphology
 [[Erythema multiforme]]

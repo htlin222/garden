@@ -10,7 +10,7 @@ title: 常見主訴的apporach
 2. [[screening and health maintenance]]
 3. [[abdominal pain]]
 4. [[acid-base abnormalities]]
-5. [[aids hiv infection]]
+5. [[AIDS HIV infection]]
 6. [[anemia]]
 7. [[back pain]]
 8. [[bleeding disorders]]

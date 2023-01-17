@@ -1,14 +1,14 @@
 ---
-title: aids hiv infection
+title: acute septic arthritis
 date: "2023-01-18"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[symptom to diagnosis]]
+> 🌱 來自: [[rheumatology]]
 
-# aids hiv infection
+# acute septic arthritis
 
 > [!info]
 >

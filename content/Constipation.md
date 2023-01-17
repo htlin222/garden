@@ -10,4 +10,4 @@ title: Constipation
 
 * Dx: H&P w/ DRE. Labs: consider CBC, electrolytes w/ Ca, TSH. Colonoscopy if alarm sx. Anorectal manometry/balloon expulsion test; colonic transit study; defecography.
 
-## [[Treatment of Constipation]] 
+## [[Treatment of Constipation]]

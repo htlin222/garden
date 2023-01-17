@@ -11,7 +11,7 @@ title: diarrhea
 * [[General evaluation or chronic diarrhea]]
 * [[Osmotic diarrhea]]
 * [[Secretory diarrhea]]
-* [[Functional IBS]] 
+* [[Functional IBS]]
 * [[Malabsorption]]
 * [[Maldigestion]]
 * [[Inflammatory diarrhea]]

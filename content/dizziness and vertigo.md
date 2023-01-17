@@ -1,14 +1,14 @@
 ---
-title: aids hiv infection
+title: dizziness and vertigo
 date: "2023-01-18"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[symptom to diagnosis]]
+> 🌱 來自: [[Nervous System Dysfunction]]
 
-# aids hiv infection
+# dizziness and vertigo
 
 > [!info]
 >

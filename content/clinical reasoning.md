@@ -8,7 +8,6 @@ title: clinical reasoning
 ## [[symptom to diagnosis]] 
 ## [[Physical Exam Secret]]
 
-
 ## cardinal manifestations
 1. [[Pain]]
 2. [[Alterations in Body Temperature]]

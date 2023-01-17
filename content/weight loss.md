@@ -1,14 +1,14 @@
 ---
-title: aids hiv infection
+title: weight loss
 date: "2023-01-18"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[symptom to diagnosis]]
+> 🌱 來自: [[Alterations in Gastrointestinal Function]]
 
-# aids hiv infection
+# weight loss
 
 > [!info]
 >

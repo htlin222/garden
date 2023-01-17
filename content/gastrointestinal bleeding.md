@@ -10,7 +10,7 @@ title: gastrointestinal bleeding
 
 ## Etiology UGIB Comment & Treatment
 (GI Endosc Clin N Am 2015;25:415)
-* [[summary of etiology of upper gastrointestinal bleed]] 
+* [[summary of etiology of upper gastrointestinal bleed]]
 * [[peptic ulcer disease]]
 * [[Erosive gastropathy]]
 * [[Esophagitis]]

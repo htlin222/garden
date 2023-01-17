@@ -1,14 +1,14 @@
 ---
-title: aids hiv infection
+title: dementia
 date: "2023-01-18"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[symptom to diagnosis]]
+> 🌱 來自: [[Nervous System Dysfunction]]
 
-# aids hiv infection
+# dementia
 
 > [!info]
 >

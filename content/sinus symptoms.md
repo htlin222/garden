@@ -1,14 +1,14 @@
 ---
-title: aids hiv infection
+title: sinus symptoms
 date: "2023-01-18"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[symptom to diagnosis]]
+> 🌱 來自: [[Disorders of Eyes, Ears, Nose, and Throat]]
 
-# aids hiv infection
+# sinus symptoms
 
 > [!info]
 >
