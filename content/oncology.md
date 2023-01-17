@@ -6,7 +6,7 @@ title: oncology
 
 ## [[hematology]]
 
-[[NCCN guideline]]
+> [[NCCN guideline]]
 
 ## Pocket Oncology
 
@@ -30,25 +30,13 @@ title: oncology
 ## Solid Tumor
 
 *   [[genitourinary malignancies]]
-
 *   [[thoracic malignancies]]
-
 *   [[lung cancer]]
-
 *   [[gastrointestinal malignancies]]
-
 *   [[skin cancers and sarcomas]]
-
 *   [[head and neck malignancies]]
-
 *   [[endocrine malignancies]]
-
 *   [[gynecologic malignancies]]
-
 *   [[breast cancer]]
-
 *   [[neurologic oncology]]
-
 *   [[cancer of unknown primary]]
-
-*   [[Dermatology]])

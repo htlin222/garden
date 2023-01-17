@@ -10,8 +10,6 @@ enableToc: false
 
 # prostatitis
 
-> [!info]
->
-> **👷 工事中，敬請期待 🚧**
+Chronic: similar to cystitis + symptoms of obstruction (hesitancy, weak stream)
 
-
+Acute: **perineal pain**, fever, **tenderness on prostate exam**

@@ -5,7 +5,7 @@ title: adrenal insufficiency
 
 * [[Etiologies-adrenal insufficiency]]
 * [[Clinical manifestations-adrenal insufficiency]]
-* [[Diagnostic studies-adrenal insufficiency]] 
+* [[Diagnostic studies-adrenal insufficiency]]
 * [[Treatment-adrenal insufficiency]]
 * [[Adrenal insufficiency and critical illness]]
 * [[Adrenal crisis in adrenal insufficiency]]

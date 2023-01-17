@@ -3,9 +3,9 @@ title: cardiovascular critical care
 ---
 # cardiovascular critical care
 
-[[Hemodynamic-Monitoring]]
-Vasoactive-Drugs
-Mechanical Circulatory Support
-Cardiac Arrhythmias
+[[hemodynamic monitoring]]
+[[vasoactive drugs]]
+[[mechanical circulatory support]]
+[[cardiac arrhythmias]]
 [[Shock-Syndromes]]
 [[Cardiac-Arrest]]

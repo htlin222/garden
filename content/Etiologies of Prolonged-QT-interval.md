@@ -21,7 +21,7 @@ hypoCa (nb, hyperCa a/w ↓ QT), ± hypoK, ? hypoMg
 ## Autonomic dysfxn:
 ICH (deep TWI), Takotsubo, stroke, CEA, neck dissection
 
-## Congenital (long QT syndrome)
+## Congenital ([[long QT syndrome]])
 K, Na, & Ca channelopathies (Circ 2013;127:126)
 
 ## Misc:

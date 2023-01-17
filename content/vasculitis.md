@@ -11,7 +11,7 @@ title: vasculitis
 ## LARGE-VESSEL VASCULITIS
 * [[Takayasu’s arteritis]]
 * [[Giant cell arteritis]] (GCA)
- 
+
 ## MEDIUM-VESSEL VASCULITIS
 * [[Kawasaki disease]] (KD)
 * [[Polyarteritis nodosa]] (PAN)
@@ -22,9 +22,9 @@ title: vasculitis
 * [[immune complex (IC)–associated small-vessel vasculitis]]
 
 ## VARIABLE-VESSEL VASCULITIS
-* [[Behçet’s syndrome]] 
+* [[Behçet’s syndrome]]
 * [[Cogan's syndrome]]
- 
+
 ## Single-organ vasculitis
 * [[Cutaneous leukocytoclastic angiitis]]
 * [[Cutaneous arteritis]]

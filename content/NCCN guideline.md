@@ -3,65 +3,66 @@ title: NCCN guideline
 ---
 # NCCN guideline
 
-[[Acute Lymphoblastic Leukemia]]
-Acute Myeloid Leukemia
-Ampullary Adenocarcinoma
-[[Anal Carcinoma]]
-Basal Cell Skin Cancer
-B-Cell Lymphomas
-Bladder Cancer
-Bone Cancer
-Breast Cancer
-Central Nervous System Cancers
-Cervical Cancer
-Chronic Lymphocytic LeukemiaSmall Lymphocytic Lymphoma
-Chronic Myeloid Leukemia
-Colon Cancer
-Dermatofibrosarcoma Protuberans
-Esophageal and Esophagogastric Junction Cancers
-Gastric Cancer
-Gastrointestinal Stromal Tumors (GIST)
-Gestational Trophoblastic Neoplasia
-Hairy Cell Leukemia
-Head and Neck Cancers
-Hepatobiliary Cancers
-Histiocytic Neoplasms
-Hodgkin Lymphoma
-Kaposi Sarcoma
-Kidney Cancer
-Malignant Peritoneal Mesothelioma
-Malignant Pleural Mesothelioma
-Melanoma Cutaneous
-Melanoma Uveal
-Merkel Cell Carcinoma
-Multiple Myeloma
-Myelodysplastic Syndromes
-MyeloidLymphoid Neoplasms with Eosinophilia and Tyrosine Kinase Fusion Genes
-Myeloproliferative Neoplasms
-Neuroendocrine and Adrenal Tumors
-Non-Small Cell Lung Cancer
-Occult Primary
-Ovarian CancerFallopian Tube CancerPrimary Peritoneal Cancer
-Pancreatic Adenocarcinoma
-Pediatric Acute Lymphoblastic Leukemia
-Pediatric Aggressive Mature B-Cell Lymphomas
-Pediatric Central Nervous System Cancers
-Pediatric Hodgkin Lymphoma
-Penile Cancer
-Primary Cutaneous Lymphomas
-Prostate Cancer
-Rectal Cancer
-Small Bowel Adenocarcinoma
-Small Cell Lung Cancer
-Soft Tissue Sarcoma
-Squamous Cell Skin Cancer
-Systemic Light Chain Amyloidosis
-Systemic Mastocytosis
-T-Cell Lymphomas
-Testicular Cancer
-Thymomas and Thymic Carcinomas
-Thyroid Carcinoma
-Uterine Neoplasms
-Vulvar Cancer
-Waldenström Macroglobulinemia Lymphoplasmacytic Lymphoma
-Wilms Tumor (Nephroblastoma)
+[[acute lymphoblastic leukemia]]
+acute myeloid leukemia
+ampullary adenocarcinoma
+[[anal carcinoma]]
+[[basal cell skin cancer]]
+B-cell lymphomas
+[[bladder cancer]]
+bone cancer
+breast cancer
+central nervous system cancers
+cervical cancer
+chronic lymphocytic leukemia
+small lymphocytic lymphoma
+chronic myeloid leukemia
+colon cancer
+dermatofibrosarcoma protuberans
+esophageal and esophagogastric junction cancers
+gastric cancer
+gastrointestinal stromal tumors (GIST)
+gestational trophoblastic neoplasia
+hairy cell leukemia
+head and neck cancers
+hepatobiliary cancers
+histiocytic neoplasms
+hodgkin lymphoma
+kaposi sarcoma
+kidney cancer
+malignant peritoneal mesothelioma
+malignant pleural mesothelioma
+melanoma cutaneous
+melanoma uveal
+merkel cell carcinoma
+multiple myeloma
+myelodysplastic syndromes
+myeloidlymphoid neoplasms with eosinophilia and tyrosine kinase fusion genes
+myeloproliferative neoplasms
+neuroendocrine and adrenal tumors
+non-small cell lung cancer
+occult primary
+ovarian cancerfallopian tube cancerprimary peritoneal cancer
+pancreatic adenocarcinoma
+pediatric acute lymphoblastic leukemia
+pediatric aggressive mature B-cell lymphomas
+pediatric central nervous system cancers
+pediatric hodgkin lymphoma
+penile cancer
+primary cutaneous lymphomas
+prostate cancer
+rectal cancer
+small bowel adenocarcinoma
+small cell lung cancer
+soft tissue sarcoma
+squamous cell skin cancer
+systemic light chain amyloidosis
+systemic mastocytosis
+T-cell lymphomas
+testicular cancer
+thymomas and thymic carcinomas
+thyroid carcinoma
+uterine neoplasms
+vulvar cancer
+Waldenström macroglobulinemia lymphoplasmacytic lymphoma
+Wilms tumor (Nephroblastoma)

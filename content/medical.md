@@ -4,15 +4,15 @@ title: medical
 
 # 歡迎來到🦎的Medical Wiki
 
-*   [[cardiology]]
-*   [[pulmonary]]
-*   [[gastroenterology]]
-*   [[nephrology]]
-*   [[hematology]]
-*   [[oncology]]
-*   [[infectious disease]]
-*   [[endocrinology]]
-*   [[rheumatology]]
+*   [[cardiology]] 🫀
+*   [[pulmonary]] 🫁
+*   [[gastroenterology]] 💩
+*   [[nephrology]] 🚽
+*   [[hematology]] 🩸
+*   [[oncology]] 🐛
+*   [[infectious disease]] 🦠
+*   [[endocrinology]] 🐼
+*   [[rheumatology]] 🤡
 
 ## 內科的其他知識
 
@@ -29,7 +29,7 @@ title: medical
 ## 其他科
 
 *   [[dermatology]]
-*   [[ophthalmic issues]]
+*   [[ophthalmic]]
 *   [[woman health]]
 *   [[obs gyn issues]]
 *   [[radiology]]

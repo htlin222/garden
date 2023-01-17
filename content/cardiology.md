@@ -2,6 +2,9 @@
 title: cardiology
 ---
 # cardiology
+
+![🏞️](https://i.imgur.com/gCvK5Sa.png)
+
 * [[electrocardiography]]
 * [[chest pain]]
 * [[noninvasive evaluation of CAD]]
@@ -23,17 +26,21 @@ title: cardiology
 * [[cardiac risk assessment for noncardiac surgery]]
 * [[peripheral artery disease]]
 
-Coronary Artery Disease (CAD) and Acute Coronary Syndrome (ACS)
-Congestive Heart Failure (CHF)
-Arrhythmias
-Valvular Disease
-Pericardial Disease and Myocarditis
+## Additional topics
+* Coronary Artery Disease (CAD) and Acute Coronary Syndrome (ACS)
+* Congestive Heart Failure (CHF)
+* Arrhythmias
+* Valvular Disease
+* Pericardial Disease and Myocarditis
 
 ## Other topics related to cardiology are covered in the following rotation guides:
 
-Hypertension, Hypercholesterolemia (Ambulatory Care)
-Venous Thromboembolism (VTE) and Anticoagulation (Hematology)
-[[Targeted Temperature Management]] (Neurology)
-Cardiopulmonary Resuscitation (CPR) (Emergency Medicine)
+* Hypertension, Hypercholesterolemia (Ambulatory Care)
+* Venous Thromboembolism (VTE) and Anticoagulation (Hematology)
+* [[Targeted Temperature Management]] (Neurology)
+* Cardiopulmonary Resuscitation (CPR) (Emergency Medicine)
+*
+
+## [[cardiology reading list]]
 
 

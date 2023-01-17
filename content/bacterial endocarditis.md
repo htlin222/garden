@@ -14,5 +14,14 @@ title: bacterial endocarditis
 * [[Diagnosis-bacterial endocarditis]]
 * [[Modified Duke Criteria]]
 * [[Treatment-bacterial endocarditis]] (ID consult is strongly recommended)
-* [[Indications for surgery-bacterial endocarditis]] 
+* [[Indications for surgery-bacterial endocarditis]]
 * [[Endocarditis Prophylaxis]]
+* [[diagnosis of culture-negative endocarditis]]
+
+### Backlink：
+
+- [[HACEK]]
+- [[native valve endocarditis]]
+- [[prosthetic-heart-valves]]
+- [[purpura]]
+- [[transthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis]]

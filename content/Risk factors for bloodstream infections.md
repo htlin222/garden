@@ -14,3 +14,9 @@ More likely pathogenic: S. aureus, β-hemolytic strep, enterococci, GNR, S. pneu
 Less likely pathogenic: coag-neg staph, diphtheroids, [[Cutibacterium]]
 * Time to growth: <24 h → higher risk, >72 h → lower risk (except slow-growing, eg, HACEK)
 * Factors increasing likelihood of endocarditis: high-grade bacteremia w/o source, persisting after line removal or drainage of focal source, in hosts at risk for endocarditis or w/ organisms known to cause IE; emboli
+
+### Backlink：
+
+- [[Cutibacterium]]
+- [[definitions of bacteremia]]
+- [[vertebral osteomyelitis]]

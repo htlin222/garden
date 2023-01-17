@@ -21,3 +21,6 @@ title: pulmonary
 * [[sepsis and shock]]
 * [[toxicology]]
 * [[lung transplant]]
+
+## [[pulmonary reading list]]
+

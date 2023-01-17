@@ -7,9 +7,9 @@ title: basic techniques and procedures
 * [[Sedation-and-Analgesia]]
 * [[Vascular-Access]]
 * [[POCUS]]
-* Bedside Percutaneous Dilational Tracheostomy
+* [[bedside percutaneous dilational tracheostomy]]
 * [[Nutritional Support and Total Parenteral Nutrition]]
-* Glycemic Control [[Hyperglycemic Emergencies]]
+* [[Glycemic Control in intensive care unit]] [[Hyperglycemic Emergencies]]
 * [[Prevention of Complications in intensive care unit]]
 * [[pain and palliative care]]
-* Bronchoscopy
+* [[bronchoscopy]]

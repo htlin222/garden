@@ -4,7 +4,7 @@ title: surgical critical care
 # surgical critical care
 
 
-33 Gastrointestinal Bleeding
+33 gastrointestinal bleeding
 34 Acute Abdomen and Abdominal Sepsis
 35 Abdominal Compartment Syndrome
 36 Acute Mesenteric Ischemia

@@ -14,7 +14,6 @@ title: osteomyelitis
 
 ### Backlink：
 
-- [[Clinical manifestations-osteomyelitis]]
 - [[Complications-diabetes mellitus]]
 - [[diabetic foot infections]]
 - [[Diagnosis-osteomyelitis]]

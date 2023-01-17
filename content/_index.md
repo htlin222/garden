@@ -18,6 +18,7 @@ title: 🦎 的知識花園 🌱
 
 *   👉[[如何打造一座知識花園]]👈
 *   👉[[用Zotero來管理Paper]]👈
-*   [[mac的一些好用軟體]]
+*   👉[[mac的一些好用軟體]]👈
+*	👉[[command line interface]]👈
 
 [1]: https://htlin.site/

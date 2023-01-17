@@ -6,3 +6,4 @@ alias: infective endocarditis
 
 * [[bacteremia]]
 * [[bacterial endocarditis]]
+[[infective endocarditis]]

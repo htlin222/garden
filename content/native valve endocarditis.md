@@ -16,7 +16,7 @@ enableToc: false
 
 * Beta-lactam antibiotics are recommended over vancomycin or daptomycin for treatment of infective endocarditis caused by methicillin-susceptible Staphylococcus aureus.
 
-* In older patients with infective endocarditis caused by Enterococcus faecalis, especially those with underlying renal disease or those receiving other nephrotoxic agents, **ampicillin plus ceftriaxone** is preferred over aminoglycoside-containing regimens.
+* In older patients with infective endocarditis caused by Enterococcus faecalis, especially those with underlying renal disease or those receiving other nephrotoxic agents, **ampicillin plus ceftriaxone** is preferred over **aminoglycoside-containing regimens**.
 
 * Early surgery for uncontrolled infection, congestive heart failure caused by valvular dysfunction, or prevention of central nervous system embolization is associated with improved outcomes.
 

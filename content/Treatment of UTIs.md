@@ -9,6 +9,7 @@ Scenario Empiric Treatment Guidelines (narrow based on UCx)
 Do not treat. Exceptions: pregnant women, renal transplant, prophylaxis prior to invasive urologic procedures (CID 2019;68:1611).
 
 ## Cystitis (JAMA 2014;16:1677)
+
 ### Uncomp:
 nitrofurantoin (Macrobid 100 mg PO q12h or Macrodantin 100 mg PO q6h) × 5 d or TMP-SMX DS × 3 d or fosfomycin (3 g × 1). Refer to dosing guidelines for ↑ Cr.
 

@@ -7,6 +7,7 @@ title: fungal infections
 * [[Candida species]]
 * [[Aspergillosis]] (Lancet 2021;397:499)
 * [[Zygomycetes]] (eg, Mucor, Rhizopus)
+
 ## ENDEMIC FUNGI
 [[Cryptococcus]] (CID 2010;50:291)
 [[Histoplasmosis]]

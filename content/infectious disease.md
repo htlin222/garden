@@ -11,6 +11,7 @@ enableToc: false
 * [[skin and soft tissue infections]]
 * [[infections of the nervous system]]
 * [[bacteremia and endocarditis]]
+* [[infective endocarditis]]
 * [[tuberculosis]]
 * [[HIV AIDS]]
 * [[tick-borne diseases]]
@@ -23,9 +24,6 @@ enableToc: false
 * [[opportunistic infections]]
 * Tuberculosis
 * Clostridium difficile Infection
-* Tick-Borne Diseases
 * Epidural Abscess and [[vertebral osteomyelitis]], Meningitis/Encephalitis (Neurology)
-* Endocarditis (Cardiology)
-* Sexually Transmitted Infections (Women's Health)
 
 

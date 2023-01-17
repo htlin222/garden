@@ -5,7 +5,8 @@ alias: EKG
 
 ## approach to EKG
 
-[[貼片]]
+![🏞️](https://i.imgur.com/JmeIbRh.png)
+
 
 * [[Approach-electrocardiography]] (a systematic approach is vital)
 * [[Axis-deviation]]
@@ -23,6 +24,7 @@ alias: EKG
 * [[Low-voltage]]
 * [[Electrolyte-abnormalities]]
 * [[ECG-in-young-athletes]] (JACC 2017;69:805)
+[[貼片]]
 
 > [!note]
 >

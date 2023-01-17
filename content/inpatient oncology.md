@@ -2,5 +2,5 @@
 title: inpatient oncology
 ---
 # inpatient oncology
-Assessment of Hospitalized Cancer Patients
+[[assessment of hospitalized cancer patients]]
 
