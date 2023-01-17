@@ -4,7 +4,7 @@ title: radiation oncology
 
 
 Basic Radiation Biology and Physics
-External Beam Radiation Therapy
+[[external beam radiation therapy]]
 Stereotactic Radiotherapy
 Brachytherapy
 Total Body Irradiation and TSEB
