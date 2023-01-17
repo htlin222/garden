@@ -1,13 +1,13 @@
----
-title: Physical Examination
-aliases: [Physical Examination]
-linter-yaml-title-alias: Physical Examination
----
-sical Examination
 
-* Wheezing and prolonged expiratory phase
+s
+sss
+ss
 
-* Presence of nasal polyps, rhinitis, rash → allergic component
+s
 
-* Exacerbation → ↑ RR, ↑ HR, accessory muscle use, diaphoresis, pulsus paradoxus
+s
+
+sssss
+
+sssssssss
 

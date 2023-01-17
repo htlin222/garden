@@ -1,9 +1,9 @@
----
-title: thereis
----
+
+s
+
 s
 
 
-----
-來自: [[emergency medicine]]
-----
+
+
+

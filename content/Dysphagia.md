@@ -1,12 +1,12 @@
----
-title: Dysphagia
----
-sphagia
 
-* Oropharyngeal: inability to propel food from mouth through UES into esophagus
-* Esophageal: difficulty swallowing & passing food from esophagus into stomach
+s
 
-[[Structural dysphagia]] 
-[[Neuromuscular dysphagia]]
+s
 
-![](https://i.imgur.com/S3paLyb.png)
+ss
+sssssss
+
+s
+ss
+
+s

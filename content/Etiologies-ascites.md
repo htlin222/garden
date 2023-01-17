@@ -1,20 +1,20 @@
----
-title: Etiologies-ascites
----
-s-ascites
+
+sss
+
+sss
 
 
-Presinusoidal obstruction portal or splenic vein thrombosis, schisto- somiasis, sarcoidosis
+ssssssssssssss
 
-Sinusoidal obstruction: cirrhosis, acute hepatitis (including EtOH), malignancy (HCC or mets)
+ssssss
 
-Postsinusoidal obstruction right-sided CHF (ex: constriction, TR), Budd-Chiari syndrome, SOS
+sssssss
 
 
-Malig: peritoneal carcinomatosis; chylous ascites from malignant lymphoma (↑ TG); Meigs’ syndrome (ovarian tumor)
+sssssss
 
-Infection: TB, chlamydia/gonorrhea (ie, Fitz-Hugh-Curtis syndrome)
+ss
 
-Inflam: pancreatitis, ruptured pancreatic/biliary/lymph duct; bowel obstrxn, serositis (SLE)
+sssss
 
-Hypoalbuminemic states: nephrotic syndrome, protein-losing enteropathy
+ssss

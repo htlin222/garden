@@ -1,20 +1,20 @@
----
-title: Thrombocytopenia and Risk of Bleeding
----
-sk of Bleeding
+
+s
+
+s
 
 
 
-Risk with major trauma; can proceed with general surgery
+ss
 
 
 
-Risk with minor trauma or surgery
+ss
 
 
 
-Risk of spontaneous bleeding (less so with ITP)
+ssssss
 
 
 
-Risk of severe, life-threatening bleeding
+ss

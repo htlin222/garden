@@ -1,16 +1,16 @@
----
-title: Won’t Breathe as Etiologies of High elevated PaCO2
----
-s Etiologies of High elevated PaCO2
 
-decreae RR
-Respiratory Drive
-Voluntary hypervent.
-NI Pimax & A-a grad
-Metabolic alkalosis
-1° neurologic: brain-
-stem stroke, tumor, 1°
-alveolar hypovent
-2° neurologic: sedatives,
-CNS infxn,
-hypothyroidism
+ss
+
+ss
+
+
+s
+
+
+ss
+
+ss
+
+ss
+
+s

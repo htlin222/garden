@@ -1,26 +1,26 @@
----
-title: Modified Wells Pretest Probability Scoring for PE 
----
-s Pretest Probability Scoring for PE 
 
-(Annals 2011;154:709)
+ss
 
-*Prior PE or DVT=1.5 points
+ss
 
-*Active cancer =1.0
+s
 
-*Immobilization (bed rest ≥3 d) or surgery w/in 4 wk=1.5
+s
 
-*Alternative dx less likely than PE=3
 
-*Clinical signs of DVT=3
 
-*HR >100 bpm=1.5
+ss
 
-*Hemoptysis=1.0
+ss
 
-s Probability Assessment
+ss
 
-≤4 = ”Unlikely” (13% probability)
 
->4 “Likely” (39% probability)
+
+ss
+
+sssss
+
+
+
+

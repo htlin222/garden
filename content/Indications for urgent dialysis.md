@@ -1,18 +1,18 @@
----
-title: Indications for urgent dialysis
----
-s for urgent dialysis
 
-* Acid-base disturbance: refractory acidemia
+sss
 
-* Electrolyte disorder: hyperK; hyperCa, hyperPO4, tumor lysis syndrome
+sss
 
-* Intoxications (http://www.extrip-workgroup.org/): Poison Control (1-800-222-1222)
+ss
 
-	* Indicated for: methanol, ethylene glycol, metformin, Li, valproic acid, salicylates, barbiturates, theophylline, thallium
+ssss
 
-	* Consider for: carbamazepine, APAP, dig (Rx Digibind), dabigatran (Rx idarucizumab)
+ss
 
-* Overload: refractory hypervolemia → hypoxemia (eg, CHF)
+sss
 
-* [[Uremia]]: pericarditis, encephalopathy, bleeding
+s
+
+
+
+s

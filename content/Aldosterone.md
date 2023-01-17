@@ -1,21 +1,21 @@
----
-title: Aldosterone
-date: "2023-01-13"
-enableToc: false
----
 
-> [!info]
-> 🌱 來自: [[overview-sodium and water homeostasis]]
+s
 
-sterone
-
-留鈉排鉀
-* [[aldosterone synthetic pathway]]
-
-* primary hormone that regulates total body sodium (and ∴ volume)
-secretion:
-hypovolemia (via renin and angiotensin II),
-hyperkalemia
+s
 
 
-* iso-osmotic **[[principal cells]]** reabsorption of Na via **epithelial Na channel (ENaC)** in exchange for K+ or H+
+
+ssss
+
+s
+
+
+ss
+
+ss
+s
+s
+
+
+
+ssss

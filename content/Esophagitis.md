@@ -1,8 +1,8 @@
----
-title: Esophagitis
----
-sophagitis
 
-(15%)
+ss
 
-Rx offending cause + high-dose PPI; repeat EGD to r/o Barrett’s.
+ss
+
+
+
+sss

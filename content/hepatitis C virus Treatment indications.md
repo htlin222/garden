@@ -1,11 +1,11 @@
----
-title: hepatitis C virus Treatment indications
----
-s C virus Treatment indications
+
+sss
+
+sss
 
 
-(www.hcvguidelines.org) (Lancet 2019;393:1453; Hepatology 2020;71:686)
+s
 
-spont. clearance at 12–16 wk, can Rx w/ same regimens for chronic HCV
+sss
 
-Chronic: ↓ HCC & mortality. Recommended for all except if ↓ life expectancy.
+

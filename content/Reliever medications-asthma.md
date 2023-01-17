@@ -1,13 +1,13 @@
----
-title: Reliever medications-asthma
----
-s-asthma
+
+ss
+
+ss
 
 
- (used prn to quickly relieve sx)
+ss
 
-* Low-dose inhaled corticosteroids (ICS) + long-acting inh β2-agonists (LABA): budesonide-formoterol (NEJM 2019;380:2020)
+ssssss
 
-* Short-acting inh β2-agonists (SABA): albuterol Rx of choice
+ss
 
-* Short-acting inh anticholinergics (ipratropium) ↑ β2-agonist delivery → ↑ bronchodilation
+ss

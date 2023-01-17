@@ -1,25 +1,25 @@
----
-title: Normal GFR but with ↓ renal K excretion-hyperkalemia
----
 
 
-sterone function
 
-* ↓ EAV (K excretion limited by ↓ distal Na delivery & urine flow): CHF, cirrhosis
 
-* Excessive K intake: in conjunction with impairment in K excretion or transcellular shift
 
-* Ureterojejunostomy (absorption of urinary K in jejunum)
+s
 
-steronism: 
-> same as etiologies of hypoaldo RTA (type IV)
+sss
 
-* ↓ renin: DM, NSAIDs, chronic interstitial nephritis, HIV, multiple myeloma, Gordon’s
+ssss
 
-* Normal renin, ↓ aldo synthesis: 1° adrenal disorders, ACEI, ARBs, heparin, ketoconazole
+ss
 
-* ↓ response to aldosterone
+ss
+sss
 
-* Meds: K-sparing diuretics, TMP-SMX, pentamidine, calcineurin inhibitors
+ssss
 
-* Tubulointerstitial disease: sickle cell, SLE, amyloid, diabetes
+ssssss
+
+sss
+
+ssss
+
+sssss

@@ -1,38 +1,38 @@
----
-title: neutrophilia
----
-
-
-(>7500–10,000/µL)
 
 
 
-Usually bacterial; ± toxic granulations, Döhle bodies
 
 
 
-Burn, tissue necrosis, MI, PE, collagen vascular disease
 
-s and toxins
 
-Corticosteroids, β-agonists, lithium, G-CSF; cigarette smoking
+
+sss
+
+
+
+sssssss
 
 ss
 
-Release of endogenous glucocorticoids and catecholamines
+sssss
 
-stimulation
+ss
 
-Hemolytic anemia, immune thrombocytopenia
+ssss
 
-splenia
-
-Surgical, acquired (sickle cell), congenital (dextrocardia)
-
-sm
-
-Can be 1° (MPN) or paraneoplastic (eg, carcinomas of lung, GI)
+s
 
 
 
->50,000/µL + left shift, not due to leukemia; unlike CML, ↑ LAP
+s
+
+s
+
+s
+
+ss
+
+
+
+s

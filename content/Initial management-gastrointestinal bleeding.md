@@ -1,30 +1,30 @@
----
-title: Initial management-gastrointestinal bleeding
----
-strointestinal bleeding
+
+ss
+
+ss
 
 
-* [[Assess severity-initial management-gastrointestinal bleeding]]
+sssssss
 
-* [[History-Initial management-gastrointestinal bleeding]]:
+sss
 
-* [[physical exam-initial management-gastrointestinal bleeding]]:
+sss
 
-* [[resuscitation-initial management-gastrointestinal bleeding]]
+ssss
 
-* Lab studies: Hct (may be normal in first 24 h of acute GIB before equilibration) 2–3% → 500 mL blood loss; low MCV → Fe deficient and chronic blood loss; plt, PT/INR,
+sssssss
 
-PTT; BUN/Cr (ratio >36 in UGIB b/c GI resorption of blood ± prerenal azotemia); LFTs
+ss
 
-* Transfuse: type & cross; use O-neg if emerg; for UGIB (esp. w/ portal HTN) transfuse w/ more restrictive Hb goal (eg, >7 g/dL or >8 g/dL if CAD) (JAMA 2016;316:2025)
+sssssssss
 
-* Reverse coagulopathy: consider FFP to normalize INR (however caution in ESLD where INR does not correlate with bleeding risk); plts >50k, ddAVP if uremic, consider reversal agents if on anticoagulants (qv)
+sssssssss
 
-strointestinal bleeding alert endoscopist
+ssss
 
 
-Consider ICU if unstable VS or poor end organ perfusion.
+sss
 
-Intubation for: emergent EGD, ongoing hematemesis, shock, poor resp status, Δ MS
+ssssss
 
-OutPt management if SBP ≥110, HR <100, Hb ≥13 (♂) or ≥12 (♀), BUN <18, Ø melena, syncope, heart failure, liver disease (Clin Gastro Hepatol 2015;13:115)
+ssss

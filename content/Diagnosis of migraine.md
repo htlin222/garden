@@ -1,13 +1,13 @@
----
-title: Diagnosis of migraine
----
-sis of migraine
 
-* Record medical history
-* Apply diagnostic criteria
-* Consider differential diagnoses
-* Examine patient to exclude other causes
-* Use neuroimaging only when a secondary headache disorder is
-* suspected
+ss
 
-[[54321-PUMA-嘔怕]]
+ss
+
+s
+s
+sss
+ss
+ssss
+ss
+
+

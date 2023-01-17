@@ -1,13 +1,13 @@
----
-title: Infection as Etiologies of Classic FUO
----
-s Etiologies of Classic FUO
+
+ssss
+
+ssss
 
 
-Tuberculosis: disseminated or extrapulm. disease can have normal CXR, PPD/IGRA, sputum AFB; bx (lung, liver, bone marrow) for granulomas has 80–90% yield in milliary disease
+sssssssssss
 
-Endocarditis: if blood cxs neg consider Bartonella, Coxiella, et al.
+sss
 
-Abscess: dental, paraspinal, hepatic, splenic, subphrenic, pancreatic, -perinephric, pelvic, prostatic abscess or [[prostatitis]], appendicitis
+sssssssssssss
 
-[[Osteomyelitis]], sinusitis, typhoid, 1° CMV or EBV, malaria, Babesia
+ssssss

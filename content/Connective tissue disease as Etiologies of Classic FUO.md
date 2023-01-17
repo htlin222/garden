@@ -1,13 +1,13 @@
----
-title: Connective tissue disease as Etiologies of Classic FUO
----
-ssue disease as Etiologies of Classic FUO
+
+ssssssss
+
+ssssssss
 
 
-[[Giant cell arteritis]]
-[[Polymyalgia rheumatica]]
-headache, scalp pain, jaw claudication, visual disturbances, myalgias, arthralgias, ↑ ESR
+s
 
-Adult-onset Still’s: evanescent truncal rash, LAN, pharyngitis, ↑↑ ferritin
+ssssss
 
-PAN, ANCA ⊕, other vascul.; SLE, RA, psoriatic or reactive arthritis
+sssss
+
+sss

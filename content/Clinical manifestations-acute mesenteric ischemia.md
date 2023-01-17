@@ -1,13 +1,13 @@
----
-title: Clinical manifestations-acute mesenteric ischemia
----
 
-stations-acute mesenteric ischemia
+ssss
 
-* Arterial occlusion: sudden intense abd pain out of proportion to tenderness on exam
 
-* Venous occlusion: often more insidious in onset, intermittent pain with peaks and valleys
+ssss
 
-* Nonocclusive: abd distention & pain, n/v, lower GI bleeding due to mucosal sloughing; often occurring after episode of hypoperfusion (eg, cardiac event or shock)
+sssss
 
-* Exam ranges: unremarkable ± abd distention to peritoneal (infarction); ⊕ FOBT ~75%
+sssssss
+
+sssssss
+
+ss

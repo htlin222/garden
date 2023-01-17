@@ -1,20 +1,20 @@
----
-title: Hemochromatosis & iron overload syndromes
----
-sis & iron overload syndromes
 
-(Am J Gastro 2019;114:1202)
+ssss
 
-* Recessive disorder of iron sensing or transport leading to tissue iron deposition
+ssss
 
-* HFE mutations (85% of cases): typically C282Y homozyg. (~0.5% of N. Europeans), rarely C282Y/H63D compound heterozyg. C282Y homozygotes: 28% of ♂ & 1% of ♀ develop sx (delayed since menses ↓ Fe load). C282Y/H63D: only 1.5% manifest dis.
+s
 
-* Non-HFE mutations: hemojuvelin, hepcidin, transferrin receptor 2, & ferroportin
+sssssssss
 
-* [[Secondary causes of iron overload]]: 
+sssssssssss
 
-* [[Sx of Hemochromatosis]]: 
+ss
 
-* [[Dx of Hemochromatosis]]: 
+ss
 
-* [[Treatment of Hemochromatosis]]: 
+ss
+
+ss
+
+ss

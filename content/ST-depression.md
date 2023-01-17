@@ -1,14 +1,14 @@
----
-title: ST-depression
----
-ssion
 
-* Myocardial ischemia (± Tw abnl)
+ss
 
-* Acute true posterior MI: posterior STE appearing as anterior STD (± ↑ R wave) in V1–V3 ✓ posterior ECG leads; manage as a STEMI with rapid reperfusion (see “ACS”)
+ss
 
-* Digitalis effect: downsloping ST ± Tw abnl; does not correlate w/ dig levels
+s
 
-* Hypokalemia (± U wave)
+ssssssss
 
-* Repolarization abnl a/w LBBB or LVH (usually in leads V5, V6, I, aVL, called “LV strain”)
+ssss
+
+
+
+sss

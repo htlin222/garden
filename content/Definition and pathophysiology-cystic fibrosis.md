@@ -1,11 +1,11 @@
----
-title: Definition and pathophysiology-cystic fibrosis
----
-siology-cystic fibrosis
+
+ssss
+
+ssss
 
 
-(NEJM 2015;372:351)
 
-* Autosomal recessive genetic disorder due to mutations in chloride channel (CFTR gene)
 
-* ↑ mucus thickness, ↓ mucociliary clearance, ↑ infections → bronchiectasis
+sssss
+
+ssssss

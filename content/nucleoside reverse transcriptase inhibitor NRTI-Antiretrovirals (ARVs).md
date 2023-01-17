@@ -1,17 +1,17 @@
----
-title: nucleoside reverse transcriptase inhibitor NRTI-Antiretrovirals  ARVs 
----
-side reverse transcriptase inhibitor NRTI-Antiretrovirals (ARVs)
+
+ssssss
+
+ssssss
 
 
-Class: GI intol, lipoatrophy, lactic acidosis
+ssss
 
 
-ABC: hypersensitivity (3%), ✓ HLA-B*5701
+ss
 
 
 
-TDF: renal toxicity, bone density loss
-TAF: minimal renal toxicity
+sss
 
-AZT: BM suppression (esp. macrocytic anemia)
+
+ssss

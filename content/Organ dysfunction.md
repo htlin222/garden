@@ -1,9 +1,9 @@
----
-title: Organ dysfunction
----
-sfunction
+
+s
+
+s
 
 
-Liver (esp. cirrhosis): Vibrio spp., encapsulated bacteria
-ESRD: impaired granulocyte fxn and CMI as above
-Iron overload (or deferoxamine Rx): Yersinia, Zygomycetes
+sssss
+s
+ss

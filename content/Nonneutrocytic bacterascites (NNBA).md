@@ -1,8 +1,8 @@
----
-title: Nonneutrocytic bacterascites  NNBA 
----
-scites (NNBA)
 
-⊕ cx w/o ↑ PMNs. Natural course may resolve w/o Rx. Start abx if symptomatic; if asymptomatic repeat para in 48 hrs.
+ss
 
-Cx w/ 1 org.: Misc. GPC, E. coli, Klebs, misc. GNR.
+ss
+
+ssssss
+
+sss

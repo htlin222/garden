@@ -1,38 +1,38 @@
----
-title: neurogenic claudication
-date: "2023-01-09"
----
-
- from: [[nerve root compression]]
 
 
 
-Lumbar spinal stenosis (with nerve root compression)
 
-Radicular back/buttock pain
 
-Radiating down legs
+ss
 
-Worse with Walking & standing; Hyperextension/lying prone
 
-Better with Bending forward, sitting
 
-Numbness/paresthesias
+ssssss
 
-± Focal weakness, ↓ reflexes
 
-↓ Lumbar extension
 
-Preserved pulses
+s
 
-MRI lumbar spine
+sss
 
-CT myelogram (if no MRI)
+s
 
-EMG/NCS
+sssss
 
-PT (flexion exercise), NSAIDs,
+sss
 
-epidural steroid injections (ESI)
+s
 
-Surgery (if other Rx fails)
+sss
+
+s
+
+
+
+
+
+ss
+
+ss
+
+s

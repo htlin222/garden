@@ -1,13 +1,13 @@
----
-title: pathogenesis of disseminated intravascular coagulation  DIC 
----
-sis of disseminated intravascular coagulation (DIC)
+
+sssss
+
+sssss
 
 
-* massive activation of coagulation that overwhelms control mechanisms
+sssss
 
-* Thrombosis in microvasculature → ischemia + microangiopathic hemolytic anemia
+ssss
 
-* Acute consumption of coagulation factors and platelets → bleeding
+sss
 
-* Chronic DIC → able to compensate by ↑ factors and platelets → thrombosis
+sssss

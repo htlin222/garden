@@ -1,18 +1,18 @@
----
-title: Sinusoidal obstruction syndrome  SOS 
----
-soidal obstruction syndrome (SOS)
 
- (Bone Marrow Transplant 2020:55:485)
+sss
 
-* Occlusion of hepatic venules & sinusoids (formerly veno-occlusive disease) 2/2 toxic insult
+sss
 
-* Etiologies: post HSCT (15%), chemo (cyclophosphamide, cytarabine), XRT, bush tea
+s
 
-* Clinical manifestations: painful hepatomegaly, RUQ pain, ascites, weight gain, ↑ bilirubin
+sssssssss
 
-* Dx: U/S w/ reversal of portal flow; dx made clinically (early weight gain, ↓ plt refractory to transfusion, ↑ bili, hx of recent toxins); if necessary, liver bx or HVPG (>10 mmHg)
+ssss
 
-* Rx: supportive, diuretics; if severe → early defibrotide ↑ survival, but side effects & expensive
+ssss
 
-* Ppx: defibrotide; ursodeoxycholic acid for high-risk HSCT pop; ? use of low-dose heparin
+ssssss
+
+sssssss
+
+ssss

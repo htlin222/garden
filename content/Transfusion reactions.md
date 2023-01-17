@@ -1,18 +1,18 @@
----
-title: Transfusion reactions
----
-sfusion reactions
 
-* Reason why blood products (unless massive txfusion) run 1 at a time. For all rxns (except minor allergic): stop txfusion; send remaining blood product + fresh blood draw to blood bank.
+sss
 
-* [[Acute hemolytic]]
+sss
 
-* [[Delayed hemolytic]]
+ssssssssssss
 
-* [[Febrile nonhemolytic]]
 
-* [[Allergic Transfusion reactions]]
 
-* [[Transfusion-associated circulatory overload]] (TACO)
 
-* [[transfusion-related acute lung injury]] (TRALI)
+
+
+
+sss
+
+ssss
+
+ss

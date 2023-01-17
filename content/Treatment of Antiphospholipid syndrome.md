@@ -1,14 +1,14 @@
----
-title: Treatment of Antiphospholipid syndrome
----
-spholipid syndrome
 
-* UFH/LMWH → warfarin (lifelong for most Pts)
+ss
 
-* Rivaroxaban inferior to warfarin in triple positive (⊕ ACL, LA, & β2-GP) (Blood 2018;132:1365)
+ss
 
-* Initial venous thrombosis: INR 2–3 (NEJM 2003;349:1133; J Thromb Haemost 2005;3:848)
+ss
 
-* Initial arterial thrombosis: typically INR 2–3 + ASA 81 mg/d
+s
 
-* Recurrent thrombosis on warfarin: consider INR 3–4 vs. LMWH or fondaparinux
+ssss
+
+ss
+
+ssss

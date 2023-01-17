@@ -1,14 +1,14 @@
----
-title: T-wave-inversion
----
-sion
 
-* Ischemia or infarct; Wellens’ sign (deep, symm precordial TWI) → critical prox LAD lesion
+s
 
-* Myopericarditis; CMP (Takotsubo, ARVC, apical HCM); MVP; PE (espec if TWI V1–V4)
+s
 
-* Repolarization abnl in a/w LVH/RVH (“strain pattern”); BBB; nl variant if QRS predom. ⊖
+sssss
 
-* Posttachycardia or postpacing (“memory” T waves)
+sss
 
-* Electrolyte, digoxin, PaO2, PaCO2, pH/core temp ∆’s, intracranial bleed (“cerebral Tw”)
+s
+
+sss
+
+s

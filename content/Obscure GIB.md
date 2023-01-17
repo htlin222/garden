@@ -1,14 +1,14 @@
----
-title: Obscure GIB
----
-scure GIB
 
-(Am J Gastro 2015;110:1265; Gastro 2017;152:497)
+s
 
-* Definition: continued bleeding (melena, hematochezia) despite ⊖ EGD & colo; 5% of GIB
-* Etiologies: Dieulafoy’s lesion, GAVE, small bowel angiodysplasia, ulcer or cancer, Crohn’s disease, aortoenteric fistula, Meckel’s diverticulum, hemobilia
- 
-sis: 
-* repeat EGD w/ push enteroscopy/colonoscopy when bleeding is active
-If ⊖, video capsule to evaluate small intestine (contraindic. if stricture) (GIE 2015;81:889)
-If still ⊖, consider 99mTc-pertechnetate scan (“Meckel’s scan”), enteroscopy (single-balloon, double-balloon, or spiral), tagged RBC scan and arteriography
+s
+
+ss
+
+s
+sssssssssss
+
+ss
+ssss
+ssss
+sssssssss

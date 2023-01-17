@@ -1,16 +1,16 @@
----
-title: Hepatitis E
----
-s E
 
-(ssRNA; World J Gastro 2016;22:7030; Gastro Clin N Am 2017;46:393)
+s
 
-* Most common cause of acute viral hepatitis in endemic areas
+s
 
-* Transmission: fecal–oral; travelers to central & SE Asia, Africa and Mexico, exposure to swine. ↑ rates of cases in Europe.
+ssss
 
-* Natural hx: often asx, sometimes causes acute hepatitis w/ ↑ mort. (10–20%) if pregnant; rarely can become chronic in transplant Pts
+ssss
 
-* Dx: IgM anti-HEV (through CDC), HEV RNA; treatment is generally supportive only
+ssssssssss
 
-* Extrahepatic sx: arthritis, pancreatitis, anemia, neuro (GBS, meningoencephalitis)
+ssssssss
+
+ss
+
+ssss

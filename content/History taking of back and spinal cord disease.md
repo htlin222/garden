@@ -1,22 +1,22 @@
----
-title: History taking of back and spinal cord disease
-date: "2023-01-09"
----
 
- from: [[back and spinal cord disease]]
-story taking of back and spinal cord disease
+ssss
 
-* location, 
-* timing (acute/subacute/chronic) 
-* worse w/ Valsalva
-* radiation
-* trauma
-* wt loss
-* cancer
-* fever
-* immunocompromised
-* IVDU
-* neurologic symptom 
-* saddle anesthesia
-* Lhermitte phenomenon
-* bowel/bladder/sexual sx (retention, incontinence)
+
+
+sss
+ssss
+
+
+s
+ss
+
+
+ss
+
+
+s
+
+s
+sss
+
+ss

@@ -1,23 +1,23 @@
----
-title: d-dimer
-date: "2023-01-11"
-enableToc: false
----
-
-> [!info]
-> 🌱 來自: [[Diagnostic studies—DVT]]
 
 
 
-* by-product of the blood clotting and break-down process that can be measured via analysis of a blood sample. D-dimer is released when a blood clot begins to break down.
-*
-* More specifically, platelets in the blood are connected to a D subunit. When blood clots form, the **D group between two platelets form a bond**.
-* Many platelets bound together via D-Dimers (along with other factors, such as fibrin) form a clot.
-* As part of the healing process of the body, clots that are formed begin to break down almost as soon as they are formed.
-* When the clot bonds break, the D-dimer (D==D) breaks apart from the platelet (P):
+s
 
-```
-D--P--D + D--P--D → D--P--D==D--P--D → D--P + D==D + P--D
-```
-Sensitivity and specificity vary based on the type of assay ordered.
-However, D-dimers have a high sensitivity but low specificity for detecting pulmonary embolism or deep vein thrombosis in low-risk populations.
+
+
+sss
+
+
+
+sssssssss
+
+sssss
+sssss
+ssssssss
+ss
+
+
+
+
+sssss
+sssssssss

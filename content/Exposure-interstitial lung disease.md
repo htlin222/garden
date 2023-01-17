@@ -1,27 +1,27 @@
----
-title: Exposure-interstitial lung disease
----
-sure-interstitial lung disease
+
+ssss
+
+ssss
 
 
-* Drugs/Iatrogenic
+s
 
-Amiodarone: interstitial pneumonitis ↔ org. PNA ↔ ARDS; Rx: d/c amio; steroids
+ssss
 
-Other drugs: nitrofurantoin, sulfonamides, inh, hydralazine
+sss
 
-Chemo: bleomycin, busulfan, cyclophosphamide, MTX, immunotherapy, XRT
+ss
 
-* Pneumoconioses (inorganic dusts) (NEJM 2000;342:406; Clin Chest Med 2004;25:467)
+sssss
 
-Coal worker’s: upper lobe coal macules; may progress to massive fibrosis
+ssssssss
 
-Silicosis: upper lobe opacities ± eggshell calcification of lymph nodes; ↑ risk of TB
+ssssss
 
-Asbestosis: lower lobe fibrosis, calcified pleural plaques, DOE, dry cough, rales on exam. Asbestos exposure → pleural plaques, benign pleural effusion, diffuse pleural thickening, rounded atelectasis, mesothelioma, lung Ca (esp. in smokers)
+sssssssssssssssssssss
 
-Berylliosis: multisystemic granulomatous disease that mimics sarcoidosis
+sssssssssss
 
-* Hypersensitivity pneumonitides (organic dusts): loose, noncaseating granulomas
+ssssssss
 
-Antigens: farmer’s lung (spores of thermophilic actinomyces); bird fancier’s lung (proteins from feathers and excreta of birds or down); humidifier lung (thermophilic bacteria)
+sssssssss

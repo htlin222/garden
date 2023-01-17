@@ -1,11 +1,11 @@
----
-title: coagulopathies
----
+
 s
-* [[Screening Test Abnormalities in Inherited and Acquired Coagulopathies]]
-* [[Further coagulation tests]]
-* [[Hemophilias]]
-* [[Coagulation factor inhibitors]]
-* [[Disseminated intravascular coagulation (DIC)]]
-* [[Vitamin K deficiency]]
-* [[Properties and Antidotes for Anticoagulants Fibrinolytics]]
+
+s
+sss
+ss
+s
+s
+sss
+
+ssss

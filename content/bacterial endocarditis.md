@@ -1,18 +1,18 @@
----
-title: bacterial endocarditis
----
+
+s
+
 s
 
 
-* Infection of endothelium of heart (including but not limited to the valves) including both prosthetic valve endocarditis (PVE) and [[native valve endocarditis]] (NVE)
-* [[Risk Factors-bacterial endocarditis]]
-* ![Microbiology of Endocarditis](https://i.imgur.com/e6w0l88.png)
-* Fungal: ↑ risk w/ DM, indwelling lines, immunosupp.
-* [[culture negative-bacterial endocarditis]]
-* [[Clinical manifestation-bacterial endocarditis]] (Lancet 2016;387:882)
-* [[Physical exam-bacterial endocarditis]]
-* [[Diagnosis-bacterial endocarditis]]
-* [[Modified Duke Criteria]]
-* [[Treatment-bacterial endocarditis]] (ID consult is strongly recommended)
-* [[Indications for surgery-bacterial endocarditis]] 
-* [[Endocarditis Prophylaxis]]
+ssss
+sss
+ss
+sss
+s
+ss
+ss
+sss
+
+ssss
+sss
+ss

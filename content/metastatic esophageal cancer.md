@@ -1,13 +1,13 @@
----
-title: metastatic esophageal cancer
----
-static esophageal cancer
+
+ss
+
+ss
 
 
-after fluropyrimidine and platinum-based chemotherapy
-* [[KEYNOTE-181]]
-* [[ATTRACTION-3]]
-* [[CPS-22C3]]
-* [[Dako 28-8]]
-    
-[[Diagnostic and staging evaluation]]
+s
+
+
+
+
+
+ss

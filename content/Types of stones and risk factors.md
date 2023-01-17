@@ -1,31 +1,31 @@
----
-title: Types of stones and risk factors
----
-s of stones and risk factors
+
+sssss
+
+sssss
 
 
-(Nat Rev Dis Prim 2016;2:16008)
+s
 
 
-* (Ca oxalate >Ca phosphate): 70–90% of kidney stones (NEJM 2010;363:954)
+sss
 
-* Urine findings: ↑ Ca, ↑ oxalate (Ca-ox only), ↑ pH (Ca-phos only), ↓ citrate, ↓ volume
+ss
 
-* 2° hypercalciuria: 1° hyperparathyroidism, distal RTA, sarcoid, Li use
+ssss
 
-* 2° hyperoxaluria: Crohn’s, ileal disease w/ intact colon, gastric bypass, pancreatic insuffic.
+sssssss
 
-* Diet: ↑ animal protein, ↑ sucrose, ↑ Na, ↓ K, ↓ fluid, ↓ fruits/vegetables, ↑ vit. C, ↓ Ca
+ssss
 
 
-5–10% of kidney stones, radiolucent on plain film
-Urine findings: ↑ uric acid, ↓ pH (eg, from chronic diarrhea)
+ss
+s
 
-sium ammonium phosphate 
-(“struvite” or “triple phosphate”)
+ss
+ss
 
-Chronic upper UTI w/ urea-splitting organisms (eg, Proteus, Klebs) → ↑ urine NH3, pH >7
+sssss
 
-stine
-inherited defects of tubular amino acid reabsorption
+s
+ss
 

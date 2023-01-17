@@ -1,10 +1,10 @@
----
-title: CRC screening
----
-screening
 
-(JAMA 2021;325:1978)
+s
 
-* Colonoscopy gold standard. Other options: FOBT/FIT yearly, flex sig q5y or flex sig q10y + FIT every year, fecal DNA testing (eg, Cologuard) q3y or CT colonography q5y
-* Start screening in average risk Pts at age 45 (typically q10y unless abnl found)
-* If ⊕ FHx, start age 40, or 10 y before age of dx in youngest family member, repeat q5y
+s
+
+
+
+ssssss
+sssss
+ss

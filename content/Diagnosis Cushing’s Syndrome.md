@@ -1,57 +1,57 @@
----
-title: Diagnosis Cushing’s Syndrome
-date: "2023-01-12"
-enableToc: false
----
 
-> [!info]
-> 🌱 來自: [[Cushing’s Syndrome]]
+ssss
 
-sis Cushing’s Syndrome
-
-
-* Typically performed in outPt setting
-* Very difficult as inPt b/c hypercortisolism from acute illness and hosp.
-(NEJM 2017;376:1451)
-
-![Approach to suspected Cushing’s syndrome](https://i.imgur.com/HUuyl7W.png)
-
-- suspect [[Cushing’s Syndrome]] Clinically
-- [[3 options for screening for hypercortisolism]]
-- Results:
-	- negative and low clinical suspicion of hypercortisolism
-	- positive and high clinical suspicion hypercortisolism
-		- ✅ 24-hr UFC again
-	- positive but pt w/ acute illness, alcohol, depression
-		- re ✅ after resolution of illness or
-		- ✅ combined
-			- [[48-hr LD-dexamethasone suppression test]]
-			- [[CRH stimulations test]]
-- if positive:
-
-serum adrenocorticotrophic hormone
-
-> ✅ ACTH level
-
-
-- 48-hr or Overnight high-dose DST (or CRH test)
-	- will not suppress or negative stimulations
-		- chest/abdominal CT
-		- [[somatostatin scan]]
-			- negative -> [[BIPSS]]
-	- will suppress or positive stimulations
-		- pituitary MRI
-			- positive -> [[Cushing’s disease]]
-			- negative -> [[BIPSS]]
-	- BIPSS
-		- positive -> [[Cushing’s disease]]
-		- negative -> Ectopic ACTH
+s
 
 
 
-* adrenal computed tomogram or magnetic resonance imaging
-* Adrenal tumor
+ss
 
----
+ssss
 
-* O/N HD DST = 8 mg at 11 p.m.; ✓ 9 a.m. serum cortisol (suppression if <50% from day prior)
+
+s
+ssssss
+
+
+ssssss
+
+ssss
+ssss
+ss
+ssss
+sssss
+
+sssss
+sss
+
+sssss
+sss
+s
+
+s
+
+
+
+
+ss
+sssss
+s
+sss
+
+ssssss
+
+sssss
+
+
+sssss
+
+
+
+
+s
+
+
+
+
+sssss

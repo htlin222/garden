@@ -1,16 +1,16 @@
----
-title: Obstructive diseases-disease-specific management of kidney disease 
----
-structive diseases-disease-specific management of kidney disease 
+
+sssssssss
+
+sssssssss
 
 
 
-renal U/S if undifferentiated or CT abd/pelvic (I–) if suspect nephrolithiasis
+ssss
 
 
-Foley if urethra vs. perc. nephrostomy if above ureters (eg, stones), tamsulosin/finasteride
+ssssssss
 
-st-obstructive diuresis after relieving blockage, replace ½ UOP w/ ½ NS.
-* Hemorrhagic cystitis (rapid ∆ in size of bladder vessels)
-* avoid by decompressing slowly.
+ssss
+ssssss
+sss
 

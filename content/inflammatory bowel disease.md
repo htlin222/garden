@@ -1,18 +1,18 @@
----
-title: inflammatory bowel disease
----
-sease
+
+ss
+
+ss
 
 
-* Ulcerative colitis (UC): inflammation of the colonic mucosa; contiguous, starting at rectum
-* Crohn’s disease (CD): transmural inflammation anywhere along GI tract, skip lesions
-siology (Lancet 2016;387:156 & 2017;390:2769)
-* Age of onset 15–30 y; bimodal w/ 2nd peak at 50–70 y; 1:1 M:F in N America
-* Genetic predisposition (↑ Caucasian/Jewish) + environmental risk factors (smoking ↑ risk for CD, defective mucosal barrier) → T cell dysregulation → inflammation
+ssss
+sssssss
+s
+s
+ssssssssss
 
-* [[ulcerative colitis]]
-* [[crohn’s disease]]
-* [[management-inflammatory bowel disease]]
-* [[Medical Therapy for IBD]]
-* [[Surgery of inflammatory bowel disease]]
-* [[Cancer screening of inflammatory bowel disease]]
+s
+sss
+ss
+
+ss
+sss

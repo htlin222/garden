@@ -1,21 +1,21 @@
----
-title: Etiologies of Constipation
----
-s of Constipation
 
-s: slow transit vs. pelvic floor dyssynergia
+ss
 
-s (4 Ms; JAMA 2016:315:185)
+ss
 
-struction: 
-malignancy, compression, rectocele, strictures
+ssssss
 
-s:
-opioids, TCAs, anticholinergics, CCB, NSAIDs, diuretics, Ca2+, Fe, low fiber diet
+ss
 
+s
+ssss
 
-DM, hypothyroid, uremia, preg, panhypopit, porphyria, ↑ Ca, ↓ K, ↓ Mg
+s
+sssss
 
 
-Parkinson’s, Hirschsprung’s, amyloid, MS, spinal injury, dysautonomia
+
+
+
+sssssss
 

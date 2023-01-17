@@ -1,13 +1,13 @@
----
-title: Duration of full-intensity anticoagulation-venous thromboembolism
----
-sity anticoagulation-venous thromboembolism
 
-* Superficial venous thrombosis: **4 wk**
+sss
 
-* 1st prox DVT or PE 2° reversible/time-limited risk factor or distal DVT:
-	* **3–6 mo**
+sss
 
-* 1st unprovoked prox DVT/PE: ≥3 mo, then reassess; benefit to prolonged Rx. Consider clot, bleed risk, Pt preference, and intensity of Rx when crafting strategy.
+sss
 
-* 2nd VTE event or cancer: indefinite (or until cancer cured) (NEJM 2003;348:1425)
+ssss
+
+
+sssssssss
+
+

@@ -1,12 +1,12 @@
----
-title: Diagnosis-skin and soft tissue infections
----
-sis-skin and soft tissue infections
 
-sis of Cellulitis]]
+sssssss
 
-* Clinical diagnosis based on physical examination
-* Cultures from intact skin are not helpful and should not be performed (CID 2014;59:e10)
-* BCx are typically low yield (~5–10%)
-* Ultrasound can be used to identify deep abscesses and facilitate drainage. If abscess is found, incision/drainage is key to treatment.
-* Aspirate from an abscess may provide microbiologic dx
+sssssss
+
+sss
+
+ssss
+sss
+
+ssssssssssss
+ssss

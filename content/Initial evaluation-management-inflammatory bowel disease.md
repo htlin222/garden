@@ -1,12 +1,12 @@
----
-title: Initial evaluation-management-inflammatory bowel disease
----
-sease
 
-* H&P (✓ for intestinal & extraintestinal manifestations) and dx studies as above
+ss
 
-* Lab: consider CBC/diff, LFTs, iron studies, B12, folate, vit D, ESR, CRP, fecal calprotectin
+ss
 
-* Exclude other etiologies: infectious (espec. TB), ischemic colitis, intestinal lymphoma, CRC, IBS, vasculitis, Behçet’s, celiac disease, small intestinal bacterial overgrowth
+sssssss
 
-* R/o infection (esp. TB, HBV, CMV, O&P) before treating with immunosuppressants and biologics (although not all acutely hospitalized Pts w/ IBD need infxn r/o prior to Rx)
+ssss
+
+sssssssssssss
+
+ssssssss

@@ -1,32 +1,32 @@
----
-title: Acute tubular necrosis  ATN 
----
-sis (ATN)
 
-* Allergic: β-lactams, sulfa drugs, NSAIDs, PPIs
+ss
 
-* Infection: pyelo, viral, legionella, TB, leptospirosis
+ss
 
-* Infiltrative: sarcoid, lymphoma, leukemia
+sssss
 
-* Autoimmune: Sjögren’s, TINU, IgG4, SLE, ICIs
+sss
 
-se of acute tubular necrosis
+s
 
-schemia
-- sepsis
-- Hypovolemic
-- congestive heart failure, Cirrhosis
-- Medication that cause the decrease renal perfusion e.g. ACE inhibitor, angiotensin receptor blocker 
-- Renal vascular disease: artery trhombosis, stenosis, embolization, thrombotic thrombocytopenic purpura, hemolytic uremic syndrome 
-  
+ss
 
-<!--ID: 1669722171223-->
+sss
 
-- aminoglycosides
-- vancomycin
-- radiocontrast
-- hemoglobin
-- myoglobin
-- heavy metal
-- chemotherapy
+s
+sss
+
+sss
+ssss
+sssssssss
+
+
+
+
+ss
+
+s
+
+
+
+

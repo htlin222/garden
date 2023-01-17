@@ -1,14 +1,11 @@
----
-title: immunotherapy and cellular therapy
----
 
-[[template]]
 
-[Toxicities associated with checkpoint inhibitor immunotherapy - UpToDate](https://www.uptodate.com/contents/toxicities-associated-with-checkpoint-inhibitor-immunotherapy?search=irae&source=search result&selectedTitle=1~53&usage type=default&display rank=1)
-[Science: Cancer immunotherapy using checkpoint blockade - PubMed](https://pubmed.ncbi.nlm.nih.gov/29567705/)
-[[irAE]]
 
----
+
+
+
+sssssssssssssss
+ss
 
 
 
@@ -17,6 +14,9 @@ title: immunotherapy and cellular therapy
 
 
 
-* Autologous T cells w/ chimeric receptor: antibody variable region fused to T cell co-stimulatory intracellular signaling domains → MHC independent Ag recognition
-* CAR-T cells targeting CD19 used for ALL, DLBCL, FL, MCL. Targeting B-cell maturation antigen (BCMA) for MM. Strategies for solid tumors in development.
-splant 2019;25:625)
+
+
+
+ssssss
+sssss
+s

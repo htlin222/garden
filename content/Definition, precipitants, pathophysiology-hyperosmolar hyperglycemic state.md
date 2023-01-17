@@ -1,10 +1,10 @@
----
-title: Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state
----
-s, pathophysiology-hyperosmolar hyperglycemic state
+
+ssss
+
+ssss
 
 
-(Med Clin North Am 2017;101:587)
-* Extreme hyperglycemia (w/o ketoacidosis) + hyperosm. + Δ MS in T2D (typically elderly)
-* Precip same as for DKA, but also include dehydration and renal failure
-* Hyperglycemia → osmotic diuresis → vol depletion → prerenal azotemia → ↑ glc, etc.
+
+sss
+sss
+sss

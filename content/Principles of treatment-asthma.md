@@ -1,15 +1,15 @@
----
-title: Principles of treatment-asthma
----
-s of treatment-asthma
+
+ss
+
+ss
 
 
-* Education and avoidance of environmental triggers (Lancet 2015;386:1075); yearly flu shot
+ss
 
-* Use quick-relief rescue medication as needed for all Pts
+ssss
 
-* Goal to achieve complete control = daily sx ≤2/wk, Ø nocturnal sx or limitation of activity, reliever med ≤2/wk, nl peak expiratory flow rate or FEV1; partly controlled = 1–2 of the above present in a wk; uncontrolled = ≥3 of the above present in a wk
+ssss
 
-* Step up treatment as needed to gain control, step down as tolerated
+sss
 
-* Can abort exacerb by quadrupling ICS if deteriorating control (NEJM 2018;378:902)
+

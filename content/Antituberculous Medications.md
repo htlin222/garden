@@ -1,23 +1,23 @@
----
-title: Antituberculous Medications
----
-s Medications
-[[Antituberculous Treatment Regimens]]
-> *Risk of hepatitis ↑ w/ pre-existing liver disease. Consult ID, consider holding/replacing PZA or INH.
 
-Drug    Adverse Effects
+ss
 
-soniazid (INH)
-Hepatitis (avoid EtOH), periph neuropathy (↓ risk by suppl. vit B6), drug-induced lupus
+ss
+ss
+sssssss
 
-Orange tint of body fluids, GI upset, hepatitis (avoid EtOH), hypersensitivity, fever, drug interactions
+ss
 
-Hepatitis (avoid EtOH), hyperuricemia, arthritis
+s
+ssss
 
-Optic neuritis
+ssssss
 
-Ototoxicity, nephrotoxicity
+ss
 
-Ototoxicity, nephrotoxicity
+s
 
-GI upset, tendinopathy, ↑ QTc
+
+
+
+
+s

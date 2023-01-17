@@ -1,15 +1,15 @@
----
-title: Salicylates-toxicology
----
-s-toxicology
+
+s
+
+s
 
 
-Tinnitus, hyperventilation, abd. pain, vomiting, ΔMS, mixed ↑ AG & nl OG metabolic acidosis + respiratory alkalosis
+ssssss
 
-IVF resuscitation
+ss
 
-Alkalinization w/ NaHCO3
 
-Maintain respiratory alkalemia
 
-Consider hemodialysis
+s
+
+sss

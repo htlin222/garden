@@ -1,10 +1,10 @@
----
-title: Colitis
----
+
+s
+
 s
 
 
-Infectious (see “Acute Diarrhea”), IBD, ischemic colitis, XRT
+ssss
 
-[[diarrhea]]
-[[inflammatory bowel disease]]
+
+ss

@@ -1,15 +1,15 @@
----
-title: management of Barrett’s esophagitis
----
-s esophagitis
 
-PPI. 
+sss
 
-splasia: 
-surveillance EGD q3–5y. 
+sss
 
-splasia: 
-EGD q12mo; possible endoscopic eradication. 
 
-splasia: 
-endoscopic eradication; consider chemoprophylaxis w/ high-dose PPI & ASA (Lancet 2018;392:400).
+
+ss
+s
+
+ss
+sss
+
+ss
+ssss

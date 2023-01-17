@@ -1,7 +1,7 @@
----
-title: Malignancy-gastrointestinal bleeding
----
-strointestinal bleeding
+
+ss
+
+ss
 
 
-Endoscopic hemostasis of mass temporizing measure till cancer Rx
+sssssss

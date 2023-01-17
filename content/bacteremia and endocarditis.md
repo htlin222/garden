@@ -1,8 +1,8 @@
----
-title: bacteremia and endocarditis
-alias: infective endocarditis
----
+
+s
+ss
+
 s
 
-* [[bacteremia]]
-* [[bacterial endocarditis]]
+
+s

@@ -1,12 +1,12 @@
----
-title: Diagnostic studies of thoracentesis
----
-stic studies of thoracentesis
+
+sssss
+
+sssss
 
 
-* ✓ total protein, 
-* LDH, 
-* glucose, 
-* cell count with differential, 
-* Gram stain & culture, 
-* pH; (arterial blood gas) 
+
+
+s
+
+s
+s

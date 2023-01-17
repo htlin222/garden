@@ -1,53 +1,53 @@
----
-title: Initial workup-bronchiectasis
----
-sis
+
+ss
+
+ss
 
 
-* H&P: cough, dyspnea, copious sputum production, ±hemoptysis, inspiratory “squeaks”
+ssssssss
 
-* CXR: scattered or focal; rings of bronchial cuffing; “tram track” of dilated, thick airways
+sss
 
-* PFTs: obstructive; chest CT: airway dilation & thickening ± cystic Δs, infiltrates, adenopathy
+ssssss
 
-s (eg, MTb, ABPA)
+s
 
-Chronic cough, freq/persist infiltrate, refract asthma (ABPA)
+sss
 
-Sputum cx (incl mycobact, fungal), ± bronch/BAL, IgE & eos (ABPA)
+s
 
-skin
+s
 
-Sinusitis, infertility, otitis
+sss
 
-Dynein mutations
-
-
-
-Recurrent infxns often as child
-
-IgA, IgG, IgM, IgG subclasses
+s
 
 
 
-Resp sx may precede joint sx
+ss
 
-RF, CCP, SS-A, SS-B, ANCA
-
-
-
-Not relieved by bowel resection
-
-Colonoscopy, biopsy
+ssss
 
 
 
-Lower lobe emphysema
-
-α1-AT level and genotype
+sss
 
 
 
-R middle lobe synd. from sharp takeoff, foreign body aspiration
 
-Bronchoscopy
+
+s
+
+ss
+
+
+
+s
+
+
+
+
+
+sss
+
+s

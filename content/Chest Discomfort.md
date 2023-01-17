@@ -1,6 +1,6 @@
----
-title: Chest Discomfort
----
-st Discomfort
 
-* [[chest pain]]
+ss
+
+ss
+
+s

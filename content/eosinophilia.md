@@ -1,34 +1,34 @@
----
-title: eosinophilia
----
-sinophilia
 
-(>500/µL)
+s
+
+s
 
 
 
-Usually parasitic (helminths)
+
+
+sss
 
 
 
-Drugs; asthma, hay fever, eczema; ABPA
+ss
 
-sc dis.
+ss
 
-RA, EGPA (Churg-Strauss), eosinophilic fasciitis, PAN
+sssss
 
 
 
-Adrenal insufficiency
+s
 
-sm
+s
 
-HL, CML, mycosis fungoides, carcinomas, systemic mastocytosis
+sssssssss
 
-s.
+s
 
-Cholesterol emboli syndrome
+ss
 
-sinophilic syndrome
+ss
 
-Multiorgan involvement incl. heart & CNS, a/w FIP1L1-PDGFRA fusion (NEJM 2003;348:1201); often steroid resistant
+ssss

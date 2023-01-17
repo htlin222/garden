@@ -1,16 +1,16 @@
----
-title: Clinical manifestations
----
-stations
 
-* Classic triad = wheezing, cough, dyspnea; others include chest tightness, sputum; symptoms typically chronic with episodic exacerbation
+ss
 
-* Precipitants (triggers)
+ss
 
-respiratory irritants (smoke, perfume, etc.) & allergens (pets, dust mites, pollen, etc.)
+sssssssssss
 
-infections (URI, bronchitis, sinusitis)
+ss
 
-drugs (eg, ASA & NSAIDs via leukotrienes, βB via bronchospasm, MSO4 via histamine)
+sssssss
 
-emotional stress, cold air, exercise (increase in ventilation dries out airways)
+sssss
+
+ssssss
+
+sssssss

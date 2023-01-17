@@ -1,22 +1,22 @@
----
-title: Treatment-pleural effusion
----
-sion
+
+s
+
+s
 
 
-* Symptomatic effusion: therapeutic thoracentesis, treat underlying disease process
+sssssss
 
-* Parapneumonic effusion (Chest 2000;118:1158)
+ss
 
-uncomplicated → antibiotics for pneumonia
+s
 
->½ hemithorax or complicated or empyema → tube thoracostomy (otherwise risk of organization and subsequent need for surgical decortication)
+ssssss
 
-loculated→ tube thoracostomy or VATS; intrapleural t-PA + DNase ↓ need for surgery
+sss
 
-* Malignant effusion: serial thoracenteses vs. tube thoracostomy + pleurodesis (success rate ~80–90%) vs. indwelling pleural catheter, which ↓ hosp days but ↑ adverse events (JAMA 2017;318:1903); systemic steroids & pH <7.2 a/w ↑ pleurodesis failure rate
+ssssssssssssssssssssss
 
-* TB effusions: effusion will often resolve spontaneously; however, treat Pt for active TB
+ssssss
 
-[[Hepatic hydrothorax]]
+
 

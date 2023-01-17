@@ -1,28 +1,28 @@
----
-title: endocrinology
----
 
-* [[pituitary disorders]]
-* [[thyroid disorders]]
-* [[adrenal disorders]]
-* [[calcium disorders]]
-* [[diabetes mellitus]]
-* [[lipid disorders]]
-* [[phosphate disorders]]
 
-sident 360 topics
-* Diabetes
-* [[inpatient diabetes management]]
-* Thyroid Disorders
-* Adrenal Disorders
-* Osteoporosis
-* Calcium-Based Disorders
-* Obesity
-* Pituitary Disorders
-* Male Hypogonadism
-* Transgender Health
-Other topics related to endocrinology are covered in the following rotation guides:
 
-Falls and Fracture Prevention (Geriatrics)
-Polycystic Ovary Syndrome (PCOS), Menopause (Women's Health)
+
+ss
+ss
+ss
+ss
+ss
+ss
+sss
+
+ss
+s
+s
+ss
+ss
+sss
+sss
+s
+ss
+s
+s
+ss
+
+ss
+sss
 

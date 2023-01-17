@@ -1,15 +1,15 @@
----
-title: Clinical manifestations—DVT
----
-stations—DVT
 
-* Calf pain 
-* swelling (>3 cm c/w unaffected side) 
-* venous distention
-* erythema, warmth, tenderness, palpable cord, 
-* ⊕ [[Homan’s sign]] (calf pain on dorsiflexion, seen in <5%)
+ss
 
-* 50% of Pts with sx DVT have asx PE
+ss
 
-* Popliteal (Baker’s) cyst: 
-	* may lead to DVT due to compression of popliteal vein
+
+ss
+ss
+ss
+ssss
+
+sss
+
+ss
+ss

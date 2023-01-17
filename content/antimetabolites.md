@@ -1,6 +1,6 @@
----
-title: antimetabolites
----
+
 s
 
-[[Methotrexate]]
+s
+
+

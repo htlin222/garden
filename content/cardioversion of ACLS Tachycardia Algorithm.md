@@ -1,19 +1,19 @@
----
-title: cardioversion of ACLS Tachycardia Algorithm
----
-sion of ACLS Tachycardia Algorithm
+
+s
+
+s
 
 
-* O2 sat monitor
-* suction, IV line
-* intubation equipment
+s
+s
 
 
-* call anesthesia service
-* midazolam 1-5 mg
-* fentanyl 100-300 mcg
 
-sion
-* 100J 雙向 越加越大
-	* 小麻 50-200 J biphasic
-* 100-200 J monophasic
+sss
+
+
+
+s
+
+s
+s

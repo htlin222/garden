@@ -1,8 +1,8 @@
----
-title: Anemias of other chronic disorders
----
-s of other chronic disorders
 
-* Anemia of CKD: ↓ Epo; treat w/ Epo & iron (see “Chronic Kidney Disease”)
+sss
 
-* Endocrine deficiencies: hypometabolism and ↓ O2 demand with thyroid, pituitary, adrenal, or parathyroid disease → ↓ Epo; can be normocytic or macrocytic
+sss
+
+sss
+
+ssss

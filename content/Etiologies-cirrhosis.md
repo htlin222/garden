@@ -1,20 +1,20 @@
----
-title: Etiologies-cirrhosis
----
-s-cirrhosis
 
-* Alcohol, toxins (eg, arsenic)
+sss
 
-* Nonalcoholic fatty liver disease (NAFLD) is the cause of most “cryptogenic cirrhosis”
+sss
 
-* Viral hepatitis: chronic HBV, HCV, HDV infection
+ss
 
-* Autoimmune hepatitis: ♀, ↑ IgG, ⊕ ANA, ASMA, anti-LKM-1, anti-LC1
+sssssss
 
-* Metabolic diseases: hemochromatosis, Wilson disease, α1-AT deficiency
+s
 
-* Biliary tract diseases: primary biliary cholangitis, secondary biliary cirrhosis (calculus, neoplasm, stricture, biliary atresia), primary sclerosing cholangitis
+s
 
-* Vascular diseases: Budd-Chiari syndrome, R-sided CHF, constrictive pericarditis, SOS
+ssssssss
 
-* Medications: amiodarone, methotrexate, vitamin A, valproic acid, isoniazid
+ssssssssssssss
+
+ssssssss
+
+ss

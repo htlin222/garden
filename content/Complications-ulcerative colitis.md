@@ -1,12 +1,12 @@
----
-title: Complications-ulcerative colitis
----
-s-ulcerative colitis
 
-* Toxic megacolon (5%): colon dilatation (≥6 cm on KUB), colonic atony, systemic toxicity, & ↑ risk of perf. Rx w/ IV steroids & broad-spectrum abx; surgery if needed.
+ss
 
-* Stricture (rectosigmoid), dysmotility, anorectal dysfxn after recurrent inflammation
+ss
 
-* ↑ Risk of CRC and dysplasia (see below) after 8 years of active disease
+sssssss
 
-* For Pts s/p surgery w/ ileal pouch, may develop pouchitis (inflammation of ileal pouch, up to ½ of Pts). Rx w/ abx (MNZ, cipro), probiotics.
+sss
+
+sssssss
+
+ssssss

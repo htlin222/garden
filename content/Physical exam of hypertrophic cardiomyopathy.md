@@ -1,14 +1,14 @@
----
-title: Physical exam of hypertrophic cardiomyopathy
----
-sical exam of hypertrophic cardiomyopathy
 
-* Sustained PMI, S2 paradoxically split if severe outflow obstruction, ⊕ S4 (occ. palpable)
+s
 
-* Systolic murmur: crescendo-decrescendo; LLSB; ↑ w/ Valsalva & standing (↓ preload)
+s
 
-* ± mid-to-late or holosystolic murmur of MR at apex
+ssss
 
-* Bifid (biphasic) carotid pulse (brisk rise, decline, then 2nd rise); JVP w/ prominent a wave
+sssss
 
-* Contrast to AS, which has murmur that ↓ w/ Valsalva and ↓ carotid pulses
+ss
+
+sssss
+
+sssss

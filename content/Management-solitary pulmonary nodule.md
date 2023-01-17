@@ -1,13 +1,13 @@
----
-title: Management-solitary pulmonary nodule
----
-solitary pulmonary nodule
+
+s
+
+s
 
 
-* Low risk (<5%): serial CT (freq depending on risk); shared decision w/ Pt re: bx
+sssss
 
-* High risk (and surgical candidate): TBB, TTNB, or VATS → lobectomy if malignant
+ss
 
-* Subsolid nodules: longer f/u (b/c if malignant can be slow-growing) & PET
+sss
 
-![Follow-up imaging for soid nodues](https://i.imgur.com/VwBMP82.png)
+sss

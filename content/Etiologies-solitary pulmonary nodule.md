@@ -1,20 +1,20 @@
----
-title: Etiologies-solitary pulmonary nodule
----
-s-solitary pulmonary nodule
+
+ss
+
+ss
 
 
-Granuloma (80%): TB, histo, coccidio
-Hamartoma (10%)
-Bronchogenic cyst, AVM, pulm infarct
-Echinococcosis, ascariasis, aspergilloma
-GPA, rheumatoid nodule, sarcoidosis
-Lipoma, fibroma, amyloidoma
+s
+
+s
+ssssss
+sss
 
 
-Bronchogenic carcinoma (75%) periph: adeno
-(most common) & large cell central: squamous &
-small cell
-Metastatic (20%): sarcoma, melanoma, breast, head
-& neck, colon, testicular, renal
-Carcinoid, primary sarcoma
+
+
+sss
+s
+sss
+s
+s

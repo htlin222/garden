@@ -1,10 +1,10 @@
----
-title: Etiologies-pancytopenia
----
-s-pancytopenia
 
-* Hypocellular bone marrow (nl cellularity ~100 – age): aplastic anemia, hypoplastic MDS
+s
 
-* Cellular bone marrow: MDS, aleukemic leukemia, PNH, severe megaloblastic anemia
+s
 
-* Myelophthesis (marrow replacement, PMF); systemic dis. (hypersplen, sepsis, EtOH/toxin)
+ss
+
+ss
+
+sssssssss

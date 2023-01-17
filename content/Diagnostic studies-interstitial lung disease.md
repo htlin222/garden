@@ -1,29 +1,29 @@
----
-title: Diagnostic studies-interstitial lung disease
----
-stic studies-interstitial lung disease
+
+ssssss
+
+ssssss
 
 
-see Appendix & Radiology inserts)
+sss
 
-* CXR and high-resolution chest CT
+ss
 
-Upper lobe predom: hypersensitivty, coal, silica, smoking-related, sarcoidosis, Langerhan’s
+ssssssss
 
-Lower lobe predom: NSIP, UIP, asbestosis
+ssss
 
-Adenopathy: malignancy, sarcoidosis, berylliosis, silicosis
+ssssssss
 
-Pleural disease: collagen-vascular diseases, asbestosis, infections, XRT
+sssssssssss
 
-* PFTs: ↓ DLCO (early sign), restrictive pattern (↓ volumes), ↓ PaO2 (esp. w/ exercise);
+ssssss
 
-If restrictive + obstructive, consider sarcoid
+ssss
 
-If combined pulmonary fibrosis and emphysema (CFPE) → near-nl lung vol on PFTs
+ssss
 
-* Serologies: ✓ ACE, ANA, RF, RNP, ANCA, CCP, SSA/SSB, Scl 70, CK, aldolase, myositis panel
+ssss
 
-* Bronchoalveolar lavage: in select cases if suspect superimposed infection, hemorrhage, eosinophilic syndromes
+ssssssssss
 
-* Bx (transbronch w/ or w/o cryo vs. VATS depending on location) if unclear etiology
+ss

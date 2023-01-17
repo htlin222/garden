@@ -1,13 +1,13 @@
----
-title: Neoplasm Etiologies of Classic FUO
----
-sm Etiologies of Classic FUO
+
+ssss
+
+ssss
 
 
-Lymphoma: LAN, HSM, ↓ Hct or plt, ↑ LDH; leukemia; myelodysplasia
+ss
 
-Renal cell carcinoma: microscopic hematuria, ↑ Hct
+s
 
-HCC, pancreatic and colon cancers, sarcomas, mastocytosis
+ssssss
 
-Atrial myxomas: obstruction, embolism, constitutional symptoms
+ssssss

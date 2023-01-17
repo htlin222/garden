@@ -1,7 +1,7 @@
----
-title: hemoptysis
----
-sis
-* [[Definition and pathophysiology-hemoptysis]]
-* [[Diagnostic workup-hemoptysis]]
-* [[Treatment-hemoptysis]]
+
+ss
+
+ss
+sss
+sss
+ss

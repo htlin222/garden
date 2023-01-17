@@ -1,14 +1,14 @@
----
-title: Imaging studies of acute pancreatitis
----
-studies of acute pancreatitis
 
- (Am J Gastro 2013;108:1400)
+sss
 
-Abd U/S: bowel gas often obscures pancreas visualization; however should be ordered to r/o biliary etiology (ie, gallstones, BD dilatation)
+sss
 
-Abd CT: not rec for first 3 days (local complic. not yet visible & concern for AKI w/ IV contrast). However, if persistent pain and/or clinical deterioration after 48–72 h, CT(I+) useful to r/o local complications (necrosis, fluid collections).
+s
 
-MRI/MRCP: Can detect necrosis, assess for stones & ductal disruption earlier than CT
+ssssssss
 
-Endoscopic U/S (EUS): useful for occult biliary disease (microlithiasis)
+sssssssssss
+
+sssssssss
+
+ssssss

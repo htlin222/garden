@@ -1,15 +1,15 @@
----
-title: Treatment-Primary sclerosing cholangitis  PSC 
----
-sclerosing cholangitis (PSC)
+
+sss
+
+sss
 
 
-* supportive care, fat-soluble vitamins; no meds have improved survival
+sssss
 
-* UDCA may ↓ Aϕ & improve Sx, but unclear if beneficial
 
-* If dominant stricture → endoscopic dilation, stenting or surgical resection can help
 
-* Cholangiocarcinoma: 15% lifetime risk; annual surveillance w/ MRCP or U/S & CA19-9
+sssss
 
-* Liver transplantation: ~30% recurrence, though if UC, colectomy may ↓ recurrence
+ss
+
+s

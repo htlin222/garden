@@ -1,16 +1,16 @@
----
-title: Management of ICU patient-pulmonary hypertension
----
-sion
 
-* Avoid tachyarrhythmias & overly aggressive volume resuscitation
+s
 
-* Caution w/ vasodilators if any L-sided dysfunction
+s
 
-* Intubation can cause hemodynamic collapse
+sssss
 
-* Dobutamine and inhaled NO or prostacyclin
+ssss
 
-* Consider R-sided mechanical support (Circ 2015;132:536)
+ss
 
-* Consider fibrinolysis if acute, refractory decompensation (eg, TPA 100 mg over 2 h)
+s
+
+sss
+
+ssss

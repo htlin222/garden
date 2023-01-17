@@ -1,18 +1,18 @@
----
-title: Hemophilias
----
+
 s
 
-(Lancet 2016;388:187)
+s
 
-* X-linked recessive factor VIII (hemophilia A) or factor IX (hemophilia B) deficiency
 
-* Classification: mild (5–25% normal factor activity), moderate (1–5%), or severe (<1%)
 
-* Clinical manifestations: hematomas, hemarthroses, bruising, bleeding (mucosal, GI, GU)
+ss
 
-* Diagnosis: ↑ PTT (normalizes w/mixing study), normal PT & vWF, ↓ factor VIII or IX
+sss
 
-* Prophylaxis indicated if <1% activity of factor VIII or IX
+sssssss
 
-* Rx: purified/recomb. factor VIII or IX; desmopressin (mild disease); anti-fibrinolytics (aminocaproic acid; tranexamic acid); cryo (FVIII); emicizumab (bridges factor IX and X), effective for hemophilia A w/ and w/o inhibitors (NEJM 2017;377:809 & 2018;379:811)
+ssss
+
+s
+
+ssssssss

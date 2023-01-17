@@ -1,33 +1,33 @@
----
-title: back and spinal cord disease
----
 
-sis of back pain]]
+sss
 
-spinal cord disease
 
-> Lancet 2017;389:736 & Continuum 2021;27:12
+ss
 
-* [[History taking of back and spinal cord disease]]
+sss
 
-* General physical exam: local tenderness, ROM, signs of infection or malignancy; paraspinal tenderness or spasm in musculoskeletal strain
 
-* Signs of radiculopathy (sharp/lancinating pain radiating into limb):
 
-* [[spurling sign]]
+ssss
 
-* [[straight leg raise]]
+sssssssssssss
 
-* [[Patrick FABER test]]
+ss
 
-* Neurogenic claudication in lumbar stenosis (see table on next page)
+ss
 
-* [[Neuro exam of back and spinal cord disease]]
+ss
 
-* [[Red flags of back and spinal cord disease]]:
+s
 
-* [[Laboratory of back and spinal cord disease]]
+ssss
 
-* Neuroimaging: low yield if nonradiating pain, high false ⊕ rate (incidental spondylosis); depending on suspicion: X-rays, CT or CT myelography, MRI, bone scan
+sss
 
-* EMG/NCS: may be useful to distinguish root/plexopathies from peripheral neuropathies
+ssss
+
+sss
+
+ssssssss
+
+sssss

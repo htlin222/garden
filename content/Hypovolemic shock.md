@@ -1,22 +1,22 @@
----
-title: Hypovolemic shock
----
-shock
-
-
-
-Trauma
-
-GI bleeding
-
-Ruptured ectopic pregnancy
-
-sses
 
 s
 
-Polyuria
+s
 
-Diabetic ketoacidosis
 
-Diabetes insipidus
+
+
+
+
+
+
+
+sss
+
+s
+
+
+
+ss
+
+sss

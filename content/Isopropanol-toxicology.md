@@ -1,9 +1,9 @@
----
-title: Isopropanol-toxicology
----
-sopropanol-toxicology
+
+s
+
+s
 
 
-CNS depression, gastritis
+ssss
 
-Supportive care
+

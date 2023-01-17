@@ -1,23 +1,23 @@
----
-title: Bacterial peritonitis
----
+
 s
-(Gut 2012;61:297; Hepatology 2021;74:1014)
 
-scites Culture
-scites PMN≥250/µL
-* [[Spontaneous bacterial peritonitis (SBP)]]
-* [[secondary bacterial peritonitis]]
+s
 
-scites PMN<250/µL
-* [[Nonneutrocytic bacterascites (NNBA)]]
 
----
+ss
+ss
+ss
+ss
 
-scites Culture
-scites PMN≥250/µL
-* [[Culture-negative neutrocytic ascites (CNNA)]]
+ss
+ss
 
----
 
-sis-associated-Bacterial peritonitis]]
+
+ss
+ss
+ss
+
+
+
+sssss

@@ -1,20 +1,20 @@
----
-title: atrial fibrillation
----
 
 
-* [[Classification-atrial fibrillation]]
-* [[Epidemiology and etiologies-atrial fibrillation]]
 
-* H&P, ECG, CXR, TTE (LA size, thrombus, valves, LV fxn, pericardium), K, Mg, Cr, TFTs
-* In acute AF <48º, ~70% spont. convert to SR w/in 48 hrs (NEJM 2019;380:1499)
-[[Approach to acute AF]]
-[[Rate Control-atrial fibrillation]]
-[[Cardioversion]]
-[[Rhythm control]]
-[[Antiarrhythmic Drugs (AAD) for AF]]
-[[Ablation-atrial fibrillation]]
-[[Oral anticoagulation-atrial fibrillation]]
-[[Direct Oral Anticoagulants (DOACs) for NVAF]]
-[[Nonpharmacologic stroke prevent ]]
-[[Atrial flutter]]
+
+
+ss
+s
+
+ssss
+ss
+
+
+s
+
+s
+
+
+ss
+s
+

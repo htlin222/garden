@@ -1,31 +1,31 @@
----
-title: Hypersplenism
----
-splenism
 
-Stasis/trapping in spleen → Mϕ attack/remodel RBCs → spherocytosis → hemolysis
+ss
 
-ses of Splenomegaly
+ss
 
-sia
-* Hemolytic anemia, sickle cell disease, thalassemia major
+sssssssss
 
-sia
-* Infxn [HIV, EBV, CMV, TB, malaria, kala azar (“black water fever” from visceral leishmaniasis), Mycobacterium avium complex], autoimmune disorders (SLE, RA w/ Felty’s syndrome), sarcoidosis, serum sickness
+ss
 
-stion
-* Cirrhosis, 
-* CHF, 
-* portal/splenic vein thrombosis, 
-* schistosomiasis
+s
+sssss
+
+s
+sssssssssssssss
+
+s
+ss
+
+sss
+sssss
 
 
-* Lysosomal storage disorders (Gaucher’s, Niemann-Pick), 
-* glycogen storage diseases
-* histiocytosis X, splenic cysts
+ssssss
+ssss
+ssssss
 
-sm
-ses of massive splenomegaly.
-* MPN (CML, PMF, PV, ET), CMML, leukemia, lymphoma (NHL, HL, hairy cell leukemia, CLL, PLL, WM), 
+s
+sssss
 
-* T-LGL, myeloma, amyloid
+
+

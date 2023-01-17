@@ -1,12 +1,12 @@
----
-title: Pure red cell aplasia
----
-sia
 
-* Destructive antibodies or lymphocytes → ineffective erythropoiesis
+s
 
-* Associated with thymoma, CLL, parvovirus infection, autoimmunity, drugs
+s
 
-* Diagnostic studies: lack of erythroid precursors on BM bx, other lines normal
+sssss
 
-* [[Treatment-Pure red cell aplasia]]
+ssss
+
+ssssss
+
+s

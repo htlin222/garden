@@ -1,22 +1,22 @@
----
-title: Pathology pathogenesis esophageal cancer
----
-sis esophageal cancer
-s cell carcinoma
-Squamous cell carcinomas (SCCs) are usually located in the proximal or mid third of the esophagus.
 
-Submucosal invasion at an early stage is common.
+sss
 
-An area of chronic epithelial irritation or injury may be the etiology of an infiltrating and/or ulcerated mass.
+sss
+s
+ssssss
 
-As the draining lymphatics are located relatively superficially in the lamina propria (in contrast to the deeper muscularis mucosa), early local lymph node invasion is frequent.
+ssss
 
-30% percent of patients have distant metastases at presentation.
+ss
+
+sssssssss
+
+ssssss
 
 s
-Adenocarcinomas are most commonly located in the GEJ or distal third of the esophagus.
+sssss
 
-They often develop in or are associated with Barrett’s metaplasia, which is a condition in which the columnar mucosa of the distal esophagus develops squamous metaplastic changes in response to chronic reflux.
+ssssssssssssssss
 
-The pattern of lymphatic and metastatic spread is similar to that seen in SCC.
+sssss
 

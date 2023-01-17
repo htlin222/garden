@@ -1,14 +1,14 @@
----
-title: Obstructive shock
----
-structive shock
 
-Tension pneumothorax
+ss
 
-Cardiac tamponade
+ss
 
-Constrictive pericarditis
+s
 
-Pulmonary embolism
 
-Aortic dissection
+
+ss
+
+s
+
+ss

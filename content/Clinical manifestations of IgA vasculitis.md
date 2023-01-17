@@ -1,15 +1,15 @@
----
-title: Clinical manifestations of IgA vasculitis
----
-stations of IgA vasculitis
 
-關節、肚子、腎、皮
+ssss
+
+ssss
 
 
-	on extensor surfaces (lower extremity first) & buttocks
+
+
+sssss
 s
-	(nondeforming) esp. involving hips, knees, & ankles
+ssss
 
-	± GIB or intussusception
+sss
 s
-	ranging from microscopic hematuria & proteinuria to ESRD
+s

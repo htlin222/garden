@@ -1,30 +1,30 @@
----
-title: cirrhosis
----
-sis
-* [[Definition-cirrhosis]]
-* [[Etiologies-cirrhosis]]
-* [[Clinical manifestations-cirrhosis]]
-* [[Physical exam-cirrhosis]]
-* [[Laboratory studies-cirrhosis]]
-* [[Workup-cirrhosis]]
-* [[Prognosis-cirrhosis]]
-* [[ascites]]
-* [[Spontaneous bacterial peritonitis]]
-* [[Gastroesophageal varices and UGIB-cirrhosis]]
-* [[Hepatic encephalopathy (HE)]]
-* [[Hepatorenal syndrome (HRS)]]
-* [[hepatocellular carcinoma]]
-* [[Hepatopulmonary syndrome (HPS)]]
 
-sis]]
+ss
 
-splantation]]
+ss
+ss
+sss
+ssss
+sss
+ssss
+ss
+ssss
+ss
+ss
+sssss
 
 s
 
-* [[Hemochromatosis & iron overload syndromes]]
-* [[Wilson disease]]
-* [[α1-antitrypsin deficiency (α1-AT)]]
-* [[Primary biliary cholangitis (PBC)]]
-* [[Primary sclerosing cholangitis (PSC)]]
+s
+
+ss
+
+s
+
+s
+
+ssss
+sss
+s
+s
+sss

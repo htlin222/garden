@@ -1,24 +1,24 @@
----
-title: Chronic mild-to-moderate elevation in ALT AST 
----
 
 
- (<15× ULN)
 
-* Viral hepatitis: ✓ HBsAg, anti-HBs, anti-HBc, anti-HCV, IgM anti-HAV
 
-* NAFLD: consider BMI, ✓ lipid panel, HbA1c, liver U/S or elastography
 
-* Other etiologies of cirrhosis (qv)
 
-Hemochromatosis: ✓ TIBC, serum iron, serum ferritin
 
-Wilson disease: serum ceruloplasmin, urine Cu
+sss
 
-α-1 antitrypsin (can cause liver disease w/o lung involvement)
+ss
 
-* Chronic autoimmune hepatitis ✓ ANA, ASMA, anti-LKMA, IgG, SPEP
+sss
 
-* TSH (both hypo & hyperthyroidism associated with abnormal LFTs), celiac disease
+ssss
 
-* If workup negative, consider biopsy
+sssss
+
+ssss
+
+s
+
+ssssss
+
+ss

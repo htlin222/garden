@@ -1,16 +1,16 @@
----
-title: clinical characteristics of bleeding disorders
----
-stics of bleeding disorders
 
-scular Defect
-* Skin, mucous membranes
-* Petechiae, ecchymoses
-* Bleeding After minor cuts: yes
-* Bleeding After surgery: immediate, mild
- 
+ssss
 
-* Deep in soft tissues (muscles, joints)
-* Hemarthroses, hematomas
-* Bleeding After minor cuts: unusual
-* Bleedgin After surgery: delayed, severe
+ssss
+
+s
+ss
+ss
+ss
+s
+
+
+sssssss
+sss
+ss
+ss

@@ -1,13 +1,13 @@
----
-title: ulcerative colitis
----
+
+s
+
 s
 
 
-(Lancet 2018;389:1756; Am J Gastro 2019:114:384)
+s
 
-* [[Clinical manifestations-ulcerative colitis]]
-* [[Diagnosis-ulcerative colitis]]
-* [[Complications-ulcerative colitis]]
-* [[Prognosis-ulcerative colitis]]
+sss
+sss
+ss
+sss
 

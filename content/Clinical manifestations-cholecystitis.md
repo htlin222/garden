@@ -1,10 +1,10 @@
----
-title: Clinical manifestations-cholecystitis
----
-stations-cholecystitis
 
-* History: RUQ/epigastric pain ± radiation to R shoulder/back, nausea, vomiting, fever
+ssss
 
-* Physical exam: RUQ tenderness, Murphy’s sign = ↑ RUQ pain and inspiratory arrest with deep breath during palpation of R subcostal region, ± palpable gallbladder
+ssss
 
-* Laboratory evaluation: may see ↑ WBC, ± mild ↑ bilirubin, Aϕ, ALT/AST, amylase; if AST/ALT >500 U/L, bili >4 mg/dL or amylase >1000 U/L → choledocholithiasis
+ssss
+
+sssssssss
+
+sssss

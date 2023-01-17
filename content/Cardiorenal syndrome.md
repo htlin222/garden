@@ -1,25 +1,25 @@
----
-title: Cardiorenal syndrome
----
-syndrome
 
-(CJASN 2017;12:1624)
+s
 
-s including: 
-* 1) ↓ CO, 
-* 2) ↑ renal venous congestion, 
-* 3) ↑ RAAS
+s
 
 
-* acute CHF → AKI, 
-* and oliguric AKI can worsen CHF 
-* (JACC 2008;52:1527)
+
+s
+
+ss
 
 
-* IV loop diuretics 
-* (bypass gut edema; dosing below)
-* no diff. between high vs. low dose and bolus vs. gtt (NEJM 2011;364:797). 
-* No clinical benefit: dopa, nesiritide, ultrafilt.
 
-sis: 
-* 7% ↑ mortality a/w each 10 mL/min ↓ eGFR in ADHF (JACC 2006;47:1987)
+
+s
+
+
+
+s
+sss
+ssss
+s
+
+ss
+

@@ -1,13 +1,13 @@
----
-title: constrictive pericarditis
----
-strictive pericarditis
 
-[[Etiology-constrictive pericarditis]]
-[[Pathophysiology-constrictive pericarditis]]
-stations
-(NEJM 2011;364:1350)
-* Right-sided >left-sided heart failure (systemic congestion >pulmonary congestion)
-[[Physical exam-constrictive pericarditis]]
-[[Diagnostic studies-constrictive pericarditis]]
-[[Constrictive Pericarditis vs. Restrictive Cardiomyopathy]]
+ss
+
+ss
+
+ss
+sss
+ss
+
+ssssss
+sss
+sssss
+ssss

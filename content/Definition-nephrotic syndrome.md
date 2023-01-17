@@ -1,10 +1,10 @@
----
-title: Definition-nephrotic syndrome
----
-syndrome
 
-(JASN 2014;25:2393)
+s
 
-* Podocyte injury (effacement) → loss of proteins (albumin, ATIII, Ig)
+s
 
-* Clinically: proteinuria >3.5 g/d, albumin <3 g/dL, edema, ↑ chol., VTE (25%), infection
+
+
+sss
+
+

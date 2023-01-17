@@ -1,8 +1,8 @@
----
-title: Nonpharmacologic stroke prevent
-aliases: [Nonpharmacologic stroke prevent]
-linter-yaml-title-alias: Nonpharmacologic stroke prevent
----
-stroke prevent
+
+s
+sss
+ss
+
+s
 
 

@@ -1,8 +1,8 @@
----
-title: paresthesia and dysesthesia
----
-sthesia and dysesthesia
+
+sssss
+
+sssss
 
 
-- paresthesia 感覺麻木被簡單地描述為一種無痛的感覺改變（例如，麻木）。
-- dysesthesia 感覺遲鈍是一種疼痛的感覺改變（例如，疼痛的麻木）。
+ss
+sss

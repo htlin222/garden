@@ -1,17 +1,17 @@
----
-title: Precipitants-diabetic ketoacidosis
----
-s-diabetic ketoacidosis
 
- (the I’s)
-* Insulin defic. (ie, failure to take enough insulin); 
+sss
 
-* Infection (pneumonia, UTI) or 
-* Inflammation (pancreatitis, cholecystitis)
+sss
 
-* Ischemia or 
-* Infarction (myocardial, cerebral, gut); 
+s
+ss
 
 
-* Iatrogenesis (glucocorticoids; SGLT2 inhibitors—can be w/o marked hyperglycemia; Diabetes Care 2016;39:532)
-* Intoxication (alcohol, drugs)
+sss
+
+s
+
+
+
+sssss
+s

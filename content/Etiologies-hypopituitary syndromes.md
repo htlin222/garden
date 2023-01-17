@@ -1,28 +1,28 @@
----
-title: Etiologies-hypopituitary syndromes
----
-s-hypopituitary syndromes
+
+sss
+
+sss
 
 
-* surgery
-* radiation (develops after avg 4–5 y), 
-* tumors (primary or metastatic), 
-* infection
-* infiltration (sarcoid, hemochromatosis)
-* autoimmune
-* ischemia (including Sheehan’s syndrome caused by pituitary infarction intrapartum), 
-* carotid aneurysms
-* cavernous sinus thrombosis
-* trauma
-* medications (eg, ipilimumab)
-* apoplexy
-* empty sella
-* genetic
- 
-sfunction or stalk interruption): 
-* tumors (including craniopharyngioma)
-* infection
-* infiltration
-* radiation
-* surgery
-* trauma
+s
+s
+ss
+
+sss
+
+ssss
+ss
+sssss
+
+s
+
+s
+
+
+ss
+s
+
+
+
+s
+

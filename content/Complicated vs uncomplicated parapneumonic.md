@@ -1,13 +1,13 @@
----
-title: Complicated vs uncomplicated parapneumonic
----
-s uncomplicated parapneumonic
+
+s
+
+s
 
 
-⊕ Gram stain or culture or pH <7.2 or glucose <60
+ss
 
-sions
-usually require tube thoracostomy for resolution
+ss
+sss
 
 
-frank pus, also needs tube thoracostomy (J Thorac CV Surg 2017;153:e129)
+ssss

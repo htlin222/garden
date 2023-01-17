@@ -1,8 +1,8 @@
----
-title: Other  Uosm >700–800 
----
-sm >700–800)
 
-* Na overload: hypertonic saline (eg, resuscitation w/ NaHCO3), mineralocorticoid excess
+s
 
-* Seizures, ↑ exercise: ↑ intracellular osmoles → H2O shifts → transient ↑ [Na]serum
+s
+
+sssss
+
+ssssssss

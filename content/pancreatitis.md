@@ -1,7 +1,7 @@
----
-title: pancreatitis
----
+
 s
-* [[acute pancreatitis]]
-* [[chronic pancreatitis]]
-* [[autoimmune pancreatitis]]
+
+s
+s
+s
+s

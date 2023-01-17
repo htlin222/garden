@@ -1,12 +1,12 @@
----
-title: Coagulation factor inhibitors
----
+
 s
 
-(anti-factor antibodies; anti-factor VIII most common)
+s
 
-* Etiologies: hemophilia; postpartum; lymphoproliferative & autoimmune disorders; cancers
+ss
 
-* Diagnosis: ↑ PTT (does not normalize w/ mixing study); Bethesda assay quantitates titer
+sssss
 
-* Rx: if high titer → recomb. factor VIIa, porcine factor concentrates, activated prothrombin complex; for others → high-purity human factor, plasmapheresis, immunosuppression
+ssssssss
+
+ssssssss

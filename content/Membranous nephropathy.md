@@ -1,14 +1,14 @@
----
-title: Membranous nephropathy
----
-s nephropathy
 
-(30%; CJASN 2017;12:938, JASN 2021;32:268): 
+s
+
+s
 
 
-Ab to PLA2R [70%], THSD7A [5%], other (EXT1-2, NELL1, Sema3B)
 
-* infxn (HBV, HCV, HIV, syphilis)
-* autoimmune (eg, SLE)
-* carcinomas
-* drugs (NSAIDs, penicillamine).
+
+
+
+ss
+
+s
+ss

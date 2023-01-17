@@ -1,18 +1,18 @@
----
-title: endocrine-Secondary Causes of Hypertension
----
-ses of Hypertension
+
+sss
+
+sss
 
 
-shing’s (1–5%)
-Hypokalemia
-Metabolic alkalosis
-See “Adrenal Disorders” [[adrenal disorders]]
+ss
 
-Paroxysmal HTN, H/A, palp.
+ss
+ssss
 
-See “Thyroid Disorders” [[thyroid disorders]]
-TFTs
+s
 
-Polyuria, dehydration, ∆ MS
-iCa
+ssss
+s
+
+
+

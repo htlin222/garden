@@ -1,9 +1,9 @@
----
-title: Opioids-toxicology
----
-s-toxicology
+
+s
+
+s
 
 
-↓ mentation, ↓ RR, miosis
+ss
 
-IV naloxone
+

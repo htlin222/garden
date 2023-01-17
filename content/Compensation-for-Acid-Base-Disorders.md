@@ -1,34 +1,34 @@
----
-title: Compensation-for-Acid-Base-Disorders
----
-sation-for-Acid-Base-Disorders
 
-(NEJM 2014;371:1434)
-Respiratory: hyper/hypoventilation alters PaCO2 to counteract 1° metabolic process
-Renal: excretion/retention of H+/HCO3– to counteract 1° respiratory process
-Respiratory compensation occurs in mins-hrs; renal compensation takes days
-> Compensation usually never fully corrects pH; if pH normal, consider mixed disorder
+ssss
 
-sis
-↓ PaCO2 = 1.2 × ΔHCO3
-or PaCO2 = (1.5 × HCO3) + 8 ± 2 (Winters’ formula)
-(also, PaCO2 ≈ last 2 digits of pH)
+ssss
 
-sis
-↑ PaCO2 = 0.7 × ΔHCO3
-or PaCO2 = 0.7 (HCO3–24) + 40 ± 2 or HCO3 + 15
 
-spiratory acidosis
-↑ HCO3 = 0.1 × ΔPaCO2
-(also, ↓ pH = 0.008 × ΔPaCO2)
+ssss
+sss
+ssssssss
+sssss
 
-spiratory acidosis
-↑ HCO3 = 0.35 × ΔPaCO2
-(also, ↓ pH = 0.003 × ΔPaCO2)
+ss
 
-spiratory alkalosis
-↓ HCO3 = 0.2 × ΔPaCO2
-(also, ↑ pH = 0.008 × ΔPaCO2)
+s
+sss
 
-spiratory alkalosis
-↓ HCO3 = 0.4 × ΔPaCO2
+ss
+
+
+
+sss
+
+s
+
+sss
+
+s
+
+sss
+
+s
+
+sss
+

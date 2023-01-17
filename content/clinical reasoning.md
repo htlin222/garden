@@ -1,21 +1,21 @@
----
-title: clinical reasoning
----
-soning
 
-* [[positive and negative predictive values of tests]]
+s
 
-symptom to diagnosis]] 
-sical Exam Secret]]
+s
+
+ssss
+
+sss
+s
 
 
-stations
-1. [[Pain]]
-2. [[Alterations in Body Temperature]]
-3. [[Nervous System Dysfunction]]
-4. [[Disorders of Eyes, Ears, Nose, and Throat]]
-5. [[Alterations in Circulatory and Respiratory Functions]]
-6. [[Alterations in Gastrointestinal Function]]
-7. [[Alterations in Renal and Urinary Tract Function]]
-8. [[Alterations in the Skin]]
-9. [[Hematologic Alterations]]
+ss
+
+s
+sss
+sssss
+sss
+sss
+s
+s
+s
