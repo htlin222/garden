@@ -17,7 +17,7 @@ title: rheumatology
 * [[autoinflammatory syndromes]]
 * [[amyloidosis]]
 
-[[Osteoarthritis]] (OA)
+[[osteoarthritis]] (OA)
 [[Undifferentiated Inflammatory Arthritis]]
 
 [[spondyloarthritis]]

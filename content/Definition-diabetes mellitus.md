@@ -13,6 +13,7 @@ title: Definition-diabetes mellitus
 
 ## Blood glc higher than normal,
 * but not frank DM (“prediabetics,” ~40% U.S. population)
-* HbA1c 5.7–6.4%, impaired fasting glc (IFG) 100–125 mg/dL, or 2 h prandial glc 140–199.
+## Definition:
+* HbA1c **5.7–6.4%** impaired fasting glc (IFG) **100–125 mg/dL**, or **2 h prandial glc 140–199**.
 * Preventing progression to DM: diet/exercise (58% ↓), metformin (31% ↓; NEJM 2002;346:393)
 * [[Reduction in the Incidence of Type 2 Diabetes with Lifestyle Intervention or Metformin]]

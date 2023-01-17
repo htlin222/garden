@@ -2,12 +2,13 @@
 title: mechanical ventilation
 ---
 # mechanical ventilation
-[[Indications-mechanical ventilation ]]
-## SUPPORTIVE STRATEGIES PRIOR TO INTUB. OR AFTER EXTUB.
-[[Oxygen Delivery Systems]]
-[[Noninvasive Positive Pressure Ventilation (NPPV)]]
+[[indications-mechanical ventilation]]
 
-## VENTILATOR MANAGEMENT
+## supportive strategies prior to intub. or after extub.
+* [[oxygen delivery systems]]
+* [[Noninvasive Positive Pressure Ventilation (NPPV)]]
+
+## ventilator management
 * [[Ventilator Modes and Principles]]
 * [[Volume or Pressure Targeted]]
 * [[Variables on the Ventilator]]

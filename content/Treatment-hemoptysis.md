@@ -3,7 +3,7 @@ title: Treatment-hemoptysis
 ---
 # Treatment-hemoptysis
 
-* Death is from asphyxiation窒息 not exsanguination; 
+* Death is from [[asphyxiation]]窒息 not exsanguination; 
 * maintain gas exchange, reverse coagulopathy and Rx underlying condition; 
 * cough suppressant may ↑ risk of asphyxiation
 * Inhaled tranexamic acid promising (Chest 2018;154:1379)

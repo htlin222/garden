@@ -49,9 +49,9 @@ enableToc: false
 
 02.10 – *Advanced *POINT: [[what is a wandering pacemaker]]?
 
-02.11 – FIGURE 02.11-1: *Why is this NOT Wandering Pacer?*
+02.11 – FIGURE 02.11-1: [[why is this not wandering pacer]]?
 
-02.12 – *Other *Supraventricular Rhythms
+02.12 – [[other supraventricular rhythms]]
 
 02.13 – FIGURE 02.13-1: *Why is this Rhythm Supraventricular?*
 
@@ -61,7 +61,7 @@ enableToc: false
 
 02.16 – [[multifocal atrial tachycardia]]
 
-02.17 – FIGURE 02.17-1: *Why is this Not AFib?*
+02.17 – FIGURE 02.17-1: why is this not Afib?*
 
 02.18 – [[atrial flutter]]
 

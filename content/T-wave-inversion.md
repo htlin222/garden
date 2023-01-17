@@ -5,7 +5,7 @@ title: T-wave-inversion
 
 * Ischemia or infarct; Wellens’ sign (deep, symm precordial TWI) → critical prox LAD lesion
 
-* Myopericarditis; CMP (Takotsubo, ARVC, apical HCM); MVP; PE (espec if TWI V1–V4)
+* Myopericarditis; CMP ([[Takotsubo]], ARVC, apical HCM); MVP; PE (espec if TWI V1–V4)
 
 * Repolarization abnl in a/w LVH/RVH (“strain pattern”); BBB; nl variant if QRS predom. ⊖
 

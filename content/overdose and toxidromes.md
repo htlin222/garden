@@ -1,18 +1,17 @@
 ---
-title: cardiology reading list
+title: overdose and toxidromes
 date: "2023-01-17"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[cardiology]]
+> 🌱 來自: [[ICU]]
 
-# cardiology reading list #🦴
+# overdose and toxidromes
 
 > [!info]
 >
 > **👷 工事中 🌱 敬請期待 🚧**
-
 
 

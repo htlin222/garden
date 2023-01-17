@@ -35,6 +35,11 @@ title: medical
 *   [[radiology]]
 *   [[mental health]]
 *   [[surgical issues]]
+*
+
+## EBM
+* medical statistics
+*
 
 ## Draft
 

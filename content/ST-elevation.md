@@ -9,7 +9,7 @@ title: ST-elevation
 
 * Pericarditis: diffuse, upward concavity STE (ie, a “smile”); a/w PR ↓; Tw usually upright
 
-* HCM, Takotsubo CMP, ventricular aneurysm, cardiac contusion
+* HCM, [[Takotsubo]] CMP, ventricular aneurysm, cardiac contusion
 
 * Pulmonary embolism: occ. STE V1–V3; classically a/w TWI V1–V4, RAD, RBBB, S1Q3T3
 

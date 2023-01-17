@@ -1,17 +1,20 @@
 ---
-title: restrictive infiltrative
+title: restrictive and infiltrative cardiomyopathy
+date: "2023-01-18"
+enableToc: false
 ---
-# restrictive infiltrative
 
-## Definition (JACC 2018;71:1130 & 1149)
+> [!info]
+>
+> 🌱 來自: [[cardiomyopathies]]
 
-* Restrictive CMP: ↓ ventricular filling with ↓ compliance in nonhypertrophied, nondilated ventricles; nl/↓ diastolic volumes, nl or near-nl EF; must r/o pericardial disease
+# restrictive and infiltrative cardiomyopathy
 
-* Infiltrative CMP: myocardial deposition; ± ↑ wall thickness; may present as RCM or DCM
+## [[definition of restrictive and infiltrative cardiomyopathy]] (JACC 2018;71:1130 & 1149)
 
 ## Etiologies (JACC 2018;71:1130 & 1149)
 
-* Amyloidosis: age at presentation ~60 y; ♂:♀ = 3:2
+* [[amyloidosis]]: age at presentation ~60 y; ♂:♀ = 3:2
 
 AL (eg, MM, etc.); familial (transthyretin, ATTR-m); senile (ATTR-wt)
 
@@ -106,4 +109,5 @@ Treatment (in addition to Rx’ing underlying disease)
 * ATTR amyloid: tafamidis (TTR binder) ↓ death and CV hosp, ↑QoL (NEJM 2018;379:1007)
 
 * Sarcoid: consider steroids/immunomodulators if FDG PET ⊕ for inflammation + AVB, VT or LV dysfxn; ↑ risk for VT; unique indications for ICD placement (Circ 2018;138:e272)
+
 

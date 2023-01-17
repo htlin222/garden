@@ -11,6 +11,6 @@ respiratory irritants (smoke, perfume, etc.) & allergens (pets, dust mites, poll
 
 infections (URI, bronchitis, sinusitis)
 
-drugs (eg, ASA & NSAIDs via leukotrienes, βB via bronchospasm, MSO4 via histamine)
+drugs (eg, ASA & NSAIDs via [[leukotrienes]], βB via bronchospasm, MSO4 via histamine)
 
 emotional stress, cold air, exercise (increase in ventilation dries out airways)
