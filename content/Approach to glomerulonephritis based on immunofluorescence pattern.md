@@ -1,8 +1,8 @@
+---
+title: Approach to glomerulonephritis based on immunofluorescence pattern
+---
+# Approach to glomerulonephritis based on immunofluorescence pattern
 
-sss
+![image 22-10-02 03 06 00](https://i.imgur.com/gPsbpvz.png)
 
-sss
-
-ss
-
-
+## 看圖說故事

@@ -1,27 +1,27 @@
+---
+title: Renal potassium losses
+---
+# Renal potassium losses
 
-sssss
+## Hypotensive or normotensive
 
-sssss
+* acidosis: DKA, RTA [distal RTAs (type I) >proximal RTAs (type II)]
 
-ss
+* alkalosis: diuretics (thiazide >loop), vomiting/NGT drainage (via 2° hyperaldosteronism)
 
-sssss
+* Bartter’s syndrome (loop of Henle dysfxn→ furosemide-like effect; JASN 2017;28:2540)
 
-sssss
+* Gitelman’s syndrome (DCT dysfxn→ thiazide-like effect (KI 2017;91:24)
 
-ssss
+* drugs: acetaminophen overdose, PCN, gent., ampho, foscarnet, cisplatin, ifosfamide
 
-sss
+* ↓ Mg: less Mg to inhibit principal cell ROMK channel, ∴ ↑ K secretion (JASN 2010;21:2109)
 
-sssss
+## Hypertensive: mineralocorticoid excess
 
-sss
+* 1° hyperaldosteronism (eg, Conn’s syndrome, glucocorticoid-remediable aldosteronism)
 
-sss
+* 2° hyperaldosteronism (eg, renovascular disease, renin-secreting tumor)
 
-ssssss
-
-ssssss
-
-sssss
+* Nonaldosterone mineralocorticoid (eg, Cushing’s, Liddle’s [↑ ENaC], exogenous, [[licorice]])
 

@@ -1,20 +1,20 @@
+---
+title: Etiologies-Aplastic anemia
+---
+# Etiologies-Aplastic anemia
 
-ss
+* idiopathic (½ – ⅔ of cases)
 
-ss
+* Stem cell destruction: radiation, chemotherapy, chemicals (eg, benzene)
 
-ss
+* Med rxn (eg, chloramphenicol, NSAIDs, sulfa drugs, gold, carbamazepine, antithyroid)
 
-ss
+* Viruses (HHV-6, HIV, EBV, parvovirus B19); post-viral hepatic failure (not Hep A/B/C)
 
-sss
+* Immune disorders (SLE, GVHD post-HSCT, thymoma)
 
-ssss
+* PNH (see below); Fanconi’s anemia (congenital disorder w/ pancytopenia, macrocytic anemia, ↑ risk of MDS, AML, & SCC of head & neck, and multiple physical anomalies)
 
-sss
+* Shortened telomeres: seen w/ telomerase (TERT, TERC) mut. (10% of aplastic anemia), dyskeratosis congenita/DKC1 mut; a/w IPF, cirrhosis (NEJM 2009;361:2353)
 
-ssssss
-
-sssssssss
-
-sss
+* Somatic mutations: PNH clones in ~50% of aplastic anemia (Haematologica 2010;95:1075)

@@ -1,12 +1,12 @@
+---
+title: Calcium channel blockers-toxicology
+---
+# Calcium channel blockers-toxicology
 
-s
 
-s
+Bradycardia, AV block, hypotension, HF, hyperglycemia
 
+IVF, vasopressors, Ca infusion, hyperinsulinemic euglycemia,
 
-s
-
-ssssss
-
-s
+? intralipid emulsion, pacing
 

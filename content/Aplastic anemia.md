@@ -1,13 +1,13 @@
+---
+title: Aplastic anemia
+---
+# Aplastic anemia
 
-s
+ (stem cell failure) (NEJM 2015;373:35)
 
-s
+* Epidemiology: 2–5 cases/106/y; biphasic (major peak in adolescents, 2nd peak in elderly)
 
-s
+* Diagnosis: pancytopenia w/ ↓ retics, BM bx w/ hypocellularity, usually nl cytogenetics
 
-sssss
-
-sssss
-
-ss
-sss
+* [[Etiologies-Aplastic anemia]]
+* [[Treatment and prognosis-Aplastic anemia]]

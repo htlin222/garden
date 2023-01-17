@@ -1,26 +1,26 @@
+---
+title: asthma
+---
+# asthma
 
-s
+* [[Definition and epidemiology]]
+* [[Clinical manifestations]]
+* [[Physical examination]]
+* [[Diagnostic studies]]
+* [[differential diagnosis]]
+* [[differential diagnosis]]
+* [[Asthma plus syndromes]]
 
-s
+## CHRONIC MANAGEMENT
+* [[Reliever medications-asthma]]
+* [[Controller medications]]
+* [[Immunotherapies-asthma]]
+* [[Principles of treatment-asthma]]
+* [[Asthma Stepwise Therapy]]
 
-
-ss
-s
-sss
-ss
-ss
-ssss
-
-
-ss
-s
-ss
-ss
-ss
-
-
-s
-s
-ss
-ssss
-s
+## EXACERBATION
+* [[Evaluation-asthma-EXACERBATION]]
+* [[Severity of Asthma Exacerbation]]
+* [[Initial treatment details of asthma]]
+* [[Disposition of patients after initial treatment of asthma exacerbation]]
+* [[ICU-level care-asthma-EXACERBATION]]

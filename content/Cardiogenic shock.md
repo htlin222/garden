@@ -1,16 +1,16 @@
+---
+title: Cardiogenic shock
+---
+# Cardiogenic shock
 
-s
+Myocardial infarction
 
-s
+Myocarditis
 
+Arrhythmia
 
+Valvular
 
-s
+Severe aortic valve insufficiency
 
-
-
-
-
-s
-
-s
+Severe mitral valve insufficiency

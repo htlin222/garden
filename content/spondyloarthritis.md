@@ -1,9 +1,9 @@
+---
+title: spondyloarthritis
+date: "2023-01-09"
+---
 
-ss
-
-
-
-
-ss
+ from: [[rheumatology]]
+# spondyloarthritis
 
 

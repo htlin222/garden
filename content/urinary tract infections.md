@@ -1,10 +1,10 @@
+---
+title: urinary tract infections
+---
+# urinary tract infections
 
-s
-
-s
-
-ss
-s
-sss
-ssss
-s
+* [[Definitions-urinary tract infections]]
+* [[Microbiology-urinary tract infections]]
+* [[Clinical manifestations-urinary tract infections]]
+* [[Diagnostic studies-urinary tract infections]]
+* [[Treatment of UTIs]]

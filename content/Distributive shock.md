@@ -1,18 +1,18 @@
+---
+title: Distributive shock
+---
+# Distributive shock
 
-ss
+Septic shock
 
-ss
+Pancreatitis
 
-s
+Severe burns
 
-s
+Anaphylactic shock
 
-s
+Neurogenic shock
 
-s
+Endocrine shock
 
-s
-
-s
-
-ss
+Adrenal crisis

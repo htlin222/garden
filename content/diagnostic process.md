@@ -1,11 +1,11 @@
+---
+title: diagnostic process
+---
+# diagnostic process
 
-sss
-
-sss
-
-sss
-s
-s
-ss
-s
-
+* [[Common biases in clinical reasoning]].
+* [[model for clinical reasoning]]
+* [[determine the pretest probability]]
+* [[consider the potential harms]]
+[[the threshold model]]:
+likelihood ratio nomogram

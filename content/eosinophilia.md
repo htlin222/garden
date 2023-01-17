@@ -1,34 +1,34 @@
+---
+title: eosinophilia
+---
+# eosinophilia
 
-s
+(>500/µL)
 
-s
+## Infection
 
+Usually parasitic (helminths)
 
+## Allergic
 
+Drugs; asthma, hay fever, eczema; ABPA
 
+## Collagen vasc dis.
 
-sss
+RA, EGPA (Churg-Strauss), eosinophilic fasciitis, PAN
 
+## Endocrine
 
+Adrenal insufficiency
 
-ss
+## Neoplasm
 
-ss
+HL, CML, mycosis fungoides, carcinomas, systemic mastocytosis
 
-sssss
+## Atheroembolic dis.
 
+Cholesterol emboli syndrome
 
+## Hypereosinophilic syndrome
 
-s
-
-s
-
-sssssssss
-
-s
-
-ss
-
-ss
-
-ssss
+Multiorgan involvement incl. heart & CNS, a/w FIP1L1-PDGFRA fusion (NEJM 2003;348:1201); often steroid resistant

@@ -1,16 +1,16 @@
+---
+title: ICU-level care-asthma-EXACERBATION
+---
+# ICU-level care-asthma-EXACERBATION
 
-s
+* Invasive ventilation:
 
-s
+Large ET tube, Pplat <30 cm H2O (predicts barotrauma better than PIP), max exp time
 
-s
+PEEP individualized to patient physiology
 
-s
+Paralysis, inhalational anesthetics, bronchoalveolar lavage w/ mucolytic, heliox (60–80% helium) and ECMO have been used with success
 
-s
+IV ketamine: bronchodilating effects and can be used for refractory status asthmaticus
 
-ssssssss
-
-ssssss
-
-sssss
+* NPPV likely improves obstruction (Chest 2003;123:1018), but controversial and rarely used

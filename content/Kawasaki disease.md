@@ -1,20 +1,20 @@
+---
+title: Kawasaki disease
+---
+# Kawasaki disease
 
-sss
+Usually Asian children < 4 years old.
 
-sss
+## CRASH
+* Conjunctivitis, Bilateral nonexudative bulbar
+* Rash (polymorphous desquamating),
+* Adenopathy (cervical)
+* Strawberry tongue (oral mucositis),
+* Hand-foot changes (edema, erythema),
+## Burn: fever.
 
-sss
+Arteritis associated with the mucocutaneous lymph node syndrome and predominantly affecting medium and small arteries.
+Coronary arteries are often involved.
+Aorta and large arteries may be involved.
 
-
-s
-sss
-
-ss
-s
-
-
-sssssss
-s
-s
-
-s
+* Treatment: IV immunoglobulin and aspirin.

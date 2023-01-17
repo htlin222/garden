@@ -1,9 +1,9 @@
+---
+title: neurofibroma
+date: "2023-01-09"
+---
 
-
-
-
-
-ssss
-
+ from: [[Etiologies of spinal cord compression]]
+# neurofibroma
 
 

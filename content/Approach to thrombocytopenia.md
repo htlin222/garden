@@ -1,6 +1,6 @@
+---
+title: Approach to thrombocytopenia
+---
+# Approach to thrombocytopenia
 
-
-
-
-
-s
+![image 22-10-02 09 00 51](https://i.imgur.com/PTFPBTO.png)

@@ -1,14 +1,14 @@
+---
+title: pleural effusion
+---
+# pleural effusion
 
-s
-
-s
-
-ss
-
-ss
-s
-
-ssss
-ss
-s
-
+* [[Pathophysiology-pleural effusion]]
+ 
+* [[Transudates]]
+* [[Exudates]]
+ 
+* [[Diagnostic studies-pleural effusion]]
+* [[Characteristics of Pleural Fluid]]
+* [[Treatment-pleural effusion]]
+* [[Hemothroax]]

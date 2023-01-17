@@ -1,29 +1,29 @@
+---
+title: hypopituitary syndromes
+---
+# hypopituitary syndromes
+(Lancet 2016;388:2403; JCEM 2016;11:3888)
 
-ss
+## [[Etiologies-hypopituitary syndromes]]
 
-ss
+## Clinical manifestations
+	* Hormonal deficiencies:
+		* ACTH, TSH, FSH and LH, GH, prolactin, and ADH
+	* Panhypopituitarism:
+		* deficiencies in multiple hormonal axes
+	* Mass effect:
+		* headache, visual field Δs, cranial nerve palsies
 
+## [[Central adrenal insufficiency]]: ↓ ACTH
 
-sss
+## [[Central hypothyroidism]]
 
-ss
-s
+## Hypoprolactinemia: ↓ prolactin
 
-s
-ss
-ss
-ssss
-
-s
-
-s
-
-
-
-
-
-s
-sss
-
-sss
-ss
+## Inability to lactate
+* [[Growth hormone deficiency]]
+* [[Central hypogonadism]]: ↓ FSH & LH
+* [[Central diabetes insipidus]]
+* [[Pituitary apoplexy]]
+* [[Diagnostic evaluation-hypopituitary syndromes]]
+* [[Treatment-hypopituitary syndromes]]

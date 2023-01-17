@@ -1,9 +1,9 @@
+---
+title: Organopho- sphate-toxicology
+---
+# Organopho- sphate-toxicology
 
-s
+Salivation, lacrimation, diaphoresis, miosis, emesis, bronchospasm, ΔMS
 
-s
-
-ssssssss
-
-ss
+Endotracheal intubation for respiratory failure, atropine, pralidoxime, benzodiazepines
 

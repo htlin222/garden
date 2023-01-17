@@ -1,8 +1,8 @@
+---
+title: pathogen
+---
+# pathogen
 
-
-
-
-
-s
-ss
-
+* [[Acinetobacter sp]] 
+* [[CAPT-resistant GNB]]
+* [[HACEK]]

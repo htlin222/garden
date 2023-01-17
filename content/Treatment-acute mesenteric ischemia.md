@@ -1,18 +1,18 @@
+---
+title: Treatment-acute mesenteric ischemia
+---
+# Treatment-acute mesenteric ischemia
 
-ss
+* IVF, NPO, optimize hemodynamics (minimize pressors), broad-spectrum abx, anticoagulation w/ heparin ± tPA (for occlusive disease), IV papaverine (vasodilator; for non-occlusive mesenteric ischemia)
 
-ss
+* If evidence of peritonitis: to OR for surgical endovascular therapies & bowel resection
 
-ssssssssssss
+* SMA thrombosis: percutaneous (stenting) or surgical revascularization
 
-sssss
+* SMA embolism: embolectomy (catheter-based aspiration vs. surgical)
 
-ssssss
+* Nonocclusive: correct underlying cause (esp. cardiac)
 
-sssss
+* Mesenteric venous thrombosis: 3–6 mo anticoag after initial heparinization. Fibrinolysis or thrombectomy typically reserved for Pts w/ hemodynamic instability or refractory sx.
 
-sss
-
-ssssssssss
-
-ssss
+* Focal segmental ischemia: typically surgical resection

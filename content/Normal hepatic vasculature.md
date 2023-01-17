@@ -1,8 +1,8 @@
+---
+title: Normal hepatic vasculature
+---
+# Normal hepatic vasculature
 
-s
+(Modified from The Nature of Disease Pathology for the Health Professions, 2007. Hepatology 2009;49:1729.)
 
-s
-
-sssss
-
-s
+![image 22-10-01 22 58 58](https://i.imgur.com/28D47mL.png)

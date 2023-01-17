@@ -1,7 +1,7 @@
+---
+title: surgical issues
+---
 
-ssss
+## surgical issues
 
-
-ssss
-
-
+* [[orthopaedic]]

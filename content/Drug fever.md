@@ -1,11 +1,11 @@
+---
+title: Drug fever
+---
+# Drug fever
 
-
-
-
-
-ss
-
-s
-
-
-s
+* Anticonvulsants
+* Minocycline
+* [[Other antimicrobial agents of Drug fever]]
+* Allopurinol
+* Heparin
+* Immune checkpoint inhibitors

@@ -1,17 +1,17 @@
+---
+title: principal cells
+date: "2023-01-13"
+enableToc: false
+---
 
-s
+> [!info]
+> 🌱 來自: [[Antidiuretic hormone]]
 
-s
-
-
-
-
-
-s
-
-
+# principal cells
 
 
 
-s
+### Backlink：
 
+- [[Aldosterone]]
+- [[Antidiuretic hormone]]

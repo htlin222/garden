@@ -1,28 +1,28 @@
+---
+title: Diagnostic evaluation of thrombocytopenia
+---
+# Diagnostic evaluation of thrombocytopenia
 
-s
+* H&P: meds, infxns, underlying conditions, splenomegaly, lymph nodes, bleeding hx
 
-s
+* CBC with differential: isolated thrombocytopenia vs. multilineage involvement
 
-sssss
+## Peripheral smear 
+* (r/o pseudothrombocytopenia due to platelet clumping)
 
-ss
+* ↑ destruction → look for large plts, ↑ MPV, schistocytes (see “Peripheral Smear” inserts)
 
-s
-s
+* ↓ production → rarely limited to platelets → look for blasts, hypersegmented PMNs, leukoerythroblastic Δs; can see inclusion bodies (anaplasma), parasites (Babesia)
 
-ssssssss
+## Additional laboratory evaluations as indicated 
+(eg, viral titers, flow cytometry, ANA, APLA)
 
-ssssssssssssss
+if anemia: ✓ reticulocyte count, LDH, haptoglobin, bilirubin to detect hemolysis
 
-ss
-s
+if hemolytic anemia: ✓ PT, PTT, fibrinogen, D-dimer, Coombs, ANA
 
-ss
+BM bx for unexplained thrombocytopenia, esp. if associated with splenomegaly
 
-s
+### Backlink：
 
-ssss
-
-
-
-ss
+- [[platelet disorders]]

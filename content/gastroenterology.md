@@ -1,21 +1,21 @@
+---
+title: gastroenterology
+---
+# gastroenterology
 
-s
-
-s
-
-ssss
-ss
-
-s
-ss
-ss
-ss
-s
-ss
-s
-
-ss
-sss
-ss
-ss
+* [[esophageal and gastric disorders]]
+* [[gastrointestinal bleeding]]
+* [[diarrhea]]
+* [[dysmotility and nutrition]]
+* [[disorders of the colon]]
+* [[inflammatory bowel disease]]
+* [[intestinal ischemia]]
+* [[pancreatitis]]
+* [[abnormal liver tests]]
+* [[hepatitis]]
+* [[acute liver failure]]
+* [[cirrhosis]]
+* [[hepatic vascular disease]]
+* [[ascites]]
+* [[biliary tract disease]]
 

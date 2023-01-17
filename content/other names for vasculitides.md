@@ -1,31 +1,31 @@
+---
+title: other names for vasculitides
+---
+# other names for vasculitides
 
-sss
 
-sss
+## Variable vessel vasculitis (VVV)
+Behcet's disease (BD)
+Cogan's syndrome (CS)
 
+## Single-organ vasculitis (SOV)
+Cutaneous leukocytoclastic angiitis
+Cutaneous arteritis
+Primary central nervous system vasculitis
+Isolated aortitis
+Others
 
-ssss
-sss
-ss
+## Vasculitis associated with systemic disease
+Lupus vasculitis
+Rheumatoid vasculitis
+Sarcoid vasculitis
+Others
 
-ss
-sss
-ss
-sssss
-ss
-s
-
-ssssssss
-sss
-ss
-ss
-s
-
-ssss
-ssssss
-ssssss
-ssss
-ssss
-ssssss
-ssss
-s
+## Vasculitis associated with probable etiology
+Hepatitis C virus-associated cryoglobulinemic vasculitis
+Hepatitis B virus-associated vasculitis
+Syphilis-associated aortitis
+Drug-associated immune complex vasculitis
+Drug-associated ANCA-associated vasculitis
+Cancer-associated vasculitis
+Others

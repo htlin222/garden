@@ -1,9 +1,9 @@
+---
+title: gastrointestinal malignancies
+---
+# gastrointestinal malignancies
 
-sss
-
-sss
-
-
-s
-
-s
+* [[colorectal cancer]]
+* [[pancreatic tumors]]
+* [[hepatocellular carcinoma]] (HCC)
+* [[esophageal cancer]]

@@ -1,6 +1,6 @@
+---
+title: Characteristics of Pleural Fluid
+---
+# Characteristics of Pleural Fluid
 
-ss
-
-ss
-
-sss
+![Characteristics of Pleural Fluid](https://i.imgur.com/upzcFfC.png)

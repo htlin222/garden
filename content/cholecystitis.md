@@ -1,10 +1,10 @@
+---
+title: cholecystitis
+---
+# cholecystitis
 
-ss
-
-ss
-
-ssss
-ssss
-sssss
-ss
-sss
+* [[Pathogenesis-cholecystitis]]
+* [[Clinical manifestations-cholecystitis]]
+* [[Diagnostic studies-cholecystitis]]
+* [[Treatment-cholecystitis]]
+* [[Complications-cholecystitis]]

@@ -1,14 +1,14 @@
+---
+title: Cushing’s disease
+date: "2023-01-12"
+enableToc: false
+---
 
-ssss
+> [!info]
+> 🌱 來自: [[Approach to suspected Cushing’s syndrome]]
 
-s
+# Cushing’s disease
 
+Cushing’s syndrome 2° to pituitary ACTH hypersecretion
 
-
-sssss
-
-ssss
-
-ssss
-
-ss
+[[Cushing’s Syndrome]]

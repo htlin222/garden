@@ -1,6 +1,6 @@
+---
+title: Portal HTN gastropathy
+---
+# Portal HTN gastropathy
 
-s
-
-s
-
-sssssss
+↑ portal venous pressure → ectatic vessels, hyperemia in gastric antrum. Rx: reduce portal HTN (octreotide), βB, TIPS.

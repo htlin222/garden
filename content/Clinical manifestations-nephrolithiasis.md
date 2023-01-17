@@ -1,10 +1,10 @@
+---
+title: Clinical manifestations-nephrolithiasis
+---
+# Clinical manifestations-nephrolithiasis
 
-ssss
+* Hematuria (absence does not exclude diagnosis), flank pain, N/V, dysuria, frequency
 
-ssss
+* Ureteral obstruction (stones >5 mm unlikely to pass spont.) → AKI if solitary kidney
 
-sssss
-
-sssssss
-
-sssss
+* UTI: ↑ risk of infection proximal to stone; urinalysis of distal urine may be normal

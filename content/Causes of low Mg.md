@@ -1,10 +1,10 @@
+---
+title: Causes of low Mg
+---
+# Causes of low Mg
+> hypomagnesemia
 
-ss
-
-ss
-s
-
-ss
-sss
-ss
-ssssss
+## GI loss
+(diarrhea, bypass, pancreatitis, malnutrition, PPI)
+## renal loss
+(diuretics, nephrotoxic drugs, EtOH, ↑ Ca, 1° wasting syndromes, volume expansion)

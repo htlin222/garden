@@ -1,7 +1,7 @@
+---
+title: autoimmune hepatitis  AIH 
+---
+# autoimmune hepatitis (AIH)
 
-s
-
-s
-
-sss
-sss
+* [[Classification-autoimmune hepatitis (AIH)]]
+* [[Diagnosis and treatment-autoimmune hepatitis (AIH) ]]

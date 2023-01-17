@@ -1,22 +1,22 @@
+---
+title: hepatitis
+---
+# hepatitis
 
-s
+## VIRAL
+* [[Hepatitis A]]
+* [[Hepatitis B]]
+* [[Hepatitis C]]
+* [[Hepatitis D]]
+* [[Hepatitis E]]
+* Other viruses (human pegivirus, CMV, EBV, HSV, VZV)
+ 
+## [[autoimmune hepatitis (AIH)]]
 
-s
+## [[Alcohol-associated hepatitis]]
 
+## [[Acetaminophen hepatotoxicity]]
 
-s
-s
-s
-s
-s
-sss
+## [[Ischemic hepatitis]]
 
-s
-
-sss
-
-
-
-ss
-
-ss
+## [[Nonalcoholic fatty liver disease (NAFLD)]]

@@ -1,14 +1,14 @@
+---
+title: Diagnostic studies
+---
+# Diagnostic studies
 
-sss
+(JAMA 2017;318:279)
 
-sss
+* Spirometry: ↓ FEV1, ↓ FEV1/FVC, coved flow-volume loop; lung volumes: ± ↑ RV & TLC
 
+⊕ [[bronchodilator]] response (↑ FEV1 ≥12% & ≥200 mL) strongly suggestive of asthma
 
+methacholine challenge (↓ FEV1 ≥20%) if PFTs nl: Se >90%
 
-s
-
-ssssss
-
-s
-
-sssssss
+* Allergy suspected → consider checking serum IgE, eos, skin testing/RAST

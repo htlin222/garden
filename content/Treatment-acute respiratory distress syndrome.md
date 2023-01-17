@@ -1,6 +1,6 @@
+---
+title: Treatment-acute respiratory distress syndrome
+---
+# Treatment-acute respiratory distress syndrome
 
-sssss
-
-sssss
-
-s
+[[methylprednisolone]]

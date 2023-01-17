@@ -1,8 +1,8 @@
+---
+title: oncologic emergencies
+---
+# oncologic emergencies
 
-s
-
-s
-
-s
+[[fever and neutropenia]] (FN) (NCCN Guidelines v.1.2021)
 
 

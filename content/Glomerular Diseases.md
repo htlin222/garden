@@ -1,11 +1,11 @@
-
-sss
-
-sss
-
-
+---
+title: Glomerular Diseases
+---
+# Glomerular Diseases
 
 
+### Backlink：
 
-s
-sss
+- [[nephrology]]
+- [[nephrotic syndrome]]
+- [[Primary glomerular diseases (grouped by pathology)]]

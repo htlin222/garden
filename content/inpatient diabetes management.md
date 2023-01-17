@@ -1,11 +1,11 @@
+---
+title: inpatient diabetes management
+date: "2023-01-09"
+---
 
-s
+> [!info]
+> 🌱 來自: [[endocrinology]]
 
-
-
-
-
-
-s
+# inpatient diabetes management
 
 

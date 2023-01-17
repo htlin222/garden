@@ -1,15 +1,15 @@
+---
+title: spurling sign
+date: "2023-01-09"
+---
 
-ss
+ from: [[back and spinal cord disease]]
+# spurling sign
 
+(cervical radiculopathy):
 
-
-sss
-ss
-
-
-
-
-
-
-s
-
+## radicular pain
+* with:
+	* downward force to extended &
+	* ipsilaterally rotated head
+* 30% Se, 93% Sp

@@ -1,12 +1,12 @@
+---
+title: central role of tissue factor in tumor progression and thrombosis
+date: "2023-01-11"
+enableToc: false
+---
 
-ssssss
+> [!info]
+> 🌱 來自: [[Venous Thromboembolism and Cancer]]
 
-s
+# central role of tissue factor in tumor progression and thrombosis
 
-
-
-ss
-
-ssssss
-
-s
+![](https://i.imgur.com/QENB9CD.png)

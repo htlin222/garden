@@ -1,9 +1,9 @@
+---
+title: adult-onset Still’s disease 
+date: "2023-01-09"
+---
 
-ssss
-
-
-
-
-ssss
+ from: [[rheumatology]]
+# adult-onset Still’s disease
 
 

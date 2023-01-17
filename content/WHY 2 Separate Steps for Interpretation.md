@@ -1,17 +1,17 @@
+---
+title: WHY 2 Separate Steps for Interpretation
+date: "2023-01-15"
+enableToc: false
+---
 
-s
+> [!info]
+>
+> 🌱 來自: [[EKG pocket brain]]
 
-s
+# WHY 2 Separate Steps for Interpretation
 
-
-
-
-
-
-s
-
-
-
-
+> [!info]
+>
+> **👷 工事中，敬請期待 🚧**
 
 

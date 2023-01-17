@@ -1,10 +1,10 @@
+---
+title: NSIP nonspecific IP
+---
+# NSIP nonspecific IP
 
-s
+Homogenous ground-glass opacities or consolid., reticular irreg lines; subpleural sparing; symmetric, peripheral, basal. Cellular & fibrotic subtypes.
 
-s
+Sx mos–y
 
-ssssssssssss
-
-s
-
-
+5-y mort 10%

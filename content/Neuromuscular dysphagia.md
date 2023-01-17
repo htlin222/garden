@@ -1,13 +1,13 @@
+---
+title: Neuromuscular dysphagia
+---
+# Neuromuscular dysphagia
 
-ss
+(solids & liquids; Neurogastero Motil 2021;33:e14058)
 
-ss
+* Caused by aberrant motility or innervation of oropharynx/esophagus
+* Oropharyngeal: consider CNS disorders (eg, stroke, ALS, myopathies, CNS tumors)
+* Esophageal: motility disorder w/ dysphagia, chest pain, GERD; dx: conventional or high-res manometry w/ esophageal pressure topography. Chicago classification v4.0:
 
-ssss
-
-sss
-ssssss
-ssssssssss
-
-ss
-sssss
+[[Disorders of EGJ Outflow]]
+[[Disorders of Peristalsis]]

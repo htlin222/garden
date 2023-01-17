@@ -1,17 +1,17 @@
+---
+title: Ventilator-associated pneumonia
+date: "2023-01-14"
+enableToc: false
+---
 
-ss
+> [!info]
+>
+> 🌱 來自: [[Definitions-and-clinical-manifestations]]
 
-s
+# Ventilator-associated pneumonia
 
+> [!info]
+>
+> **👷 工事中，敬請期待 🚧**
 
-
-
-sss
-
-ss
-
-
-
-
-
-
+<!--more-->

@@ -1,13 +1,13 @@
+---
+title: Hypoxia and Cyanosis
+---
+# Hypoxia and Cyanosis
 
-ss
+* Respiratory 
+* Anemic 
+* Carbon Monoxide
+* Circulatory
+* Specific Organ hypoxia
+* Increeased o2 requirments
 
-ss
-
-s
-
-
-
-
-ss
-
-ss
+[[cynosis]]

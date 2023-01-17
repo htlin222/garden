@@ -1,31 +1,31 @@
+---
+title: osteomyelitis
+---
+# osteomyelitis
 
-ss
+> [!note]
+>
+> Infection of bone due to hematogenous seeding or direct spread from contiguous focus
 
-ss
+* [[Etiology-osteomyelitis]]
+* [[Clinical manifestations-osteomyelitis]]
+* [[Diagnosis-osteomyelitis]]
+* [[Treatment-osteomyelitis]]
 
+### Backlink：
 
-
-sssss
-
-ss
-ssss
-ssss
-ss
-
-
-
-ssss
-sss
-s
-ssss
-ss
-ss
-ssss
-ssss
-sss
-ssss
-
-sssss
-s
-ss
-ss
+- [[Clinical manifestations-osteomyelitis]]
+- [[Complications-diabetes mellitus]]
+- [[diabetic foot infections]]
+- [[Diagnosis-osteomyelitis]]
+- [[differential diagnosis of back pain]]
+- [[Etiology-osteomyelitis]]
+- [[Imaging-Diagnosis-osteomyelitis]]
+- [[Infection as Etiologies of Classic FUO]]
+- [[infectious disease]]
+- [[Risk factors for bloodstream infections]]
+- [[Sickle cell anemia ]]
+- [[skin and soft tissue infections]]
+- [[Treatment-bacterial endocarditis]]
+- [[Treatment-osteomyelitis]]
+- [[vertebral osteomyelitis]]

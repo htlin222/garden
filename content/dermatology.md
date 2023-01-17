@@ -1,22 +1,22 @@
+---
+title: dermatology
+---
+[[index]]
+* Keratinocyte Carcinomas (Squamous- and Basal-Cell Carcinomas)
+* Melanoma
+* Acne and Rosacea
+* Psoriasis
+* Atopic Dermatitis & Contact Dermatitis
+* Stasis Dermatitis
+* Cutaneous Herpes Infections
+* Molluscum Contagiosum
+* Warts
+ddate
+ddd
 
+Other relevant topics in Dermatology are covered in the following rotation guides:
 
-
-
-ssss
-
-s
-sss
-ss
-sss
-sss
-ss
-s
-
-
-
-ss
-
-
-ssssss
-ssss
+* Drug Allergy, Urticaria (Allergy/Immunology)
+* Skin and Soft Tissue Infections (Infectious Disease)
+* Systemic Lupus Erythematosus (Rheumatology)
 

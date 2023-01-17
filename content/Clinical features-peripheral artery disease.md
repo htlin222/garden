@@ -1,11 +1,11 @@
+---
+title: Clinical features-peripheral artery disease
+date: "2023-01-09"
+---
 
-sss
+> [!info]
+> 🌱 來自: [[peripheral artery disease]]
 
-
-
-
-ss
-
-sss
+# Clinical features-peripheral artery disease
 
 

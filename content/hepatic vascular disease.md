@@ -1,10 +1,10 @@
+---
+title: hepatic vascular disease
+---
+# hepatic vascular disease
 
-sss
-
-sss
-
-s
-ss
-ss
-s
-sss
+* [[Normal hepatic vasculature]]
+* [[Portal vein thrombosis (PVT) ]]
+* [[Splenic vein thrombosis]]
+* [[Budd-Chiari syndrome]]
+* [[Sinusoidal obstruction syndrome (SOS)]]

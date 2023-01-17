@@ -1,9 +1,9 @@
+---
+title: Laboratory of back and spinal cord disease
+date: "2023-01-09"
+---
 
-sss
+ from: [[back and spinal cord disease]]
+# Laboratory of back and spinal cord disease
 
-
-
-sss
-sss
-
-ss
+(depending on suspicion): CBC w/ diff, ESR/CRP, Ca, PO4, CSF, BCx

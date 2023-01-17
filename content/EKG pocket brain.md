@@ -1,829 +1,829 @@
+---
+title: EKG pocket brain
+date: "2023-01-15"
+enableToc: false
+---
 
+[!info]
+>
+🌱 來自: [[electrocardiography]]
 
+# EKG pocket brain
 
-s
+> [!info]
+>
+> original:  [[PocketBrain]]
 
 
+**00.6 – ECG Crib Sheet**
 
+00.7 – The 6 Essential Lists
 
+**01.0 – Review of Basics**
 
+01.1 – [[Systematic Approach to 12-Lead ECG Interpretation]]
 
+01.2 – [[The 2 Steps to Systematic Interpretation]]
 
+01.3 – [[WHY 2 Separate Steps for Interpretation]]?
 
+**02.0 – Rate & Rhythm**
 
+02.1 – [[Assessing the 5 Parameters of Rhythm]]
 
+02.2 – [[Calculating Rate The Rule of 300]]
 
+02.3 – How to Define Sinus Rhythm?
 
+02.4 – FIGURE 02.4-1: Is the Rhythm Sinus?
 
+02.5 – Sinus Mechanism Rhythms/Arrhythmias
 
+02.6 – Norms for Children: *Different than Adults*
 
-ssss
+02.7 – *Sinus Arrhythmia*
 
-ss
+02.8 – FIGURE 02.8-1: *What Happens to the P in Lead II?*
 
-s
+02.9 – FIGURE 02.9-1: *When there is NO long Lead II Rhythm Strip ...*
 
-ss
+02.10 – *Advanced *POINT: *What is a Wandering Pacemaker?*
 
-s
+02.11 – FIGURE 02.11-1: *Why is this NOT Wandering Pacer?*
 
+02.12 – *Other *Supraventricular Rhythms
 
+02.13 – FIGURE 02.13-1: *Why is this Rhythm Supraventricular?*
 
-sssss
+02.14 – *Atrial* Fibrillation
 
+02.15 – *Advanced *POINT: *Very* Fast AFib — *Think WPW\!*
 
+02.16 – *Multifocal Atrial Tachycardia*
 
-s
+02.17 – FIGURE 02.17-1: *Why is this Not AFib?*
 
-ss
+02.18 – *Atrial Flutter*
 
-ssss
+02.19 – FIGURE 02.19-1: *Easy to Overlook AFlutter ...*
 
-ss
+02.20 – *How NOT to Overlook AFlutter* \(Figure 02.19-1\)
 
-s
+02.21 – FIGURE 02.21-1: *Vagal Maneuvers to Confirm AFlutter*
 
-s
+02.22 – FIGURE 02.22-1: *Some KEY Aspects about AFlutter*
 
-s
+02.23 – TRACING B: *AFlutter with 3:1 AV Conduction*
 
-s
+02.24 – TRACING C: *AFib-Flutter*
 
-ss
+02.25 – TRACING D: *AFlutter *vs* Artifact*
 
-s
+02.26 – Use of *VAGAL* Maneuvers \(*Carotid Massage, Valsalva*\)
 
-ss
+02.27 – FIGURE 02.27-1: *Clinical Response to Vagal Maneuvers*
 
+02.28 – *Using *ADENOSINE = *“Chemical” Valsava*
 
+02.29 – PSVT/AVNRT
 
-s\
+02.30 – FIGURE 02.30-1: *Retrograde Conduction with PSVT*
 
+02.31 –* The “Every-other-Beat” *Method \(*for fast rates*\)
 
+02.32 –* Junctional* Rhythms
 
-ss
+02.33 –* Junctional* Rhythms: *P Wave Appearance in Lead II*
 
+02.34 –* Junctional* Rhythms: *Escape vs Accelerated*
 
+02.35 –* Low Atrial *vs* Junctional* Rhythm?
 
-s
+02.36 – VENTRICULAR \(*= wide QRS*\) Rhythms
 
-\\
+02.37 – Slow *IdioVentricular* Escape Rhythm
 
-s
+02.38 – AIVR
 
-ss
+02.39 – Ventricular Tachycardia
 
+02.40 –* ESCAPE* Rhythms: *ECG Recognition*
 
+**02.41 – PRACTICE TRACINGS: What is the Rhythm?**
 
+02.42 – PRACTICE: *Tracing A*
 
+02.43 – PRACTICE: *Tracing B*
 
-s
+02.44 – PRACTICE: *Tracing C*
 
-ss\sss\
+02.45 – PRACTICE: *Tracing D*
 
-sss
+02.46 – PRACTICE: *Tracing E*
 
-ss
+**02.47 – LIST \#1: *Regular WCT***
 
+02.48 – List \#1: *KEY Points*
 
+02.49 – *Suggested *Approach to WCT/*Presumed* VT
 
+02.50 – *Use of the 3 Simple Rules*
 
+02.51 – FIGURE 02.51-1: *12 Leads are BETTER than One*
 
-\ss\
+**02.52 – LIST \#2: *Regular SVT***
 
-s
+02.53 – The *Regular* SVT: — *Differential Diagnosis?*
 
-s
+02.54 – *Suggested* Treatment Approach for a *Regular* SVT
 
-sss
+02.55 – FIGURE 02.55-1: *Which SVT is present?*
 
-s
+**02.56 – *Premature* Beats**
 
-\\s
+02.57 – *ESCAPE* Beats: *Timing is Everything ...*
 
-s
+02.58 –* Narrow-Complex *Escape Beats
 
+02.59 – PVC Definitions: *Repetitive Forms and Runs of VT*
 
+02.60 –* Blocked* PACs/*Aberrant* Conduction
 
+**02.61 – PRACTICE Tracings-2: What is the Rhythm?**
 
+02.62 – PRACTICE: *Tracing F*
 
-s
+02.63 – PRACTICE: *Tracing G*
 
-s
+02.64 – PRACTICE: *Tracing H*
 
+02.65 – PRACTICE: *Tracing I*
 
+02.66 – PRACTICE: *Tracing J*
 
+**02.67 – AV Blocks / AV Dissociation**
 
+02.68 – *Blocked* PACs: *Much More Common than AV Block*
 
+02.69 – The 3 Degrees of AV Block
 
+02.70 – 1st Degree AV Block
 
+02.71 – The *3 Types* of 2nd Degree AV Block
 
+02.72 – Mobitz I 2nd Degree AV Block \(*= AV Wenckebach*\)
 
+02.73 – Mobitz II 2nd Degree AV Block
 
+02.74 – 2-to-1 AV Block: *Mobitz I *or* Mobitz II?*
 
-\
+02.75 – 3rd Degree \(*Complete*\) AV Block
 
-s\s
+02.76 – PEARLS for Recognizing/*Confirming* *Complete* AV Block
 
-ss
+02.77 – AV Dissociation
 
-ss
+02.78 – FIGURE 02.78-1: *Is there any AV Block?*
 
-s
+02.79 – SUMMARY: *Complete AV Block *vs* AV Dissociation*
 
-\
+02.80 – *High-Grade* 2nd-Degree AV Block
 
-ss
+02.81 – *Ventricular *Standstill vs AV Block
 
-s
+02.82 – Hyperkalemia vs AV Block
 
-ss
+02.83 – FIGURE 02.83-1: *Is there any AV Block at all?*
 
-s
+**03.0 – Doing an ECG / Technical Errors**
 
-ss
+03.1 – *Limb* Leads: *Basic Concepts/Placement*
 
-ss
+03.2 – *Why 10 Electrodes but 12 Leads?*
 
-sss
+03.3 – Derivation of the *Standard* Limb Leads \(*Leads I,II,III*\)
 
-s
+03.4 – The 3 *Augmented* Leads \(*Leads aVR,aVL,aVF*\)
 
-ss
+03.5 – The *Hexaxial* Lead System
 
+03.6 – *Precordial* Lead Placement
 
+03.7 – Use of *Additional* Leads
 
+03.8 –* Technical* Errors: *Angle of Louis and Lead V1*
 
+03.9 –* Technical* Mishaps: *Important Caveats*
 
+03.10 –* Important* Concepts: *Lead Misplacement/Dextrocardia*
 
+03.11 – Dextrocardia:* ECG Recognition*
 
+**03.12 – PRACTICE: *Identifying Technical Errors***
 
+03.13 – PRACTICE: *Tracing A*
 
+03.14 – PRACTICE: *Tracing B*
 
+03.15 – PRACTICE: *Tracing C*
 
-sss
+03.16 – PRACTICE: *Tracing D*
 
-s
+**03.16.1 – ADDENDUM: *Prevalence/Types *of Limb Lead Errors**
 
-s
+03.16.2 – ECG Findings that *Suggest* Limb Lead Misconnection
 
-s
+03.17 – PRACTICE: *Tracing E*
 
-s
+03.18 – PRACTICE: *Tracing F*
 
-\\
+03.19 – PRACTICE: *Tracing G*
 
+03.20 – PRACTICE: *Tracing H*
 
+03.21 – PRACTICE: *Tracing I*
 
+03.22 – PRACTICE: *Tracing J*
 
+03.23 – PRACTICE: *Tracing K*
 
-\\
+**04.0 – Intervals \(PR/QRS/QT\)**
 
+04.1 – What are the 3 Intervals in ECG Interpretation?
 
+04.2 – The PR Interval: *What is Normal?*
 
-ss
+04.3 – The PR Interval: *Clinical Notes*
 
-s
+04.4 – Memory Aid: *How to Recall the 3 ECG Intervals*
 
-sss
+**05.0 – Bundle Branch Block/IVCD**
 
+05.1 – The QRS Interval: *What is Normal QRS Duration?*
 
+05.2 – IF the QRS is Wide: *What Next? *\(BBB Algorithm\)
 
-ss
+05.3 – FIGURE 05.3-1: *Why the Need for the BBB Algorithm?*
 
-s
+05.4 – *Typical* RBBB: *Criteria for ECG Recognition*
 
-s
+05.5 – RBBB: *Clinical Notes*
 
-s
+05.6 – *Typical* LBBB: *Criteria for ECG Recognition*
 
-sss
+05.7 – FIGURE 05.7-1: *LBBB alters Septal Activation*
 
-ss
+05.8 – FIGURE 05.8-1: *Clinical *Example of *Complete *LBBB
 
-s\s\
+05.9 – LBBB: *Clinical Notes*
 
-s\s\
+05.10 –* Incomplete *LBBB: *Does it Exist?*
 
-s
+05.11 – IVCD: *Criteria for ECG Recognition*
 
+05.12 – IVCD: *Clinical Notes*
 
+05.13 – FIGURE 05.13-1: *Clinical *Example of IVCD
 
-ss
+05.14 – ST-T Wave Changes: *What Happens with BBB?*
 
-ss
+05.15 – FIGURE 05.15-1: *Assessing ST-T Wave Changes with BBB*
 
-sss
+05.16 – RBBB *Equivalent* Patterns
 
-ss
+05.17 – FIGURE 05.17-1: *Is this RBBB?*
 
+05.18 –* Incomplete *RBBB: *How is it Diagnosed?*
 
+**05.19 – PRACTICE: *Bundle Branch Block***
 
-s
+05.20 – PRACTICE: *Tracing A*
 
+05.21 – PRACTICE: *Tracing B*
 
+05.22 – PRACTICE: *Tracing C*
 
+05.23 – PRACTICE: *Tracing D*
 
+**05.24 – *Diagnosing* BBB \+ Acute MI**
 
+05.25 – *Begin* with the ST Opposition Rule
 
+05.26 – RBBB: *You Can See Q Waves\!*
 
+05.27 –* Underlying *RBBB: *How to Diagnose Acute MI?*
 
+05.28 – *Underlying* LBBB: *How to Diagnose Acute MI?*
 
-ss
+05.29 – FIGURE 05.29-1: *Acute STEMI despite LBBB/RBBB?*
 
-sss
+**05.30 – *Diagnosing* BBB \+ LVH**
 
+05.31 – LBBB: *What Criteria to Use for LVH/RVH?*
 
+05.32 – RBBB: *What Criteria to Use for LVH/RVH?*
 
+**05.33 – *Brugada* Syndrome**
 
+05.34 – ECG Recognition: *Distinction Between Type I and II*
 
+05.35 –* WHAT to DO? - when a Brugada Pattern is Found?*
 
+**05.36 – WPW \(*Wolff-Parkinson-White*\)**
 
+05.37 – WPW: *Pathophysiology / ECG Recognition*
 
+05.38 – WPW: *The “Great Mimic” of other Conditions*
 
+05.39 – FIGURE 05.39-1: *Recognizing WPW on a 12-Lead*
 
+05.40 – FIGURE 05.40-1: *Recognizing WPW*
 
+05.41 – FIGURE 05.41-1: *Atypical RBBB or WPW?*
 
+**05.42 – WPW Addendum \#1: *How to Localize the AP?***
 
+05.43 – WPW: *The Basics of AP Localization*
 
+05.44 – FIGURE 05.44-1: *Where is the AP?*
 
-s\\
+05.45 – FIGURE 05.45-1: *Where is the AP?*
 
-s
+05.46 – FIGURE 05.46-1: *Where is the AP?*
 
-s
+**05.47 – Addendum \#2: *Arrhythmias with WPW***
 
-s
+05.48 – PSVT with WPW: *When the QRS During Tachycardia is Narrow*
 
-s
+05.49 – *Very Rapid* AFib with WPW
 
+05.50 – Atrial Flutter with WPW
 
+05.51 – PSVT with WPW: *When the QRS is Wide*
 
-s
+05.52 – FIGURE 05.52-1: *VT or WPW? What to Do?*
 
-s\\
+**06.0 – QT Interval / Torsades de Pointes**
 
+06.1 – *How to Measure the QT*
 
+06.2 – LIST \#3: *Causes of QT Prolongation*
 
+06.3 – A Closer Look at LIST \#3: *Drugs – Lytes – CNS*
 
+06.4 – Conditions* Predisposing* to a *Long* QT/Torsades
 
-s
+06.5 – The QTc: *Corrected QT Interval*
 
+06.6 – Torsades: *WHY Care about QT Prolongation?*
 
+06.7 – FIGURE 06.7-1: *Torsades vs PMVT vs Something Else?*
 
-s
+06.8 – FIGURE 06.8-1: *Is the QT Long?*
 
+06.9 – FIGURE 06.9-1: *Is the QT Long?*
 
+**06.10 – QTc Addendum:** ***Using/Calculating the QTc ***
 
-s
+06.11 – BEYOND-the-Core: *Estimating the QTc Yourself*
 
-ss
+06.12 – FIGURE 06.12-1: *Approximate the QTc*
 
+06.13 – FIGURE 06.13-1: *Approximate the QTc*
 
+**07.0 – Determining Axis / Hemiblocks**
 
-s
+07.0 – Determining Axis / Hemiblocks
 
+07.1 – Overview: *Limb Lead Location*
 
+07.2 – AXIS: *The Quadrant Approach*
 
-ss
+07.3 – AXIS: *The Concept of Net QRS Deflection*
 
-sssss
+07.4 – FIGURE 07.4-1: *How to Rapidly Determine Axis Quadrant*
 
-s
+07.5 – AXIS: *Refining the Quadrant Approach*
 
-ss
+07.6 – FIGURE 07.6-1: *What is the Axis?*
 
-ss
+07.7 – FIGURE 07.7-1: *What is the Axis?*
 
+07.8 – FIGURE 07.8-1: *What is the Axis?*
 
+**07.9 – Hemiblocks: *LAHB and LPHB***
 
+07.10 – Hemiblocks: *Anatomic Considerations*
 
+07.11 – *Advanced *Concept: LSFB \(*a 3rd type of Fascicular Block*\)
 
+07.12 – Hemiblocks: *An Approach to Rapid ECG Diagnosis*
 
+07.13 – LAHB: *ECG Diagnosis = “pathologic” *LAD
 
+07.14 – FIGURE 07.13-1: *Is there LAD? *IF so — *Is there LAHB?*
 
+07.15 – SUMMARY: *ECG Diagnosis of LAHB in ‹3 Seconds*
 
+**07.16 – Bifascicular Block**
 
+07.17 – Definition/Types of *Bifascicular* Block
 
-s\
+07.18 – RBBB/LAHB: *ECG Recognition*
 
-s
+07.19 – *The Meaning of “Axis” when there is RBBB*
 
-s\
+07.20 – *Clinical Implications of Bifascicular Block*
 
-s
+07.21 – RBBB/LPHB: *ECG Recognition*
 
-s
+07.22 – RBBB/LPHB: *Finer Points on ECG Recognition*
 
-s
+07.23 – FIGURE 07.23-1: *Is there Bifascicular Block?*
 
-s\
+07.24 – FIGURE 07.24-1: *Is there Bi- or Tri-Fascicular Block?*
 
-s
+07.25 – FIGURE 07.25-1: *Isolated LPHB vs Right Axis Deviation?*
 
-s
+**08.0 – LVH: *Chamber Enlargement***
 
+08.1 – ECG Diagnosis of LVH: *Simplified Criteria*
 
+08.2 – LVH: *Physiologic Rationale for Voltage Criteria*
 
-s
+08.3 – LVH: *ECG Diagnosis using Lead aVL*
 
-s
+08.4 – FIGURE 08.4-1: *Is there Voltage for LVH?*
 
-\s\
+08.5 – *Standardization* Mark: *Is Standardization Normal?*
 
-s
+08.6 – LVH: *Additional Voltage Criteria*
 
-s
+08.7 – LVH: *Voltage Criteria for Patients Less than 35*
 
+08.8 – FIGURE 08.8-1: *Which Leads for What with LVH?*
 
+08.9 – LV “Strain”: *ECG Recognition*
 
+08.10 – LV “Strain”: *Voltage for LVH vs True Chamber Enlargement*
 
+08.11 – FIGURE 08.11-1: *Is there True Chamber Enlargement?*
 
+08.12 – Can there be *both* LV “Strain” *and* Ischemia?
 
+08.13 – Strain “Equivalent” Patterns: *Clinical Implications*
 
-\
+**08.14 – *Atrial* Enlargement**
 
-ss
+08.15 – Terminology: *Enlargement *vs* Abnormality?*
 
-s
+08.16 – FIGURE 08.16-1: *ECG Criteria for RAA/LAA*
 
-s
+08.17 –* Physiologic Rationale for Normal P Wave Appearance*
 
-s
+08.18 – A *Closer* Look: *The P Wave with Normal Sinus Rhythm*
 
-\s
+08.19 – ECG Diagnosis of RAA: *P Pulmonale*
 
-s
+08.20 – ECG Diagnosis of LAA: *P Mitrale*
 
+08.21 – FIGURE 08.21-1: *Is there ECG Evidence of RAA/LAA?*
 
+08.22 – FIGURE 08.22-1: *Is there ECG Evidence of RAA/LAA?*
 
+**08.23 – RVH/*Pulmonary* Disease**
 
+08.24 – ECG Diagnosis of RVH: *Simplified Criteria*
 
-s
+08.25 – ECG Diagnosis: *Review of Specific RVH Criteria*
 
+08.26 – RVH: *Review of Additional Criteria*
 
+08.27 –* Schamroth’s* Sign for RVH: *A Null Vector in Lead I*
 
-sss
+08.28 – RVH: *Tall R Wave in V1; RV “Strain”*
 
-s
+08.29 – *Schematic* FIGURE 08.29-1: *Example of RVH \+ RV “Strain”*
 
-\ss
+08.30 – *Schematic* FIGURE 08.30-1: *Example of “Pulmonary” Disease*
 
-s\ss
+08.31 – Pediatric RVH: *A few Brief Thoughts ...*
 
-sssss
+08.32 – FIGURE 08.32-1: *Is there RVH?*
 
+08.33 – FIGURE 08.33-1: *Is there RVH?*
 
+**08.34 – Acute *Pulmonary* Embolus**
 
-ss
+08.35 – Acute PE: *Key Clinical Points*
 
-sssss
+08.36 – FIGURE 08.36-1: *Should You Look for an *S1-Q3-T3?
 
-s
+08.37 – FIGURE 08.37-1: *The Cause of Anterior T Inversion?*
 
-s
+08.38 – FIGURE 08.38-1: *Is there Acute Anterior STEMI?*
 
-s
+**09.0 – Q-R-S-T Changes**
 
-ss
+09.1 – FIGURE 09.1-1: *Assessing Q-R-S-T Changes*
 
+09.2 – *Septal* Depolarization: *Reason for Normal Septal Q Waves*
 
+09.3 – *Precordial* Lead Appearance: *What is Normal?*
 
+09.4 – *Basic* Lead Groups: *Which Leads look Where?*
 
+09.5 – R Wave Progression: *Where is Transition?*
 
-ss
+09.6 –* Old* Terminology: *R Wave Progression – CW, CCW Rotation*
 
-ss
+09.7 – FIGURE 09.7-1: *Poor R Wave Progression*
 
+09.8 – FIGURE 09.8-1: *Anterior MI vs Lead Placement Error?*
 
+09.9 – FIGURE 09.9-1: *What is the Cause of PRWP?*
 
+09.10 – FIGURE 09.10-1: *QS in V1,V2 *vs* Anterior MI?*
 
+09.11 – FIGURE 09.11-1: *PRWP from LVH *vs* Anterior MI?*
 
+09.12 – FIGURE 09.12-1: *Normal Q Waves; Normal T Inversion*
 
+09.13 – FIGURE 09.13-1: *Inferior Infarction/Ischemia?*
 
-s
+**09.14 – ST Elevation: *Shape/What is the Baseline?***
 
+09.15 – ST Elevation or Depression: *What is the Baseline?*
 
+09.16 – J-Point ST Elevation: *Recognizing the J-Point*
 
-ss
+09.17 – SHAPE of ST Elevation: *More Important than Amount\!*
 
-ss
+09.18 – HISTORY: *Importance of Clinical Correlation*
 
-ss
+09.19 – FIGURE 09.19-1: *Early Repolarization *or* Acute MI?*
 
-s
+09.20 – What is* EARLY* REPOLARIZATION?
 
-sss
+09.21 –* Early* Repolarization: *Variations in the Definition*
 
-\s\
+09.22 – ERP: *Is Early Repolarization Benign?*
 
-sss
+09.23 – FIGURE 09.23-1: *Acute MI or Repolarization Variant?*
 
-ss
+09.24 – FIGURE 09.24-1: *Acute MI or Repolarization Variant?*
 
-sss
+**09.25 – ST Segment Depression**
 
-sss
+09.26 – LIST \#4: *Causes of ST Depression*
 
-s
+09.27 – ST-T Wave Appearance: *A Hint to the Cause*
 
-ss
+09.28 – FIGURE 09.28-1: *What is the Cause\(s\) of ST Depression?*
 
+09.29 – Recognizing *Subtle* ST Changes: *ST Segment Straightening*
 
+09.30 – FIGURE 09.30-1: *Are the ST Segments Normal?*
 
-ss
+**09.31 – *Clinical *Uses of Lead aVR**
 
-ss
+09.32 – Lead aVR: *Recognizing Lead Misplacement/Dextrocardia*
 
+09.33 – Lead aVR: *in Acute Pulmonary Embolus*
 
+09.34 – Lead aVR: *in Acute Pericarditis*
 
-s
+09.35 – Lead aVR: *in Atrial Infarction*
 
-ss
+09.36 – Lead aVR: *in Supraventricular Arrhythmias*
 
-ss
+09.37 – Lead aVR: *for Definitive Diagnosis of VT*
 
-sss
+09.38 – Lead aVR: *in TCA Overdose*
 
+09.39 – Lead aVR: *in Takotsubo Syndrome*
 
+09.40 – Lead aVR: *Severe CAD/Left Main Disease*
 
-ss
+**10.0 – Acute MI / Ischemia**
 
-s
+10.1 – The Patient with Chest Pain: *WHY Do an ECG?*
 
-sss
+10.2 – *What is a “Silent” MI?*
 
-s
+10.3 – The ECG in *Acute* MI: *What are the Changes?*
 
-s
+10.4 – ECG Indicators: 1\) *ST Segment Elevation*
 
+10.5 – ECG Indicators of *Acute* MI: 2\) *T Wave Inversion*
 
+10.6 – ECG Indicators of *Acute* MI: 3\) *Q Waves*
 
-sss
+10.7 – Q Waves: *Why Do they Form?*
 
-s
+10.8 – ECG Terminology: *Distinction between Q, q and QS waves?*
 
+10.9 – Summary: *When are Q Waves Normal?*
 
+10.10 – ECG Indicators of *Acute* MI: 4\) *ST Segment Depression*
 
-s
+**10.11 – *Acute* MI: *The Sequence of ECG Changes ***
 
-s
+10.12 – *Variation in the Sequence of Acute MI Changes*
 
-s
+10.13 – *KEY *Points:* ECG Changes of Acute MI*
 
-ss
+10.14 – Assessing *Acute* ECG Changes
 
+10.15 – FIGURE 10.15-1: *Use of Serial ECGs in Acute STEMI*
 
+**10.16 – The *Coronary* Circulation **
 
-s
+10.17 – *Overview of Normal Coronary Anatomy & Variants*
 
+10.18 – The RCA:* Taking a Closer Look*
 
+10.19 – The LEFT Coronary Artery:* Taking a Closer Look*
 
-s
+10.20 – LEFT-Dominant Circulation:* Taking a Closer Look*
 
-ss
+10.21 – LAD “Wrap-Around”:* Taking a Closer Look*
 
-ss
+**10.22 – Identifying the *“Culprit”* Artery**
 
-ss
+10.23 – *Acute* RCA Occlusion
 
-s
+10.24 – *Acute* LMain Occlusion
 
-s
+10.25 – *Acute* LAD Occlusion
 
-ss
+10.26 – *Anterior* ST Elevation:* Not Always an Anterior MI*
 
-ss
+10.27 – *Acute* Occlusion of an LAD “Wrap-Around”
 
-ss
+10.28 – *Acute* LCx \(*Left Circumflex*\) Occlusion
 
+**10.29 – Acute *Right Ventricular* Infarction**
 
+10.30 – *Acute* RV MI: *Hemodynamics*
 
-s
+10.31 – *Acute* RV MI: *Use of Right-Sided Leads*
 
+10.32 – *Acute* RV MI: *Making the Diagnosis by ECG*
 
+**10.33 – *Posterior* MI: *Use of the Mirror Test***
 
-\
+10.34 – BEYOND-the-Core: *Is there Truly a Posterior Wall?*
 
-ss
+10.35 – FIGURE 10.35-1: *Applying the Mirror Test*
 
-s
+10.36 – FIGURE 10.36-1: *Anatomic Landmarks for Posterior Leads*
 
-s
+10.37 – FIGURE 10.37-1: *Isolated Posterior Infarction*
 
-s
+**10.38 – *Acute* MI: *PRACTICE Tracings***
 
-s
+10.39 – FIGURE 10.39-1: *What is the “Culprit” Artery?*
 
-s
+10.40 – *Schematic* PRACTICE Tracings: *Acute MI/Ischemia*
 
+10.40.1 – FIGURE 10.40-1: *Ischemia/Infarction?*
 
+10.40.2 – FIGURE 10.40-2: *Ischemia/Infarction?*
 
-ss
+10.40.3 – FIGURE 10.40-3: *Ischemia/Infarction?*
 
-s
+10.40.4 – FIGURE 10.40-4: *Ischemia/Infarction?*
 
-s
+10.40.5 – FIGURE 10.40-5: *Ischemia/Infarction?*
 
-sssss
+10.40.6 – FIGURE 10.40-6: *Ischemia/Infarction?*
 
-ss
+10.40.7 – FIGURE 10.40-7: *Ischemia/Infarction?*
 
-s
+10.40.8 – FIGURE 10.40-8: *How to “Date” an Infarct?*
 
-sss
+10.40.9 – FIGURE 10.40-9: *Ischemia/Infarction?*
 
-ssss
+10.40.10 – FIGURE 10.40-10: *Ischemia/Infarction?*
 
-ss
+10.40.11 – FIGURE 10.40-11: *Ischemia/Infarction?*
 
-ss
+10.40.12 – FIGURE 10.40-12: *Ischemia/Infarction?*
 
-s
+**10.41 – LIST \#5: *Ant. ST Depression with Acute Inf. MI***
 
-ss
+10.42 – LIST \#5: *Causes of Anterior ST Depression*
 
-s
+10.43 – FIGURE 10.43-1: *Ant. ST Depression with Acute Inf. MI*
 
-s
+**10.44 – LIST \#6: *Tall R Wave in Lead V1***
 
-ss
+10.45 –* Normal* Appearance of the QRS in Lead V1
 
-s
+10.46 – The *Purpose* of List \#6
 
-ss
+10.47 – LIST \#6: *Causes of a Tall R Wave in Lead V1*
 
-ssss
+10.48 – PRACTICE Tracings: *The Cause of the Tall R in V1?*
 
+10.49 –* Hypertrophic* Cardiomyopathy: *How to Recognize on ECG?*
 
+10.50 – FIGURE 10.50-1: *WHY the Tall R in V1?*
 
-\
+**10.51 –* Giant* T Wave Syndrome **
 
+10.52 –* When Inverted T Waves are GIANT in Size\!*
 
+10.53 – FIGURE 10.53-1: *Cause of the Giant T Waves?*
 
+**10.54 – *Wellens’ *Syndrome**
 
+10.55 – *Wellens’ *Syndrome: *Clinical Implications & ECG Recognition*
 
-s
+10.56 – FIGURE 10.56-1: *What Wellens’ Syndrome is Not\!*
 
-s
+**10.57 –* DeWinter *T Waves**
 
-s
+10.58 – ECG Recognition:* What are DeWinter T Waves?*
 
+10.59 – *DeWinter* T Waves:* Clinical Characteristics*
 
+10.60 – FIGURE 10.60-1:* What is the “Culprit” Artery?*
 
+**10.61 – *Takotsubo* Cardiomyopathy**
 
+10.62 – FIGURE 10.62-1: *Acute STEMI *— *or Something Else?*
 
-ss
+10.63 – *Takotsubo* CMP: *Clinical Features*
 
-\ssss
+**10.64 – *Muscular* Dystrophy**
 
-s
+10.65 – *Muscular* Dystrophy: *Common ECG Abnormalities*
 
-ss\s\ss
+10.66 – FIGURE 10.66-1: *Abnormal ECG in a Young Subject*
 
-s
+**10.67 – Hypothermia \(*Osborn Wave*\)**
 
-s
+10.68 – FIGURE 10.68-1: *ECG Features of Hypothermia*
 
-ss
+**11.0 – Electrolyte Disorders**
 
-s
+11.1 – CALCIUM: *ECG Changes of Hyper- & HypoCalcemia*
 
-s
+11.2 – Figure 11.2-1: *Acute STEMI or HyperCalcemia?*
 
-s
+11.3 – HYPERKALEMIA: *ECG Manifestations/Clinical Features*
 
+11.4 – Figure 11.4-1: *Ventricular Rhythm vs Hyperkalemia?*
 
+11.5 – Figure 11.5-1: *Ischemia vs Hyperkalemia?*
 
-s
+11.6 – Figure 11.6-1: *Hyperkalemia vs Normal Variant?*
 
-ss
+11.7 – HYPOKALEMIA: *ECG Manifestations/Clinical Features*
 
-s
+11.8 – HYPOMAGNESEMIA: *Clinical Features/ ECG Signs*
 
-s
+11.9 – U Waves: *Definition/Clinical Significance*
 
-ss
+11.10 – Figure 11.10-1: *Electrolyte Disturbance or Ischemia?*
 
-s
+**12.0 – *Acute* Pericarditis**
 
-s
+12.1 – *Acute* Pericarditis: *How to Make the Diagnosis?*
 
-s
+12.2 – ECG FINDINGS of *Acute* Pericarditis
 
-s
+12.3 – Stage I of *Acute* Pericarditis
 
-s\
+12.4 – PR Depression: *How Helpful a Sign is this?*
 
-s\s
+12.5 – What is *Spodick’s* Sign?
 
-s\s
+12.6 –* Differential* Diagnosis: *Acute* MI vs *Early* Repolarization?
 
-s
+12.7 –* Acute* Myocarditis/Endocarditis: *ECG Changes?*
 
-ss
+12.8 – FIGURE 12.8-1: *Acute MI or Pericarditis?*
 
-s
+12.9 – FIGURE 12.9-1: *Pericarditis or Early Repolarization?*
 
-s\ss
+**13.0 – *Computerized* ECG Interpretations**
 
-s
+13.1 – *Computerized* Systems: *Pros & Cons*
 
-s
+13.2 – *Suggested* Approach: *How to Use the Computer*
 
-ss
+13.3 – FIGURE 13.3-1: *Do You Agree with the Computer?*
 
-sssss
+**14.0 – Electrical Alternans**
 
-ss
+14.1 – Electrical Alternans: *Definition/Features/Mechanisms*
 
+14.2 – Electrical Alternans: *KEY Clinical Points*
 
+14.3 – FIGURE 14.3-1: *Alternans in an SVT Rhythm?*
 
-s
-
-s
-
-s
-
-s
-
-s
-
-
-
-s
-
-s
-
-s
-
-s
-
-s
-
-\\s
-
-
-
-s
-
-ss
-
-ss
-
-sss
-
-ss
-
-s
-
-sss
-
-ss
-
-s
-
-s
-
-ss
-
-s
-
-s
-
-s
-
-s
-
-s
-
-s
-
-s
-
-
-
-s
-
-s
-
-s
-
-s
-
-\ss
-
-\ssss
-
-ss
-
-\
-
-
-
-ss\
-
-\ss
-
-ss
-
-
-
-
-
-
-
-s\
-
-ss
-
-s
-
-ss
-
-ss\
-
-s
-
-s
-
-sss
-
-s
-
-s
-
-s
-
-ss
-
-ss
-
-sss
-
-
-
-\s\
-
-s
-
-ss
-
-s
-
-
-
-sss
-
-s
-
-ss
-
-s
-
-sss
-
-ss
-
-s
-
-ss
-
-s
-
-sss
-
-s
-
-s
-
-ssss
-
-ss
-
-sss
-
-sss
-
-s
-
-s
-
-s
-
-ssss
-
-ss
-
-
-
-s
-
-ssss
-
-ss
-
-s
-
-s
+14.4 – FIGURE 14.4-1: *Alternans in a Patient with Lung Cancer?*
 

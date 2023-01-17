@@ -1,6 +1,6 @@
+---
+title: Clinical manifestations-cirrhosis
+---
+# Clinical manifestations-cirrhosis
 
-ssss
-
-ssss
-
-ssss
+* Nonspecific sx (anorexia, fatigue) or jaundice, encephalopathy, ascites, variceal bleeding

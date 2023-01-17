@@ -1,14 +1,14 @@
+---
+title: Severity-acute pancreatitis
+---
+# Severity-acute pancreatitis
 
-s
+ (Gut 2013;62:102; Gastro 2018;154:1096)
 
-s
+* Severity defined by presence of organ failure (AKI, resp failure, GIB, shock) & local or systemic complic. (panc necrosis, fluid collections, gastric outlet obstrxn, splenic & PVT).
 
-s
+Mild: 80% of cases; no organ failure or local/systemic complications; low mortality
 
-sssssssssss
+Moderate: transient (<48 h) organ failure ± local/systemic complications, high morbidity
 
-sssss
-
-ssss
-
-ss
+Severe: persistent (>48 h) organ failure, very high mortality

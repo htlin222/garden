@@ -1,8 +1,8 @@
+---
+title: Fluid Resuscitation
+---
+# Fluid Resuscitation
 
-ss
-
-ss
-
-sssssss
-ssss
-sssss
+* [[sensible and insensible fluid losses]]
+* [[classes of hemorrhagic shock]]
+* [[empiric replacement fluids can be used for fluid losses]]

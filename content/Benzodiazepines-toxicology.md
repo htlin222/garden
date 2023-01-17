@@ -1,9 +1,9 @@
-
-s
-
-s
-
-
+---
+title: Benzodiazepines-toxicology
+---
+# Benzodiazepines-toxicology
 
 
-ss
+↓ mentation, ataxia, ↓ RR
+
+Flumazenil not rec (can precipitate withdrawal/seizures)

@@ -1,9 +1,9 @@
+---
+title: bronchiectasis
+---
+# bronchiectasis
 
-ss
-
-ss
-
-ss
-ss
-ss
-sss
+* [[Definition and epidemiology-bronchiectasis]]
+* [[Initial workup-bronchiectasis]]
+* [[Treatment-bronchiectasis]]
+* [[Non-tuberculous mycobacterium-bronchiectasis]]

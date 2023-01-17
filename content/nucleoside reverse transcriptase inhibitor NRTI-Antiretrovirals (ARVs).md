@@ -1,17 +1,17 @@
-
-ssssss
-
-ssssss
-
-
-ssss
+---
+title: nucleoside reverse transcriptase inhibitor NRTI-Antiretrovirals  ARVs 
+---
+# nucleoside reverse transcriptase inhibitor NRTI-Antiretrovirals (ARVs)
 
 
-ss
+Class: GI intol, lipoatrophy, lactic acidosis
 
-
-
-sss
-
-
-ssss
+## abacavir (ABC; Ziagen)
+ABC: hypersensitivity (3%), ✓ HLA-B*5701
+## emtricitabine (FTC; Emtriva)
+## lamivudine (3TC; Epivir)
+## tenofovir (TAF or TDF)
+TDF: renal toxicity, bone density loss
+TAF: minimal renal toxicity
+## zidovudine (AZT; Retrovir)
+AZT: BM suppression (esp. macrocytic anemia)

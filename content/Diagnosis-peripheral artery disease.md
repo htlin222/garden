@@ -1,11 +1,11 @@
+---
+title: Diagnosis-peripheral artery disease
+date: "2023-01-09"
+---
 
-ssss
+> [!info]
+> 🌱 來自: [[peripheral artery disease]]
 
-
-
-
-ss
-
-ssss
+# Diagnosis-peripheral artery disease
 
 

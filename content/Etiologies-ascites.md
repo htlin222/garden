@@ -1,20 +1,20 @@
+---
+title: Etiologies-ascites
+---
+# Etiologies-ascites
 
-sss
+## Portal HTN Related (SAAG ≥1.1)
+Presinusoidal obstruction portal or splenic vein thrombosis, schisto- somiasis, sarcoidosis
 
-sss
+Sinusoidal obstruction: cirrhosis, acute hepatitis (including EtOH), malignancy (HCC or mets)
 
+Postsinusoidal obstruction right-sided CHF (ex: constriction, TR), Budd-Chiari syndrome, SOS
 
-ssssssssssssss
+## Non–portal HTN Related (SAAG <1.1)
+Malig: peritoneal carcinomatosis; chylous ascites from malignant lymphoma (↑ TG); Meigs’ syndrome (ovarian tumor)
 
-ssssss
+Infection: TB, chlamydia/gonorrhea (ie, Fitz-Hugh-Curtis syndrome)
 
-sssssss
+Inflam: pancreatitis, ruptured pancreatic/biliary/lymph duct; bowel obstrxn, serositis (SLE)
 
-
-sssssss
-
-ss
-
-sssss
-
-ssss
+Hypoalbuminemic states: nephrotic syndrome, protein-losing enteropathy

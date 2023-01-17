@@ -1,11 +1,11 @@
+---
+title: Commonly drug-induced Acute interstitial nephritis
+---
+# Commonly drug-induced Acute interstitial nephritis
 
-ss
-
-ss
-
-s
-ss
-s
-s
-s
-
+* β-lactams, 
+* sulfa drugs, 
+* NSAIDs, 
+* PPIs, 
+* quinolones, 
+* allopurinol

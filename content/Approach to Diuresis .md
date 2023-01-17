@@ -1,14 +1,14 @@
+---
+title: Approach to Diuresis 
+---
+# Approach to Diuresis 
 
-ss
+* Loop diuretic PO: ✓ response at 1–3 h, redose at 2× prior dose if needed
 
-ss
+* Add thiazide diuretic PO (potentiates response to loop diuretic)
 
-ssss
+* Loop diuretic IV: bolus bid–qid ± thiazide (may start here if inPt) ↑ dose w/ ↑ Cr; initial effective IV Lasix dose ≈ 30 × Cr (ie, if Cr = 4 → 120 mg IV)
 
-sss
+* Loop diuretic infusion: bolus + continuous IV infusion ± thiazide (PO or IV)
 
-sssss
-
-ssss
-
-s
+* RRT: consider ultrafiltration, CRRT, or HD

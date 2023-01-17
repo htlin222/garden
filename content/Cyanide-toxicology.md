@@ -1,16 +1,16 @@
+---
+title: Cyanide-toxicology
+---
+# Cyanide-toxicology
+
+
+Coma, seizure, metabolic acidosis, hypotension
+
+IV Na nitrite and Na thiosulfate
+
+IV hydroxocobalamin
 
 
 
-
-
-
-ssss
-
-s
-
-
-
-
-
-sssss
+Call local Poison Control for assistance with management. (Chest 2011;140:1072)
 

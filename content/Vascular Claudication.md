@@ -1,35 +1,35 @@
+---
+title: Vascular Claudication
+date: "2023-01-09"
+---
 
-s
+ from: [[nerve root compression]]
+# Vascular Claudication
 
+Peripheral artery disease
 
+(with limb ischemia)
 
-ss
-s
+Cramping leg pain
 
-ss
+Mostly in calves; radiating up legs
 
-s
+Worse with Walking Biking
 
+Better with Rest (standing or sitting)
 
+Pale, cool extremity
 
-sss
+Diminished/absent pulses
 
-s
-
-sss
-
-
-
-ssss
-
-sssss
-
-
-ss
+(dorsalis pedis/posterior tibialis) Pallor
 
 
+Arterial Doppler studies
+
+Ankle-brachial index (ABI) Arteriography
 
 
 
-sssss
+Modify vascular risk factors, exercise rehab, antiplatelet Rx, revascularization
 

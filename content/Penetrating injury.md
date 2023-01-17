@@ -1,8 +1,8 @@
+---
+title: Penetrating injury
+---
+# Penetrating injury
 
-
-
-
-
-ss
-sssss
-sss
+Pseudomonas
+Can be a/w deep tissue abscess
+Directed based on suscept.

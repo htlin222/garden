@@ -1,13 +1,13 @@
+---
+title: differential diagnosis
+---
+# differential diagnosis
 
-ss
 
-ss
+(“all that wheezes is not asthma…”)
 
+* Hyperventilation & panic attacks
 
-sss
+* Upper airway obstruction or inh foreign body; laryngeal/vocal cord dysfxn (eg, 2° to GERD)
 
-s
-
-ss
-
-ssssssss
+* CHF (“cardiac asthma”); COPD; bronchiectasis; ILD (including sarcoidosis); vasculitis; PE

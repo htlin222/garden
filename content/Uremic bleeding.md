@@ -1,8 +1,8 @@
+---
+title: Uremic bleeding
+---
+# Uremic bleeding
 
+* Uremia → platelet dysfunction including ↓ aggregation, impaired adhesiveness
 
-
-
-
-ssss
-
-ssssss
+* Treatment: dDAVP, cryoprecipitate, correct anemia (improves plt aggregation and adhesion by increasing plt interactions with endothelium), consider holding anti-plt agents

@@ -1,20 +1,20 @@
+---
+title: complications of bacterial meningitis
+---
+# complications of bacterial meningitis
 
-ss
+## The neurologic complications of bacterial meningitis include:
 
-ss
+* Impaired mental status
 
-ss
+* Increased intracranial pressure and cerebral edema
 
-ss
+* Seizures
 
-sss
+* Focal neurologic deficits (eg, cranial nerve palsy, hemiparesis)
 
-s
+* Cerebrovascular abnormalities
 
-ssss
+* Sensorineural hearing loss
 
-ss
-
-sss
-
-
+* Intellectual impairment

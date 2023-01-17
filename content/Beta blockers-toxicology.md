@@ -1,9 +1,9 @@
+---
+title: Beta blockers-toxicology
+---
+# Beta blockers-toxicology
 
-s
 
-s
+Bradycardia, AV block, hypotension, HF, hypoglycemia
 
-
-s
-
-ssss
+Glucagon, vasopressors, pacing

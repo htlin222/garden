@@ -1,7 +1,7 @@
+---
+title: Fanconi’s syndrome
+---
+# Fanconi’s syndrome
 
-ss
-
-ss
-
-
-
+Proximal convoluted tubule
+多尿、多飲及脫水。

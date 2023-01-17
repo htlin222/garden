@@ -1,6 +1,6 @@
+---
+title: amyloidosis
+---
+# amyloidosis
 
-ss
-
-ss
-
-sssss
+> [[Systemic diseases with secondary glomerular involvement]]

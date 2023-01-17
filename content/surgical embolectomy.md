@@ -1,13 +1,13 @@
+---
+title: surgical embolectomy
+date: "2023-01-12"
+enableToc: false
+---
 
-s
+> [!info]
+> 🌱 來自: [[Mechanical intervention-venous thromboembolism]]
 
-s
+# surgical embolectomy
 
-
-
-ss
-
-s
-
-sss
-ss
+if large, proximal PE + hemodynamic compromise + contraindic. to lysis;
+consider in experienced ctr if large prox. PE + RV dysfxn

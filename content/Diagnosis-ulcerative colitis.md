@@ -1,16 +1,16 @@
+---
+title: Diagnosis-ulcerative colitis
+---
+# Diagnosis-ulcerative colitis
 
-sss
+* Colonoscopy: involves rectum (95%) & extends prox., circumfer., & contig. w/in colon
 
-sss
+* Location: proctitis (30–60%), L-sided (15–45%) and extensive (pancolitis; 15–35%)
 
-sss
+* Appearance: vascularity loss, friable mucosa, diffuse ulceration, pseudopolyps (chronicity)
 
-ssss
+* Histology: superficial chronic inflammation; crypt abscesses & architectural distortion
 
-sssssss
+* Barium enema with featureless and tubular appearance of colon (leadpipe appearance)
 
-sssssss
-
-ss
-
-ssssss
+* Flares: ↑ ESR & CRP (not Se or Sp); ⊕ fecal calprotectin helpful in distinguishing IBD vs. IBS and monitoring for IBD flare (Gastro Hep 2017;13:53); must rule out infection

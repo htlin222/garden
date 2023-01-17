@@ -1,8 +1,8 @@
+---
+title: Acute Infectious Etiologies
+---
+# Acute Infectious Etiologies
 
-ss
-
-ss
-
-ss
-ss
+## [[NONINFLAMMATORY-Acute Infectious Etiologies]]
+## [[INFLAMMATORY-Acute Infectious Etiologies]]
 

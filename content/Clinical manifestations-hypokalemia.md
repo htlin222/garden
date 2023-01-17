@@ -1,10 +1,10 @@
+---
+title: Clinical manifestations-hypokalemia
+---
+# Clinical manifestations-hypokalemia
 
-ss
+* Nausea, vomiting, ileus, weakness, muscle cramps, rhabdomyolysis, ↓ insulin secretion
 
-ss
+* Renal: ammoniagenesis, phosphaturia, hypocitraturia, NaCl & HCO3 retention, polyuria
 
-ssssssssss
-
-sss
-
-sssss
+* ECG: may see U waves, ↑ QT, flat Tw, ST depression, ventricular ectopy (PVCs, VT, VF)

@@ -1,15 +1,15 @@
+---
+title: 3 options for screening for hypercortisolism
+date: "2023-01-12"
+enableToc: false
+---
 
-ssss
+> [!info]
+> 🌱 來自: [[Approach to suspected Cushing’s syndrome]]
 
-s
-
-
-
-sssss
-
-ssss
+# 3 options for screening for hypercortisolism
 
 
-s
-sssss
-s
+1. [[24-hour urinary free cortisol]] (UFC) 
+2. [[dexamethasone suppression test]]; 
+3. [[11 pm Salivary Cortisol]]

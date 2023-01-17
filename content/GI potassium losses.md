@@ -1,8 +1,8 @@
+---
+title: GI potassium losses
+---
+# GI potassium losses
 
-sssss
+* GI losses plus metabolic acidosis: diarrhea, laxative abuse, villous adenoma
 
-sssss
-
-ssssssss
-
-ssssss
+* Vomiting & NGT drainage usually manifest as renal losses due to 2° hyperaldo & met. alk.

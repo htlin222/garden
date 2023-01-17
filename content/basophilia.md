@@ -1,20 +1,20 @@
+---
+title: basophilia
+---
+# basophilia
 
-s
+## Neoplasm
 
-s
+MPN, CML, AML, Hodgkin lymph.
 
-s
+## Infection
 
+TB, smallpox, parasites
 
+## Alteration in BM or reticuloendothelial compartment
 
+Hemolytic anemia, splenectomy
 
+## Inflammation or allergy
 
-sss
-
-
-
-s
-
-
-
-
+IBD, chronic airway inflammation

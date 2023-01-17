@@ -1,6 +1,6 @@
+---
+title: Irradiated blood products
+---
+# Irradiated blood products
 
-s
-
-s
-
-ssssss
+Prevents donor T-cell engraftment and risk of transfusion-assoc. GVHD (HSCT, heme malignancy, congenital immunodeficiency).

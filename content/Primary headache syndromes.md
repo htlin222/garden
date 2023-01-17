@@ -1,8 +1,8 @@
+---
+title: Primary headache syndromes
+---
+# Primary headache syndromes
 
-ss
-
-ss
-
-s
-s
-
+* [[Tension-type headache]]
+* [[Cluster headache]]
+* [[Migraine]]

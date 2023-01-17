@@ -1,15 +1,15 @@
+---
+title: Thyroiditis
+---
+# Thyroiditis
 
-s
+## Acute: 
+* bacterial infection (very rare in U.S. except postsurgical), typically Staph/Strep spp.
+## Subacute: 
+transient thyrotoxicosis → transient hypothyroidism → normal thyroid fxn
 
-s
+Painful (viral, granulomatous or de Quervain’s): fever, ↑ ESR; Rx = NSAIDs, ASA, steroids
 
+Silent (postpartum, autoimmune including Hashimoto’s, or lymphocytic): painless, ⊕ TPO Abs; if postpartum, can recur with subsequent pregnancies
 
-sss
-
-sssss
-
-sssss
-
-ssssssssss
-
-sssss
+Other: meds (amiodarone, lithium, TKIs, ICIs), palpation thyroiditis, post-radiation

@@ -1,16 +1,16 @@
+---
+title: Complications-cholelithiasis
+---
+# Complications-cholelithiasis
 
-sss
+* Cholecystitis: 20% of Pts with symptomatic biliary pain progress to cholecystitis w/in 2 y
 
-sss
+* Choledocholithiasis → cholangitis or gallstone pancreatitis
 
-ssssssss
+* Mirizzi syndrome: hepatic duct compression by GB stone → jaundice, biliary obstruction
 
-sssss
+* Cholecystenteric fistula: stone erodes through gallbladder into bowel, ~15% w/ colon
 
-sssss
+* Gallstone ileus: SBO (usually at term ileum) due to stone in intestine that passed thru fistula
 
-ssss
-
-ssssssss
-
-sss
+* Gallbladder carcinoma: ~1% in U.S., often found late stage, a/w poor prognosis

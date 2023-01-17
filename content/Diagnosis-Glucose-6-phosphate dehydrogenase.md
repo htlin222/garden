@@ -1,6 +1,6 @@
+---
+title: Diagnosis-Glucose-6-phosphate dehydrogenase
+---
+# Diagnosis-Glucose-6-phosphate dehydrogenase
 
-sssss
-
-sssss
-
-sssssssssssssss
+smear may show RBC Heinz bodies (oxidized Hb) that result in bite cells once removed by spleen; ↓ G6PD levels (may be normal after acute hemolysis because older RBCs have already lysed and young RBCs may still have near-normal levels)

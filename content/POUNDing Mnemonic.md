@@ -1,10 +1,10 @@
+---
+title: POUNDing Mnemonic
+---
+# POUNDing Mnemonic
 
-
-
-
-
-s
-ss
-
-s
-s
+* Pulsatile
+* hOurs (duration of 4-72 hours)
+* Unilateral
+* Nauseating
+* Disabling

@@ -1,17 +1,17 @@
+---
+title: pulmonary embolism
+date: "2023-01-11"
+enableToc: false
+---
 
-s
+> [!info]
+> 🌱 來自: [[venous thromboembolism]]
 
-s
+# pulmonary embolism
 
-
-
-ss
-
-s
-
-ss
-ss
-sss
-ss
-
-sss
+* [[Clinical manifestations—PE]]
+* [[Modified Wells Pretest Probability Scoring for PE ]]
+* [[Diagnostic studies of PE]]
+* [[Approach to suspected PE]]
+* [[Workup for idiopathic VTE]]
+* [[Risk stratification for Pts with PE]]

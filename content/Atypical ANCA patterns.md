@@ -1,11 +1,11 @@
+---
+title: Atypical ANCA patterns
+---
+# Atypical ANCA patterns
 
-s
-
-s
-
-ss
-ssss
-s
-sss
-s
-sss
+* drug-induced vasculitis, 
+* nonvasculitic rheumatic diseases, 
+* ulcerative colitis, 
+* primary sclerosing cholangitis, 
+* endocarditis, 
+* cystic fibrosis

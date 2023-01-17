@@ -1,13 +1,13 @@
+---
+title: Alcohol-associated hepatitis
+---
+# Alcohol-associated hepatitis
 
-sss
+* Sx: progressive jaundice, tender hepatomegaly, fever, ascites, GIB, encephalopathy
 
-sss
+* Labs: ALT usually <300–500 w/ AST:ALT > 2:1, ↓ plt, ↑ Tbili & INR indicate severe hepatitis
 
-ssss
+## [[Prognosis-Alcohol-associated hepatitis]]
+## [[Treatment of Alchololic-associated hepatitis]]
 
-ssss
-
-sssss
-sss
-
-sssss
+Consider early transplantation in carefully selected Pts (Gastro 2018;155:422)

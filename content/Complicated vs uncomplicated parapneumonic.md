@@ -1,13 +1,13 @@
+---
+title: Complicated vs uncomplicated parapneumonic
+---
+# Complicated vs uncomplicated parapneumonic
 
-s
+## complicated
+⊕ Gram stain or culture or pH <7.2 or glucose <60
 
-s
+## complicated parapneumonic effusions
+usually require tube thoracostomy for resolution
 
-
-ss
-
-ss
-sss
-
-
-ssss
+## empyema
+frank pus, also needs tube thoracostomy (J Thorac CV Surg 2017;153:e129)

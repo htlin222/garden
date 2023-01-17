@@ -1,8 +1,8 @@
+---
+title: Tricyclic antidepressants-toxicology
+---
+# Tricyclic antidepressants-toxicology
 
-sss
+Hypotension, seizures, arrhythmia, ↑ QRS, ↑ QT
 
-sss
-
-sss
-
-sssssss
+IVF resuscitation, IV sodium bicarbonate, vasopressors

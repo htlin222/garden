@@ -1,6 +1,6 @@
+---
+title: classes of hemorrhagic shock
+---
+# classes of hemorrhagic shock
 
-ssss
-
-ssss
-
-
+15 30 40

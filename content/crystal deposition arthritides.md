@@ -1,9 +1,9 @@
+---
+title: crystal deposition arthritides
+date: "2023-01-09"
+---
 
-sss
-
-
-
-
-sss
+ from: [[rheumatology]]
+# crystal deposition arthritides
 
 

@@ -1,5 +1,6 @@
+---
+title: dotfile
+---
+[Dotfiles (MacOS custom configuration specifications) – Index](https://wilsonmar.github.io/dotfiles/)
 
-
-
-sssssss
-
+@epperla2021doublerefractory

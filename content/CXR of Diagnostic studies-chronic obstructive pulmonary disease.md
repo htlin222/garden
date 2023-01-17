@@ -1,10 +1,10 @@
+---
+title: CXR of Diagnostic studies-chronic obstructive pulmonary disease
+---
+# CXR of Diagnostic studies-chronic obstructive pulmonary disease
 
-ssssss
-
-ssssss
-
-sss
-
-s
-ss
-
+ (see Radiology inserts): 
+* hyperinflation, 
+* flat diaphragms, 
+* ± interstitial markings & 
+* bullae

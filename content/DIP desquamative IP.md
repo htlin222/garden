@@ -1,12 +1,12 @@
+---
+title: DIP desquamative IP
+---
+# DIP desquamative IP
 
-s
+Diffuse ground-glass opacities, reticular lines; lower zones. Peripheral macrophage in alveoli.
 
-s
+30–50 yo smokers
 
-ssssss
+Sx wks–mos
 
-ss
-
-ss
-
-
+Death rare

@@ -1,8 +1,8 @@
+---
+title: Definition and epidemiology-chronic obstructive pulmonary disease
+---
+# Definition and epidemiology-chronic obstructive pulmonary disease
 
-sss
-
-sss
-
-ss
-s
+* Progressive airflow limitation
+* caused by airway and parenchymal inflammation
 

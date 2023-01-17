@@ -1,6 +1,6 @@
+---
+title: Familial Mediterranean fever
+---
+# Familial Mediterranean fever
 
-
-
-
-
-ssss
+(peritonitis, episodic fever, pleuritis; ↑ WBC & ESR during attacks); 

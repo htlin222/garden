@@ -1,17 +1,17 @@
+---
+title: Diagnostic studies-acute mesenteric ischemia
+---
 
-sssss
+# Diagnostic studies-acute mesenteric ischemia
 
+* Dx relies on high level of suspicion; rapid dx essential to avoid infarction (occurs w/in hrs)
 
-sssss
+* Mortality 20 to >70% if bowel infarcted; dx prior to infarction strongest predictor of survival
 
-sssssss
+* Laboratory: often nl; ~75% ↑ WBC; ↑ amylase, LDH, PO4, D-dimer; ~50% ↑ lactate (late)
 
-sss
+* KUB: nl early before infarct; “thumbprinting,” ileus, pneumatosis in later stages
 
-s
+* CT angiography (arterial phase): noninvasive test of choice; venous phase for dx MVT
 
-sssss
-
-sssss
-
-sssss
+* Angiography: gold standard; potentially therapeutic; indicated if vasc occlusion suspected

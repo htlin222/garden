@@ -1,16 +1,16 @@
+---
+title: management-inflammatory bowel disease
+---
+# management-inflammatory bowel disease
 
-ss
+(Lancet 2017;398:1756; Mayo 2017;92:1088)
+## [[Initial evaluation-management-inflammatory bowel disease]]
 
-ss
+## Goals of treatment
+(Ther Adv Gastro 2015;8:143)
 
-
-ss
-
-s
-s
-
-sssss
-ssssssssss
+* Induce remission of acute flare → maintain remission; mucosal healing 1° goal
+* Step-up Rx (least → most toxic) vs. top-down; (strongest → de-escalate) approach; consider early biologic if severe disease
 
 
 

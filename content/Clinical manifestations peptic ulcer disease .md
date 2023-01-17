@@ -1,8 +1,8 @@
+---
+title: Clinical manifestations peptic ulcer disease 
+---
+# Clinical manifestations peptic ulcer disease 
 
-ssss
+* Epigastric gnawing abdominal pain: relieved with food (DU) or worsened by food (GU)
 
-ssss
-
-ss
-
-sss
+* Complic.: UGIB, perf. & penetration, gastric outlet obstruction (due to edema & dysmotility)

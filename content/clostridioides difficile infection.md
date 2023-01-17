@@ -1,10 +1,10 @@
+---
+title: clostridioides difficile infection
+---
+# clostridioides difficile infection
 
-ss
-
-ss
-
-ssss
-ssss
-ssss
-ss
-ss
+* [[Pathogenesis epidemiology-clostridioides difficile infection]]
+* [[Clinical manifestations-clostridioides difficile infection]]
+* [[Diagnosis-clostridioides difficile infection]]
+* [[Initial treatment-clostridioides difficile infection ]]
+* [[Recurrent infection-clostridioides difficile infection]]

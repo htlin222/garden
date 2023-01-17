@@ -1,29 +1,29 @@
+---
+title: Collagen vascular diseases
+---
+# Collagen vascular diseases
+(Chest 2013;143:814)
 
-ssss
+* Rheumatologic disease
 
-ssss
-s
+Scleroderma: ILD in ~50%; PHT seen in ~10% of Pts with limited disease
 
-ss
+PM-DM: ILD & skin/muscle findings; MCTD: PHT & fibrosis; Sjogren’s: ILD & sicca sx
 
-ssss
+SLE & RA: pleuritis and pleural effusions more often than ILD; SLE can cause DAH
 
-ssssssss
+* Vasculitis (can p/w DAH)
 
-ssss
+Granulomatosis w/ polyangiitis (GPA): ⊕ c-ANCA w/ necrotizing granulomas
 
-ss
+Eosinophilic GPA (EGPA): ⊕ c- or p-ANCA w/ eosinophilia & necrotizing granulomas
 
-ssss
+Microscopic polyangiitis: ⊕ p-ANCA w/o granulomas
 
-sss
+* Goodpasture’s syndrome = DAH + RPGN; typically in smokers; ⊕ anti-GBM in 90%
 
-sss
+* Lymphangioleiomyomatosis (LAM): cystic, ↑ in ♀, Rx w/ sirolimus (NEJM 2011;364:1595)
 
-sssss
-
-sssss
-
-
-sss
-
+----
+來自: [[interstitial lung disease]]
+----

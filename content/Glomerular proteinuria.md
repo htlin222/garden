@@ -1,12 +1,12 @@
+---
+title: Glomerular proteinuria
+---
+# Glomerular proteinuria
 
+(can be >3.5 g/d)
+Disruption of filtration
+barrier → lose albumin
 
-
-
-
-
-s
-s
-
-s
-s
-s
+Etiologies
+* Glomerulonephritis
+* Nephrotic syndrome

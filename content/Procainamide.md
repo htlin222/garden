@@ -1,14 +1,14 @@
+---
+title: Procainamide
+---
+# Procainamide
 
+10-15 mg/kg IV 
+n/a 
+decrease BP: 1 QT:± AVN blocker
+%
 
-
-
-
-
-
-s
-
-
-
-s
-
+----
+Backlink: [[Antiarrhythmic Drugs (AAD) for AF]]
+----
 

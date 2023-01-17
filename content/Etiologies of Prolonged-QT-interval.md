@@ -1,28 +1,28 @@
+---
+title: Etiologies of Prolonged-QT-interval
+---
+# Etiologies of Prolonged-QT-interval
 
-s
+## Antiarrhythmics
+class Ia (procainamide, disopyramide), class III (amio, sotalol, dofet)
 
-s
+## Psych drugs
+antipsychotics (phenothiazines, haloperidol, atypicals), Li, ? SSRI, TCA
 
-s
-ssssss
+## Antimicrobials
+macrolides, quinolones, azoles, pentamidine, atazanavir
 
-ss
-ssss
+## Other:
+antiemetics (droperidol, 5-HT3 antagonists), alfuzosin, methadone, ranolazine
 
-s
-sss
+## Electrolyte disturbances:
+hypoCa (nb, hyperCa a/w ↓ QT), ± hypoK, ? hypoMg
 
+## Autonomic dysfxn:
+ICH (deep TWI), Takotsubo, stroke, CEA, neck dissection
 
-ssss
+## Congenital (long QT syndrome)
+K, Na, & Ca channelopathies (Circ 2013;127:126)
 
-ss
-
-
-s
-ssss
-
-s
-s
-
-s
-s
+## Misc:
+CAD, CMP, bradycardia, high-grade AVB, hypothyroidism, hypothermia, BBB

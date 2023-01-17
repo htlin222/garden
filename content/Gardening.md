@@ -1,8 +1,8 @@
+---
+title: Gardening
+---
+# Gardening
 
-
-
-
-
-
-ss
-
+Sporothrix
+Ulcerating nodules, lymphatic spread
+Itraconazole

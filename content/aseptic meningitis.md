@@ -1,12 +1,12 @@
+---
+title: aseptic meningitis
+---
+# aseptic meningitis
 
-ss
-
-ss
-
+## Definition
+- Clinical/lab evidence of meningeal inflammation with negative bacterial cx (CSF & blood)
 
 
-
-
-sss
-ssss
-ss
+- [[Etiologies-aseptic meningitis]]
+- [[Diagnosis-aseptic meningitis]]
+- [[Empiric treatment-aseptic meningitis]]

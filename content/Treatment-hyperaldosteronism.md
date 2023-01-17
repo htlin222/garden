@@ -1,9 +1,9 @@
+---
+title: Treatment-hyperaldosteronism
+---
+# Treatment-hyperaldosteronism
 
-ss
-
-ss
-
-
-ss
-ssss
-
+(SCNA 2014;94:643)
+* Adenoma → adrenalectomy vs. medical Rx w/ spironolactone or eplerenone
+* Hyperplasia → spironolactone or eplerenone; GRA → glucocorticoids ± spironolactone
+* Carcinoma → adrenalectomy

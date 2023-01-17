@@ -1,38 +1,38 @@
+---
+title: lymphadenopathy
+---
+# lymphadenopathy
 
+## Viral
 
+HIV, EBV, CMV, HSV, VZV, hepatitis, measles, rubella
 
+## Bacterial
 
+Generalized (brucellosis, leptospirosis, TB, atypical mycobacteria, syphilis)
 
+Localized (streptococci, staphylococci, cat-scratch disease, tularemia)
 
+## Fungal/parasitic
 
-sss
+Histo, coccidio, paracoccidioidomycosis, toxoplasmosis
 
+## Immunologic
 
+Collagen vascular disease, drugs (eg, phenytoin), serum sickness, histiocytosis X, Castleman’s and Kawasaki disease
 
-sssssss
+## Neoplasm
 
-sssss
+Lymphoma, leukemia, amyloidosis, metastatic carcinoma
 
-s
+## Other
 
-ssssss
+Sarcoidosis; lipid storage diseases
 
+## Factors that favor biopsy
 
+Pt >40 y, >2 cm, location (supraclavicular always abnl), duration >1 mo
 
-ssssssssssssssss
+Consistency (hard vs. rubbery vs. soft) & tenderness are not reliable
 
-s
-
-sss
-
-
-
-ssssss
-
-ss
-
-ss
-
-sssssss
-
-sss
+Exicisional biopsy preferred over fine needle aspiration (FNA)

@@ -1,6 +1,6 @@
+---
+title: Symptoms-ascites
+---
+# Symptoms-ascites
 
-sss
-
-sss
-
-sss
+* ↑ abd girth, wt gain, new abd hernia, abd pain, dyspnea, nausea, early satiety

@@ -1,10 +1,10 @@
+---
+title: History and physical exam-interstitial lung disease
+---
+# History and physical exam-interstitial lung disease
 
-sssss
+* Occupational, exposures (eg, birds), tobacco, meds, XRT, FHx, precipitating event
 
-sssss
+* Tempo (acute → infxn, CHF, hypersens pneumonitis, eos PNA, AIP, COP, drug-induced)
 
-ssss
-
-ssss
-
-sssssssssss
+* Extrapulm signs/sx (skin Δs, arthralgias, arthritis, myalgias, sicca sx, alopecia, Raynaud’s)

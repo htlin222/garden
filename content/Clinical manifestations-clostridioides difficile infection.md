@@ -1,12 +1,12 @@
+---
+title: Clinical manifestations-clostridioides difficile infection
+---
+# Clinical manifestations-clostridioides difficile infection
 
-ssss
+* Asx colonization: <3% healthy adults; ~20% in hospitalized patients on antibiotics
 
-ssss
+* Acute watery diarrhea (>3 stool/d), occ bloody ± mucus, lower abd pain, fever, ↑↑↑ WBC
 
-sssss
+* Pseudomembranous colitis: above sx + pseudomembranes + bowel wall thickening
 
-ss
-
-ssssss
-
-sssss
+* Fulminant colitis (2–3%): toxic megacolon (colonic atony/absence of BMs, colon dilatation ≥6 cm on KUB, systemic toxicity) and/or bowel perforation

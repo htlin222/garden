@@ -1,8 +1,8 @@
+---
+title: genitourinary malignancies
+---
+# genitourinary malignancies
 
-s
-
-s
-
-s
-
-
+* [[prostate cancer]]
+* [[renal-cell-carcinoma]]
+* [[urothelial carcinoma]]

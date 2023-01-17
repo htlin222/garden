@@ -1,44 +1,44 @@
+---
+title: Clinical Manifestations of Sarcoidosis
+---
+# Clinical Manifestations of Sarcoidosis
 
-ssss
+Pulmonary
 
-ssss
+Hilar LAN; fibrosis; pulm hypertension. Stages: I = bilat hilar
 
+LAN; II = LAN + ILD; III = ILD only; IV = diffuse fibrosis.
 
+Cutaneous (~15%)
 
-ssss
+Waxy skin plaques; lupus pernio (violaceous facial lesions)
 
-sss
+Erythema nodosum (red tender nodules due to panniculitis, typically on shins). Ddx: idiopathic (34%), infxn (33%, strep, TB), sarcoid (22%), drugs (OCP, PCNs), vasculitis (Behçet’s), IBD, lymphoma.
 
-s
+Ocular (10–30%)
 
-ssssss
+Anterior >posterior uveitis; ↑ lacrimal gland
 
-ssssssssssss
+Endo & renal (10%)
 
+Nephrolithiasis, hypercalcemia (10%), hypercalciuria (40%) Due to vitamin D hydroxylation by macrophages
 
+Neuro (10% clin, 25% path)
 
-ss
+CN VII palsy, periph neuropathies, CNS lesions, seizures
 
+Cardiac (5% clin, 25% path)
 
+Conduction block, VT, CMP
 
-sss
+Liver, spleen, BM
 
+Granulomatous hepatitis (25%), splenic & BM gran. (50%)
 
+Constitutional
 
-ssssss
+Fever, night sweats, anorexia & wt loss (a/w hepatic path)
 
+Musculoskeletal
 
-
-
-
-s
-
-sss
-
-s
-
-ssss
-
-ss
-
-ssss
+Arthralgias, periarticular swelling, bone cysts

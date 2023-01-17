@@ -1,24 +1,24 @@
+---
+title: Second-line or maintainence therapy for idiopathic thrombocytopenic purpura
+---
+# Second-line or maintainence therapy for idiopathic thrombocytopenic purpura
 
+## Romiplostim, el/avatrombopag
 
+TPO-R agonists → ↑ plt prod
 
+## Rituximab (anti-CD20) ± dex
 
+anti–B-cell Ab
 
-s
+## Splenectomy* (less common)
 
-ss
+~65% long-term remission
 
+## AZA, CYC, MMF
 
+Immunosuppressants
 
+## Danazol: 600 mg/d
 
-
-ss
-
-ss
-
-
-
-ssss
-
-
-
-ss
+Androgen (hirsutism) ↓ plt clearance

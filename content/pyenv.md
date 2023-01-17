@@ -1,6 +1,6 @@
+---
+title: pyenv
+---
+/Users/htlin/.pyenv/versions/neovim2/bin/python
 
-
-
-ssss
-
-ssss
+/Users/htlin/.pyenv/versions/neovim3/bin/python

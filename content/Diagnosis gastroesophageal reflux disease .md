@@ -1,20 +1,20 @@
+---
+title: Diagnosis gastroesophageal reflux disease 
+---
+# Diagnosis gastroesophageal reflux disease 
 
-ssssss
+(Annals 2015;163:ITC1; Nat Rev Gastro Hepatol 2016;13:501)
 
-ssssss
+* Clinical diagnosis based on sx and response to empiric trial of PPI (“PPI test”)
 
-ss
+* EGD if: Ø response to PPI or alarm features: dysphagia, vomiting, ↓ wt, anemia, age >60
 
-sssssss
+* If dx uncertain & EGD nl → esoph manometry w/ 24-h pH monitoring ± impedance to dx:
 
-ssss
+“Nonerosive reflux disease”: no erosion, ulceration or Barrett’s; ½ abnl pH. Unpredictable response to PPI. Most will not progress to erosive esophagitis or Barrett’s.
 
-s
+“Reflux hypersensitivity”: nl acid exposure on pH/impedance w/ symptom–reflux assoc.
 
-ssssssssssssss
-
-ssssss
-
-ssss
+“Functional heartburn”: nl acid exposure on pH/impedance w/o symptom–reflux assoc.
 
 

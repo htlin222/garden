@@ -1,11 +1,11 @@
+---
+title: Ethylene glycol-toxicology
+---
+# Ethylene glycol-toxicology
 
 
+CNS depression, ↑ AG & OG metabolic acidosis
 
+Ethanol or fomepizole, NaHCO3
 
-
-
-ssss
-
-
-
-sss
+Consider hemodialysis

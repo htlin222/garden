@@ -1,12 +1,12 @@
+---
+title: Prognosis-acute pancreatitis
+---
+# Prognosis-acute pancreatitis
 
-sss
+(NEJM 2016;375:1972)
 
-sss
+* Ranson’s, APACHE II: predict severity at 48 h using multiple physiolog. criteria; poor PPV
 
+* BISAP: simple 5-point scoring system (BUN >25, impaired MS, SIRS, age >60 y, pleural effusion) used w/in first 24 h; score ≥3 predicts ↑ risk of organ failure, mortality
 
-
-sssss
-
-ssssssssss
-
-ssss
+* CTSI: CT data at 48–72 h (fluid collect., necrosis) to predict mortality; lags behind clinical sx

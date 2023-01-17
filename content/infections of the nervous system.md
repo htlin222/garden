@@ -1,18 +1,18 @@
+---
+title: infections of the nervous system
+---
+# infections of the nervous system
 
-ssss
+>> [[cerebrospinal fluid lab results]]
 
-ssss
-
-sss
-
-s
-ss
-s
-ss
-ss
-ss
-sss
-sss
-
-
-ssssssssss
+- [[acute bacterial meningitis]]
+- [[aseptic meningitis]]
+- [[encephalitis]]
+- [[Bell’s palsy]]
+- [[herpes zoster]] (SHINGLES)
+- [[Cryptococcus neoformans]]
+- [[herpes simplex virus infection]] 單純皰疹病毒
+- [[computed tomogram in central nervous system infection]]
+- 
+## Further Reading:
+[Neurology - Meningitis & Encephalitis - Fast Facts | NEJM Resident 360](https://resident360.nejm.org/rotation-prep/neurology/cns-infection/fast-facts)

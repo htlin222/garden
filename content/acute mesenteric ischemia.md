@@ -1,13 +1,13 @@
+---
+title: acute mesenteric ischemia
+---
 
-ss
+# acute mesenteric ischemia
 
+* [[Definition and causes-acute mesenteric ischemia]]
 
-ss
+* [[Clinical manifestations-acute mesenteric ischemia]]
 
-ssss
+* [[Diagnostic studies-acute mesenteric ischemia]]
 
-ssss
-
-sssss
-
-ss
+* [[Treatment-acute mesenteric ischemia]]

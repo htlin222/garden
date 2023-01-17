@@ -1,12 +1,12 @@
+---
+title: Maldigestion
+---
+# Maldigestion
 
-s
+ (fatty; ↑ fecal fat, ↑ osmotic gap, ↓ diarrhea w/ fasting)
 
-s
+* Defective intraluminal hydrolysis of nutrients, typ. 2/2 pancreatic/hepatobiliary pathology
 
-ss
+* Pancreatic insufficiency: most commonly from chronic pancreatitis or pancreatic cancer. Test w/ stool elastase, chymotrypsin levels, fecal fat, or empiric pancreatic enzyme Rx.
 
-sss
-
-sssssssss
-
-ssssssssssss
+* ↓ bile acids due to ↓ synthesis (cirrhosis), cholestasis (PBC), or s/p ileal resection. Test w/ empiric bile acid replacement therapy.

@@ -1,7 +1,7 @@
+---
+title: Hemodynamic-Monitoring
+---
+# Hemodynamic-Monitoring
 
-
-
-
-
-s
+![CPV wave form](https://i.imgur.com/YWT8YL1.png)
 

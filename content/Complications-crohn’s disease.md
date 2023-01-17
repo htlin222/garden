@@ -1,14 +1,14 @@
+---
+title: Complications-crohn’s disease
+---
+# Complications-crohn’s disease
 
-ssss
+* Perianal disease: fissures, fistulas, skin tags, perirectal abscesses (in 24% of Pts; perianal disease precedes intestinal symptoms)
 
-ssss
+* Stricture: small bowel, postprandial abd pain; can lead to complete SBO & require surgery
 
-ssssssssssssssssssss
+* Fistulas: perianal, enteroenteric, rectovaginal, enterovesicular, enterocutaneous
 
-sss
+* Abscess: fever, tender abd mass, ↑ WBC; steroids mask sx, ∴ need high level of suspicion
 
-ssss
-
-sssssssssss
-
-ssssssssssssss
+* Malabsorption: ileal disease/resection: ↓ bile acids abs → gallstones; ↓ fatty acid abs → Ca oxalate kidney stones; ↓ fat-soluble vitamin abs → vit D deficiency → osteopenia

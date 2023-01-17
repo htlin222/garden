@@ -1,14 +1,14 @@
+---
+title: This is the title of a note
+---
+Welcome to Notational Velocity!
 
-ss
+This is the body of a note. Your notes can be as long or as short as you want, and you can embolden, italicize, or strike them.
 
+Create links between notes: [[How does this thing work?]].
 
+You can create as many notes as you want--NV can hold thousands of them and works best when content is distributed.
 
-ssssssss
+If you enable encryption (Preferences > Notes > Security) you can even store passwords and other sensitive information without giving a second thought to computer forensics laboratories.
 
-ssss
-
-sssssssss
-
-ssssssssssss
-
-sss
+These notes were included to get you started with Notational Velocity. You may delete them at any time.

@@ -1,10 +1,10 @@
+---
+title: clinical manifestations-anemia
+---
+# clinical manifestations-anemia
 
-ss
+* Symptoms: ↓ O2 delivery → fatigue, exertional dyspnea, angina (if CAD)
 
-ss
+* Signs: pallor (mucous membranes, palmar creases), tachycardia, orthostatic hypotension
 
-ss
-
-sssssss
-
-ssssssssssssss
+* Other findings: jaundice (hemolysis), splenomegaly (thalassemia, neoplasm, chronic hemolysis), petechiae/purpura (bleeding disorder), glossitis (iron, folate, vitamin B12 defic.), koilonychia (iron defic.), neurologic abnormalities (B12 defic.)

@@ -1,24 +1,24 @@
+---
+title: Renal H2O loss  Uosm <700–800 
+---
+# Renal H2O loss (Uosm <700–800)
 
-sss
+* Diuresis: osmotic (glucose, mannitol, urea), loop diuretics
 
-sss
+* Diabetes insipidus (Nature Reviews Nephrology 2015;11:576)
 
-sssss
+ADH deficiency (central) or resistance (nephrogenic)
 
-ssss
+Central: hypothalamic or posterior pituitary disease (congenital, trauma/surgery, infiltrative/IgG4); also idiopathic, hypoxic/ischemic encephalopathy (shock, Sheehan’s syndrome), anorexia, sarcoidosis, histiocytosis, drugs: EtOH, phenytoin, snake venom, tumors: craniopharyngioma, germinoma, lymphoma, leukemia, meningioma, pituitary
 
-ss
+Nephrogenic (Annals 2006;144:186)
 
-ssssssssssssssssss
+congenital (ADH receptor V2 mutation, aquaporin-2 mutation; Pediatric Clinics 2019;66:227)
 
-s
+drugs: lithium, amphotericin, demeclocycline, foscarnet, cidofovir, ifosfamide
 
-s
+metabolic: hypercalcemia, severe hypokalemia, protein malnutrition, congenital
 
-sss
+tubulointerstitial: postobstruction, recovery phase of ATN, PKD, sickle cell, Sjögren’s, amyloid, pregnancy (placental vasopressinase)
 
-s
-
-ssssssssss
-
-sssss
+DI usually presents as severe polyuria and mild hypernatremia

@@ -1,18 +1,19 @@
+---
+title: Nonspecific Low Back Pain
+---
+# Nonspecific Low Back Pain
 
-s
+![[Nonspecific Low Back Pain-metadata#Metadata]]
 
-s
+Other files:
+* Mdnotes File Name: [[Nonspecific Low Back Pain]]
+* Metadata File Name: [[Nonspecific Low Back Pain-metadata]]
 
-s
+## Zotero links
 
-s
-ss
-s
+* [Local library](zotero://select/items/1 YKXMT6WM)
+* [Cloud library](http://zotero.org/users/8782133/items/YKXMT6WM)
 
-s
+## Notes
 
-ss
-sss
-
-s
-
+-

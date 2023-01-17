@@ -1,8 +1,8 @@
+---
+title: Approach to suspected PE
+---
+# Approach to suspected PE
 
-ss
+![Approach to suspected PE](https://i.imgur.com/cJDix4z.png)
 
-ss
-
-sss
-
-ssss
+![Clinical suspicion of pulmonary embolism](https://i.imgur.com/2JHIGSm.png)

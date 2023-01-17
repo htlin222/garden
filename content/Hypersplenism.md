@@ -1,31 +1,31 @@
+---
+title: Hypersplenism
+---
+# Hypersplenism
 
-ss
+Stasis/trapping in spleen → Mϕ attack/remodel RBCs → spherocytosis → hemolysis
 
-ss
+## Causes of Splenomegaly
 
-sssssssss
+### RES hyperplasia
+* Hemolytic anemia, sickle cell disease, thalassemia major
 
-ss
+### Immune hyperplasia
+* Infxn [HIV, EBV, CMV, TB, malaria, kala azar (“black water fever” from visceral leishmaniasis), Mycobacterium avium complex], autoimmune disorders (SLE, RA w/ Felty’s syndrome), sarcoidosis, serum sickness
 
-s
-sssss
+### Congestion
+* Cirrhosis, 
+* CHF, 
+* portal/splenic vein thrombosis, 
+* schistosomiasis
 
-s
-sssssssssssssss
+### Infiltration (nonmalignant)
+* Lysosomal storage disorders (Gaucher’s, Niemann-Pick), 
+* glycogen storage diseases
+* histiocytosis X, splenic cysts
 
-s
-ss
-
-sss
-sssss
-
-
-ssssss
-ssss
-ssssss
-
-s
-sssss
-
-
-
+### Neoplasm
+#### causes of massive splenomegaly.
+* MPN (CML, PMF, PV, ET), CMML, leukemia, lymphoma (NHL, HL, hairy cell leukemia, CLL, PLL, WM), 
+#### 沒那麼嚴重的:
+* T-LGL, myeloma, amyloid

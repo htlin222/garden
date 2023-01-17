@@ -1,16 +1,16 @@
+---
+title: Names for vasculitides
+---
+# Names for vasculitides
+[[other names for vasculitides]]
 
-sss
 
-sss
-sss
+### Immune complex SVV
+Anti-glomerular basement membrane (anti-GBM) disease
+Cryoglobulinemic vasculitis (CV)
+IgA vasculitis (Henoch-Schönlein) (IgAV)
+Hypocomplementemic urticarial vasculitis (HUV) (anti-C1g vasculitis)
 
-
-
-sss
-ss
-ss
-ssss
-
-ssss
-ss
-
+### Variable-vessel vasculitis
+* Behçet's syndrome
+ 

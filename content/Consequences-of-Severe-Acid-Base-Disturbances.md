@@ -1,34 +1,34 @@
+---
+title: Consequences-of-Severe-Acid-Base-Disturbances
+---
+# Consequences-of-Severe-Acid-Base-Disturbances
 
-sssss
+(NEJM 1998;338:26 & 107)
 
-sssss
-
-
-
-s
-
-s
-sss
-ss
-
-ss
-
-ss
-
-s
-
-sss
-
-
-
-
-
-ssss
-
-
-
-
-
-
-
-ss
+## Cardiovascular
+### Acidemia (pH <7.20)
+* ↓ contractility, arteriolar vasodilation
+* ↓ MAP & CO; ↓ response to catecholamines
+* ↑ risk of arrhythmias
+### Alkalemia (pH >7.60)
+* Arteriolar vasoconstriction
+* ↓ coronary blood flow
+* ↑ risk of arrhythmias
+--- 
+## Respiratory
+### Acidemia (pH <7.20)
+* Hyperventilation, ↓ resp. muscle strength
+### Alkalemia (pH >7.60)
+* Hypoventilation
+---
+## Metabolic
+### Acidemia (pH <7.20)
+* ↑ K (resp. > metab.), insulin resistance
+### Alkalemia (pH >7.60)
+* ↓ K, Ca, Mg, PO4
+---
+## Neurologic
+### Acidemia (pH <7.20)
+* Δ MS
+### Alkalemia (pH >7.60)
+* Δ MS, seizures, tetany

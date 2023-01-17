@@ -1,12 +1,12 @@
+---
+title: Long-term anticoagulation options-venous thromboembolism
+---
+# Long-term anticoagulation options-venous thromboembolism
 
-sss
+* For nonpregnant Pt without severe renal dysfunction or active cancer → DOAC
 
-sss
+* For severe renal insufficiency or APLAS → warfarin. Start w/ parenteral anticoag unless ? need for lytic, catheter-based Rx or surg; bridge to INR ≥2 × ≥24 h.
 
-ss
+* Pregnancy or unable to take oral therapy → LMWH or fondaparinux
 
-ssssss
-
-
-
-ss
+* Cancer → DOAC (but in Pts w/ UGI cancers, more GI bleeding w/ riva) or LMWH

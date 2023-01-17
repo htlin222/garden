@@ -1,7 +1,7 @@
+---
+title: molecular diagnostics
+---
+# molecular diagnostics
 
-ss
-
-ss
-
-
-s
+Sequencing
+Cytogenetics

@@ -1,10 +1,10 @@
+---
+title: terms used to describe patients with delirium
+---
+# terms used to describe patients with delirium
 
-ssss
-
-ssss
-
-
-
-ss
-s
-ssss
+encephalopathy 
+acute brain failure
+acute confusional state
+postoperative 
+intensive care unit (ICU) psychosis

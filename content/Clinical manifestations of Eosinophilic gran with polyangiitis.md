@@ -1,28 +1,28 @@
+---
+title: Clinical manifestations of Eosinophilic gran with polyangiitis
+---
+# Clinical manifestations of Eosinophilic gran with polyangiitis
 
-ssss
+(Rheumatol 2020;59:iii84)
 
-ssss
-
-
-
-s
-s
-sss
-ssssss
-
-sss
-ss
-ss
-ss
-
-ssssss
-s
-s
-ss
-
-
-s
-s
-
-s
-
+## Initial sx: 
+* asthma
+* sinusitis
+* allergic rhinitis (new asthma in adult raises suspicion)
+ 
+## Eosinophilic infiltrative disease: 
+* transient pulm infiltrates, 
+* gastroenteritis 
+* esophagitis
+ 
+## Systemic small-vessel vasculitis: 
+* neuropathy (mononeuritis multiplex), 
+* renal (glomerulonephritis), 
+* skin (palpable purpura, petechial, nodules)
+ 
+## Cardiac: 
+* coronary arteritis, 
+* myocarditis, 
+* CHF 
+* valvular insufficiency 
+(Medicine 2009;88:236)

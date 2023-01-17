@@ -1,12 +1,12 @@
+---
+title: Complications-cholecystitis
+---
+# Complications-cholecystitis
 
-sss
+* Gangrenous cholecystitis: necrosis w/ risk of empyema and perforation
 
-sss
+* Emphysematous cholecystitis: infection by gas-forming organisms (air in GB wall)
 
-ssssss
+* Perforation: ~10% of cases, due to delay in diagnosis; pericholecystic abscess forms
 
-sssssss
-
-sssssssss
-
-ssssss
+* Post CCY: bile duct leak, BD injury or retained stones, cystic duct remnant, sphincter of Oddi dysfxn

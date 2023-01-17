@@ -1,8 +1,8 @@
+---
+title: Recognizing and managing comorbidities of Migraine
+---
+# Recognizing and managing comorbidities of Migraine
 
-s
-
-s
-
-s
-sssss
-sss
+* Identify comorbid conditions
+* Select drugs and adjust their use according to comorbidities present
+* Alleviate comborbidities if possible to improve outcome

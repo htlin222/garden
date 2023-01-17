@@ -1,11 +1,11 @@
+---
+title: Other antimicrobial agents of Drug fever
+---
+# Other antimicrobial agents of Drug fever
 
-s
+antimicrobial agents are also the most common cause of drug fever, 
+accounting for approximately one-third of episodes
 
-s
-
-ssss
-ss
-
-s
-ss
-
+* beta-lactams 
+* sulfonamides 
+* [[nitrofurantoin]]

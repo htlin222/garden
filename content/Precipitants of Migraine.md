@@ -1,11 +1,11 @@
+---
+title: Precipitants of Migraine
+---
+# Precipitants of Migraine
 
-s
-
-s
-
-sss
-ss
-
-
-ss
-s
+* stress
+* foods (cheese, chocolate, MSG)
+* fatigue
+* EtOH
+* menses
+* exercise

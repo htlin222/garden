@@ -1,10 +1,10 @@
+---
+title: glucose water osmolarity
+---
+# glucose water osmolarity
 
-ss
+  g/180 * 1000
 
-ss
+速算：% * 50 = osm/L
 
-
-
-s
-
-s
+e.g. D5W = 5*50 = 250 osm/L

@@ -1,24 +1,24 @@
+---
+title: Clinical manifestations-acute liver failure
+---
+# Clinical manifestations-acute liver failure
 
-ss
+* Initial presentation: N/V, malaise, RUQ pain, jaundice, encephalopathy, multiorgan failure
 
-ss
+* Neurologic: encephalopathy: grade 1 = attn deficit, disordered sleep; grade 2 = asterixis, confusion; grade 3 = somnolence, rigidity; grade 4 = coma; ↑ ICP w/ bradycardia & HTN
 
-ss
+cerebral edema: astrocyte swelling related in part to ↑ ammonia levels
 
-ssssss
+* Cardiovascular: hypotension with low SVR, shock
 
-sss
+* Pulmonary: respiratory alkalosis, impaired peripheral O2 uptake, pulm edema, ARDS
 
-sss
+* GI: GI tract bleed common (need PPI Ppx), pancreatitis (due to ischemia, drugs, infxn)
 
-sss
+* Renal: ATN, hepatorenal syndrome, hyponatremia, hypokalemia, hypophosphatemia
 
-sss
+* Hematology: bleeding diathesis w/ thrombocytopenia, ↑ PT/PTT, ↓ fibrinogen, ↓ synthesis of coag factors balanced by ↓ protein C/S; bleeding mostly due to low platelet count, DIC
 
-ss
+* Infection: espec. with Staph, Strep, GNRs, and fungi (↓ immune fxn, invasive procedures); fever and ↑ WBC may be absent, most common sites are respiratory, urinary & blood
 
-sssssss
-
-sssssssss
-
-ssssss
+* Endocrine: hypoglycemia (↓ glc synthesis), metabolic acidosis (↑ lactate), adrenal insuf.

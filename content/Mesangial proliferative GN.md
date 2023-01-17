@@ -1,8 +1,8 @@
+---
+title: Mesangial proliferative GN
+---
+# Mesangial proliferative GN
 
-s
 
-s
-
-
-s
+(? atypical forms of MCD/FSGS, 5%) IgM, C1q nephropathy
 

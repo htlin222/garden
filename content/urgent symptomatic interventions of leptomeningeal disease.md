@@ -1,19 +1,19 @@
+---
+title: urgent symptomatic interventions of leptomeningeal disease
+---
+# urgent symptomatic interventions of leptomeningeal disease
 
-ssss
+Radiation to symptomatic sites
 
-ssss
+## Hydrocephalus and increased intracranial pressure
 
-sss
+Glucocorticoids 8 to 16 mg
+Lumbar puncture
 
-ssss
+### Patients with non-small cell lung cancer 
 
-s
+### Intrathecal (IT) chemotherapy
 
+![leptomeningeal seeding treatment](https://i.imgur.com/4Lj0MHD.png)
 
-ss
-
-
-
-ss
-
-
+[[intrathecal chemotherapy]]

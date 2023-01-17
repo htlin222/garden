@@ -1,13 +1,13 @@
+---
+title: Ventilator Modes and Principles
+---
+# Ventilator Modes and Principles
 
-ss
+REF:
+[Volume Control Ventilation – Basic Principles of Mechanical Ventilation](https://ecampusontario.pressbooks.pub/mechanicalventilators/chapter/volume-control-ventilation/)
 
-ss
+[[how the human body breathes]]
 
+### Backlink：
 
-ssssssss
-
-s
-
-
-
-
+- [[mechanical ventilation]]

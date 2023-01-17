@@ -1,14 +1,14 @@
+---
+title: sexually transmitted infections
+---
+# sexually transmitted infections
 
-sss
+* [[Risk Factors and Screening]] (MMWR 2021;70:1)
 
-sss
+---
 
-ss
-
-
-
-ss
-s
-sssss
-sss
+[[Genital Lesions]] (MMWR 2021; 70:1)
+[[Genital Discharge]]
+[[Diagnosis-sexually transmitted infections]]
+[[Treatment-sexually transmitted infections]]
 

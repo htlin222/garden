@@ -1,6 +1,6 @@
+---
+title: Approach to polyuria
+---
+# Approach to polyuria
 
-
-
-
-
-s
+![image 22-10-02 01 12 27](https://i.imgur.com/anCtyvI.png)

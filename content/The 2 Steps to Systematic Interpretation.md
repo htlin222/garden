@@ -1,17 +1,17 @@
+---
+title: The 2 Steps to Systematic Interpretation
+date: "2023-01-15"
+enableToc: false
+---
 
-ss
+> [!info]
+>
+> 🌱 來自: [[EKG pocket brain]]
 
-s
+# The 2 Steps to Systematic Interpretation
 
-
-
-
-
-
-ss
-
-
-
-
+> [!info]
+>
+> **👷 工事中，敬請期待 🚧**
 
 

@@ -1,9 +1,9 @@
+---
+title: rheumatoid arthritis
+date: "2023-01-09"
+---
 
-s
-
-
-
-
-s
+ from: [[rheumatology]]
+# rheumatoid arthritis
 
 

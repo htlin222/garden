@@ -1,6 +1,6 @@
+---
+title: Splenic vein thrombosis
+---
+# Splenic vein thrombosis
 
-ss
-
-ss
-
-sss
+Can occur 2/2 local inflam. (eg, panc.). Can p/w isol. gastric varices. Splenectomy curative.

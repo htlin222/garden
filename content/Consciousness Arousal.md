@@ -1,18 +1,18 @@
+---
+title: Consciousness Arousal
+---
+# Consciousness Arousal
 
-sssss
+## Arousal:
+- spectrum from awake/alert → drowsy → stupor → coma
+- Terms vague & subjective, so most useful to describe response to increasing stimulation (eg, voice → noxious).
 
-sssss
+## Coma
+* lack of response to external stimuli.
+* Degree formalized in Glasgow Coma Scale.
+* Caused by focal lesions in brainstem (reticular activating system), thalamus, or diffuse dysfxn of both cerebral hemispheres.
+* Mimics: locked-in synd., akinetic mutism, catatonia.
 
-s
-sss
-sssssssssss
-
-
-sss
-s
-sssssssssss
-sss
-
-s
-
-ssssssss
+## [[Confusion and Delirium]]
+## [[Dementia]]:
+	- progressive cognitive impairment developing over mos to yrs; often affects memory, language, visuospatial, and executive function; attention often spared

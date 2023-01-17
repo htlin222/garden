@@ -1,23 +1,23 @@
+---
+title: α1-antitrypsin deficiency
+---
+# α1-antitrypsin deficiency
 
-s
+early-onset panacinar emphysema 
+or signif basilar disease, 
 
-s
+1–3% of COPD cases. 
+Suspect if age <45, 
 
-ss
-ssss
+lower lungs affected, 
 
-ss
-s
+## extrathoracic manifestations 
+* liver disease 
+* [not if heterozygote MZ], 
+* FMD = [[Fibromuscular dysplasia]] 
+* pancreatitis
 
-s
+---
 
-ss
-ss
-
-sss
-s
-
-
-
-s
-s
+✓ serum A1AT level 
+(nb, acute phase reactant).

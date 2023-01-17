@@ -1,20 +1,20 @@
+---
+title: Further coagulation tests
+---
+# Further coagulation tests
 
-ss
+(JAMA 2016;316:2146)
 
-ss
+* Mixing study: useful if ↑ PT or PTT; mix Pt’s plasma 1:1 w/ normal plasma and retest
 
+PT/PTT normalizes → factor deficiency; PT/PTT remains elevated → factor inhibitor
 
+* Coagulation factor levels: useful if mixing study suggests factor deficiency
 
-ssssss
+DIC → all factors consumed; ∴ ↓ factors V and VIII
 
-ss
+Liver disease → ↓ all factors except VIII; ∴↓ factor V, normal factor VIII
 
-ssssss
+Vitamin K deficiency → ↓ factors II, VII, IX, X (and protein C, S); ∴ normal V and VIII
 
-sss
-
-sss
-
-s
-
-ssssssssss
+* DIC screen: ↓ fibrinogen (consumed), fibrin degradation products (FDPs, ⊕ from intense fibrinolysis), ↑ D-dimer (more specific FDP test that detects degradation of X-linked fibrin)

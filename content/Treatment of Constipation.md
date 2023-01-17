@@ -1,25 +1,25 @@
+---
+title: Treatment of Constipation
+---
+# Treatment of Constipation
 
-s
+## 1st line
+↑ fluid, fiber,
+exercise;
+emollient laxative (docusate) to soften stool.
 
-s
+## 2nd line:
+* Bulk laxatives (psyllium, methylcellulose) to ↑ colonic residue,
+* ↑ peristalsis.
+* Stimulant laxatives (senna, castor oil, bisacodyl) to ↑ motility & secretion.
+* Osmotic laxatives (Mg, NaPO4 [avoid in CKD], PEG) to ↑ H2O in colon.
 
-s
+## 3rd line:
+Enema/suppository (phosphate, mineral oil, tap water, soapsuds, bisacodyl)
 
-s
-sss
+## After above failed:
+* linaclotide ↑ stool freq, ↓ straining/bloating (Am J Gastro 2018;113:105).
 
+* Lubiprostone (↑ secretion); methylnaltrexone and alvimopan for opioid-induced.
 
-ssss
-sss
-sssss
-ss
-
-
-sssssss
-
-
-sss
-
-ss
-
-sss
+* Plecanitide (cGMP agonist) for chronic idiopathic constipation (Gastroenterol 2016;150:S317)

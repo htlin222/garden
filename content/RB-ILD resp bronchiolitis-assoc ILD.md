@@ -1,6 +1,6 @@
+---
+title: RB-ILD resp bronchiolitis-assoc ILD
+---
+# RB-ILD resp bronchiolitis-assoc ILD
 
-ssss
-
-ssss
-
-ssss
+Bronchial thickening, centrilobular nodules, patchy ground-glass opacities; upper lobe predom. Mφ in alveoli.

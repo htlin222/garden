@@ -1,15 +1,15 @@
+---
+title: deep vein thrombosis
+date: "2023-01-11"
+enableToc: false
+---
 
-ss
+> [!info]
+> 🌱 來自: [[venous thromboembolism]]
 
-s
+# deep vein thrombosis
 
-
-
-ss
-
-ss
-
-ss
-ss
-sss
-sss
+* [[Clinical manifestations—DVT]]
+* [[Simplified Wells Pretest Probability Scoring of DVT]]
+* [[Diagnostic studies—DVT]]
+* ![Approach to suspected DVT](https://i.imgur.com/0CYHzpC.png)

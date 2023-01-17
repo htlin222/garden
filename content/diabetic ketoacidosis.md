@@ -1,10 +1,10 @@
+---
+title: diabetic ketoacidosis
+---
+# diabetic ketoacidosis
 
-ss
-
-ss
-
-ssss
-sss
-ssss
-sssss
-
+[[Precipitants-diabetic ketoacidosis]] (the I’s)
+[[Pathophysiology-diabetic ketoacidosis]]
+[[Clinical manifestations-diabetic ketoacidosis]]
+[[Diagnostic studies-diabetic ketoacidosis]]
+[[Treatment of DKA]]

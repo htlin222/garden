@@ -1,10 +1,10 @@
+---
+title: anaphylaxis
+---
+# anaphylaxis
 
-s
-
-s
-
-ss
-sss
-s
-sss
-
+* [[Definition and pathophysiology-anaphylaxis]]
+* [[Diagnosis-anaphylaxis]]
+* [[Treatment-anaphylaxis]]
+* [[Disposition-anaphylaxis]]
+* [[Angioedema]]

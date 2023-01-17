@@ -1,9 +1,9 @@
+---
+title: Diabetic Foot Infection
+---
+# Diabetic Foot Infection
 
 
-
-
-
-
-
-sss
-
+----
+來自: [[infectious disease]]
+----

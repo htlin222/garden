@@ -1,6 +1,6 @@
+---
+title: Cameron’s lesions
+---
+# Cameron’s lesions
 
-sss
-
-sss
-
-ss
+Linear erosions in hiatal hernia due to mech trauma of diaphragm

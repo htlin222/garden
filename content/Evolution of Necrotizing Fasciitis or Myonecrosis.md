@@ -1,8 +1,8 @@
+---
+title: Evolution of Necrotizing Fasciitis or Myonecrosis
+---
+# Evolution of Necrotizing Fasciitis or Myonecrosis
 
-ssss
+## ![Defined Portal of Entry](https://i.imgur.com/4aHTBxf.jpg)
 
-ssss
-
-s
-
-s
+## ![No Defined Portal of Entry](https://i.imgur.com/dyxiRgF.jpg)

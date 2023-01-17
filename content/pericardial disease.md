@@ -1,19 +1,19 @@
+---
+title: pericardial disease
+---
+# pericardial disease
 
-ss
+Anatomy
+* 2-layered (parietal & visceral) tissue sac surrounding heart & proximal great vessels
+Disease states
+* Inflammation (w/ or w/o fluid accumulation) → pericarditis
+* Fluid accumulation → effusion ± tamponade
+* Decrease in compliance (sequela of inflammation) → constrictive pericarditis
+* Tamponade and constriction characterized by increased ventricular interdependence
 
-ss
+* [[pericarditis and pericardial effusion]]
+* [[pericardial tamponade]]
+* [[constrictive pericarditis]]
 
-
-ssssssss
-ssss
-s
-s
-ssss
-ss
-
-ss
-
-ss
-
-
-sssss
+## Treatment
+* Diuresis if intravascular volume overload; surgical pericardiectomy if infectious or advanced

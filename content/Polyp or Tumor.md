@@ -1,6 +1,6 @@
+---
+title: Polyp or Tumor
+---
+# Polyp or Tumor
 
-
-
-
-
-sss
+Typically slow ooze, p/w fatigue, weight loss, iron deficiency, anemia

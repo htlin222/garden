@@ -1,14 +1,14 @@
+---
+title: Classification-autoimmune hepatitis  AIH 
+---
+# Classification-autoimmune hepatitis (AIH)
 
-sss
+(J Hep 2015;62:S100, World J Gastro 2015;21:60)
 
-sss
+* Type 1: anti-smooth muscle Ab (ASMA), ANA; anti-soluble liver antigen (anti-SLA), a/w more severe disease and relapsing disease (found in 10–30% Pts), IgG often ↑
 
-s
+* Type 2: anti-liver/kidney microsome 1 (anti-LKM1); anti-liver cytosol type 1 (anti-LC-1)
 
-ssssssssss
+* Overlap syndrome: AIH + PBC (suspect if ⊕ AMA or ⊕ histology → “autoimmune cholangitis”)
 
-ss
-
-sssss
-
-ss
+* Drug-induced: minocycline, nitrofurantoin, infliximab, hydralazine, α-methyldopa, statins

@@ -1,8 +1,8 @@
+---
+title: Myelophthisic anemia
+---
+# Myelophthisic anemia
 
-s
+(see also “Primary Myelofibrosis”)
 
-s
-
-ssss
-
-sssssssssssss
+* Infiltration of bone marrow by cancer (commonly metastatic solid tumors), leukemia, infection, fibrosis (primary myelofibrosis), granulomas, lysosomal storage disorders

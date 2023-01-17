@@ -1,17 +1,17 @@
+---
+title: Asthma plus syndromes
+---
+# Asthma plus syndromes
 
-ssss
 
-ssss
+* Atopy = asthma + allergic rhinitis + atopic dermatitis
 
+* Aspirin-exacerbated respiratory disease (Samter’s syndrome) = asthma + ASA sensitivity + nasal polyps (J Allergy Clin Immunol 2015;135:676)
 
-sss
+* ABPA = asthma + pulmonary infiltrates + hypersensitivity to Aspergillus (Chest 2009;135:805)
 
-sssssssssss
+Dx: ↑ IgE to Asperg. & total (>1000), ↑ Asperg. IgG levels, ↑ eos, central bronchiectasis
 
-sssssss
+Rx: steroids ± itra-/voriconazole for refractory cases (NEJM 2000;342:756)
 
-ssssss
-
-ssss
-
-ssssssssssss
+* Eosinophilic granulomatosis w/ polyangiitis (EGPA, previously Churg-Strauss) = asthma + eosinophilia + granulomatous vasculitis

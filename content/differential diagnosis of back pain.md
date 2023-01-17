@@ -1,22 +1,22 @@
+---
+title: differential diagnosis of back pain
+date: "2023-01-09"
+---
 
-ss
+ from: [[back and spinal cord disease]]
+# differential diagnosis of back pain
 
+* [[Musculoskeletal ddx of back pain]]
 
+* Spinal cord (myelopathy) nerve root (radiculopathy):
 
-sss
-ss
+* Degenerative/traumatic: disc herniation, foraminal or lumbar stenosis, spondylolisthesis
 
-ss
+* Neoplastic: lung, breast, prostate, RCC, thyroid, colon, multiple myeloma, lymphoma
 
+* Infectious: osteomyelitis/discitis, epidural abscess, zoster, Lyme, CMV, HIV, spinal TB
 
+* Vascular: spinal cord ischemia, dural AV fistula
 
-ssssssss
-
-sss
-
-ssssssssss
-
-ssss
-
-sss
+* [[referred pain from visceral disease of back pain]] 
 

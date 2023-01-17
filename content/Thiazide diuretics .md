@@ -1,20 +1,20 @@
-
-s
-
-s
-
-
+---
+title: Thiazide diuretics 
+---
+# Thiazide diuretics 
 
 
-s
+ (JASN 2017;28:3414)
 
-sss
+* Drugs: hydrochlorothiazide (HCTZ), chlorothiazide (Diuril), metolazone (Zaroxolyn)
 
-ssss
+* Mech: inhib Na-Cl cotransporter in the distal convoluted tubule (DCT); 5% Na reabsorp
 
-sss
+synergistic with loop diuretic, esp. if chronic loop use
 
-s
+↓ effect when GFR <30, except metolazone, which is still effective in renal insufficiency
 
-sssss
+* Dosing: give 30 min prior to loop diuretic
+
+* Adverse effects: ↓ Na, ↓ K, ↓ Mg, ↑ Ca, HLD, pancreatitis, ↑ glc, hypersensitivity
 

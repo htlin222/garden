@@ -1,109 +1,109 @@
+---
+title: restrictive infiltrative
+---
+# restrictive infiltrative
 
-s
+## Definition (JACC 2018;71:1130 & 1149)
 
-s
+* Restrictive CMP: ↓ ventricular filling with ↓ compliance in nonhypertrophied, nondilated ventricles; nl/↓ diastolic volumes, nl or near-nl EF; must r/o pericardial disease
 
+* Infiltrative CMP: myocardial deposition; ± ↑ wall thickness; may present as RCM or DCM
 
+## Etiologies (JACC 2018;71:1130 & 1149)
 
-sssssss
+* Amyloidosis: age at presentation ~60 y; ♂:♀ = 3:2
 
-sssss
+AL (eg, MM, etc.); familial (transthyretin, ATTR-m); senile (ATTR-wt)
 
-s
+ECG: ↓ QRS amplitude (50%), pseudoinfarction pattern (Qw), AVB (10–20%), hemiblock (20%), BBB (5–20%)
 
-sss
+Echo: biventricular wall thickening (yet w/ low voltage on ECG), granular sparkling (30%), biatrial enlargement (40%), valve thickening, small effusions
 
-ss
+Normal ECG voltage & septal thickness has NPV ~90%
 
-s
+Cardiac MRI: distinct late gadolinium enhancement pattern (JACC 2008;51:1022)
 
-ssss
+* Sarcoidosis (can also be DCM): presents at age ~30 y; ↑ in blacks, N. Europe, ♀
 
-ssss
+Cardiac involvement in 25–58% of sarcoid, many not overt; cardiac w/o systemic in 10%
 
-s
+ECG: AVB (75%), RBBB (20–60%), VT; PET: ↑ FDG uptake in affected area
 
-ssssss
+Echo: regional WMA (particularly basal septum) w/ thinning or mild hypertrophy
 
-sss
+Cardiac MRI: T2 early gad (edema); fibrosis/scar in basal septum; LGE prognostic
 
+* Other myocardial processes
 
+Hemochromatosis: often middle-aged men (espec N. European); 15% w/ cardiac sx
 
-ss
+Diabetes; radiation (also accelerated athero, valvular disease, constrictive pericarditis)
 
-ssssss
+Autoimmune (scleroderma, polymyositis-dermatomyositis)
 
-sss
+* Endomyocardial diseases: carcinoid heart disease (R-sided HF w/ TR/TS, PR/PS); Löffler’s endocarditis (↑ eos; mural thrombi that can embolize; fibrosis); endomyocardial fibrosis (tropical climates; resembles Löffler’s but w/o eos)
 
-ssss
+* Storage diseases: Fabry (glycosphingolipids); Gaucher (glucocerebrosidase)
 
-ssssss
+Pathophysiology
 
-sssss
+* ↓ myocardial compliance → nl EDV but ↑ EDP → ↑ systemic & pulm. venous pressures
 
-ssssssssssssssssss
+* ↓ ventricular cavity size → ↓ SV and ↓ CO
 
-sssssss
+Clinical manifestations (JACC 2018;71:1130 & 1149)
 
-s
+* Right-sided >left-sided heart failure with peripheral edema >pulmonary edema
 
-ssssss
+* Diuretic “refractoriness”; thromboembolic events
 
-s
+* Poorly tolerated tachyarrhythmias; VT → syncope/sudden cardiac death
 
-ss
+Physical exam
 
-ss
+* ↑ JVP, ± Kussmaul’s sign (JVP not ↓ w/ inspir., classically seen in constrict. pericarditis)
 
-sss
+* Cardiac: ± S3 and S4, ± murmurs of MR and TR
 
-sss
+* Congestive hepatomegaly, ± ascites and jaundice, peripheral edema
 
-s
+Diagnostic studies
 
-ssssssssss
+* CXR: normal ventricular chamber size, enlarged atria, ± pulmonary congestion
 
-s
+* ECG: low voltage, pseudoinfarction pattern (Qw), ± arrhythmias
 
-sss
+* Echo: ± symmetric wall thickening, biatrial enlarge., ± mural thrombi, ± cavity oblit. w/ diast dysfxn: ↑ early diast (E) and ↓ late atrial (A) filling, ↑ E/A ratio; ↓ mitral annular velocity (e′) on tissue Doppler, ↑ E/e′ ratio
 
-sss
+* Cardiac MRI/PET: may reveal inflammation or evidence of infiltration (but nonspecific)
 
-ss
+* Amyloid (qv) workup: ✓ for plasma cell dyscrasia (immunofix. & serum free light chains). If ⊕ → fat pad bx. If ⊖ → PYP SPECT for TTR evaluation (not AL).
 
-ss
+* Endomyocardial biopsy if suspect amyloid (Se ~100%) & noninvasive tests non-dx. Se low for sarcoidosis b/c patchy disease infiltrative process.
 
-ssssss
+* Cardiac catheterization
 
-s
+Atria: M’s or W’s (prominent x and y descents)
 
-sssss
+Ventricles: dip & plateau (rapid ↓ pressure at onset of diastole, rapid ↑ to early plateau)
 
-sssssssssssss
+Concordance of LV–RV pressure peaks w/ respiration (vs. discordance in constriction)
 
+* Restrictive cardiomyopathy vs. constrictive pericarditis: see “Pericardial Disease”
 
+Treatment (in addition to Rx’ing underlying disease)
 
-ssss
+* Gentle diuresis. May not tolerate CCB or other vasodilators.
 
-sssss
+* Control HR (but can ↓ CO); maintain SR (helps filling). Digoxin ↑ arrhythmias in amyloid.
 
-sssssss
+* Anticoagulation (particularly with AF or low CO)
 
-sssssss
+* Transplantation for refractory cases
 
-ss
+* AL amyloid: Rx targeted at plasma cell dyscrasia
 
-ssss
+* ATTR amyloid: tafamidis (TTR binder) ↓ death and CV hosp, ↑QoL (NEJM 2018;379:1007)
 
-ss
-
-
-
-sss
-
-sss
-
-ss
-
-sssssss
+* Sarcoid: consider steroids/immunomodulators if FDG PET ⊕ for inflammation + AVB, VT or LV dysfxn; ↑ risk for VT; unique indications for ICD placement (Circ 2018;138:e272)
 

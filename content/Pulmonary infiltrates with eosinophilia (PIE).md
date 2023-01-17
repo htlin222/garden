@@ -1,16 +1,16 @@
+---
+title: Pulmonary infiltrates with eosinophilia  PIE 
+---
+# Pulmonary infiltrates with eosinophilia (PIE)
 
-ss
+eos on BAL é peripheral blood
 
-ss
+* Allergic bronchopulmonary aspergillosis (ABPA)
 
-s
+* EGPA
 
-sss
+* Löffler’s syndrome: parasites/drugs → transient pulm infilt + cough, fever, dyspnea, eos
 
+* Acute eosinophilic PNA (AEP): acute hypox febrile illness; Rx: steroids, tobacco cessation
 
-
-ssssssss
-
-sssssss
-
-s
+* Chronic eosinophilic pneumonia (CEP): “photonegative” of CHF, typically in women

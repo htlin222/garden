@@ -1,19 +1,19 @@
+---
+title: Streptococcus gallolyticus
+date: "2023-01-16"
+enableToc: false
+---
 
-ss
+> [!info]
+>
+> 🌱 來自: [[Major clinical criteria]]
 
-s
+# Streptococcus gallolyticus
 
+> [!info]
+>
+> Streptococcus gallolyticus (Sg), previously known as Streptococcus bovis
 
+Streptococcus bovis/Streptococcus equinus complex (SBSEC; formerly group D streptococci)
 
-
-
-
-ss
-
-
-
-ssssss
-
-sssss
-
-ssssssssssssssssss
+[Infections due to Streptococcus bovis/Streptococcus equinus complex (SBSEC; formerly group D streptococci) - UpToDate](https://www.uptodate.com/contents/infections-due-to-streptococcus-bovis-streptococcus-equinus-complex-sbsec-formerly-group-d-streptococci)

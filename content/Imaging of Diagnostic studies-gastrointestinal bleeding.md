@@ -1,16 +1,16 @@
+---
+title: Imaging of Diagnostic studies-gastrointestinal bleeding
+---
+# Imaging of Diagnostic studies-gastrointestinal bleeding
 
-sssss
+if too unstable for endo or recurrent bleeding, consider IR embolization or surgery
 
-sssss
+tagged RBC scan: 
+can identify general luminal location if bleeding rate ≥0.04 mL/min
 
-sss
+CT angiography: 
+faster to obtain than RBC scan, detects bleeding ≥0.3 mL/min
 
-s
-
-
-
-sss
-
-
-ssss
+arteriography: 
+can localize exact vessel if bleeding rates ≥0.5 mL/min, allows for IR Rx
 
