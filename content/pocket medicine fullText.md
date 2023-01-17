@@ -1,9 +1,4 @@
----
-title: → periph blood plt count ~10,000 plt for every 1 plt seen at hpf  100× 
-aliases: [→ periph blood plt count ~10, 000 plt for every 1 plt seen at hpf (100×)]
-linter-yaml-title-alias: → periph blood plt count ~10,000 plt for every 1 plt seen at hpf (100×)
----
-ELECTROCARDIOGRAPHY
+LECTROCARDIOGRAPHY
 
 
 Approach (a systematic approach is vital)
@@ -28289,9 +28284,7 @@ Toxic granules (coarse, dark blue) and Döhle bodies (blue patches of dilated en
 
 Platelet
 
-Clumping → artifact, repeat plt count
-
-seen at hpf (100×)
+Clumping → artifact, repeat plt → periph blood plt count ~10,000 plt for every 1 plt seen at hpf (100×)
 
 Size → MPV (mean platelet volume) enlarged in ITP
 

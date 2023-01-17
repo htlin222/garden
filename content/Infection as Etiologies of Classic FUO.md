@@ -8,6 +8,6 @@ Tuberculosis: disseminated or extrapulm. disease can have normal CXR, PPD/IGRA, 
 
 Endocarditis: if blood cxs neg consider Bartonella, Coxiella, et al.
 
-Abscess: dental, paraspinal, hepatic, splenic, subphrenic, pancreatic, -perinephric, pelvic, prostatic abscess or prostatitis, appendicitis
+Abscess: dental, paraspinal, hepatic, splenic, subphrenic, pancreatic, -perinephric, pelvic, prostatic abscess or [[prostatitis]], appendicitis
 
-Osteomyelitis, sinusitis, typhoid, 1° CMV or EBV, malaria, Babesia
+[[Osteomyelitis]], sinusitis, typhoid, 1° CMV or EBV, malaria, Babesia

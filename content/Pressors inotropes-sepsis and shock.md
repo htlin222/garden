@@ -13,4 +13,4 @@ ssors inotropes-sepsis and shock
 * If refractory vasoplegia: angiotensin II (Giaprezza), methylene blue, steroids (vide infra)
 
 * If targets (see below) not reached after adequate fluids and pressors, consider inotropes
-[[Targets-sepsis and shock]]
+	* [[Targets-sepsis and shock]]

@@ -18,7 +18,7 @@ enableToc: false
 
 
 * [[clinical reasoning]]
-* ⚡[[ICU]]
+* [[ICU]] 😳
 * [[neurology]]
 * [[ambulatory]]
 * [[ACLS]]

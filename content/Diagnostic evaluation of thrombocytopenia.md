@@ -22,3 +22,7 @@ if anemia: ✓ reticulocyte count, LDH, haptoglobin, bilirubin to detect hemolys
 if hemolytic anemia: ✓ PT, PTT, fibrinogen, D-dimer, Coombs, ANA
 
 BM bx for unexplained thrombocytopenia, esp. if associated with splenomegaly
+
+
+
+- [[platelet disorders]]

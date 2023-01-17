@@ -24,7 +24,7 @@ sident 360 topics
 * Tuberculosis
 * Clostridium difficile Infection
 * Tick-Borne Diseases
-* Epidural Abscess and Vertebral Osteomyelitis, Meningitis/Encephalitis (Neurology)
+* Epidural Abscess and [[vertebral osteomyelitis]], Meningitis/Encephalitis (Neurology)
 * Endocarditis (Cardiology)
 * Sexually Transmitted Infections (Women's Health)
 

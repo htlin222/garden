@@ -19,5 +19,11 @@ sorders
 sorders of platelet function
 * [[Mechanisms and Etiologies of Platelet Function Abnormalities]]
 * Platelet aggregation tests: measure aggregation in response to agonists (eg, ADP)
-* [[von Willebrand’s disease (vWD)]] 
+* [[von Willebrand’s disease (vWD)]]
 * [[Uremic bleeding]]
+
+
+
+- [[Diagnostic evaluation of thrombocytopenia]]
+- [[hematology]]
+- [[Microangiopathic hemolytic anemia]]

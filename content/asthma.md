@@ -8,6 +8,7 @@ sthma
 * [[Physical examination]]
 * [[Diagnostic studies]]
 * [[differential diagnosis]]
+* [[differential diagnosis]]
 * [[Asthma plus syndromes]]
 
 

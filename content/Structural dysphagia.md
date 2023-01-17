@@ -6,17 +6,17 @@ sphagia
 (solids >liquids; JAMA 2015;313:18; Gastro 2018;155:1022)
 
 
-* Zenker’s divertic. (pharyngeal pouch): in elderly, a/w aspir., dx w/ video fluoro, Rx endo/surg
+* [[Zenker’s divertic]]. (pharyngeal pouch): in elderly, a/w aspir., dx w/ video fluoro, Rx endo/surg
 * Malignancy; proximal strictures/rings/webs; infection; radiation injury; goiter; osteophytes
- 
+
 sophageal
 * Rings (intermittent dysphagia, concentric obstructing tissue, Schatzki ring): near GE jxn, a/w food impaction, linked to GERD; Rx w/ PPI, dilation
 * Webs: thin, partially occlusive structure, proximal, a/w Fe defic. (Plummer-Vinson synd.)
 * Peptic or XRT strictures, foreign body, tumor, vascular rings (dysphagia lusoria), compression from dilated left atrium compression
 * Infxn esophagitis: odynophagia >dysphagia; often immunosupp w/ Candida, HSV, CMV
 * Pill esophagitis: odynophagia >dysphagia; NSAID, KCl, bisphosp., doxy & tetracycline
-* [[Eosinophilic esophagitis]] 
-* 
+* [[Eosinophilic esophagitis]]
+*
 **Esophageal Dysphagia:** The causes of esophageal dysphagia can be categorized as structural disorders or motility disorders.
 
 -   **Structural disorders** include the following:
@@ -30,5 +30,5 @@ sophageal
         -   Schatzki ring
     -   food impaction
 -   **Motility disorders** can be categorized as primary and secondary esophageal motility disorders as defined in the following table.
- 
+
 scular dysphagia]]
