@@ -11,15 +11,17 @@ title: nephrology
 * [[nephrolithiasis]]
 
 * Acute Kidney Injury (AKI)
-Chronic Kidney Disease (CKD) and End-Stage Kidney Disease (ESKD)
+[[chronic kidney disease]] (CKD) and [[end-stage kidney disease]] (ESKD)
 * [[Glomerular Diseases]]
 * Disorders of Sodium Homeostasis
 [[Kidney]] Transplant Immunosuppression
 Kidney Stones
 
 Additional topics are covered in the following rotation guides:
+
 ---
+
 Acid/Base Disorders (Critical Care)
 Hypertension (Ambulatory Care)
 Urinary Tract Infection, Opportunistic Infections in Transplant (Infectious Diseases)
-Abdominopelvic Emergencies (Emergency Medicine)
+[[abdominopelvic emergencies]] (Emergency Medicine)

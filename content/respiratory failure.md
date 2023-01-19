@@ -10,7 +10,7 @@ R → L shunt, anatomic (congenital heart dis) or severe pathophys (alveoli fill
 V/Q mismatch where “shunt-like” areas (↓ V & nl Q) cause unoxygenated blood to mix with oxygenated blood; can be overcome w/ ↑ O2 delivery
 Diffusion limitation: generally seen with exercise/↑CO
 
-[[Workup of acute hypoxemia]]
-[[Approach to oxygenation, hypoxemia, and hypoxemic respiratory failure]]
-[[Chemical Causes of Cellular Hypoxia]]
-[[Etiologies of High elevated PaCO2]]
+* [[Workup of acute hypoxemia]]
+* [[Approach to oxygenation, hypoxemia, and hypoxemic respiratory failure]]
+* [[Chemical Causes of Cellular Hypoxia]]
+* [[Etiologies of High elevated PaCO2]]

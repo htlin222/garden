@@ -4,15 +4,12 @@ title: hypothyroidism
 # hypothyroidism
 
 ## Etiologies
-* Primary (>90% of cases of hypothyroidism; ↓ free T4, ↑ TSH)
-Goitrous: Hashimoto’s thyroiditis (after hyperthyroid phase of thyroiditis), iodine deficiency, lithium, amiodarone
+* Primary (**>90%** of cases of hypothyroidism; ↓ free T4, ↑ TSH)
+Goitrous: [[Hashimoto’s thyroiditis]] (after hyperthyroid phase of thyroiditis), iodine deficiency, lithium, amiodarone
 Nongoitrous: surgical destruction, s/p radioactive iodine or XRT, amiodarone
 * Secondary (central): ↓ free T4; TSH low, inappropriately nl, or slightly high (although functionally inactive due to abnormal glycosylation); due to hypothalamic or pituitary failure
 
 ## Hashimoto’s thyroiditis
-* Autoimmune destruction with diffuse lymphocytic infiltration
-* Associated with other autoimmune disease and may be part of APS Type II
-* ⊕ antithyroid peroxidase (anti-TPO) and antithyroglobulin (anti-Tg) Abs in >90%
 
 ## Clinical manifestations (Annals 2020;173:ITC1)
 * Early: weakness, fatigue, arthralgias, myalgias, headache, depression, cold intolerance, weight gain, constipation, menorrhagia, dry skin, coarse brittle hair, brittle nails, carpal tunnel syndrome, delayed DTRs (“hung up” reflexes), diastolic HTN, hyperlipidemia

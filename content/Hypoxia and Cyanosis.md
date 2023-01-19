@@ -11,3 +11,7 @@ title: Hypoxia and Cyanosis
 * Increeased o2 requirments
 
 [[cynosis]]
+
+### Backlink：
+
+- [[Alterations in Circulatory and Respiratory Functions]]

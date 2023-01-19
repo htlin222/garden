@@ -14,19 +14,20 @@ title: medical
 *   [[endocrinology]] 🐼
 *   [[rheumatology]] 🤡
 
-## 內科的其他知識
+## 內科的其他知識 🤔
 
-*   [[clinical reasoning]]
-*   [[ICU]] 😳
-*   [[neurology]]
-*   [[ambulatory]]
-*   [[ACLS]]
+*   [[clinical reasoning]] 💡
+*   [[critical care]] 😭
+*   [[neurology]] 🧠
+*   [[ambulatory]] 🚶
+*   [[ACLS]] 😵
 *   [[emergency medicine]]
 *   [[POCUS]]
 *   [[geriatrics]]
 *   [[pain and palliative care]]
+*	[[resident360]]
 
-## 其他科
+## 其他次專科
 
 *   [[dermatology]]
 *   [[ophthalmic]]

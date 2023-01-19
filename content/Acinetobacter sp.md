@@ -16,3 +16,4 @@ aerobic non-fermentative coccobacilary gram negative bacilli
 - sub-theraputic serum concentrations in bacteremia
 - increased risk of all cause mortality
 
+[[IDSA Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections]]

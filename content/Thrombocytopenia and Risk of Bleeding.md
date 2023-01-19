@@ -1,7 +1,8 @@
 ---
 title: Thrombocytopenia and Risk of Bleeding
 ---
-## Thrombocytopenia and Risk of Bleeding
+
+# Thrombocytopenia and Risk of Bleeding
 
 ## 50,000–100,000
 

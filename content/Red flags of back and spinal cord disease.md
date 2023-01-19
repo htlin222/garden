@@ -3,7 +3,7 @@ title: Red flags of back and spinal cord disease
 date: "2023-01-09"
 ---
 
- from: [[back and spinal cord disease]]
+ from: [[back pain]]
 # Red flags of back and spinal cord disease
 
 1. acute change (pain, weakness),

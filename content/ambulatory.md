@@ -5,7 +5,7 @@ title: ambulatory
 
 Acute Respiratory Tract Infection
 Dizziness
-[[Low Back Pain]]
+[[low back pain]]
 Hypertension
 Hypercholesterolemia
 Cancer Screening

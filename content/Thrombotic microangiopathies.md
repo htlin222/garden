@@ -7,10 +7,10 @@ title: Thrombotic microangiopathies
 > Endothelial injury → plt aggreg. & microvasc. thrombosis → ↓ plt & RBC hemolysis (MAHA)
 
 ## [[Diagnosis of Thrombotic microangiopathies]]
-## [[Thrombotic thrombocytopenic purpura (TTP)]]
-## [[Hemolytic-uremic syndrome]] (HUS)
+## [[thrombotic thrombocytopenic purpura]]
+## [[hemolytic-uremic syndrome]] (HUS)
 ## [[atypical hemolytic uremic syndrome]] (aHUS)
-## [[Drug-induced TMA]]
+## [[drug-induced TMA]]
 
 ---
 

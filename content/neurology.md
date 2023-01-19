@@ -11,9 +11,9 @@ title: neurology
 * [[stroke]]
 * [[weakness and neuromuscular dysfunction]]
 * [[headache]]
-* [[back and spinal cord disease]]
+* [[back pain]]
 	* [[spinal cord compression]]
 	* [[nerve root compression]]
 * [[head injury]]
- 
+
 ## part 4: [[neurologic critical care]]

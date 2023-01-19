@@ -14,3 +14,7 @@ title: Hypervolemic hypotonic hyponatremia
 * Nephrotic syndrome (hypoalbuminemia → edema → ↓ EAV; UNa <10 mEq/L, FENa <1%)
 
 * Advanced renal failure (diminished ability to excrete free H2O; UNa >20 mEq/L)
+
+### Backlink：
+
+- [[hyponatremia]]

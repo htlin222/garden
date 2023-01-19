@@ -1,7 +1,15 @@
 ---
-title: ICU
+title: critical care
+date: "2023-01-18"
+enableToc: false
 ---
-# ICU
+
+> [!info]
+>
+> 🌱 來自: [[resident360]]
+
+# critical care #🚧 施工中
+
 ## Resident 360
 * [[sepsis and shock]]
 * [[respiratory failure]]
@@ -9,7 +17,7 @@ title: ICU
 * [[acute respiratory distress syndrome]]
 * [[Resuscitation Fluids and Transfusion]]
 * [[acid-base disturbances]]
-* [[Sedation and Delirium]]
+* [[sedation]] and [[delirium]]
 * [[Nutrition in the ICU]]
 * [[Hyperglycemic Emergencies]] (Endocrinology)
 * [[disseminated intravascular coagulation]] (Hematology)

@@ -3,7 +3,8 @@ title: differential diagnosis of back pain
 date: "2023-01-09"
 ---
 
- from: [[back and spinal cord disease]]
+from: [[back pain]]
+
 # differential diagnosis of back pain
 
 * [[Musculoskeletal ddx of back pain]]
@@ -18,5 +19,5 @@ date: "2023-01-09"
 
 * Vascular: spinal cord ischemia, dural AV fistula
 
-* [[referred pain from visceral disease of back pain]] 
+* [[referred pain from visceral disease of back pain]]
 

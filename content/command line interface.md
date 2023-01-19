@@ -10,6 +10,6 @@ enableToc: false
 
 # command line interface
 
-[[regex]]
-[[vim]]
+* [[regex]]
+* [[vim]]
 

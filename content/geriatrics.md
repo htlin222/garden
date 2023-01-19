@@ -4,17 +4,17 @@ title: geriatrics
 # geriatrics
 The topics covered are organized as follows:
 
-Falls
-Frailty
-Dementia
-Delirium
-Medication Management
-Geriatric Assessment
+falls
+frailty
+dementia
+delirium
+medication management
+geriatric assessment
 
-Other important topics related to geriatrics are covered in the following rotation guides:
+## other important topics related to geriatrics are covered in the following rotation guides:
 
-Palliative Care
-Delivering Bad News (Patient Communication)
-ICU Delirium (Critical Care)
-Depression, Anxiety (Mental Health)
-Symptom Management (Oncology)
+palliative care
+delivering bad news (patient communication)
+ICU delirium (Critical Care)
+depression, Anxiety (Mental Health)
+symptom management in oncology

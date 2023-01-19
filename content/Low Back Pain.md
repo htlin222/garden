@@ -6,6 +6,7 @@ cards-deck: Medical
 ---
 
 > [!info]
+>
 > 🌱 來自: [[ambulatory]]
 
 # Low Back Pain
