@@ -1,4 +1,5 @@
-baseURL = "https://htlin222.github.io/garden/"
+baseURL = "https://www.physician.tw/"
+# baseURL = "https://htlin222.github.io/garden/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
