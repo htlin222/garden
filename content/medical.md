@@ -2,10 +2,12 @@
 title: medical
 ---
 
+![🏞️](https://i.imgur.com/QqGaJCw.jpg)
+
 # 歡迎來到🦎的Medical Wiki
 
 *   [[cardiology]] 🫀
-*   [[pulmonary]] 🫁
+*   [[pulmonology]] 🫁
 *   [[gastroenterology]] 💩
 *   [[nephrology]] 🚽
 *   [[hematology]] 🩸
@@ -17,6 +19,7 @@ title: medical
 ## 內科的其他知識 🤔
 
 *   [[clinical reasoning]] 💡
+*   [[Practical Skills for Learners]]
 *   [[critical care]] 😭
 *   [[neurology]] 🧠
 *   [[ambulatory]] 🚶
@@ -36,11 +39,12 @@ title: medical
 *   [[radiology]]
 *   [[mental health]]
 *   [[surgical issues]]
+*	[[psychiatric]]
 *
 
 ## EBM
-* medical statistics
-*
+* [[clinical trials]]
+* [[statistical concepts and test characteristics]]
 
 ## Draft
 

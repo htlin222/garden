@@ -17,3 +17,16 @@ title: neurology
 * [[head injury]]
 
 ## part 4: [[neurologic critical care]]
+
+[[neurology anatomy and physiology]]
+
+[[neurology diagnostics]]
+
+[[neurology approaches & chief complaints]]
+
+[[neurology diseases & pathophysiology]]
+
+[[neurology key medications & interventions]]
+
+[[neurology key clinical trials & publications]]
+

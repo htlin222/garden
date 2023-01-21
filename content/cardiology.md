@@ -39,7 +39,18 @@ title: cardiology
 * Venous Thromboembolism (VTE) and Anticoagulation (Hematology)
 * [[Targeted Temperature Management]] (Neurology)
 * Cardiopulmonary Resuscitation (CPR) (Emergency Medicine)
-*
+ 
+* [[Cardiology anatomy and physiology of cardiology]]
+
+* [[Cardiology diagnostics]]
+
+* [[Cardiology approaches and chief complaints]]
+
+* [[Cardiology diseases and pathophysiology]]
+
+* [[Cardiology key medications and interventions]]
+
+* [[Cardiology key clinical trials and publications]]
 
 ## [[cardiology reading list]]
 

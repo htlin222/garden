@@ -22,6 +22,6 @@ enableToc: false
 * [[neurology]]
 * [[oncology]]
 * [[palliative care]]
-* [[pulmonary]]
+* [[pulmonology]]
 * [[rheumatology]]
 * [[women’s health]]

@@ -17,7 +17,7 @@ title: 常見主訴的apporach
 9. [[chest pain]]
 10. [[cough, fever, and respiratory infections]]
 11. [[delirium and dementia]]
-12. [[diabetes]]
+12. [[Diabetes key clinical trials]]
 13. [[diarrhea, acute]]
 14. [[dizziness]]
 15. [[dyspnea]]

@@ -1,5 +1,5 @@
 ---
-title: pulmonary
+title: pulmonology
 ---
 # pulmonary
 * [[dyspnea]]
@@ -21,6 +21,15 @@ title: pulmonary
 * [[sepsis and shock]]
 * [[toxicology]]
 * [[lung transplant]]
+
+
+* [[pulmonology anatomy and physiology]]
+* [[pulmonology diagnostics]]
+* [[pulmonology approaches and chief complaints]]
+* [[pulmonology diseases and pathophysiology]]
+* [[pulmonology key medications and interventions]]
+* [[pulmonology key clinical trials and publications]]
+
 
 ## [[pulmonary reading list]]
 

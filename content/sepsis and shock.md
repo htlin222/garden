@@ -22,6 +22,6 @@ title: sepsis and shock
 - [[Fluids-sepsis and shock]]
 - [[ICU]]
 - [[Pressors inotropes-sepsis and shock]]
-- [[pulmonary]]
+- [[pulmonology]]
 - [[Steroids-sepsis and shock]]
 - [[Targets-sepsis and shock]]

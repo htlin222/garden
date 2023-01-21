@@ -24,4 +24,13 @@ Additional topics are covered in the following rotation guides:
 Acid/Base Disorders (Critical Care)
 Hypertension (Ambulatory Care)
 Urinary Tract Infection, Opportunistic Infections in Transplant (Infectious Diseases)
+
 [[abdominopelvic emergencies]] (Emergency Medicine)
+
+[[nephrology approaches and chief complaints]]
+
+[[nephrology diseases and pathophysiology]]
+
+[[nephrology key medications and interventions]]
+
+[[nephrology key clinical trials and publications]]

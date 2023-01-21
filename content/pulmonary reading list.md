@@ -6,7 +6,7 @@ enableToc: false
 
 > [!info]
 >
-> 🌱 來自: [[pulmonary]]
+> 🌱 來自: [[pulmonology]]
 
 # pulmonary reading list
 

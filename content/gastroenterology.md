@@ -19,3 +19,10 @@ title: gastroenterology
 * [[ascites]]
 * [[biliary tract disease]]
 
+* [[gastroenterology anatomy and physiology]]
+* [[gastroenterology diagnostics]]
+* [[gastroenterology approaches and chief complaints]]
+* [[gastroenterology diseases and pathophysiology]]
+* [[gastroenterology key medications and interventions]]
+* [[gastroenterology key clinical trials and publications]]
+

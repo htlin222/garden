@@ -34,3 +34,10 @@ enableToc: false
 * part 7: [[renal disorders in critical care]]
 * part 8: [[hematology and oncology in critical care]]
 
+
+* [[critical care medicine]]
+* [[critical care diseases and pathophysiology]]
+* [[critical care common complications of icu admission]]
+* [[critical care key medications and interventions]]
+* [[critical care key clinical trials and publications]]
+

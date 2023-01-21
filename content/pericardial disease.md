@@ -16,4 +16,4 @@ Disease states
 * [[constrictive pericarditis]]
 
 ## Treatment
-* Diuresis if intravascular volume overload; surgical pericardiectomy if infectious or advanced
+* Diuresis if intravascular volume overload; surgical [[pericardiectomy]] if infectious or advanced

@@ -26,4 +26,10 @@ enableToc: false
 * Clostridium difficile Infection
 * Epidural Abscess and [[vertebral osteomyelitis]], Meningitis/Encephalitis (Neurology)
 
+## others
+* [[An Approach to Diagnosing and Treating Infectious Diseases]]
+* [[infectious diseases and pathophysiology]]
+* [[infectious diseases key medications & interventions]]
+* [[infectious diseases key clinical trials & publications]]
+
 
