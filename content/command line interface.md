@@ -11,4 +11,5 @@ enableToc: false
 # command line interface
 
 * [[vim]]
+* [[command line know how]]
 

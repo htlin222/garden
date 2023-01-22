@@ -8,11 +8,7 @@ enableToc: false
 >
 > 🌱 來自: [[Endocrinology of Huppert's Notes]]
 
-# endocrinology anatomy and physiology #🚧 施工中
-
-## endocrinology anatomy and physiology
-
-
+# endocrinology anatomy and physiology
 
 [[Endocrine Axes]]
 

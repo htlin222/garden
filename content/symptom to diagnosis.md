@@ -3,7 +3,9 @@ title: 常見主訴的apporach
 ---
 # 常見主訴的apporach
 
+
 > 這是一個很好的思考練區
+> [[sxtodx]]
 
 ##
 1. [[diagnostic process]]
