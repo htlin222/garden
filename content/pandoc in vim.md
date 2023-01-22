@@ -1,6 +1,3 @@
-> \[!info\]
->
-> 🌱 來自: \[\[vim TODO\]\]
 
 # pandoc in vim #🚧 施工中
 
