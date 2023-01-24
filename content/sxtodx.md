@@ -1,3 +1,11 @@
+---
+title: sxtodx
+date: "2023-01-24"
+enableToc: false
+---
+
+# sxtodx
+
 [[I have a patient with a problem. How do I figure out the possible causes]]
 [[I have a healthy patient. How do I determine which screening tests to order]]
 [[books/sxtodx/abdominal pain]]

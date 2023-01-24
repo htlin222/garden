@@ -8,3 +8,4 @@ title: Typical Characteristics and Diagnostic Studies of Chest Pain
 ## GI Causes
 ## Musculoskeletal and Miscellaneous Causes
 
+[@hematology]

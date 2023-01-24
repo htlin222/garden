@@ -1,15 +1,11 @@
 
 # pandoc in vim #🚧 施工中
 
-`bibliography: bibliography.bib` `csl: biomed-central.csl`
-
-`pandoc --citeproc --bibliography="$HOME/Zotero/zotero_main.bib" -t markdown-citations --csl="$HOME/Zotero/styles/american-medical-association.csl" "%" -o "%"`
-
-`pandoc --citeproc --bibliography="$HOME/Zotero/zotero_main.bib" -t markdown_strict --csl="$HOME/Zotero/styles/american-medical-association.csl" "%" -o "%"`
+`pandoc --citeproc --bibliography="$HOME/Zotero/zotero_main.bib" -s -t gfm --csl="$HOME/Zotero/styles/american-medical-association.csl" "%" -o "%"`
 
 [Shell script for converting a batch of *.md files into *.rst using pandoc.](https://gist.github.com/hugorodgerbrown/5317616)
 
-<sup>1</sup>
+<schmod u+xup>1</sup>
 
 <span class="csl-left-margin">1. </span><span
 class="csl-right-inline">Tseng MH, Konrad M, Ding JJ, Lin SH. Clinical

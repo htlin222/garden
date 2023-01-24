@@ -1,23 +1,26 @@
 ---
 title: ambulatory
+date: "2023-01-23"
+enableToc: false
 ---
+
 # ambulatory
 
 Acute Respiratory Tract Infection
 Dizziness
 [[low back pain]]
-Hypertension
+[[hypertension]]
 Hypercholesterolemia
 Cancer Screening
-Vaccination
-Smoking Cessation
+[[vaccination]]
+[[smoking cessation]]
 Chronic Pain and Opioids
 
 Asthma (Pulmonology)
 Diabetes (Endocrinology)
 Thyroid Disorders (Endocrinology)
 Pneumonia (Infectious Diseases)
-Osteoarthritis (Rheumatology)
+[[osteoarthritis]] (Rheumatology)
 Headache (Neurology)
 
 ## 其他
