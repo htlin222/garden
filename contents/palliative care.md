@@ -1,5 +1,0 @@
----
-title: palliative care
----
-[[index]]
-

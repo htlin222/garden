@@ -1,6 +1,0 @@
----
-title: antibiotics
----
-# antibiotics
-
-

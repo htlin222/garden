@@ -1,6 +1,7 @@
 baseURL = "https://www.physician.tw/"
 # baseURL = "https://htlin222.github.io/garden/"
 languageCode = "zh-tw"
+defaultContentLanguage = 'zh-tw'
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [

@@ -1,5 +1,0 @@
----
-title: POCUS
----
-[[index]]
-[[icu]]

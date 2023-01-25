@@ -18,11 +18,17 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  蜥蜴的知識區
+  蜥蜴的知識與摸魚小天地
 page_title:
   "蜥蜴花園🦎🌱🪴🌲"
 links:
+  - link_name: Facebook
+    link: https://www.facebook.com/Tim.H.Lin
   - link_name: Twitter
     link: https://twitter.com/htlin222
   - link_name: GitHub
     link: https://github.com/htlin222
+  - link_name: Blog
+    link: https://htlin.site
+  - link_name: Medium
+    link: https://medium.com/@hsieh-ting-lin
