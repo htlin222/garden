@@ -15,9 +15,6 @@ enableToc: false
 **Payal K. Sanghani, MD**
 
 
-
-
-
 ### CHIEF COMPLAINT
 
 
@@ -26,9 +23,7 @@ enableToc: false
 Mr. B is a previously healthy 70-year-old man who underwent right upper lobectomy for localized squamous cell lung cancer 5 days ago. On morning rounds, he comments that he is in a military barracks and that he is ready to go home.
 
 
-
 **What is the differential diagnosis of delirium and dementia? How would you frame the differential?**
-
 
 ### CONSTRUCTING A DIFFERENTIAL DIAGNOSIS
 

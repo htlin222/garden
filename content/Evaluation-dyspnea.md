@@ -1,7 +1,10 @@
 ---
 title: Evaluation-dyspnea
+date: wwww
 ---
 # Evaluation-dyspnea
+
+> [[books/sxtodx/dyspnea]]
 
 ## History:
 quality of sensation, tempo, positional dependence, exac./allev. factors, exertion

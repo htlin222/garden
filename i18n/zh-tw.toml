@@ -1,0 +1,65 @@
+[404_message]
+other = "喔哦...... 你是不是迷路了呀..... 🦎 這個頁面並不存在（也許它未被發佈）。"
+
+[404_back]
+other = "↳ 回到主頁"
+
+[all_posts]
+other = "所有 {{.Title}}"
+
+[last_updated]
+other = "最後更新於"
+
+[notes_count]
+other = "帶有此標籤的筆記"
+
+[first_10]
+other = "正在展示前10個結果"
+
+[tag]
+other = "標籤"
+
+[backlinks]
+other = "反向連結"
+
+[no_backlinks]
+other = "沒有找到反向連結"
+
+[home]
+other = "首頁"
+
+[light_mode]
+other = "明亮模式"
+
+[dark_mode]
+other = "黑暗模式"
+
+[edit_source]
+other = "編輯原始文件"
+
+[interactive_graph]
+other = "互動圖"
+
+[search]
+other = "搜尋"
+
+[search_icon]
+other = "搜尋圖示"
+
+[icon_search]
+other = "打開搜尋圖標"
+
+[recent_notes]
+other = "近期的筆記"
+
+[first_3_notes]
+other = "前三個筆記 {{ .notes }}"
+
+[search_for_something]
+other = "搜尋中，請等一下下......"
+
+[toc]
+other = ""
+
+[copyright]
+other = "由 {{ .name }} 以❤️ 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> 创造, © {{ .year }}"

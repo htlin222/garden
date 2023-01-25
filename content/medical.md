@@ -1,5 +1,7 @@
 ---
 title: medical
+date: "2023-01-18"
+enableToc: false
 ---
 
 ![🏞️](https://i.imgur.com/QqGaJCw.jpg)

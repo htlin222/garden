@@ -10,8 +10,6 @@ enableToc: false
 
 # pulmonology approaches and chief complaints #🚧 施工中
 
-## pulmonology approaches and chief complaints
-
 [[Key Terms and Definitions]]
 
 [[books/h_note/Dyspnea]]
