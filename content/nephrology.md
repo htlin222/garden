@@ -1,6 +1,12 @@
 ---
 title: nephrology
 ---
+
+> 尿毒症，腎衰竭，
+> 病症多端，需高明。
+> 水液不平，體內毒素，
+> 腎臟內病，苦難多。
+
 # nephrology
 * [[acid-base disturbances]]
 * [[sodium and water homeostasis]]

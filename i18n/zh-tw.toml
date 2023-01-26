@@ -2,7 +2,7 @@
 other = "喔哦...... 你是不是迷路了呀..... 🦎 這個頁面並不存在（也許它未被發佈）。"
 
 [404_back]
-other = "↳ 回到主頁"
+other = "↳ 回到主頁🏡"
 
 [all_posts]
 other = "所有 {{.Title}}"
@@ -17,13 +17,13 @@ other = "帶有此標籤的筆記"
 other = "正在展示前10個結果"
 
 [tag]
-other = "標籤"
+other = "🏷️標籤"
 
 [backlinks]
-other = "反向連結"
+other = "🍻反向連結"
 
 [no_backlinks]
-other = "沒有找到反向連結"
+other = "🤭沒有找到反向連結"
 
 [home]
 other = "首頁"
@@ -35,7 +35,7 @@ other = "明亮模式"
 other = "黑暗模式"
 
 [edit_source]
-other = "編輯原始文件"
+other = "🪚 編輯原始文件"
 
 [interactive_graph]
 other = "互動圖"
@@ -56,10 +56,10 @@ other = "近期的筆記"
 other = "前三個筆記 {{ .notes }}"
 
 [search_for_something]
-other = "搜尋中，請等一下下......"
+other = "搜尋中，可不可以，等一下下就好......"
 
 [toc]
 other = ""
 
 [copyright]
-other = "由 {{ .name }} 以❤️ 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> 创造, © {{ .year }}"
+other = "由 {{ .name }} 以❤️ 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> 種出來🪴 , © {{ .year }}"

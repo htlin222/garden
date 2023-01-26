@@ -6,6 +6,11 @@ date:  ....
 
 ![🏞️](https://i.imgur.com/gCvK5Sa.png)
 
+> 心跳不齊，血管狹窄，
+> 病症多端，需高明。
+> 經絡相通，體內運行，
+> 病苗滋長，苦難多。
+
 * [[electrocardiography]]
 * [[chest pain]]
 * [[noninvasive evaluation of CAD]]

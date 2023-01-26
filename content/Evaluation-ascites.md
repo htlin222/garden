@@ -5,11 +5,13 @@ title: Evaluation-ascites
 
 (World J Hepatol 2013;5:251; JAMA 2016;316:340)
 
-* * Physical exam: flank dullness (>1500 mL needed), shifting dullness (Se ~83%)
+Figure: ![🏞️Differential diagnosis of ascites](https://i.imgur.com/1e0JJkq.png)
 
-* * Radiologic: U/S detects >100 mL fluid; MRI/CT (also help with Ddx)
+* Physical exam: flank dullness (>1500 mL needed), shifting dullness (Se ~83%)
 
-* * Paracentesis: perform in all Pts w/ new ascites, suggested in all hosp. Pts w/ cirrhosis + ascites. Low complic. rate (~1% hematoma formation). Prophylactic FFP or plts does not ↓ bleeding complic. Most useful tests: cell count, alb, total protein (for SAAG), & culture
+* Radiologic: U/S detects >100 mL fluid; MRI/CT (also help with Ddx)
+
+* Paracentesis: perform in all Pts w/ new ascites, suggested in all hosp. Pts w/ cirrhosis + ascites. Low complic. rate (~1% hematoma formation). Prophylactic FFP or plts does not ↓ bleeding complic. Most useful tests: cell count, alb, total protein (for SAAG), & culture
 
 * [[Serum-ascites albumin gradient (SAAG)]]: 
 * [[Ascites fluid total protein (AFTP)]]

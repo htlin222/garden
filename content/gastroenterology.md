@@ -1,6 +1,12 @@
 ---
 title: gastroenterology
 ---
+
+> 胃痛腹痛，消化不良，
+> 病症多端，需高明。
+> 食物不消，胃酸倒流，
+> 腸胃內病，苦難多。
+
 # gastroenterology
 
 * [[esophageal and gastric disorders]]

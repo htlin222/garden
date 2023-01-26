@@ -4,6 +4,11 @@ title: oncology
 
 # oncology
 
+> 腫瘤蔓延，癌症疫情，
+> 病症多端，需高明。
+> 體內異物，病苗滋長，
+> 腫瘤內病，苦難多。
+
 ## [[hematology]]
 
 > [[NCCN guideline]]

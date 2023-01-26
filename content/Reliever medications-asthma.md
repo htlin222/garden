@@ -10,4 +10,4 @@ title: Reliever medications-asthma
 
 * Short-acting inh β2-agonists (SABA): albuterol Rx of choice
 
-* Short-acting inh anticholinergics (ipratropium) ↑ β2-agonist delivery → ↑ bronchodilation
+* Short-acting inh anticholinergics ([[ipratropium]]) ↑ β2-agonist delivery → ↑ bronchodilation

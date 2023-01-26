@@ -15,7 +15,12 @@ Close contacts of Pt w/ active TB; CXR c/w prior active TB
 Faulty application, anergy (including from active TB), acute TB
 (2–10 wk to convert), acute non-TB mycobacteria (NTM), malignancy
 ## Flase positive
-Improper reading, cross-reaction with NTM, BCG vaccination 
+Improper reading, cross-reaction with NTM, BCG vaccination
 (although usually <10 mm by adulthood)
 ## Booster effect
 ↑ in duration b/c immunologic boost by prior skin test in prev sensitized individual (by TB, NTM, or BCG). Test ⊖ → ⊕ but not true conversion due to recent infxn. 2nd test true baseline. Can be 1 y after initial test.
+
+### Backlink：
+
+- [[acute respiratory complaints of cough and congestion]]
+- [[Screening for latent TB]]

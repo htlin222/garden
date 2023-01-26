@@ -4,6 +4,9 @@ title: coronary angiography PCI
 
 # coronary angiography PCI
 
+> 血之循環，命之所在，
+> 保其健康，永續生機。
+
 ## Precath checklist
 * Peripheral arterial exam (radial, femoral, DP, PT pulses; bruits); palmar arch eval (eg, w/ pulse oximetry & plethysmography) not routinely done. ✓ can lie flat × hrs, NPO >6 h.
 * ✓ CBC, PT-INR (ideally ≤2), Cr; hold ACEI/ARB if renal dysfxn. Blood bank sample.
@@ -49,7 +52,7 @@ title: coronary angiography PCI
 ## Stent post-PCI complications
 * Stent thrombosis: acute clot formation in stent usually in 1st mo but can occur anytime. Typically p/w AMI. Often due to premature d/c antiplt Rx or mech prob. (stent underexpansion or unrecognized dissection, typically presents early).
 * In-stent restenosis: develops in previously stented segment mos after PCI. Typically p/w gradual ↑ angina. Due to elastic recoil and neointimal hyperplasia; ↓ w/ DES.
- 
+
 ## Duration of dual antiplatelet therapy (JACC 2016;68:1082 & EHJ 2018;39:213)
 * DAPT duration determined by patient presentation (ACS vs. SIHD), long-term ischemic risk (patient and procedural risk factors), and bleeding risk
 * Antiplt Rx: DAPT (ASA 81 + P2Y12 inhib) in SIHD for 4 wk (BMS) or ≥6 mo (DES); in ACS (qv) for 12 mo and possibly beyond (JAMA Cards 2016;1:627). Data emerging for DAPT 1–3 mo, followed by P2Y12 inhib monotherapy (Circ 2020;142:538).

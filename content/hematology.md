@@ -4,6 +4,11 @@ title: hematology
 
 # hematology
 
+> 凝血異常，血癌疫情，
+> 淋巴癌痛，貧血病變。
+> 血液不濟，體內缺乏，
+> 病症多端，需高明。
+
 [[oncology]]
 * [[anemia]]
 * [[disorders of hemostasis]]

@@ -1,6 +1,12 @@
 ---
 title: pulmonology
 ---
+
+> 肺臟疾病，氣管病變，
+> 病症多端，需高明。
+> 呼吸不順，氣喘困擾，
+> 胸腔內病，苦難多。
+
 # pulmonary
 * [[dyspnea]]
 * [[pulmonary function tests]]

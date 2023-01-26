@@ -1,6 +1,7 @@
 ---
 title: Spontaneous bacterial peritonitis
 ---
+
 # Spontaneous bacterial peritonitis
 
 (SBP; see “Ascites”; Hepatology 2021;74:1014)
