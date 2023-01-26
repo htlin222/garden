@@ -15,8 +15,8 @@ title: IgA nephropathy
 
 # IgA vasculitis
 
-(formerly Henoch-Schönlein purpura [HSP]) (Rheumatol 2019;58:1607)
-* IgA-mediated small-vessel vasculitis w/ predilection for skin, GI tract, and kidneys
+(formerly [[Henoch-Schönlein purpura]] [HSP]) ([Rheumatol 2019;58:1607](https://academic.oup.com/rheumatology/article-abstract/58/9/1607/5382174))
+* IgA-mediated [[small-vessel vasculitis]] w/ predilection for skin, GI tract, and kidneys
 * Epidemiology: incidence 140/million/y; ♂ >♀, children >adults, winter >summer
 * May develop ~10 d after onset of upper resp infx or after drug exposure
 * [[Clinical manifestations of IgA vasculitis]]

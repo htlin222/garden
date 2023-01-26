@@ -4,7 +4,7 @@ title: IgA vasculitis
 # IgA vasculitis
 
 (formerly Henoch-Schönlein purpura [HSP]) (Rheumatol 2019;58:1607)
-* IgA-mediated small-vessel vasculitis
+* IgA-mediated [[small-vessel vasculitis]]
 	* w/ predilection偏好 for skin, GI tract, and kidneys
 	
 ## Epidemiology:

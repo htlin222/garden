@@ -9,6 +9,7 @@ title: Systemic diseases with secondary glomerular involvement
 ## [[amyloidosis]]
 * AL or light-chain amyloid or AA amyloid secondary to inflammation
 * [[systemic lupus erythematosus]]
-* (CJASN 2017;12:825): typically membranous nephropathy (WHO class V)
+	* ([CJASN 2017;12:825](https://cjasn.asnjournals.org/content/12/5/825.short)) : typically membranous nephropathy (WHO class V)
+	*
 ## [[Cryoglobulinemia]]
-* (AJKD 2016;67): a/w HCV, monoclonal gammopathy. Typically MPGN.
+* a/w HCV, monoclonal gammopathy. Typically [[MPGN]]. ([AJKD 2016;67](https://www.ajkd.org/article/S0272-6386(15)01423-7/abstract))

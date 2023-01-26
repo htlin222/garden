@@ -13,7 +13,7 @@ Postsinusoidal obstruction right-sided CHF (ex: constriction, TR), [[Budd-Chiari
 ## Non–portal HTN Related (SAAG <1.1)
 Malig: peritoneal carcinomatosis; chylous ascites from malignant lymphoma (↑ TG); [[Meigs’ syndrome]] (ovarian tumor)
 
-Infection: TB, chlamydia/gonorrhea (ie, Fitz-Hugh-Curtis syndrome)
+Infection: TB, chlamydia/gonorrhea (ie, [[Fitz-Hugh-Curtis syndrome]])
 
 Inflam: pancreatitis, ruptured pancreatic/biliary/lymph duct; bowel obstrxn, [[serositis]] (SLE)
 

@@ -8,4 +8,4 @@ title: nephrotic syndrome
 * [[Systemic diseases with secondary glomerular involvement]]
 * [[Workup-nephrotic syndrome]]
 * [[Treatment-nephrotic syndrome]]
-* [[glomerular disease.md]]
+* [[glomerular disease]]

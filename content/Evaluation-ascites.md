@@ -10,6 +10,7 @@ Figure: ![🏞️Differential diagnosis of ascites](https://i.imgur.com/1e0JJkq.
 * Physical exam: flank dullness (>1500 mL needed), shifting dullness (Se ~83%)
 
 * Radiologic: U/S detects >100 mL fluid; MRI/CT (also help with Ddx)
+	* Ultrasound is used to detect the presence of more than 100 milliliters of fluid, while Magnetic Resonance Imaging (MRI) or Computed Tomography (CT) scans also help with differentiating the diagnosis and can be used as alternative options.
 
 * Paracentesis: perform in all Pts w/ new ascites, suggested in all hosp. Pts w/ cirrhosis + ascites. Low complic. rate (~1% hematoma formation). Prophylactic FFP or plts does not ↓ bleeding complic. Most useful tests: cell count, alb, total protein (for SAAG), & culture
 
