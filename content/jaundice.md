@@ -1,5 +1,6 @@
 ---
 title: jaundice
+slug: 'jaundice'
 date: "2023-01-18"
 enableToc: false
 ---

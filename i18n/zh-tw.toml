@@ -1,8 +1,8 @@
 [404_message]
-other = "喔哦...... 你是不是迷路了呀..... 🦎 這個頁面並不存在（也許它未被發佈）。"
+other = "你是不是迷路了呀..... 🦎 這個頁面並不存在（也許它未被發佈）。"
 
 [404_back]
-other = "↳ 回到主頁🏡"
+other = "↳ 回到主頁➡️ 🏡"
 
 [all_posts]
 other = "所有 {{.Title}}"
@@ -14,19 +14,19 @@ other = "最後更新於"
 other = "帶有此標籤的筆記"
 
 [first_10]
-other = "正在展示前10個結果"
+other = "正在展示前🔟個結果🥝"
 
 [tag]
 other = "🏷️標籤"
 
 [backlinks]
-other = "🍻反向連結"
+other = "↩️ 反向連結"
 
 [no_backlinks]
 other = "🤭沒有找到反向連結"
 
 [home]
-other = "首頁"
+other = "🏠首頁"
 
 [light_mode]
 other = "明亮模式"
@@ -38,7 +38,7 @@ other = "黑暗模式"
 other = "🪚 編輯原始文件"
 
 [interactive_graph]
-other = "互動圖"
+other = "🤯互動圖"
 
 [search]
 other = "搜尋"
@@ -53,13 +53,13 @@ other = "打開搜尋圖標"
 other = "近期的筆記"
 
 [first_3_notes]
-other = "前三個筆記 {{ .notes }}"
+other = "前3️⃣ 個筆記 {{ .notes }}"
 
 [search_for_something]
-other = "搜尋中，可不可以，等一下下就好......"
+other = "請輸入像是：hypertension 之類的來看沒有沒什麼有趣的🎳"
 
 [toc]
-other = ""
+other = "📒目錄"
 
 [copyright]
-other = "由 {{ .name }} 以❤️ 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> 種出來🪴 , © {{ .year }}"
+other = "本網站是由 {{ .name }} 以❤️ 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>這個酷東西種出來🪴 , © {{ .year }}"
