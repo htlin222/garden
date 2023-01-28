@@ -1,5 +1,6 @@
 ---
 title: dyspnea
+slug: 'dyspnea'
 ---
 # dyspnea
 
@@ -11,7 +12,7 @@ title: dyspnea
 Asthma, COPD, bronchiectasis, cystic fibrosis, tumor, foreign body, vocal cord dysfunction, anaphylaxis
 ## Alveolar / Parenchymal disease
 Pulmonary edema: cardiogenic or noncardiogenic
-ILD; pneumonia; atelectasis
+ILD; pneumonia; [[atelectasis]]
 ## Vascular
 (V/Q mismatch)
 Large vessel: PE, tumor emboli

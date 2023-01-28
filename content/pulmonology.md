@@ -1,5 +1,6 @@
 ---
 title: pulmonology
+slug: 'pulmonology'
 ---
 
 > 肺臟疾病，氣管病變，
