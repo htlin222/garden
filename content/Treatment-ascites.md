@@ -11,3 +11,14 @@ title: Treatment-ascites
 * If 2° to portal HTN: ↓ Na intake (<2 g/d) + diuretics; if refractory → LVP (serial) or TIPS
 
 * If non–portal HTN related: depends on underlying cause (TB, malignancy, etc.)
+*
+
+* Treatment of ascites in patients with cirrhosis includes:
+	* Abstinence from alcohol
+	* Restricting dietary sodium
+	* Treating with diuretics (algorithm 1)
+	* Initial large-volume therapeutic paracentesis for patients with tense ascites
+* Alcohol abstinence is important and may be improved with baclofen
+* Sodium restriction to 88 mEq (2000 mg) per day is recommended, with diuretics added for most patients
+* Medications such as ACE inhibitors, ARBs, and NSAIDs should be avoided or used with caution in patients with ascites
+* Nonselective beta blockers may shorten survival in patients with refractory ascites and should be considered for discontinuation or avoidance.

@@ -12,4 +12,6 @@ enableToc: false
 
 * [[vim]]
 * [[command line know how]]
+*
+[[vimscripts]]
 

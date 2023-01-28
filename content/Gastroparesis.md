@@ -5,7 +5,7 @@ title: Gastroparesis
 
 (Nat Rev Dis Primers 2018;4:41)
 
-* Delayed gastric emptying w/o mechanical obstruction, typically p/w nausea (>90%), vomiting (>80%), early satiety (60%), postprandial fullness/pain
+* **Delayed gastric** emptying w/o mechanical obstruction, typically p/w nausea (>90%), vomiting (>80%), early satiety (60%), postprandial fullness/pain
 
 * Etiol: DM, post-surg, post-viral, crit. illness, Parkinson’s, opiates, CCB, anti-cholin, idiopath
 

@@ -10,4 +10,5 @@ enableToc: false
 
 # command line know how #🚧 施工中
 
+[[Shell Scripting 基礎指南]]
 * [[在mac關閉micrfosoft update]]

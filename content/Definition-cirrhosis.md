@@ -7,4 +7,4 @@ title: Definition-cirrhosis
 
 * Definition fibrosis & regenerative nodules causing distortion of hepatic architecture
 
-* Decompensated = complication due to ↑ portal pressure such as: variceal bleed, HCC, SBP, encephalopathy, ascites, hepatorenal or hepatopulmonary syndrome
+* Decompensated = complication due to ↑ portal pressure such as: variceal bleed, HCC, SBP, encephalopathy, ascites, hepatorenal or [[hepatopulmonary syndrome]]

@@ -2,13 +2,14 @@
 title: peptic ulcer disease
 ---
 # peptic ulcer disease
+
 [[definition and etiologies of peptic ulcer disease]]
 
 (20–60%; duodenal>gastric)
 
 (Am J Gastro 2021;116:899)
 
-See “PUD”
+See “[[PUD]]”
 
 Treatment: PPI: 40 mg PO or IV BID
 

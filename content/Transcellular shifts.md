@@ -6,11 +6,11 @@ title: Transcellular shifts
 * Alkalemia,
 * insulin,
 * catecholamines
-* β2-agonists
+* [[β2-agonists]]
 * hypothermia
 * hypokalemic/thyrotoxic periodic paralysis,
 * acute ↑ [[hematopoiesis]] (megaloblastic anemia Rx w/ B12, AML crisis),
-* chloroquine
+* [[chloroquine]]
 
 ## overdose:
 * Ba/Cs,
