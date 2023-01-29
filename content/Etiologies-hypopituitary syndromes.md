@@ -10,11 +10,11 @@ title: Etiologies-hypopituitary syndromes
 * infection
 * infiltration (sarcoid, hemochromatosis)
 * autoimmune
-* ischemia (including Sheehan’s syndrome caused by pituitary infarction intrapartum), 
+* ischemia (including [[Sheehan’s syndrome]] caused by pituitary infarction intrapartum), 
 * carotid aneurysms
-* cavernous sinus thrombosis
+* [[cavernous sinus thrombosis]]
 * trauma
-* medications (eg, ipilimumab)
+* medications (eg, [[ipilimumab]])
 * apoplexy
 * empty sella
 * genetic

@@ -1,5 +1,6 @@
 ---
 title: Secretory diarrhea
+slug: 'secretory-diarrhea'
 ---
 # Secretory diarrhea
 
@@ -14,3 +15,4 @@ title: Secretory diarrhea
 * Microscopic colitis: common cause of chronic diarrhea w/ obscure origin. Often seen in middle-aged women w/ autoimmune disorders. NSAIDs, SSRIs, PPIs notable triggers. Grossly normal on colo but bx shows lymphocytic & plasmacytic infiltration of mucosa ± thickened submucosal collagen. Rx: budesonide (1st line), antidiarrheals, cholestyramine, bismuth; consider anti-TNFs if refractory (Gastro 2016;150:242).
 
 * Bile acid-induced diarrhea: ileal resection or disease (eg, Crohn’s) → bile acids in colon → electrolyte & H2O secretion. Rx w/ empiric bile-acid binders (eg, cholestyramine).
+> 因膽汁酸所導致的腹瀉：腸道切除手術或疾病（例如，克羅恩氏病）→腸道內的膽汁酸→離子與水的分泌。預防藥物為膽汁酸結合劑（例如，克拉司地酸鈉）

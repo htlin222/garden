@@ -3,8 +3,8 @@ title: Paralytic ileus of the colon & small bowel
 ---
 # Paralytic ileus of the colon & small bowel
 
- (Dis Colon Rectum 2021;64:1046)
- 
+[The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines ](https://www.ncbi.nlm.nih.gov/pubmed/34016826)
+
 * Definition: loss of intestinal peristalsis in absence of mechanical obstruction
 
 * Abd discomfort & distention, ↓ or absent bowel sounds, ± N/V, hiccups

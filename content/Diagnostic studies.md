@@ -1,5 +1,6 @@
 ---
 title: Diagnostic studies
+slug: 'diagnostic-studies'
 ---
 # Diagnostic studies
 

@@ -4,6 +4,7 @@ title: Evaluation acute diarrhea
 # Evaluation acute diarrhea
 
 (NEJM 2014;370:1532; Digestion 2017;95:293; PLOS One 2017;12:11)
+[Acute infectious diarrhea in immunocompetent adults.](https://www.ncbi.nlm.nih.gov/pubmed/24738670)
 
 * Ddx: hyperthyroid, adrenal insufficiency, meds (abx, antacids, immune checkpt inhibitors), appendicitis, diverticulitis, radiation, 1st presentation of bowel disorder (eg, IBD, celiac)
 
