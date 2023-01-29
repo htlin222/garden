@@ -1,0 +1,165 @@
+<!doctype html><html lang=zh-tw><head><meta charset=utf-8><meta name=description content="一個指令自動生成投影片(.PPTX檔) 最近因為常常要準備投影片上課，這種投影片主就是從教科書弄內容出來，標題加條列式為主，並不需要許多太複雜的排版，但在弄排版就很花時間(怒怒)。雖然有很多markdown自動變成投影片播放的功能，但就不能套用自己常用的樣式風格，也不容易交換檔案。發現 What? Slides? From Markdown? | by Peter Conrad | Medium介紹了用pandoc轉檔的方式，因此去看了官方文檔整理如下。
+TL;DR 我們要準備好markdown檔案(.md)，跟範本檔案(.pptx)，放在同一個資料，cd到資料夾下後輸入以下指令：
+範本檔可以下載我的簡單NEJM風： blog/nejm.pptx · htlin222/blog，載好後打開母片編輯，對照下面的格式來看
+1  pandoc 來源檔."><meta property="og:title" content><meta property="og:description" content><meta property="og:type" content="website"><meta property="og:url" content><meta property="og:image" content="https://og-ph6wrfvo1-htlin222.vercel.app/api/blog?templateTitle=懶人必備！一行指令將文字轉ppt檔"><title>懶人必備！一行指令將文字轉ppt檔</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://www.physician.tw//icon.png><link href=https://www.physician.tw/styles.547fb332ce56cdc523146ba5ede80d7f.min.css rel=stylesheet><link href=https://www.physician.tw/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://www.physician.tw/js/darkmode.dfadb738e747a87e78c7144d7267f1bc.min.js></script>
+<script src=https://www.physician.tw/js/util.6f22941e242efae60fd84e7c32e874fa.min.js></script>
+<link rel=preload href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css as=style onload='this.onload=null,this.rel="stylesheet"' integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/contrib/copy-tex.min.js integrity=sha384-ww/583aHhxWkz5DEVn6OKtNiIaLi2iBRNZXfJRiY1Ai7tnJ9UXpEsyvOITVpTl4A crossorigin=anonymous></script>
+<script async src=https://unpkg.com/@floating-ui/core@0.7.3></script>
+<script async src=https://unpkg.com/@floating-ui/dom@0.5.4></script>
+<script async src=https://www.physician.tw/js/popover.f03552ccb84d99ca615d1cfb9abde59e.min.js></script>
+<script defer src=https://www.physician.tw/js/code-title.ce4a43f09239a9efb48fee342e8ef2df.min.js></script>
+<script defer src=https://www.physician.tw/js/clipboard.2913da76d3cb21c5deaa4bae7da38c9f.min.js></script>
+<script defer src=https://www.physician.tw/js/callouts.7723cac461d613d118ee8bb8216b9838.min.js></script>
+<script>const SEARCH_ENABLED=!1,LATEX_ENABLED=!0,PRODUCTION=!0,BASE_URL="https://www.physician.tw/",fetchData=Promise.all([fetch("https://www.physician.tw/indices/linkIndex.a5d05eab3f1f82e45b0bbd1a0ff19980.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://www.physician.tw/indices/contentIndex.b128b11ed071b51031d9d94e6c4f0d05.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts(),initPopover("https://www.physician.tw",!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!1;drawGraph("https://www.physician.tw",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2})}var i=document.getElementsByClassName("mermaid");i.length>0&&import("https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs").then(e=>{e.default.init()})},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
+    import { attachSPARouting } from "https:\/\/www.physician.tw\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
+    attachSPARouting(init, render)
+  </script></head><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=搜尋 placeholder="請輸入像是：hypertension 之類的來看沒有沒什麼有趣的🎳"><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
+<script defer src=https://www.physician.tw/js/full-text-search.e6e2e0c213187ca0c703d6e2c7a77fcd.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://www.physician.tw/>蜥蜴花園🦎🌱🪴🌲</a></h1><div class=spacer></div><div id=search-icon><p>搜尋</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">搜尋圖示</title><desc id="desc">打開搜尋圖標</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
+<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>明亮模式</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>黑暗模式</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><h1>懶人必備！一行指令將文字轉ppt檔</h1><p class=meta>最後更新於
+Sep 13, 2022
+<a href=https://github.com/htlin222/garden/tree/hugo/content/blog/2022-09-13-pandoc-md-to-pptx.md rel=noopener>🪚 編輯原始文件</a></p><ul class=tags></ul><aside class=mainTOC><details><summary>📒目錄</summary><nav id=TableOfContents><ol><li><a href=#一個指令自動生成投影片pptx檔>一個指令自動生成投影片(.PPTX檔)</a></li><li><a href=#tldr>TL;DR</a></li><li><a href=#範本檔設計>範本檔設計</a><ol><li><a href=#title-slide>Title Slide</a></li><li><a href=#section-header>Section Header</a></li><li><a href=#two-content>Two Content</a></li><li><a href=#comparison>Comparison</a></li><li><a href=#content-with-caption>Content with Caption</a></li><li><a href=#blank>Blank</a></li><li><a href=#title-and-content>Title and Content</a></li></ol></li><li><a href=#last-but-not-least>Last but not least</a></li></ol></nav></details></aside><a href=#一個指令自動生成投影片pptx檔><h2 id=一個指令自動生成投影片pptx檔><span class=hanchor arialabel=Anchor># </span>一個指令自動生成投影片(.PPTX檔)</h2></a><p>最近因為常常要準備投影片上課，這種投影片主就是從教科書弄內容出來，標題加條列式為主，並不需要許多太複雜的排版，但在弄排版就很花時間(怒怒)。雖然有很多markdown自動變成投影片播放的功能，但就不能套用自己常用的樣式風格，也不容易交換檔案。發現
+<a href=https://stymied.medium.com/what-slides-from-markdown-5239ed31e7ac rel=noopener>What? Slides? From Markdown? | by Peter Conrad | Medium</a>介紹了用pandoc轉檔的方式，因此去看了官方文檔整理如下。</p><a href=#tldr><h2 id=tldr><span class=hanchor arialabel=Anchor># </span>TL;DR</h2></a><p>我們要準備好markdown檔案(.md)，跟範本檔案(.pptx)，放在同一個資料，cd到資料夾下後輸入以下指令：</p><p>範本檔可以下載我的簡單NEJM風：
+<a href=https://github.com/htlin222/blog/blob/master/static/media/nejm.pptx rel=noopener>blog/nejm.pptx · htlin222/blog</a>，載好後打開母片編輯，對照下面的格式來看</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>pandoc 來源檔.md -o 投影片名.pptx --reference-doc 範本檔.pptx
+</span></span></code></pre></td></tr></table></div></div><a href=#範本檔設計><h2 id=範本檔設計><span class=hanchor arialabel=Anchor># </span>範本檔設計</h2></a><p>打開一個空白的pptx檔案，編輯母片，重新命名每個版面配置，最主要有以下七種(少一個都不行，每個字都要一樣，大小寫也要一樣)
+詳見：
+<a href=https://pandoc.org/MANUAL.html rel=noopener>Pandoc - Pandoc User’s Guide</a></p><a href=#title-slide><h3 id=title-slide><span class=hanchor arialabel=Anchor># </span>Title Slide</h3></a><p>This layout is used for the initial slide, which is generated and filled from the metadata fields date, author, and title, if they are present.
+意思是在你的mardkwon 文件最前面三行新增以下以<code>%</code>開頭的內容</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>%title
+</span></span><span class=line><span class=cl>%author
+</span></span><span class=line><span class=cl>%date
+</span></span></code></pre></td></tr></table></div></div><a href=#section-header><h3 id=section-header><span class=hanchor arialabel=Anchor># </span>Section Header</h3></a><p>This layout is used for what pandoc calls “title slides”, i.e. slides which start with a header which is above the slide level in the hierarchy.
+單獨一行的一級標題</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl># Section
+</span></span></code></pre></td></tr></table></div></div><a href=#two-content><h3 id=two-content><span class=hanchor arialabel=Anchor># </span>Two Content</h3></a><p>This layout is used for two-column slides, i.e. slides containing a div with class columns which contains at least two divs with class column.
+只要有以下語法，就可以實現兩欄效果，適合用來圖文搭配，如果要加入圖片的話，也是用markdown圖片的語法<code>![image title](image path)</code>：</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>## 預設都是二級標題開頭
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:::: {.columns}
+</span></span><span class=line><span class=cl>::: {.column}
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>左邊
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>- Bullet
+</span></span><span class=line><span class=cl>- Bullet
+</span></span><span class=line><span class=cl>- Bullet
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:::
+</span></span><span class=line><span class=cl>::: {.column}
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>右邊
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>- Bullet
+</span></span><span class=line><span class=cl>- Bullet
+</span></span><span class=line><span class=cl>- Bullet
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:::
+</span></span><span class=line><span class=cl>::::
+</span></span></code></pre></td></tr></table></div></div><a href=#comparison><h3 id=comparison><span class=hanchor arialabel=Anchor># </span>Comparison</h3></a><p>This layout is used instead of “Two Content” for any two-column slides in which at least one column contains text followed by non-text (e.g. an image or a table).</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>## 預設都是二級標題開頭
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:::: {.columns}
+</span></span><span class=line><span class=cl>::: {.column}
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>Left
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>![]()
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:::
+</span></span><span class=line><span class=cl>::: {.column}
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>Left
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>![]()
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:::
+</span></span><span class=line><span class=cl>::::
+</span></span></code></pre></td></tr></table></div></div><a href=#content-with-caption><h3 id=content-with-caption><span class=hanchor arialabel=Anchor># </span>Content with Caption</h3></a><p>This layout is used for any non-two-column slides which contain text followed by non-text (e.g. an image or a table).</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>## 預設都是二級標題開頭
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>一些字
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>|表格|表格|
+</span></span><span class=line><span class=cl>|---|---|
+</span></span><span class=line><span class=cl>|內容|內容|
+</span></span></code></pre></td></tr></table></div></div><p>或</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>## 預設都是二級標題開頭
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>一些字
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>![圖片]()
+</span></span></code></pre></td></tr></table></div></div><a href=#blank><h3 id=blank><span class=hanchor arialabel=Anchor># </span>Blank</h3></a><p>This layout is used for any slides which only contain blank content, e.g. a slide containing only speaker notes, or a slide containing only a non-breaking space.
+標題空白成## 然後加上加上註解，註解的寫法是用三個<code>:</code>後面加上<code>notes</code>，每頁都可以加上註解，個人會把reference都放在這個區域，到時候再貼上</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>##
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>::: notes
+</span></span><span class=line><span class=cl>空白頁，到時候要放一張滿版大圖
+</span></span><span class=line><span class=cl>:::
+</span></span></code></pre></td></tr></table></div></div><a href=#title-and-content><h3 id=title-and-content><span class=hanchor arialabel=Anchor># </span>Title and Content</h3></a><p>This layout is used for all slides which do not match the criteria for another layout.
+所有不符合上面規則的文件都會算成Title and Contnet，也是最常用的</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>## title
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>- point
+</span></span><span class=line><span class=cl>- point
+</span></span><span class=line><span class=cl>- point
+</span></span></code></pre></td></tr></table></div></div><a href=#last-but-not-least><h2 id=last-but-not-least><span class=hanchor arialabel=Anchor># </span>Last but not least</h2></a><ul><li>注意所有標題前後都要有空行，不然可能會排版出錯</li><li>可以新增其他排版嗎？不行，這些是程式設計一開始就規定好的</li><li>如果你也想要自己創一個模版，記得每一個上面提到的版式都要建(就算你最後沒有用到)，不然會報錯</li></ul></article><hr><div class=page-end id=footer><div class=backlinks-container><h3>↩️ 反向連結</h3><ul class=backlinks><li>🤭沒有找到反向連結</li></ul></div><div><script async src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script><h3>🤯互動圖</h3><div id=graph-container></div><style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style><script src=https://www.physician.tw/js/graph.2d9e48dbe7ea47c0ef1c58296ce14448.js></script></div></div><div><div id=disqus_thread></div><script type=application/javascript>window.disqus_config=function(){},function(){if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById("disqus_thread").innerHTML="Disqus comments not available by default when the website is previewed locally.";return}var t=document,e=t.createElement("script");e.async=!0,e.src="//physician.disqus.com/embed.js",e.setAttribute("data-timestamp",+new Date),(t.head||t.body).appendChild(e)}()</script><noscript>Please enable JavaScript to view the <a href=https://disqus.com/?ref_noscript>comments powered by Disqus.</a></noscript><a href=https://disqus.com class=dsq-brlink>comments powered by <span class=logo-disqus>Disqus</span></a></div><div id=contact_buttons><footer><p>本網站是由 Hsieh-Ting Lin 以❤️ 用 <a href=https://github.com/jackyzha0/quartz>Quartz</a>這個酷東西種出來🪴 , © 2023</p><ul><li><a href=https://www.physician.tw/>🏠首頁</a></li><li><a href=https://www.facebook.com/Tim.H.Lin>Facebook</a></li><li><a href=https://twitter.com/htlin222>Twitter</a></li><li><a href=https://github.com/htlin222>GitHub</a></li><li><a href=https://htlin.site>Blog</a></li><li><a href=https://medium.com/@hsieh-ting-lin>Medium</a></li></ul></footer></div></div></body></html>
