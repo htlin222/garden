@@ -19,3 +19,4 @@ enableToc: false
 * etiology of [[upper gastrointestinal bleeding]]
 * etiology of [[lower gastrointestinal bleeding]]
 * [[Obscure GIB]]
+* [[management of gastrointestinal bleeding]]

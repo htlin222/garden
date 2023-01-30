@@ -8,15 +8,11 @@ enableToc: false
 >
 > 🌱 來自: [[Gastroenterology of Huppert's Notes]]
 
-# gastroenterology anatomy and physiology #🚧 施工中
+# gastroenterology anatomy and physiology
 
-## gastroenterology anatomy and physiology
+* [[Structure and Innervation of the GI Tract]]
 
+* [[The Neuroendocrine System of the Gut]]
 
-
-[[Structure and Innervation of the GI Tract]]
-
-[[The Neuroendocrine System of the Gut]]
-
-[[Vasculature of the GI Tract]]
+* [[Vasculature of the GI Tract]]
 

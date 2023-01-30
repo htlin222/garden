@@ -23,12 +23,12 @@ title: hematology
 * [[lymphoma and CLL]]
 * [[plasma cell dyscrasias]]
 * [[hematopoietic stem cell transplantation]]
-[[lymphomas]]
-[[plasma cell disorders]]
-[[myeloproliferative disorders]]
-[[leukemias and myelodysplastic syndromes]]
-[[stem cell transplantation]]
-[[benign hematology]]
+* [[lymphomas]]
+* [[plasma cell disorders]]
+* [[myeloproliferative disorders]]
+* [[leukemias and myelodysplastic syndromes]]
+* [[stem cell transplantation]]
+* [[benign hematology]]
 
 * [[smears]]
 

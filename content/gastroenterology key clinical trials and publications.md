@@ -8,11 +8,7 @@ enableToc: false
 >
 > 🌱 來自: [[Gastroenterology of Huppert's Notes]]
 
-# gastroenterology key clinical trials and publications #🚧 施工中
-
-## gastroenterology key clinical trials and publications
-
-
+# gastroenterology key clinical trials and publications
 
 [[GI Bleed]]
 

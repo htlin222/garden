@@ -1,6 +1,9 @@
 ---
 title: Colitis
+date: "2023-01-31"
+enableToc: false
 ---
+
 # Colitis
 
 

@@ -8,20 +8,11 @@ enableToc: false
 >
 > 🌱 來自: [[Gastroenterology of Huppert's Notes]]
 
-# gastroenterology approaches and chief complaints #🚧 施工中
-
-## gastroenterology approaches and chief complaints
-
-
+# gastroenterology approaches and chief complaints
 
 [[books/h_note/Abdominal Pain]]
 
 [[NauseaVomiting]]
-
-[[books/h_note/Diarrhea]]
-
-
-
 
 [[Acute Diarrhea (3 weeks)]]
 
