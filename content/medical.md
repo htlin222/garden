@@ -28,30 +28,18 @@ enableToc: false
 *   [[ACLS]] 😵
 *   [[emergency medicine]]
 *   [[POCUS]]
-*   [[geriatrics]]
 *   [[pain and palliative care]]
-*	[[resident360]]
 
-## 其他次專科
-
-*   [[dermatology]]
-*   [[ophthalmic]]
-*   [[woman health]]
-*   [[obs gyn issues]]
-*   [[radiology]]
-*   [[mental health]]
-*   [[surgical issues]]
-*	[[psychiatric]]
-*
+## [[other subspecialties]]
 
 ## EBM
 * [[clinical trials]]
 * [[statistical concepts and test characteristics]]
 
-## Draft
+## references
 
 *   paper note: [[journals/index.md]]
 *   一些書的筆記: [[books/index]]
 *   inbox: [[inbox/inbox]]
 *   [[Harrisons]]
- 
+*	[[resident360]]

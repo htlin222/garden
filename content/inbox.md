@@ -7,157 +7,213 @@ enableToc: false
 
 ## TODAY
 
-- [[medical]] date: 2023-01-31 15:26
-- [[Viral Diseases: General Considerations]] date: 2023-01-31 13:52
-- [[Clinical Syndromes: Health Care-Associated Infections]] date: 2023-01-31 13:52
-- [[Clinical Syndromes: Community-Acquired Infections]] date: 2023-01-31 13:51
-- [[GI Bleed]] date: 2023-01-31 12:47
-- [[Acute Diarrhea (3 weeks)]] date: 2023-01-31 12:47
-- [[Shigella]] date: 2023-01-31 12:47
-- [[stem cell transplantation]] date: 2023-01-31 12:47
-- [[Classification of GI regulatory substances]] date: 2023-01-31 12:47
-- [[Norovirus]] date: 2023-01-31 12:47
-- [[Yersinia]] date: 2023-01-31 12:47
-- [[Campylobacter]] date: 2023-01-31 12:47
-- [[Gastrin]] date: 2023-01-31 12:47
-- [[pancreatic insufficiency]] date: 2023-01-31 12:47
-- [[dairreha caused by ingestion of poorly absorbed cations or anions]] date: 2023-01-31 12:47
-- [[Lactose intolerance]] date: 2023-01-31 12:47
-- [[Bacterial diarrhea]] date: 2023-01-31 12:47
-- [[additional history of general evaluation or chronic diarrhea]] date: 2023-01-31 12:47
-- [[Viral diarrhea]] date: 2023-01-31 12:47
-- [[lab testing of general evaluation or chronic diarrhea]] date: 2023-01-31 12:47
-- [[Protozoal Infections]] date: 2023-01-31 12:47
-- [[Diseases Caused by Gram-Negative Bacteria]] date: 2023-01-31 12:47
-- [[Poisoning, Drug Overdose, and Envenomation]] date: 2023-01-31 12:47
-- [[Infections Due to DNA Viruses]] date: 2023-01-31 12:47
-- [[Infections Due to RNA Viruses]] date: 2023-01-31 12:47
-- [[Miscellaneous Bacterial Infections]] date: 2023-01-31 12:47
-- [[Frontiers]] date: 2023-01-31 12:47
-- [[Hereditary hemorrhagic telangiectasia]] date: 2023-01-31 12:47
-- [[Alterations in the Skin]] date: 2023-01-31 12:47
-- [[The Profession of Medicine]] date: 2023-01-31 12:47
-- [[Oncology and Hematology]] date: 2023-01-31 12:47
-- [[Alterations in Gastrointestinal Function]] date: 2023-01-31 12:47
-- [[General evaluation or chronic diarrhea]] date: 2023-01-31 12:47
-- [[Hematologic Alterations]] date: 2023-01-31 12:47
-- [[gastroenterology key clinical trials and publications]] date: 2023-01-31 12:47
-- [[GI regulatory substances]] date: 2023-01-31 12:47
-- [[offending meds cause chronic diarrhea]] date: 2023-01-31 12:47
-- [[Gastric secretions]] date: 2023-01-31 12:47
-- [[chronic diarrhea]] date: 2023-01-31 12:47
-- [[Arterial supply to the upper GI tract]] date: 2023-01-31 12:47
-- [[Spirochetal Diseases]] date: 2023-01-31 12:47
-- [[Disorders of the Cardiovascular System]] date: 2023-01-31 12:47
-- [[Supplementary Topics]] date: 2023-01-31 12:47
-- [[Harrions]] date: 2023-01-31 12:47
-- [[Diseases Caused by Rickettsiae, Mycoplasmas, and Chlamydiae]] date: 2023-01-31 12:47
-- [[Consultative Medicine]] date: 2023-01-31 12:47
-- [[Disorders of Immune-Mediated Injury]] date: 2023-01-31 12:47
-- [[Atlases]] date: 2023-01-31 12:47
-- [[99mTc-pertechnetate]] date: 2023-01-31 12:47
-- [[The Practice of Medicine]] date: 2023-01-31 12:47
-- [[Neoplastic Disorders]] date: 2023-01-31 12:47
-- [[lower gastrointestinal bleeding]] date: 2023-01-31 12:47
-- [[Vasculature of the GI Tract]] date: 2023-01-31 12:47
-- [[The Neuroendocrine System of the Gut]] date: 2023-01-31 12:47
-- [[CMV colitis]] date: 2023-01-31 12:47
-- [[Disorders of the Kidney and Urinary Tract]] date: 2023-01-31 12:47
-- [[Neurologic Disorders]] date: 2023-01-31 12:47
-- [[Infectious Diseases]] date: 2023-01-31 12:47
-- [[Leptospirosis Disease]] date: 2023-01-31 12:47
-- [[Helminthic Infections]] date: 2023-01-31 12:47
-- [[Global Medicine]] date: 2023-01-31 12:47
-- [[Protozoal and Helminthic Infections: General Considerations]] date: 2023-01-31 12:47
-- [[Therapy for Bacterial Diseases]] date: 2023-01-31 12:47
-- [[gastroenterology anatomy and physiology]] date: 2023-01-31 12:47
-- [[Diabetic autonomic neuropathy]] date: 2023-01-31 12:47
-- [[Early chronic diarrhea]] date: 2023-01-31 12:47
-- [[aortitis]] date: 2023-01-31 12:47
-- [[bacterial inflammatory acute diarrhea]] date: 2023-01-31 12:47
-- [[Disorders Associated with Environmental Exposures]] date: 2023-01-31 12:47
-- [[Weber-Osler-Rendu]] date: 2023-01-31 12:47
-- [[Clinical Procedure Tutorials]] date: 2023-01-31 12:47
-- [[Basic Considerations in Infectious Diseases]] date: 2023-01-31 12:47
-- [[Pharmacology]] date: 2023-01-31 12:47
-- [[salmonella]] date: 2023-01-31 12:47
-- [[Disorders of the Gastrointestinal System]] date: 2023-01-31 12:47
-- [[Entamoeba histolytica]] date: 2023-01-31 12:47
-- [[Rotavirus]] date: 2023-01-31 12:47
-- [[myeloproliferative disorders]] date: 2023-01-31 12:47
-- [[preformed toxin]] date: 2023-01-31 12:47
-- [[Salmonella typhi]] date: 2023-01-31 12:47
-- [[Parasitic diarrhea]] date: 2023-01-31 12:47
-- [[Endocrinology and Metabolism]] date: 2023-01-31 12:47
-- [[Disorders of the Respiratory System]] date: 2023-01-31 12:47
-- [[Infections Due to DNA and RNA Respiratory Viruses]] date: 2023-01-31 12:47
-- [[Mycobacterial Diseases]] date: 2023-01-31 12:47
-- [[The Immune System in Health and Disease]] date: 2023-01-31 12:47
-- [[Aging]] date: 2023-01-31 12:47
-- [[Infections Due to Human Immunodeficiency Virus and Other Human Retroviruses]] date: 2023-01-31 12:47
-- [[Video Collection]] date: 2023-01-31 12:47
-- [[Immune-Mediated, Inflammatory, and Rheumatologic Disorders]] date: 2023-01-31 12:47
-- [[Disorders of the Joints and Adjacent Tissues]] date: 2023-01-31 12:47
-- [[Genes, the Environment, and Disease]] date: 2023-01-31 12:47
-- [[Cardinal Manifestations and Presentation of Diseases]] date: 2023-01-31 12:47
-- [[Hematopoietic Disorders]] date: 2023-01-31 12:47
-- [[Diseases Caused by Gram-Positive Bacteria]] date: 2023-01-31 12:47
-- [[Ai相關]] date: 2023-01-31 12:47
-- [[critical care medicine]] date: 2023-01-31 12:47
-- [[gastroenterology approaches and chief complaints]] date: 2023-01-31 12:47
-- [[INFLAMMATORY-Acute Infectious Etiologies]] date: 2023-01-31 12:46
-- [[hematology]] date: 2023-01-31 12:46
-- [[NONINFLAMMATORY-Acute Infectious Etiologies]] date: 2023-01-31 12:46
-- [[Secretory diarrhea]] date: 2023-01-31 12:46
-- [[Osmotic diarrhea]] date: 2023-01-31 12:46
-- [[Obscure GIB]] date: 2023-01-31 12:46
-- [[Inflammatory diarrhea]] date: 2023-01-31 12:46
-- [[Maldigestion]] date: 2023-01-31 12:46
-- [[Meckel’s diverticulum]] date: 2023-01-31 12:46
-- [[fungal infections]] date: 2023-01-31 12:46
-- [[Functional IBS]] date: 2023-01-31 12:46
-- [[Pain]] date: 2023-01-31 12:46
-- [[diarrhea]] date: 2023-01-31 12:46
-- [[Disorders of Eyes, Ears, Nose, and Throat]] date: 2023-01-31 12:46
-- [[disorders of hemostasis]] date: 2023-01-31 12:46
-- [[Colitis]] date: 2023-01-31 12:46
-- [[Alterations in Renal and Urinary Tract Function]] date: 2023-01-31 12:46
-- [[Alterations in Circulatory and Respiratory Functions]] date: 2023-01-31 12:46
-- [[gastroenterology diagnostics]] date: 2023-01-31 12:46
-- [[Critical Care Medicine of Huppert's Notes]] date: 2023-01-31 12:46
-- [[WBC Disorders]] date: 2023-01-31 12:46
-- [[Plasma Cell Disorders]] date: 2023-01-31 12:46
-- [[Assessment of Fluid Responsiveness]] date: 2023-01-31 12:46
-- [[Goals of Intensive Care Unit (ICU) Care]] date: 2023-01-31 12:46
-- [[Common ICU Indications]] date: 2023-01-31 12:46
-- [[Diarrhea in a Patient with HIV and a Low CD4 Count]] date: 2023-01-31 12:46
-- [[rheumatology]] date: 2023-01-31 12:46
-- [[oncology]] date: 2023-01-31 12:46
-- [[nephrology]] date: 2023-01-31 12:46
-- [[Alterations in Body Temperature]] date: 2023-01-31 12:46
-- [[anemia]] date: 2023-01-31 12:46
+- [[digest markdown by python]] date: 2023-02-01 03:15
+- [[project and idea of python]] date: 2023-02-01 03:15
+- [[python]] date: 2023-02-01 03:14
+- [[程式語言]] date: 2023-02-01 03:13
+- [[5H5T]] date: 2023-02-01 03:11
+- [[Pulseless Arrest]] date: 2023-02-01 03:11
+- [[CPR人力配置]] date: 2023-02-01 03:10
+- [[Chief Complaint and History of Present Illness (HPI)]] date: 2023-02-01 03:06
+- [[Harrisons]] date: 2023-02-01 03:06
+- [[other subspecialties]] date: 2023-02-01 03:05
+- [[medical]] date: 2023-02-01 03:05
+- [[progress note in icu]] date: 2023-02-01 03:01
+- [[intensive care unit onboarding]] date: 2023-02-01 02:55
+- [[critical care]] date: 2023-02-01 02:54
 ## YESTERDAY
+
+- [[Clinical Syndromes: Health Care-Associated Infections]] date: 2023-01-31 19:14
+- [[Reynolds’ pentad]] date: 2023-01-31 19:14
+- [[Protozoal and Helminthic Infections: General Considerations]] date: 2023-01-31 19:14
+- [[Crigler-Najjar]] date: 2023-01-31 19:14
+- [[Approach to the Patient with Pancreatic Disease]] date: 2023-01-31 19:14
+- [[Acalculous cholecystitis]] date: 2023-01-31 19:14
+- [[Heart Failure: Management]] date: 2023-01-31 19:14
+- [[Insertion of Female Urethral Catheter]] date: 2023-01-31 19:14
+- [[Clinical Procedure Tutorials]] date: 2023-01-31 19:14
+- [[Frontiers]] date: 2023-01-31 19:14
+- [[Endocrinology and Metabolism]] date: 2023-01-31 19:14
+- [[Disorders of the Cardiovascular System]] date: 2023-01-31 19:14
+- [[Viral Diseases: General Considerations]] date: 2023-01-31 19:14
+- [[Clinical Syndromes: Community-Acquired Infections]] date: 2023-01-31 19:14
+- [[GI bleeding]] date: 2023-01-31 19:14
+- [[diagnostic test of Budd-Chiari syndrome]] date: 2023-01-31 19:14
+- [[The Bradyarrhythmias: Disorders of the Atrioventricular Node]] date: 2023-01-31 19:14
+- [[Diabetes Mellitus Complications]] date: 2023-01-31 19:14
+- [[Grade III acute cholecystitis]] date: 2023-01-31 19:14
+- [[introduction of Budd-Chiari syndrome]] date: 2023-01-31 19:14
+- [[Meperidine]] date: 2023-01-31 19:14
+- [[Insertion of Male Urethral Catheter]] date: 2023-01-31 19:14
+- [[analgesia as treatment ofcholecystitis]] date: 2023-01-31 19:14
+- [[Heart Failure: Pathophysiology and Diagnosis]] date: 2023-01-31 19:14
+- [[Noninvasive Cardiac Imaging: Echocardiography, Nuclear Cardiology, and Magnetic Resonance Computed Tomography Imaging]] date: 2023-01-31 19:14
+- [[The Bradyarrhythmias: Disorders of the Sinoatrial Node]] date: 2023-01-31 19:14
+- [[Autoimmune hepatitis]] date: 2023-01-31 19:14
+- [[guidelines for the diagnosis and determination of severity of acute cholecystitis]] date: 2023-01-31 19:14
+- [[iminodiacetic]] date: 2023-01-31 19:14
+- [[likelihood high of diagnostic studies choledocholithiasis]] date: 2023-01-31 19:14
+- [[hemochromatosis]] date: 2023-01-31 19:14
+- [[SOFA]] date: 2023-01-31 19:14
+- [[Charcot’s triad]] date: 2023-01-31 19:14
+- [[Etiologies-cirrhosis]] date: 2023-01-31 19:14
+- [[Tests of hepatocellular injury or cholestasis]] date: 2023-01-31 19:14
+- [[Treatment-cholangitis]] date: 2023-01-31 19:14
+- [[Wilson disease]] date: 2023-01-31 19:14
+- [[Treatment-cholecystitis]] date: 2023-01-31 19:14
+- [[Pathogenesis-cholecystitis]] date: 2023-01-31 19:14
+- [[Definitions-sepsis and shock]] date: 2023-01-31 19:14
+- [[pancreatitis]] date: 2023-01-31 19:14
+- [[Diagnostic studies-cholecystitis]] date: 2023-01-31 19:14
+- [[cholecystitis]] date: 2023-01-31 19:14
+- [[Clinical manifestations-cholecystitis]] date: 2023-01-31 19:14
+- [[cholangitis]] date: 2023-01-31 19:14
+- [[Complications-cholecystitis]] date: 2023-01-31 19:14
+- [[biliary tract disease]] date: 2023-01-31 19:14
+- [[choledocholithiasis]] date: 2023-01-31 19:14
+- [[Budd-Chiari syndrome]] date: 2023-01-31 19:14
+- [[Diagnostic studies-choledocholithiasis]] date: 2023-01-31 19:14
+- [[cirrhosis]] date: 2023-01-31 19:13
+- [[oncology]] date: 2023-01-31 02:16
+- [[hematology]] date: 2023-01-31 02:16
+- [[WBC Disorders]] date: 2023-01-31 02:16
+- [[stem cell transplantation]] date: 2023-01-31 02:16
+- [[myeloproliferative disorders]] date: 2023-01-31 02:15
+- [[Plasma Cell Disorders]] date: 2023-01-31 02:15
+- [[anemia]] date: 2023-01-31 02:15
+- [[rheumatology]] date: 2023-01-31 02:15
+- [[nephrology]] date: 2023-01-31 02:14
+- [[Diarrhea in a Patient with HIV and a Low CD4 Count]] date: 2023-01-31 02:14
+- [[GI Bleed]] date: 2023-01-31 02:14
+- [[gastroenterology key clinical trials and publications]] date: 2023-01-31 02:14
+- [[gastroenterology approaches and chief complaints]] date: 2023-01-31 02:13
+- [[diarrhea]] date: 2023-01-31 02:12
+- [[Diabetic autonomic neuropathy]] date: 2023-01-31 02:11
+- [[Early chronic diarrhea]] date: 2023-01-31 02:11
+- [[Acute Diarrhea (3 weeks)]] date: 2023-01-31 02:11
+- [[Norovirus]] date: 2023-01-31 02:10
+- [[Rotavirus]] date: 2023-01-31 02:09
+- [[Entamoeba histolytica]] date: 2023-01-31 02:09
+- [[Yersinia]] date: 2023-01-31 02:09
+- [[Campylobacter]] date: 2023-01-31 02:08
+- [[salmonella]] date: 2023-01-31 02:08
+- [[Shigella]] date: 2023-01-31 02:08
+- [[gastroenterology diagnostics]] date: 2023-01-31 02:07
+- [[Arterial supply to the upper GI tract]] date: 2023-01-31 02:07
+- [[Vasculature of the GI Tract]] date: 2023-01-31 02:07
+- [[The Neuroendocrine System of the Gut]] date: 2023-01-31 02:07
+- [[Gastric secretions]] date: 2023-01-31 02:06
+- [[Gastrin]] date: 2023-01-31 02:06
+- [[GI regulatory substances]] date: 2023-01-31 02:04
+- [[Classification of GI regulatory substances]] date: 2023-01-31 02:04
+- [[gastroenterology anatomy and physiology]] date: 2023-01-31 02:03
+- [[Inflammatory diarrhea]] date: 2023-01-31 02:02
+- [[CMV colitis]] date: 2023-01-31 02:02
+- [[pancreatic insufficiency]] date: 2023-01-31 02:01
+- [[Maldigestion]] date: 2023-01-31 02:01
+- [[Functional IBS]] date: 2023-01-31 01:59
+- [[Osmotic diarrhea]] date: 2023-01-31 01:59
+- [[chronic diarrhea]] date: 2023-01-31 01:58
+- [[Secretory diarrhea]] date: 2023-01-31 01:56
+- [[Lactose intolerance]] date: 2023-01-31 01:53
+- [[dairreha caused by ingestion of poorly absorbed cations or anions]] date: 2023-01-31 01:51
+- [[lab testing of general evaluation or chronic diarrhea]] date: 2023-01-31 01:49
+- [[General evaluation or chronic diarrhea]] date: 2023-01-31 01:49
+- [[offending meds cause chronic diarrhea]] date: 2023-01-31 01:47
+- [[additional history of general evaluation or chronic diarrhea]] date: 2023-01-31 01:45
+- [[INFLAMMATORY-Acute Infectious Etiologies]] date: 2023-01-31 01:41
+- [[bacterial inflammatory acute diarrhea]] date: 2023-01-31 01:41
+- [[Salmonella typhi]] date: 2023-01-31 01:41
+- [[aortitis]] date: 2023-01-31 01:36
+- [[NONINFLAMMATORY-Acute Infectious Etiologies]] date: 2023-01-31 01:33
+- [[preformed toxin]] date: 2023-01-31 01:33
+- [[Viral diarrhea]] date: 2023-01-31 01:32
+- [[Bacterial diarrhea]] date: 2023-01-31 01:31
+- [[Parasitic diarrhea]] date: 2023-01-31 01:31
+- [[99mTc-pertechnetate]] date: 2023-01-31 01:29
+- [[Obscure GIB]] date: 2023-01-31 01:29
+- [[Weber-Osler-Rendu]] date: 2023-01-31 01:26
+- [[lower gastrointestinal bleeding]] date: 2023-01-31 01:25
+- [[Meckel’s diverticulum]] date: 2023-01-31 01:25
+- [[Hereditary hemorrhagic telangiectasia]] date: 2023-01-31 01:24
+- [[Colitis]] date: 2023-01-31 01:23
+- [[Assessment of Fluid Responsiveness]] date: 2023-01-31 01:22
+- [[Common ICU Indications]] date: 2023-01-31 01:22
+- [[Goals of Intensive Care Unit (ICU) Care]] date: 2023-01-31 01:22
+- [[critical care medicine]] date: 2023-01-31 01:22
+- [[Critical Care Medicine of Huppert's Notes]] date: 2023-01-31 01:22
+- [[Immune-Mediated, Inflammatory, and Rheumatologic Disorders]] date: 2023-01-31 01:21
+- [[Disorders of the Joints and Adjacent Tissues]] date: 2023-01-31 01:21
+- [[Disorders of Immune-Mediated Injury]] date: 2023-01-31 01:21
+- [[The Immune System in Health and Disease]] date: 2023-01-31 01:21
+- [[Atlases]] date: 2023-01-31 01:18
+- [[Supplementary Topics]] date: 2023-01-31 01:18
+- [[Video Collection]] date: 2023-01-31 01:18
+- [[Consultative Medicine]] date: 2023-01-31 01:17
+- [[Aging]] date: 2023-01-31 01:17
+- [[Global Medicine]] date: 2023-01-31 01:17
+- [[Genes, the Environment, and Disease]] date: 2023-01-31 01:17
+- [[Disorders Associated with Environmental Exposures]] date: 2023-01-31 01:17
+- [[Poisoning, Drug Overdose, and Envenomation]] date: 2023-01-31 01:16
+- [[Neurologic Disorders]] date: 2023-01-31 01:16
+- [[Disorders of the Gastrointestinal System]] date: 2023-01-31 01:15
+- [[Disorders of the Kidney and Urinary Tract]] date: 2023-01-31 01:15
+- [[Infectious Diseases]] date: 2023-01-31 01:15
+- [[Disorders of the Respiratory System]] date: 2023-01-31 01:14
+- [[Helminthic Infections]] date: 2023-01-31 01:13
+- [[Protozoal Infections]] date: 2023-01-31 01:13
+- [[fungal infections]] date: 2023-01-31 01:12
+- [[Infections Due to RNA Viruses]] date: 2023-01-31 01:12
+- [[Infections Due to Human Immunodeficiency Virus and Other Human Retroviruses]] date: 2023-01-31 01:12
+- [[Infections Due to DNA and RNA Respiratory Viruses]] date: 2023-01-31 01:12
+- [[Infections Due to DNA Viruses]] date: 2023-01-31 01:11
+- [[Diseases Caused by Gram-Negative Bacteria]] date: 2023-01-31 01:11
+- [[Diseases Caused by Rickettsiae, Mycoplasmas, and Chlamydiae]] date: 2023-01-31 01:10
+- [[Spirochetal Diseases]] date: 2023-01-31 01:10
+- [[Leptospirosis Disease]] date: 2023-01-31 01:10
+- [[Mycobacterial Diseases]] date: 2023-01-31 01:09
+- [[Miscellaneous Bacterial Infections]] date: 2023-01-31 01:09
+- [[Diseases Caused by Gram-Positive Bacteria]] date: 2023-01-31 01:09
+- [[Therapy for Bacterial Diseases]] date: 2023-01-31 01:09
+- [[Basic Considerations in Infectious Diseases]] date: 2023-01-31 01:08
+- [[Oncology and Hematology]] date: 2023-01-31 01:08
+- [[disorders of hemostasis]] date: 2023-01-31 01:07
+- [[Hematopoietic Disorders]] date: 2023-01-31 01:07
+- [[Neoplastic Disorders]] date: 2023-01-31 01:07
+- [[Pharmacology]] date: 2023-01-31 01:06
+- [[Cardinal Manifestations and Presentation of Diseases]] date: 2023-01-31 01:06
+- [[Alterations in the Skin]] date: 2023-01-31 01:06
+- [[Hematologic Alterations]] date: 2023-01-31 01:06
+- [[Alterations in Renal and Urinary Tract Function]] date: 2023-01-31 01:05
+- [[Alterations in Gastrointestinal Function]] date: 2023-01-31 01:04
+- [[Alterations in Circulatory and Respiratory Functions]] date: 2023-01-31 01:04
+- [[Disorders of Eyes, Ears, Nose, and Throat]] date: 2023-01-31 01:04
+- [[Alterations in Body Temperature]] date: 2023-01-31 01:03
+- [[Pain]] date: 2023-01-31 01:03
+- [[The Profession of Medicine]] date: 2023-01-31 01:03
+- [[The Practice of Medicine]] date: 2023-01-31 01:02
+- [[Ai相關]] date: 2023-01-31 00:11
+## PREVIOUS
 
 - [[如何打造一座知識花園]] date: 2023-01-30 22:57
 - [[index]] date: 2023-01-30 22:57
-- [[intestinal ischemia]] date: 2023-01-30 18:10
-- [[vasopressin of management of gastrointestinal bleeding]] date: 2023-01-30 15:51
-- [[upper gastrointestinal bleeding]] date: 2023-01-30 15:44
-- [[Cameron’s lesions]] date: 2023-01-30 15:43
-- [[vascular etiology of lower gastrointestinal bleeding]] date: 2023-01-30 14:18
-- [[Gastric antral vascular ectasia]] date: 2023-01-30 14:16
-- [[management of gastrointestinal bleeding]] date: 2023-01-30 14:13
-- [[gastrointestinal bleeding]] date: 2023-01-30 13:09
-- [[Go]] date: 2023-01-30 02:26
-- [[程式語言]] date: 2023-01-30 02:24
+- [[vasopressin of management of gastrointestinal bleeding]] date: 2023-01-30 21:47
+- [[Gastric antral vascular ectasia]] date: 2023-01-30 21:47
+- [[vascular etiology of lower gastrointestinal bleeding]] date: 2023-01-30 21:47
+- [[intestinal ischemia]] date: 2023-01-30 21:47
+- [[gastrointestinal bleeding]] date: 2023-01-30 21:47
+- [[management of gastrointestinal bleeding]] date: 2023-01-30 21:47
+- [[upper gastrointestinal bleeding]] date: 2023-01-30 21:47
+- [[Cameron’s lesions]] date: 2023-01-30 21:47
+- [[Go]] date: 2023-01-30 02:25
 - [[2023-01-30]] date: 2023-01-30 01:10
 - [[NAFLD Activity Score]] date: 2023-01-30 00:57
 - [[CLIF-C ACLF]] date: 2023-01-30 00:45
-- [[encephalopathy grades]] date: 2023-01-30 00:43
+- [[encephalopathy grades]] date: 2023-01-30 00:42
 - [[UKELD Score]] date: 2023-01-30 00:39
 - [[Child-Pugh score]] date: 2023-01-30 00:37
 - [[hepatic encephalopathy]] date: 2023-01-30 00:35
-- [[Esophageal or gastric varices]] date: 2023-01-30 00:32
+- [[Esophageal or gastric varices]] date: 2023-01-30 00:31
 - [[octreotide]] date: 2023-01-30 00:29
 - [[Esophagitis]] date: 2023-01-30 00:21
 - [[Erosive gastropathy]] date: 2023-01-30 00:20
@@ -166,159 +222,155 @@ enableToc: false
 - [[diagnostic studies of gastrointestinal bleeding]] date: 2023-01-30 00:08
 - [[tagged RBC scan]] date: 2023-01-30 00:06
 - [[brisk UGIB]] date: 2023-01-30 00:00
-## PREVIOUS
-
 - [[hematochezia]] date: 2023-01-29 23:57
 - [[Triage of initial management of gastrointestinal bleeding]] date: 2023-01-29 23:49
 - [[ABC Score]] date: 2023-01-29 23:47
 - [[Assess severity as initial management of gastrointestinal bleeding]] date: 2023-01-29 23:38
-- [[ligament of Treitz]] date: 2023-01-29 23:25
-- [[Evaluation acute diarrhea]] date: 2023-01-29 23:25
-- [[pulmonology]] date: 2023-01-29 23:25
-- [[Antiphospholipid syndrome (APS)]] date: 2023-01-29 23:25
-- [[Definition of gastrointestinal bleeding]] date: 2023-01-29 23:25
-- [[jaundice]] date: 2023-01-29 23:25
-- [[Paralytic ileus of the colon & small bowel]] date: 2023-01-29 23:25
-- [[Gastroparesis]] date: 2023-01-29 23:25
-- [[Irritable bowel syndrome]] date: 2023-01-29 23:25
-- [[Etiologies-hypopituitary syndromes]] date: 2023-01-29 23:25
-- [[Functional GI disease]] date: 2023-01-29 23:25
-- [[dyspnea]] date: 2023-01-29 23:25
-- [[Diagnostic studies]] date: 2023-01-29 23:25
-- [[Definition and epidemiology]] date: 2023-01-29 23:25
-- [[vim]] date: 2023-01-28 01:56
-- [[Laboratory studies-cirrhosis]] date: 2023-01-28 01:41
-- [[Definition-cirrhosis]] date: 2023-01-28 01:24
-- [[hepatopulmonary syndrome]] date: 2023-01-28 01:08
-- [[cirrhosis]] date: 2023-01-28 01:08
-- [[Barrett’s esophagitis]] date: 2023-01-28 01:07
-- [[Barrett’s Esophagus]] date: 2023-01-28 01:06
-- [[PUD]] date: 2023-01-28 01:06
-- [[capsule endoscopy]] date: 2023-01-28 01:04
-- [[vimscripts]] date: 2023-01-28 01:04
-- [[medical statistics]] date: 2023-01-28 00:55
-- [[researcher]] date: 2023-01-28 00:55
-- [[balloon-retrograde transvenous obliteration]] date: 2023-01-28 00:54
-- [[bivalirudin]] date: 2023-01-28 00:52
-- [[Approach to thrombocytopenia]] date: 2023-01-28 00:52
-- [[Treatment of HIT]] date: 2023-01-28 00:52
-- [[villous adenoma]] date: 2023-01-28 00:52
-- [[GI potassium losses]] date: 2023-01-28 00:52
-- [[chloroquine]] date: 2023-01-28 00:50
-- [[Transcellular shifts]] date: 2023-01-28 00:50
-- [[β2-agonists]] date: 2023-01-28 00:48
-- [[vim buffer]] date: 2023-01-28 00:47
-- [[lua]] date: 2023-01-28 00:41
-- [[neovim]] date: 2023-01-28 00:39
-- [[open-source]] date: 2023-01-28 00:35
-- [[zotero]] date: 2023-01-28 00:35
-- [[shell scripts]] date: 2023-01-28 00:33
-- [[zotero plugin]] date: 2023-01-28 00:32
-- [[用Zotero來管理Paper]] date: 2023-01-28 00:32
-- [[multiprocessing]] date: 2023-01-28 00:31
-- [[Shell Scripting 基礎指南]] date: 2023-01-28 00:31
-- [[UNIX systems]] date: 2023-01-28 00:31
-- [[command line interface]] date: 2023-01-28 00:18
-- [[Portal HTN gastropathy]] date: 2023-01-27 23:52
-- [[transjugular intrahepatic portosystemic shunt]] date: 2023-01-27 23:52
-- [[esophageal and gastric disorders]] date: 2023-01-27 23:08
-- [[gastroesophageal reflux disease]] date: 2023-01-27 23:08
-- [[Treatment gastroesophageal reflux disease ]] date: 2023-01-27 23:07
-- [[rapid overview of emergency management of gastrointestinal bleeding]] date: 2023-01-27 23:05
-- [[sclerotherapy]] date: 2023-01-27 23:04
-- [[vascular-enteric fistula]] date: 2023-01-27 23:04
-- [[initial management of gastrointestinal bleeding]] date: 2023-01-27 23:01
-- [[erythromycin 250 mg]] date: 2023-01-27 22:57
-- [[Reverse coagulopathy for gastrointestinal bleeding]] date: 2023-01-27 22:50
-- [[Transfuse for gastrointestinal bleeding]] date: 2023-01-27 22:50
-- [[Treatment-ascites]] date: 2023-01-27 22:29
-- [[exit 0]] date: 2023-01-27 22:13
-- [[command line know how]] date: 2023-01-27 20:56
-- [[blood urea nitrogen creatinine (BUN Cr) ratio]] date: 2023-01-27 16:55
-- [[Lab studies for gastrointestinal bleeding]] date: 2023-01-27 16:55
-- [[Resuscitation for gastrointestinal bleeding]] date: 2023-01-27 16:52
-- [[Physical exam of gastrointestinal bleeding]] date: 2023-01-27 16:51
-- [[Risk factor of initial management of gastrointestinal bleeding]] date: 2023-01-27 16:49
-- [[AIMS65]] date: 2023-01-27 16:46
-- [[Clinical manifestations of gastrointestinal bleeding]] date: 2023-01-27 16:39
+- [[Definition of gastrointestinal bleeding]] date: 2023-01-29 23:13
+- [[ligament of Treitz]] date: 2023-01-29 23:12
+- [[Etiologies-hypopituitary syndromes]] date: 2023-01-29 23:10
+- [[Evaluation acute diarrhea]] date: 2023-01-29 15:32
+- [[Gastroparesis]] date: 2023-01-29 15:13
+- [[Paralytic ileus of the colon & small bowel]] date: 2023-01-29 15:13
+- [[Functional GI disease]] date: 2023-01-29 14:56
+- [[Irritable bowel syndrome]] date: 2023-01-29 13:37
+- [[Antiphospholipid syndrome (APS)]] date: 2023-01-29 13:33
+- [[Diagnostic studies]] date: 2023-01-29 13:30
+- [[Definition and epidemiology]] date: 2023-01-29 12:07
+- [[dyspnea]] date: 2023-01-29 02:40
+- [[pulmonology]] date: 2023-01-29 02:40
+- [[jaundice]] date: 2023-01-29 00:02
+- [[command line know how]] date: 2023-01-28 21:25
+- [[UNIX systems]] date: 2023-01-28 21:25
+- [[multiprocessing]] date: 2023-01-28 21:25
+- [[initial management of gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[sclerotherapy]] date: 2023-01-28 21:25
+- [[Shell Scripting 基礎指南]] date: 2023-01-28 21:25
+- [[gastroesophageal reflux disease]] date: 2023-01-28 21:25
+- [[Risk factor of initial management of gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[AIMS65]] date: 2023-01-28 21:25
+- [[vascular-enteric fistula]] date: 2023-01-28 21:25
+- [[rapid overview of emergency management of gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[Lab studies for gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[Physical exam of gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[Resuscitation for gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[blood urea nitrogen creatinine (BUN Cr) ratio]] date: 2023-01-28 21:25
+- [[Clinical manifestations of gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[exit 0]] date: 2023-01-28 21:25
+- [[researcher]] date: 2023-01-28 21:25
+- [[用Zotero來管理Paper]] date: 2023-01-28 21:25
+- [[villous adenoma]] date: 2023-01-28 21:25
+- [[capsule endoscopy]] date: 2023-01-28 21:25
+- [[PUD]] date: 2023-01-28 21:25
+- [[medical statistics]] date: 2023-01-28 21:25
+- [[vimscripts]] date: 2023-01-28 21:25
+- [[hepatopulmonary syndrome]] date: 2023-01-28 21:25
+- [[β2-agonists]] date: 2023-01-28 21:25
+- [[chloroquine]] date: 2023-01-28 21:25
+- [[bivalirudin]] date: 2023-01-28 21:25
+- [[Transfuse for gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[Reverse coagulopathy for gastrointestinal bleeding]] date: 2023-01-28 21:25
+- [[Barrett’s Esophagus]] date: 2023-01-28 21:25
+- [[balloon-retrograde transvenous obliteration]] date: 2023-01-28 21:25
+- [[open-source]] date: 2023-01-28 21:25
+- [[zotero]] date: 2023-01-28 21:25
+- [[neovim]] date: 2023-01-28 21:25
+- [[command line interface]] date: 2023-01-28 21:25
+- [[lua]] date: 2023-01-28 21:25
+- [[erythromycin 250 mg]] date: 2023-01-28 21:25
+- [[transjugular intrahepatic portosystemic shunt]] date: 2023-01-28 21:25
+- [[vim]] date: 2023-01-28 21:25
+- [[Laboratory studies-cirrhosis]] date: 2023-01-28 21:25
+- [[zotero plugin]] date: 2023-01-28 21:25
+- [[vim buffer]] date: 2023-01-28 21:25
+- [[Treatment gastroesophageal reflux disease ]] date: 2023-01-28 21:25
+- [[esophageal and gastric disorders]] date: 2023-01-28 21:25
+- [[GI potassium losses]] date: 2023-01-28 21:25
+- [[Treatment of HIT]] date: 2023-01-28 21:25
+- [[Treatment-ascites]] date: 2023-01-28 21:25
+- [[Transcellular shifts]] date: 2023-01-28 21:25
+- [[Portal HTN gastropathy]] date: 2023-01-28 21:25
+- [[Definition-cirrhosis]] date: 2023-01-28 21:25
+- [[Barrett’s esophagitis]] date: 2023-01-28 21:25
+- [[Approach to thrombocytopenia]] date: 2023-01-28 21:25
+- [[shell scripts]] date: 2023-01-28 21:24
 - [[Pathogenesis of ascites and related complications of cirrhosis]] date: 2023-01-27 01:40
 - [[Pathophysiology-ascites]] date: 2023-01-27 01:40
 - [[IgA vasculitis]] date: 2023-01-27 01:37
 - [[small-vessel vasculitis]] date: 2023-01-27 01:37
 - [[IgA nephropathy]] date: 2023-01-27 01:36
-- [[Henoch-Schönlein purpura]] date: 2023-01-27 01:35
+- [[Henoch-Schönlein purpura]] date: 2023-01-27 01:35
 - [[nephrotic syndrome]] date: 2023-01-27 01:35
 - [[Systemic diseases with secondary glomerular involvement]] date: 2023-01-27 01:34
-- [[Primary glomerular diseases (grouped by pathology)]] date: 2023-01-27 01:33
-- [[Definition-nephrotic syndrome]] date: 2023-01-27 01:33
-- [[proteinuria]] date: 2023-01-27 01:33
+- [[Definition-nephrotic syndrome]] date: 2023-01-27 01:32
+- [[proteinuria]] date: 2023-01-27 01:32
+- [[Primary glomerular diseases (grouped by pathology)]] date: 2023-01-27 01:32
 - [[Fitz-Hugh-Curtis syndrome]] date: 2023-01-27 01:21
+- [[Serum-ascites albumin gradient (SAAG)]] date: 2023-01-27 01:20
 - [[Evaluation-ascites]] date: 2023-01-27 01:20
 - [[Etiologies-ascites]] date: 2023-01-27 01:20
-- [[Serum-ascites albumin gradient (SAAG)]] date: 2023-01-27 01:20
 - [[Treatment of Alchololic-associated hepatitis]] date: 2023-01-27 00:54
-- [[Alcohol-associated hepatitis]] date: 2023-01-27 00:54
+- [[Alcohol-associated hepatitis]] date: 2023-01-27 00:53
 - [[ascites]] date: 2023-01-27 00:41
-- [[Budd-Chiari syndrome]] date: 2023-01-26 20:05
-- [[protein-losing enteropathy]] date: 2023-01-26 20:04
-- [[Meigs’ syndrome]] date: 2023-01-26 19:51
-- [[Culture-negative neutrocytic ascites (CNNA)]] date: 2023-01-26 19:46
-- [[Spontaneous bacterial peritonitis (SBP)]] date: 2023-01-26 19:45
-- [[Spontaneous bacterial peritonitis]] date: 2023-01-26 19:44
-- [[Cell count of ascites]] date: 2023-01-26 19:41
-- [[Tuberculin skin test]] date: 2023-01-26 19:36
-- [[Title 2 test]] date: 2023-01-26 19:35
-- [[Testing Overview]] date: 2023-01-26 19:35
-- [[test202207]] date: 2023-01-26 19:35
-- [[Stress testing]] date: 2023-01-26 19:35
-- [[statistical concepts and test characteristics]] date: 2023-01-26 19:35
-- [[Serologic and virologic tests]] date: 2023-01-26 19:35
-- [[pulmonary function tests]] date: 2023-01-26 19:35
-- [[positive and negative predictive values of tests]] date: 2023-01-26 19:35
-- [[Pharmacologic-stress-test]] date: 2023-01-26 19:35
-- [[Patrick FABER test]] date: 2023-01-26 19:35
-- [[initial test of hypophosphatemia]] date: 2023-01-26 19:35
-- [[Imaging-for-stress-test]] date: 2023-01-26 19:35
-- [[I have a healthy patient. How do I determine which screening tests to order]] date: 2023-01-26 19:35
-- [[hepatitis C virus Serologic, virologic, & genetic tests]] date: 2023-01-26 19:35
-- [[Further coagulation tests]] date: 2023-01-26 19:35
-- [[Exercise-tolerance-test]] date: 2023-01-26 19:35
-- [[disorder of test]] date: 2023-01-26 19:35
-- [[dexamethasone suppression test]] date: 2023-01-26 19:35
-- [[CRH stimulations test]] date: 2023-01-26 19:35
-- [[Blood Tests]] date: 2023-01-26 19:35
-- [[Approach to abnormal liver tests with infiltrative pattern]] date: 2023-01-26 19:35
-- [[Approach to abnormal liver tests with cholestatic pattern]] date: 2023-01-26 19:35
-- [[abnormal liver tests]] date: 2023-01-26 19:35
-- [[48-hr LD-dexamethasone suppression test]] date: 2023-01-26 19:35
-- [[checkifalivedd]] date: 2023-01-26 19:29
-- [[checkifalive]] date: 2023-01-26 19:27
-- [[卡片盒筆記法]] date: 2023-01-26 19:21
-- [[Reliever medications-asthma]] date: 2023-01-26 19:20
-- [[Refractory ascites]] date: 2023-01-26 19:18
-- [[coronary angiography PCI]] date: 2023-01-26 08:45
-- [[gastroenterology]] date: 2023-01-26 08:42
-- [[cardiology]] date: 2023-01-26 08:39
-- [[differential diagnoses in abdominal pain organized by time course]] date: 2023-01-25 17:37
-- [[approach to abdominal pain]] date: 2023-01-25 17:37
-- [[abdominal pain]] date: 2023-01-25 15:55
-- [[Etiologies-hemoptysis]] date: 2023-01-25 15:54
-- [[edema]] date: 2023-01-25 15:37
-- [[Evaluation-dyspnea]] date: 2023-01-25 15:36
-- [[delirium or dementia]] date: 2023-01-25 15:07
-- [[pulmonology approaches and chief complaints]] date: 2023-01-25 13:54
+- [[gastroenterology]] date: 2023-01-26 21:05
+- [[Imaging-for-stress-test]] date: 2023-01-26 21:05
+- [[coronary angiography PCI]] date: 2023-01-26 21:05
+- [[Culture-negative neutrocytic ascites (CNNA)]] date: 2023-01-26 21:05
+- [[Refractory ascites]] date: 2023-01-26 21:05
+- [[Spontaneous bacterial peritonitis (SBP)]] date: 2023-01-26 21:05
+- [[Reliever medications-asthma]] date: 2023-01-26 21:05
+- [[Cell count of ascites]] date: 2023-01-26 21:05
+- [[Approach to abnormal liver tests with infiltrative pattern]] date: 2023-01-26 21:05
+- [[statistical concepts and test characteristics]] date: 2023-01-26 21:05
+- [[I have a healthy patient. How do I determine which screening tests to order]] date: 2023-01-26 21:05
+- [[Tuberculin skin test]] date: 2023-01-26 21:05
+- [[Approach to abnormal liver tests with cholestatic pattern]] date: 2023-01-26 21:05
+- [[checkifalivedd]] date: 2023-01-26 21:05
+- [[卡片盒筆記法]] date: 2023-01-26 21:05
+- [[Spontaneous bacterial peritonitis]] date: 2023-01-26 21:05
+- [[cardiology]] date: 2023-01-26 21:05
+- [[protein-losing enteropathy]] date: 2023-01-26 21:05
+- [[Meigs’ syndrome]] date: 2023-01-26 21:05
+- [[dexamethasone suppression test]] date: 2023-01-26 21:05
+- [[Patrick FABER test]] date: 2023-01-26 21:05
+- [[abnormal liver tests]] date: 2023-01-26 21:05
+- [[checkifalive]] date: 2023-01-26 21:05
+- [[test202207]] date: 2023-01-26 21:05
+- [[Stress testing]] date: 2023-01-26 21:05
+- [[Exercise-tolerance-test]] date: 2023-01-26 21:05
+- [[48-hr LD-dexamethasone suppression test]] date: 2023-01-26 21:05
+- [[hepatitis C virus Serologic, virologic, & genetic tests]] date: 2023-01-26 21:05
+- [[Testing Overview]] date: 2023-01-26 21:05
+- [[Blood Tests]] date: 2023-01-26 21:05
+- [[positive and negative predictive values of tests]] date: 2023-01-26 21:05
+- [[CRH stimulations test]] date: 2023-01-26 21:05
+- [[Pharmacologic-stress-test]] date: 2023-01-26 21:05
+- [[Further coagulation tests]] date: 2023-01-26 21:05
+- [[initial test of hypophosphatemia]] date: 2023-01-26 21:05
+- [[Title 2 test]] date: 2023-01-26 21:05
+- [[disorder of test]] date: 2023-01-26 21:05
+- [[pulmonary function tests]] date: 2023-01-26 21:05
+- [[Serologic and virologic tests]] date: 2023-01-26 21:05
+- [[approach to abdominal pain]] date: 2023-01-25 18:47
+- [[delirium or dementia]] date: 2023-01-25 18:47
+- [[pulmonology approaches and chief complaints]] date: 2023-01-25 18:47
+- [[differential diagnoses in abdominal pain organized by time course]] date: 2023-01-25 18:47
+- [[abdominal pain]] date: 2023-01-25 18:47
+- [[Evaluation-dyspnea]] date: 2023-01-25 18:47
+- [[Etiologies-hemoptysis]] date: 2023-01-25 18:47
+- [[edema]] date: 2023-01-25 18:47
 - [[sxtodx]] date: 2023-01-24 22:14
-- [[Diagnostic studies-urinary tract infections]] date: 2023-01-24 04:50
-- [[Vimwiki設定]] date: 2023-01-24 02:50
-- [[Typical Characteristics and Diagnostic Studies of Chest Pain]] date: 2023-01-24 02:12
-- [[smears]] date: 2023-01-24 02:11
-- [[ambulatory]] date: 2023-01-23 23:22
-- [[hypertension]] date: 2023-01-23 23:22
-- [[osteoarthritis]] date: 2023-01-23 23:21
-- [[smoking cessation]] date: 2023-01-23 23:20
-- [[vaccination]] date: 2023-01-23 23:20
-- [[vim TODO]] date: 2023-01-23 14:23
-- [[pandoc in vim]] date: 2023-01-23 14:11
+- [[osteoarthritis]] date: 2023-01-24 22:04
+- [[smears]] date: 2023-01-24 22:04
+- [[ambulatory]] date: 2023-01-24 22:04
+- [[pandoc in vim]] date: 2023-01-24 22:04
+- [[vim TODO]] date: 2023-01-24 22:04
+- [[Vimwiki設定]] date: 2023-01-24 22:04
+- [[Typical Characteristics and Diagnostic Studies of Chest Pain]] date: 2023-01-24 22:04
+- [[Diagnostic studies-urinary tract infections]] date: 2023-01-24 22:04
+- [[smoking cessation]] date: 2023-01-24 22:04
+- [[vaccination]] date: 2023-01-24 22:04
+- [[hypertension]] date: 2023-01-24 22:04
 - [[蜥蜴與VIM]] date: 2023-01-22 23:38
 - [[endocrine pancreas]] date: 2023-01-22 23:31
 - [[endocrinology]] date: 2023-01-22 23:31
@@ -331,27 +383,26 @@ enableToc: false
 - [[obesity]] date: 2023-01-22 23:28
 - [[Osteoporosis]] date: 2023-01-22 23:28
 - [[symptom to diagnosis]] date: 2023-01-22 23:27
-- [[I have a healthy patient without HIV risk factors who asks about HIV screening. How do I diagnose or exclude HIV infection]] date: 2023-01-22 23:25
-- [[I have an HIV-positive patient with a cough and fever. How do I determine the cause]] date: 2023-01-22 23:25
 - [[wheezing or stridor]] date: 2023-01-22 23:25
-- [[I have patients with AIDS-related complaints.]] date: 2023-01-22 23:25
 - [[unintentional weight loss]] date: 2023-01-22 23:25
-- [[I have an HIV-positive patient who complains of headache. How do I determine the cause]] date: 2023-01-22 23:25
-- [[an acid-base abnormality]] date: 2023-01-22 23:25
-- [[jaundice or abnormal liver enzymes]] date: 2023-01-22 23:25
-- [[acute respiratory complaints of cough and congestion]] date: 2023-01-22 23:25
 - [[transient loss of consciousness]] date: 2023-01-22 23:25
-- [[hyponatremia. I have a patient with hypernatremia]] date: 2023-01-22 23:25
-- [[GI bleeding]] date: 2023-01-22 23:25
-- [[I have a patient with a problem. How do I figure out the possible causes]] date: 2023-01-22 23:25
-- [[a rash]] date: 2023-01-22 23:25
-- [[I have a patient who is concerned that she has diabetes. How do I confirm the diagnosis and treat patients with diabetes]] date: 2023-01-22 23:25
-- [[joint pain]] date: 2023-01-22 23:25
-- [[acute diarrhea]] date: 2023-01-22 23:25
-- [[Contents]] date: 2023-01-22 23:25
 - [[Preface]] date: 2023-01-22 23:25
-- [[Acknowledgments]] date: 2023-01-22 23:25
+- [[joint pain]] date: 2023-01-22 23:25
+- [[jaundice or abnormal liver enzymes]] date: 2023-01-22 23:25
+- [[I have patients with AIDS-related complaints.]] date: 2023-01-22 23:25
+- [[I have an HIV-positive patient with a cough and fever. How do I determine the cause]] date: 2023-01-22 23:25
+- [[I have an HIV-positive patient who complains of headache. How do I determine the cause]] date: 2023-01-22 23:25
+- [[I have a patient with a problem. How do I figure out the possible causes]] date: 2023-01-22 23:25
+- [[I have a patient who is concerned that she has diabetes. How do I confirm the diagnosis and treat patients with diabetes]] date: 2023-01-22 23:25
+- [[I have a healthy patient without HIV risk factors who asks about HIV screening. How do I diagnose or exclude HIV infection]] date: 2023-01-22 23:25
+- [[hyponatremia. I have a patient with hypernatremia]] date: 2023-01-22 23:25
 - [[Contributing Authors]] date: 2023-01-22 23:25
+- [[Contents]] date: 2023-01-22 23:25
+- [[an acid-base abnormality]] date: 2023-01-22 23:25
+- [[acute respiratory complaints of cough and congestion]] date: 2023-01-22 23:25
+- [[acute diarrhea]] date: 2023-01-22 23:25
+- [[Acknowledgments]] date: 2023-01-22 23:25
+- [[a rash]] date: 2023-01-22 23:25
 - [[a bleeding disorder]] date: 2023-01-22 23:25
 - [[在mac關閉micrfosoft update]] date: 2023-01-22 11:41
 - [[Cardiology diseases and pathophysiology]] date: 2023-01-22 06:57
@@ -360,12 +411,12 @@ enableToc: false
 - [[Psychiatry of Huppert's Notes]] date: 2023-01-22 06:53
 - [[neurology]] date: 2023-01-22 06:52
 - [[Neurology of Huppert's Notes]] date: 2023-01-22 06:52
+- [[dermatology]] date: 2023-01-22 06:52
 - [[Dermatology of Huppert's Notes]] date: 2023-01-22 06:52
 - [[Rash]] date: 2023-01-22 06:52
-- [[dermatology]] date: 2023-01-22 06:52
 - [[Rheumatology of Huppert's Notes]] date: 2023-01-22 06:51
-- [[Infectious Diseases of Huppert's Notes]] date: 2023-01-22 06:51
 - [[infectious disease]] date: 2023-01-22 06:50
+- [[Infectious Diseases of Huppert's Notes]] date: 2023-01-22 06:50
 - [[coagulopathies]] date: 2023-01-22 06:48
 - [[hematology of Huppert's Notes]] date: 2023-01-22 06:48
 - [[Endocrinology of Huppert's Notes]] date: 2023-01-22 06:47
@@ -375,431 +426,429 @@ enableToc: false
 - [[Thyroid Disease key clinical trials]] date: 2023-01-22 06:24
 - [[Nephrology of Huppert's Notes]] date: 2023-01-22 06:23
 - [[Gastroenterology of Huppert's Notes]] date: 2023-01-22 06:23
-- [[critical care]] date: 2023-01-22 06:22
 - [[Pulmonology of Huppert's Notes]] date: 2023-01-22 06:21
 - [[Practical Skills for Learners]] date: 2023-01-22 06:20
+- [[preparing a patient for discharge]] date: 2023-01-22 06:20
 - [[daily presentations and notes]] date: 2023-01-22 06:20
 - [[how to pre-round]] date: 2023-01-22 06:20
-- [[HOW TO WRITE A HISTORY AND PHYSICAL (H&P)]] date: 2023-01-22 06:20
 - [[how to call a consult]] date: 2023-01-22 06:20
-- [[preparing a patient for discharge]] date: 2023-01-22 06:20
-- [[psychiatric anatomy & physiology]] date: 2023-01-22 06:20
-- [[psychiatric diagnostics]] date: 2023-01-22 06:20
-- [[psychiatric diseases & pathophysiology]] date: 2023-01-22 06:20
-- [[psychiatric key medications & interventions]] date: 2023-01-22 06:20
+- [[HOW TO WRITE A HISTORY AND PHYSICAL (H&P)]] date: 2023-01-22 06:20
 - [[psychiatric key clinical trials & publications]] date: 2023-01-22 06:20
+- [[psychiatric key medications & interventions]] date: 2023-01-22 06:20
+- [[psychiatric diseases & pathophysiology]] date: 2023-01-22 06:20
 - [[psychiatric approaches & chief complaints]] date: 2023-01-22 06:20
-- [[neurology diseases & pathophysiology]] date: 2023-01-22 06:19
+- [[psychiatric diagnostics]] date: 2023-01-22 06:20
+- [[psychiatric anatomy & physiology]] date: 2023-01-22 06:20
 - [[neurology key clinical trials & publications]] date: 2023-01-22 06:19
-- [[neurology approaches & chief complaints]] date: 2023-01-22 06:19
-- [[neurology anatomy and physiology]] date: 2023-01-22 06:19
 - [[neurology key medications & interventions]] date: 2023-01-22 06:19
+- [[neurology diseases & pathophysiology]] date: 2023-01-22 06:19
+- [[neurology approaches & chief complaints]] date: 2023-01-22 06:19
 - [[neurology diagnostics]] date: 2023-01-22 06:19
+- [[neurology anatomy and physiology]] date: 2023-01-22 06:19
 - [[General Medicine of Huppert's Notes]] date: 2023-01-22 06:19
-- [[INTRODUCTION]] date: 2023-01-22 06:19
 - [[symptoms & chief complaints]] date: 2023-01-22 06:19
+- [[INTRODUCTION]] date: 2023-01-22 06:19
 - [[rheumatology key clinical trials & publications]] date: 2023-01-22 06:19
 - [[rheumatology key medications & interventions]] date: 2023-01-22 06:19
+- [[rheumatology diseases & pathophysiology]] date: 2023-01-22 06:19
+- [[rheumatology approaches & chief complaints]] date: 2023-01-22 06:19
 - [[rheumatology diagnostics]] date: 2023-01-22 06:19
 - [[rheumatology anatomy & physiology]] date: 2023-01-22 06:19
-- [[rheumatology approaches & chief complaints]] date: 2023-01-22 06:19
-- [[rheumatology diseases & pathophysiology]] date: 2023-01-22 06:19
 - [[An Approach to Diagnosing and Treating Infectious Diseases]] date: 2023-01-22 06:18
+- [[infectious diseases key clinical trials & publications]] date: 2023-01-22 06:18
 - [[infectious diseases key medications & interventions]] date: 2023-01-22 06:18
 - [[infectious diseases and pathophysiology]] date: 2023-01-22 06:18
-- [[infectious diseases key clinical trials & publications]] date: 2023-01-22 06:18
 - [[microbiology]] date: 2023-01-22 06:18
-- [[nephrology anatomy and physiology]] date: 2023-01-22 06:18
-- [[nephrology approaches and chief complaints]] date: 2023-01-22 06:18
-- [[nephrology diseases and pathophysiology]] date: 2023-01-22 06:18
 - [[nephrology key clinical trials and publications]] date: 2023-01-22 06:18
 - [[nephrology key medications and interventions]] date: 2023-01-22 06:18
 - [[DIAGNOSTICS]] date: 2023-01-22 06:18
-- [[reproductive endocrinology]] date: 2023-01-22 06:18
+- [[nephrology anatomy and physiology]] date: 2023-01-22 06:18
+- [[nephrology diseases and pathophysiology]] date: 2023-01-22 06:18
+- [[nephrology approaches and chief complaints]] date: 2023-01-22 06:18
+- [[reproductive endocrinology]] date: 2023-01-22 06:17
 - [[gastroenterology key medications and interventions]] date: 2023-01-22 06:17
+- [[gastroenterology diseases and pathophysiology]] date: 2023-01-22 06:17
 - [[critical care key clinical trials and publications]] date: 2023-01-22 06:17
+- [[critical care key medications and interventions]] date: 2023-01-22 06:17
+- [[critical care common complications of icu admission]] date: 2023-01-22 06:17
+- [[critical care diseases and pathophysiology]] date: 2023-01-22 06:17
 - [[pulmonology key clinical trials and publications]] date: 2023-01-22 06:17
 - [[pulmonology key medications and interventions]] date: 2023-01-22 06:17
-- [[gastroenterology diseases and pathophysiology]] date: 2023-01-22 06:17
-- [[critical care common complications of icu admission]] date: 2023-01-22 06:17
-- [[critical care key medications and interventions]] date: 2023-01-22 06:17
-- [[critical care diseases and pathophysiology]] date: 2023-01-22 06:17
 - [[pulmonology diseases and pathophysiology]] date: 2023-01-22 06:17
-- [[pulmonology anatomy and physiology]] date: 2023-01-22 06:17
 - [[pulmonology diagnostics]] date: 2023-01-22 06:17
+- [[pulmonology anatomy and physiology]] date: 2023-01-22 06:17
 - [[dermatology key medications and interventions]] date: 2023-01-22 06:13
 - [[Statics Volumes Capacities, Compliance, and Surface Tension]] date: 2023-01-22 05:23
 - [[Overview of lung anatomy]] date: 2023-01-22 05:23
+- [[sepsis and shock]] date: 2023-01-22 05:18
 - [[resident360]] date: 2023-01-22 05:18
 - [[pulmonary reading list]] date: 2023-01-22 05:18
-- [[sepsis and shock]] date: 2023-01-22 05:18
 - [[Cardiology of Huppert's Notes]] date: 2023-01-22 05:16
-- [[Cardiology key medications and interventions]] date: 2023-01-22 05:16
 - [[Cardiology key clinical trials and publications]] date: 2023-01-22 05:16
-- [[Cardiology anatomy and physiology of cardiology]] date: 2023-01-22 05:16
-- [[Cardiology diagnostics]] date: 2023-01-22 05:16
+- [[Cardiology key medications and interventions]] date: 2023-01-22 05:16
 - [[Cardiology approaches and chief complaints]] date: 2023-01-22 05:16
-- [[clinical trials]] date: 2023-01-22 05:14
-- [[Heart Failure with Preserved Ejection Fraction (HFpEF)]] date: 2023-01-22 05:01
+- [[Cardiology diagnostics]] date: 2023-01-22 05:16
+- [[Cardiology anatomy and physiology of cardiology]] date: 2023-01-22 05:16
+- [[clinical trials]] date: 2023-01-22 05:13
+- [[Heart Failure with Preserved Ejection Fraction (HFpEF)]] date: 2023-01-22 05:00
 - [[Ischemic Heart Disease]] date: 2023-01-22 05:00
-- [[Weakness]] date: 2023-01-22 04:58
 - [[Wide QRS Complex Tachycardia]] date: 2023-01-22 04:58
-- [[S. aureus Bacteremia]] date: 2023-01-22 04:58
-- [[Invasive Candidiasis]] date: 2023-01-22 04:58
-- [[Vision loss]] date: 2023-01-22 04:58
-- [[Medium Vessel Vasculitis]] date: 2023-01-22 04:58
-- [[Small Vessel Vasculitis ANCA-Associated Vasculitides (AAV)]] date: 2023-01-22 04:58
-- [[Severe Cutaneous Drug Reactions]] date: 2023-01-22 04:58
-- [[Systemic Scleroderma]] date: 2023-01-22 04:58
-- [[Sinusitis]] date: 2023-01-22 04:58
-- [[The Neurologic Exam]] date: 2023-01-22 04:58
-- [[Hyperkinetic Movement Disorders]] date: 2023-01-22 04:58
-- [[Vertigo]] date: 2023-01-22 04:58
-- [[Imaging]] date: 2023-01-22 04:58
-- [[Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value]] date: 2023-01-22 04:58
-- [[Multiple Sclerosis]] date: 2023-01-22 04:58
-- [[Mood Disorders]] date: 2023-01-22 04:58
-- [[Panic Disorder]] date: 2023-01-22 04:58
-- [[Tracts of the CNS]] date: 2023-01-22 04:58
-- [[Myelopathy and Radiculopathy]] date: 2023-01-22 04:58
-- [[Intracranial Hemorrhage]] date: 2023-01-22 04:58
-- [[Neurologic Emergencies]] date: 2023-01-22 04:58
-- [[Vasculitis and Vasculopathy]] date: 2023-01-22 04:58
-- [[Hypertension Management]] date: 2023-01-22 04:58
-- [[Peripheral Nervous System]] date: 2023-01-22 04:58
-- [[Primary Headache Disorders]] date: 2023-01-22 04:58
-- [[Menopause]] date: 2023-01-22 04:58
-- [[Mental Status Exam]] date: 2023-01-22 04:58
-- [[Papulosquamous Dermatoses]] date: 2023-01-22 04:58
-- [[Small Vessel Vasculitis Immune-Complex Mediated]] date: 2023-01-22 04:58
-- [[Preventative Health]] date: 2023-01-22 04:58
-- [[Spondyloarthritis (SpA)]] date: 2023-01-22 04:58
-- [[Secondary Headache Disorders]] date: 2023-01-22 04:58
-- [[Structure and Function of the Skin]] date: 2023-01-22 04:58
-- [[Other Neurologic Emergencies]] date: 2023-01-22 04:58
+- [[Weakness]] date: 2023-01-22 04:58
 - [[Vulvovaginitis]] date: 2023-01-22 04:58
-- [[Miscellaneous]] date: 2023-01-22 04:58
-- [[Neuromuscular Junction Disorders]] date: 2023-01-22 04:58
-- [[Hypokinetic Movement Disorders]] date: 2023-01-22 04:58
-- [[Impulse Control Disorders]] date: 2023-01-22 04:58
-- [[Other Organ Systems]] date: 2023-01-22 04:58
-- [[Inflammatory and Autoimmune Conditions]] date: 2023-01-22 04:58
-- [[Sexually Transmitted Diseases]] date: 2023-01-22 04:58
-- [[Psychotic Disorders]] date: 2023-01-22 04:58
-- [[Neuro-oncology]] date: 2023-01-22 04:58
-- [[Neuromuscular Disorders]] date: 2023-01-22 04:58
-- [[Mechanisms of Psychiatric Disease]] date: 2023-01-22 04:58
-- [[Odds Ratio, Risk Ratio, and Related Statistics]] date: 2023-01-22 04:58
-- [[Large Vessel Vasculitis]] date: 2023-01-22 04:58
-- [[Physical Exam]] date: 2023-01-22 04:58
-- [[Other Rheumatologic Conditions]] date: 2023-01-22 04:58
-- [[Transient Ischemic Attack and Acute Ischemic Stroke]] date: 2023-01-22 04:58
-- [[Physical Exam, Labs, and Other Data]] date: 2023-01-22 04:58
-- [[Neuroimmunology]] date: 2023-01-22 04:58
-- [[Hyperlipidemia]] date: 2023-01-22 04:58
-- [[Ophthalmologic]] date: 2023-01-22 04:58
-- [[Substance Use Disorders and Treatments]] date: 2023-01-22 04:58
-- [[Prevalence vs. Incidence]] date: 2023-01-22 04:58
-- [[Systemic Lupus Erythematosus (SLE)]] date: 2023-01-22 04:58
-- [[The Assessment and Plan (A&P)]] date: 2023-01-22 04:58
-- [[Musculoskeletal (MSK)]] date: 2023-01-22 04:58
-- [[Neuromuscular]] date: 2023-01-22 04:58
-- [[Non-Biologic Disease Modifying Antirheumatic Drugs (DMARDs)]] date: 2023-01-22 04:58
-- [[Other Statistical Concepts and Formulas]] date: 2023-01-22 04:58
-- [[Synovial Joint Anatomy]] date: 2023-01-22 04:58
-- [[Movement Disorders]] date: 2023-01-22 04:58
-- [[Types of Clinical Studies & Trials]] date: 2023-01-22 04:58
-- [[Inpatient Dermatology]] date: 2023-01-22 04:58
-- [[Somatic Symptom and Related Disorders]] date: 2023-01-22 04:58
-- [[Personality Disorders]] date: 2023-01-22 04:58
-- [[Psychosis (e.g., Delusions andor Hallucinations)]] date: 2023-01-22 04:58
-- [[Precision vs. Accuracy]] date: 2023-01-22 04:58
-- [[Urinary Incontinence]] date: 2023-01-22 04:58
-- [[Neurocritical Care]] date: 2023-01-22 04:58
-- [[Substance Use Disorders]] date: 2023-01-22 04:58
-- [[Myopathies]] date: 2023-01-22 04:58
-- [[Skin and Soft Tissue Infections (SSTIs)]] date: 2023-01-22 04:58
-- [[Targeted Therapies]] date: 2023-01-22 04:58
-- [[Lymphomas]] date: 2023-01-22 04:58
-- [[Multiple Myeloma]] date: 2023-01-22 04:58
-- [[Renal Dysfunction]] date: 2023-01-22 04:58
-- [[Major Depressive Disorder]] date: 2023-01-22 04:58
-- [[Metabolic Emergencies]] date: 2023-01-22 04:58
-- [[Sick Euthyroid Syndrome]] date: 2023-01-22 04:58
-- [[Lymphoma]] date: 2023-01-22 04:58
-- [[Rheumatologic Differential Diagnosis for Common Clinical Syndromes]] date: 2023-01-22 04:58
-- [[Phosphate]] date: 2023-01-22 04:58
-- [[Lumbar Puncture]] date: 2023-01-22 04:58
-- [[Pulmonary Infections]] date: 2023-01-22 04:58
-- [[Metabolic Alkalosis]] date: 2023-01-22 04:58
-- [[Rhinitis]] date: 2023-01-22 04:58
-- [[Renal Cystic Diseases]] date: 2023-01-22 04:58
-- [[Principles of Antibiotic Selection and Infection Management]] date: 2023-01-22 04:58
-- [[Pregnancy-Related Liver Diseases]] date: 2023-01-22 04:58
-- [[Mixed Alkalosis]] date: 2023-01-22 04:58
-- [[Potassium]] date: 2023-01-22 04:58
-- [[Thrombotic Disorders]] date: 2023-01-22 04:58
-- [[Peripheral Eosinophilia and Hypereosinophilia Syndromes]] date: 2023-01-22 04:58
-- [[Renal Physiology]] date: 2023-01-22 04:58
-- [[Medications]] date: 2023-01-22 04:58
-- [[Other Diseases Affecting Renal Tubular Absorption]] date: 2023-01-22 04:58
-- [[Tick-Borne Illnesses]] date: 2023-01-22 04:58
-- [[Immunotherapy]] date: 2023-01-22 04:58
-- [[Influenza]] date: 2023-01-22 04:58
-- [[Renal Formulas]] date: 2023-01-22 04:58
-- [[Quantitative Platelet Disorders]] date: 2023-01-22 04:58
-- [[Renal Anatomy]] date: 2023-01-22 04:58
-- [[Neutropenic Fever]] date: 2023-01-22 04:58
-- [[Posterior Pituitary]] date: 2023-01-22 04:58
-- [[Respiratory Alkalosis]] date: 2023-01-22 04:58
-- [[Other Systemic Disorders Associated with Nephrotic-Range Proteinuria]] date: 2023-01-22 04:58
-- [[Metabolic Acidosis]] date: 2023-01-22 04:58
-- [[Paracentesis]] date: 2023-01-22 04:58
-- [[Thyroid Nodule]] date: 2023-01-22 04:58
-- [[Other Pathologies Affecting the Liver]] date: 2023-01-22 04:58
-- [[Infectious Etiologies of Liver Disease]] date: 2023-01-22 04:58
-- [[Primary Fever Syndromes]] date: 2023-01-22 04:58
-- [[Management of Complications Associated with Advanced CKDESRD]] date: 2023-01-22 04:58
-- [[Nephritic Syndrome]] date: 2023-01-22 04:58
-- [[Vascular Etiologies of Liver Disease]] date: 2023-01-22 04:58
-- [[Sarcoma]] date: 2023-01-22 04:58
-- [[Overview of Clinically Important Pathogens]] date: 2023-01-22 04:58
-- [[Other Malignant Hematologic Conditions]] date: 2023-01-22 04:58
-- [[Melanoma]] date: 2023-01-22 04:58
-- [[Transfusion Medicine]] date: 2023-01-22 04:58
-- [[Other Diseases Affecting the Kidney]] date: 2023-01-22 04:58
-- [[Sodium]] date: 2023-01-22 04:58
-- [[Statins in ESRD]] date: 2023-01-22 04:58
-- [[Renal Tubular Acidosis (RTA)]] date: 2023-01-22 04:58
-- [[Respiratory Acidosis]] date: 2023-01-22 04:58
-- [[Pancreas]] date: 2023-01-22 04:58
-- [[Mixed Acidosis]] date: 2023-01-22 04:58
+- [[Vision loss]] date: 2023-01-22 04:58
 - [[Viral Infections]] date: 2023-01-22 04:58
-- [[Systemic Fungal Infections]] date: 2023-01-22 04:58
+- [[Vertigo]] date: 2023-01-22 04:58
+- [[Vasculitis and Vasculopathy]] date: 2023-01-22 04:58
+- [[Vascular Etiologies of Liver Disease]] date: 2023-01-22 04:58
+- [[Urinary Incontinence]] date: 2023-01-22 04:58
+- [[Types of Clinical Studies & Trials]] date: 2023-01-22 04:58
+- [[Transient Ischemic Attack and Acute Ischemic Stroke]] date: 2023-01-22 04:58
+- [[Transfusion Medicine]] date: 2023-01-22 04:58
+- [[Tracts of the CNS]] date: 2023-01-22 04:58
 - [[Timing of Dialysis Initiation in CKD]] date: 2023-01-22 04:58
-- [[Parasitic Infections]] date: 2023-01-22 04:58
-- [[Liver]] date: 2023-01-22 04:58
-- [[Polycythemia]] date: 2023-01-22 04:58
-- [[Intra-Abdominal Infections]] date: 2023-01-22 04:58
-- [[SGLT2 Inhibitors in Diabetic Kidney Disease]] date: 2023-01-22 04:58
-- [[Males]] date: 2023-01-22 04:58
-- [[Metabolic Etiologies of Liver Disease]] date: 2023-01-22 04:58
-- [[Stem Cell Transplant Basics]] date: 2023-01-22 04:58
-- [[Leukemias]] date: 2023-01-22 04:58
-- [[Mixed PlateletCoagulation Disorders]] date: 2023-01-22 04:58
-- [[Overlap of Diagnostic and Therapeutic Interventions in Gastroenterology]] date: 2023-01-22 04:58
+- [[Tick-Borne Illnesses]] date: 2023-01-22 04:58
+- [[Thyroid Nodule]] date: 2023-01-22 04:58
+- [[Thrombotic Disorders]] date: 2023-01-22 04:58
 - [[Thrombocytosis]] date: 2023-01-22 04:58
-- [[Sexually Transmitted Infections (STIs)]] date: 2023-01-22 04:58
-- [[The Coagulation Cascade]] date: 2023-01-22 04:58
-- [[RBC Disorders]] date: 2023-01-22 04:58
-- [[Renal Vascular Diseases]] date: 2023-01-22 04:58
-- [[Qualitative Platelet Disorders]] date: 2023-01-22 04:58
-- [[Renal Artery Stenosis]] date: 2023-01-22 04:58
-- [[IBD]] date: 2023-01-22 04:58
-- [[Stones and Obstructions]] date: 2023-01-22 04:58
-- [[Magnesium]] date: 2023-01-22 04:58
-- [[Non-Hodgkin’s Lymphoma (NHL)]] date: 2023-01-22 04:58
-- [[Obstructive Lung Diseases]] date: 2023-01-22 04:58
-- [[Insterstitial Lung Disease]] date: 2023-01-22 04:58
-- [[Key Terms and Definitions]] date: 2023-01-22 04:58
-- [[Restrictive Lung Diseases]] date: 2023-01-22 04:58
-- [[Shock Management]] date: 2023-01-22 04:58
-- [[Pulmonary Function Testing (PFTs)]] date: 2023-01-22 04:58
-- [[Respiratory Distress]] date: 2023-01-22 04:58
-- [[Hypoxemic Respiratory Failure]] date: 2023-01-22 04:58
-- [[SIRS, Sepsis, Severe Sepsis, and Septic Shock]] date: 2023-01-22 04:58
-- [[Post-Intensive Care Syndrome & Other Long-Term Physical and Cognitive Disability]] date: 2023-01-22 04:58
-- [[Inhaler Glossary]] date: 2023-01-22 04:58
-- [[Hypercarbic Respiratory Failure]] date: 2023-01-22 04:58
-- [[Stomach]] date: 2023-01-22 04:58
-- [[Pulmonary Hypertension (PH)]] date: 2023-01-22 04:58
-- [[Other Diseases Affecting the Colon]] date: 2023-01-22 04:58
-- [[Infections]] date: 2023-01-22 04:58
-- [[Other Diseases of the Biliary Tree]] date: 2023-01-22 04:58
-- [[Small Bowel]] date: 2023-01-22 04:58
-- [[NauseaVomiting]] date: 2023-01-22 04:58
-- [[Other Conditions that Affect the Small Bowel]] date: 2023-01-22 04:58
-- [[Structure and Innervation of the GI Tract]] date: 2023-01-22 04:58
-- [[Inflammatory Bowel Disease (IBD)]] date: 2023-01-22 04:58
-- [[Malnutrition]] date: 2023-01-22 04:58
-- [[Narrow QRS Complex Tachycardia]] date: 2023-01-22 04:58
-- [[Left Heart CatheterizationCoronary Angiogram]] date: 2023-01-22 04:58
-- [[ProceduralSurgical Interventions]] date: 2023-01-22 04:58
-- [[Irregular Atrial Rhythms]] date: 2023-01-22 04:58
-- [[Myocardial Diseases]] date: 2023-01-22 04:58
-- [[Myocardial Viability Study]] date: 2023-01-22 04:58
-- [[Right Heart Catheterization]] date: 2023-01-22 04:58
-- [[Tachycardia]] date: 2023-01-22 04:58
-- [[Regular Atrial Rhythms]] date: 2023-01-22 04:58
-- [[Respiratory Support]] date: 2023-01-22 04:58
-- [[Phases of the Cardiac Cycle]] date: 2023-01-22 04:58
-- [[Electromyography (EMG) and Nerve Conduction Studies]] date: 2023-01-22 04:58
-- [[How to Do Daily Presentations and Notes]] date: 2023-01-22 04:58
-- [[Diet and Exercise]] date: 2023-01-22 04:58
-- [[Dissociative Disorders]] date: 2023-01-22 04:58
-- [[HIVAIDS]] date: 2023-01-22 04:58
-- [[Eczematous Dermatoses]] date: 2023-01-22 04:58
-- [[Endocarditis]] date: 2023-01-22 04:58
-- [[Gynecologic]] date: 2023-01-22 04:58
-- [[Hearing loss]] date: 2023-01-22 04:58
-- [[Epilepsy]] date: 2023-01-22 04:58
-- [[Discharge Checklist]] date: 2023-01-22 04:58
-- [[Disorders of the Mucous Membranes]] date: 2023-01-22 04:58
-- [[Head and Neck]] date: 2023-01-22 04:58
-- [[GU Infections]] date: 2023-01-22 04:58
-- [[Eating Disorders]] date: 2023-01-22 04:58
-- [[Health Care Maintenance and Disease Screening]] date: 2023-01-22 04:58
-- [[Electroencephalogram (EEG)]] date: 2023-01-22 04:58
-- [[Gram-Negative Bacteremia]] date: 2023-01-22 04:58
-- [[Hair and Nail Disorders]] date: 2023-01-22 04:58
-- [[Hormone Therapy]] date: 2023-01-22 04:58
-- [[Glomerular Pathology Associated with Nephritic Syndrome]] date: 2023-01-22 04:58
-- [[Genitourinary (GU) Infections]] date: 2023-01-22 04:58
-- [[Glomerular Pathologies Commonly Associated with Nephrotic-Range Proteinuria]] date: 2023-01-22 04:58
-- [[Endocrine Axes]] date: 2023-01-22 04:58
-- [[Females]] date: 2023-01-22 04:58
-- [[Head & Neck Malignancies]] date: 2023-01-22 04:58
-- [[DialysisAccess]] date: 2023-01-22 04:58
-- [[Functional Bowel Disorders]] date: 2023-01-22 04:58
-- [[Etiologies of Liver Disease]] date: 2023-01-22 04:58
-- [[General Approach to the Diagnosis and Management of AKI]] date: 2023-01-22 04:58
-- [[General Approaches to Treating Cancer]] date: 2023-01-22 04:58
-- [[Fluids, Electrolytes, and AcidBase Disorders]] date: 2023-01-22 04:58
-- [[Fever in a Returning Traveler]] date: 2023-01-22 04:58
-- [[Evaluation of a Peripheral Blood Smear]] date: 2023-01-22 04:58
-- [[GYN Malignancies]] date: 2023-01-22 04:58
-- [[Hemoglobin Targets in Patients with CKD]] date: 2023-01-22 04:58
-- [[Gallbladder and Biliary Tract]] date: 2023-01-22 04:58
-- [[Esophagus]] date: 2023-01-22 04:58
-- [[DrugToxin-Induced Liver Injury]] date: 2023-01-22 04:58
-- [[DVTPE]] date: 2023-01-22 04:58
-- [[Gallbladder Stone Diseases]] date: 2023-01-22 04:58
-- [[Diseases of the Pleura]] date: 2023-01-22 04:58
-- [[Diseases involving the Vasculature]] date: 2023-01-22 04:58
-- [[Diverticular Disease]] date: 2023-01-22 04:58
-- [[Heart Failure (HF)]] date: 2023-01-22 04:58
-- [[Gas exchange]] date: 2023-01-22 04:58
-- [[Diseases of the Vasculature]] date: 2023-01-22 04:58
-- [[Dynamics Flow, Resistance, and VQ Matching]] date: 2023-01-22 04:58
-- [[Echocardiography]] date: 2023-01-22 04:58
-- [[Heart Failure with Reduced Ejection Fraction (HFrEF)]] date: 2023-01-22 04:58
-- [[Extra Heart Sounds]] date: 2023-01-22 04:58
-- [[Cutaneous Drug Reactions]] date: 2023-01-22 04:58
-- [[Common Skin Infections]] date: 2023-01-22 04:58
-- [[Contraception]] date: 2023-01-22 04:58
-- [[Brain]] date: 2023-01-22 04:58
-- [[Central Nervous System (CNS)]] date: 2023-01-22 04:58
-- [[Cognitive Impairment]] date: 2023-01-22 04:58
-- [[Clostridium difficile]] date: 2023-01-22 04:58
-- [[Chronic Pain Management]] date: 2023-01-22 04:58
-- [[Cellulitis and Cellulitis Mimickers]] date: 2023-01-22 04:58
-- [[Chronic Noncancer Pain]] date: 2023-01-22 04:58
-- [[Diagnostic Reasoning in Rheumatology]] date: 2023-01-22 04:58
-- [[Diagnostic Approach to Joint Pain]] date: 2023-01-22 04:58
-- [[Depressed MoodSuicidal Ideation]] date: 2023-01-22 04:58
-- [[Common Skin Cancers]] date: 2023-01-22 04:58
-- [[Congenital Adrenal Hyperplasia]] date: 2023-01-22 04:58
-- [[Chief Complaint and History of Present Illness (HPI)]] date: 2023-01-22 04:58
-- [[Central Nervous System (CNS) Tumors]] date: 2023-01-22 04:58
-- [[Brain abscess]] date: 2023-01-22 04:58
-- [[CNS Infections]] date: 2023-01-22 04:58
-- [[Chronic Kidney Disease (CKD) and End-Stage Renal Disease (ESRD)]] date: 2023-01-22 04:58
-- [[Calcium]] date: 2023-01-22 04:58
-- [[Chemotherapy]] date: 2023-01-22 04:58
-- [[Bridging Anticoagulation]] date: 2023-01-22 04:58
-- [[Cholecystectomy]] date: 2023-01-22 04:58
-- [[Cholestatic Liver Diseases]] date: 2023-01-22 04:58
-- [[Central Nervous System Infections]] date: 2023-01-22 04:58
-- [[Cirrhosis Management]] date: 2023-01-22 04:58
-- [[Chemotherapy, Targeted Therapy, and Immunotherapy]] date: 2023-01-22 04:58
-- [[Cirrhosis and its Complications]] date: 2023-01-22 04:58
-- [[Colon Cancer]] date: 2023-01-22 04:58
-- [[Coagulation Disorders]] date: 2023-01-22 04:58
-- [[Chimeric-Antigen Receptor (CAR)-T cell therapy]] date: 2023-01-22 04:58
-- [[COPD]] date: 2023-01-22 04:58
-- [[Chronic Diarrhea (3 weeks)]] date: 2023-01-22 04:58
-- [[Chest Tubes]] date: 2023-01-22 04:58
-- [[Critical Illness Polyneuropathy, Critical Illness Myopathy, and ICU-Acquired Weakness]] date: 2023-01-22 04:58
-- [[Colon]] date: 2023-01-22 04:58
-- [[Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic Syndrome (HHS)]] date: 2023-01-22 04:58
-- [[Decubitus Ulcers]] date: 2023-01-22 04:58
-- [[Complications Associated with Mechanical Ventilation]] date: 2023-01-22 04:58
-- [[Chronic Cough (8 wk) in Immunocompetent Adults]] date: 2023-01-22 04:58
-- [[Cardiac Valve Infection and Inflammation]] date: 2023-01-22 04:58
-- [[Chest CT]] date: 2023-01-22 04:58
-- [[Coronary CT Angiography (CCTA)]] date: 2023-01-22 04:58
-- [[Congenital Heart disease with late Cyanosis (L → R shunt)]] date: 2023-01-22 04:58
-- [[Cardiac Stress Testing]] date: 2023-01-22 04:58
-- [[Bradycardic Rhythms]] date: 2023-01-22 04:58
-- [[Coronary Artery Disease (CAD)]] date: 2023-01-22 04:58
-- [[Chest x-ray (CXR)]] date: 2023-01-22 04:58
-- [[Congenital Heart Disease with Early Cyanosis (R → L shunt)]] date: 2023-01-22 04:58
-- [[Cardiovascular Disease Risk Prevention]] date: 2023-01-22 04:58
-- [[Congenital Heart Diseases]] date: 2023-01-22 04:58
-- [[Cardiac Anatomy]] date: 2023-01-22 04:58
-- [[Determinants of Cardiac Function]] date: 2023-01-22 04:58
-- [[Central Venous Pressure (CVP) Waveform  Jugular Venous Pulse (JVP)]] date: 2023-01-22 04:58
-- [[Cardiac Electrophysiology]] date: 2023-01-22 04:58
-- [[Approach to Reading a Hand X-Ray]] date: 2023-01-22 04:58
-- [[ANA-Associated Connective Tissue Disorders]] date: 2023-01-22 04:58
-- [[Acneiform Eruptions]] date: 2023-01-22 04:58
-- [[Altered Mental Status]] date: 2023-01-22 04:58
-- [[Bipolar Disorder]] date: 2023-01-22 04:58
-- [[Antipsychotic Medications]] date: 2023-01-22 04:58
-- [[Approach to Headaches]] date: 2023-01-22 04:58
-- [[Additional History]] date: 2023-01-22 04:58
-- [[Axial and Appendicular Skeleton]] date: 2023-01-22 04:58
-- [[Alcohol-Induced Liver Disease]] date: 2023-01-22 04:58
-- [[Advanced Care Planning]] date: 2023-01-22 04:58
-- [[Anti-Inflammatory Agents]] date: 2023-01-22 04:58
-- [[Biases]] date: 2023-01-22 04:58
-- [[Acute Red Eye]] date: 2023-01-22 04:58
-- [[Arthridities]] date: 2023-01-22 04:58
-- [[Biologic Disease-Modifying Antirheumatic Drugs (aka “Biologics” or Biologic DMARDs)]] date: 2023-01-22 04:58
-- [[Anterior Pituitary]] date: 2023-01-22 04:58
-- [[Bacterial Infections]] date: 2023-01-22 04:58
-- [[Anterior Mediastinal Mass]] date: 2023-01-22 04:58
-- [[Adrenal Masses]] date: 2023-01-22 04:58
-- [[Additional Details about the Platelet Destructive Processes]] date: 2023-01-22 04:58
-- [[Autoimmune Bullous Diseases]] date: 2023-01-22 04:58
-- [[Anxiety Disorders]] date: 2023-01-22 04:58
-- [[Anticoagulation]] date: 2023-01-22 04:58
-- [[Antiretroviral Therapy (ART)]] date: 2023-01-22 04:58
-- [[Adrenal Insufficiency (AI)]] date: 2023-01-22 04:58
-- [[Acid–Base Disorders]] date: 2023-01-22 04:58
-- [[Alcoholic Hepatitis]] date: 2023-01-22 04:58
-- [[Autoimmune Etiologies of Liver Disease]] date: 2023-01-22 04:58
-- [[Bloodstream Infections]] date: 2023-01-22 04:58
-- [[BoneJoint Infections]] date: 2023-01-22 04:58
-- [[Antifungal Therapies]] date: 2023-01-22 04:58
-- [[Acute Myeloid Leukemia]] date: 2023-01-22 04:58
-- [[ACE Inhibitor-ARB Combination]] date: 2023-01-22 04:58
-- [[Acute Liver Failure (ALF)]] date: 2023-01-22 04:58
-- [[Approach to Vascular Access]] date: 2023-01-22 04:58
-- [[Approach to Analysis of an Arterial Blood Gas (ABG)]] date: 2023-01-22 04:58
-- [[Alveolar Hemorrhage]] date: 2023-01-22 04:58
-- [[Analgesia, Sedation, Paralytics, and Vasoactive Medications]] date: 2023-01-22 04:58
-- [[Approach to Lactic Acidosis]] date: 2023-01-22 04:58
-- [[Approach to Shock]] date: 2023-01-22 04:58
-- [[Approach to Managing a Patient with Cardiac Arrest, aka “Code Blue”]] date: 2023-01-22 04:58
-- [[Acute Coronary Syndrome (ACS) and Post-ACS Care]] date: 2023-01-22 04:58
-- [[Approach to Bradycardia (HR  60 bpm)]] date: 2023-01-22 04:58
-- [[Aortic Stenosis]] date: 2023-01-22 04:58
-- [[Approach to Narrow QRS Complex Tachycardia]] date: 2023-01-22 04:58
-- [[Anatomy of the Lungs]] date: 2023-01-22 04:58
-- [[Bradycardia]] date: 2023-01-22 04:58
-- [[Acute Respiratory Distress Syndrome (ARDS)]] date: 2023-01-22 04:58
+- [[The Neurologic Exam]] date: 2023-01-22 04:58
+- [[The Coagulation Cascade]] date: 2023-01-22 04:57
+- [[The Assessment and Plan (A&P)]] date: 2023-01-22 04:57
+- [[Targeted Therapies]] date: 2023-01-22 04:57
+- [[Tachycardia]] date: 2023-01-22 04:57
+- [[Systemic Scleroderma]] date: 2023-01-22 04:57
+- [[Systemic Lupus Erythematosus (SLE)]] date: 2023-01-22 04:57
+- [[Systemic Fungal Infections]] date: 2023-01-22 04:57
+- [[Synovial Joint Anatomy]] date: 2023-01-22 04:57
+- [[Substance Use Disorders]] date: 2023-01-22 04:57
+- [[Substance Use Disorders and Treatments]] date: 2023-01-22 04:57
+- [[Structure and Innervation of the GI Tract]] date: 2023-01-22 04:57
+- [[Structure and Function of the Skin]] date: 2023-01-22 04:57
+- [[Stones and Obstructions]] date: 2023-01-22 04:57
+- [[Stomach]] date: 2023-01-22 04:57
+- [[Stem Cell Transplant Basics]] date: 2023-01-22 04:57
+- [[Statins in ESRD]] date: 2023-01-22 04:57
+- [[Spondyloarthritis (SpA)]] date: 2023-01-22 04:57
+- [[Somatic Symptom and Related Disorders]] date: 2023-01-22 04:57
+- [[Sodium]] date: 2023-01-22 04:57
+- [[Small Vessel Vasculitis Immune-Complex Mediated]] date: 2023-01-22 04:57
+- [[Small Vessel Vasculitis ANCA-Associated Vasculitides (AAV)]] date: 2023-01-22 04:57
+- [[Small Bowel]] date: 2023-01-22 04:57
+- [[Skin and Soft Tissue Infections (SSTIs)]] date: 2023-01-22 04:57
+- [[SIRS, Sepsis, Severe Sepsis, and Septic Shock]] date: 2023-01-22 04:57
+- [[Sinusitis]] date: 2023-01-22 04:57
+- [[Sick Euthyroid Syndrome]] date: 2023-01-22 04:57
+- [[Shock Management]] date: 2023-01-22 04:57
+- [[SGLT2 Inhibitors in Diabetic Kidney Disease]] date: 2023-01-22 04:57
+- [[Sexually Transmitted Infections (STIs)]] date: 2023-01-22 04:57
+- [[Sexually Transmitted Diseases]] date: 2023-01-22 04:57
+- [[Severe Cutaneous Drug Reactions]] date: 2023-01-22 04:57
+- [[Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value]] date: 2023-01-22 04:57
+- [[Secondary Headache Disorders]] date: 2023-01-22 04:57
+- [[Sarcoma]] date: 2023-01-22 04:57
+- [[S. aureus Bacteremia]] date: 2023-01-22 04:57
+- [[Right Heart Catheterization]] date: 2023-01-22 04:57
+- [[Rhinitis]] date: 2023-01-22 04:57
+- [[Rheumatologic Differential Diagnosis for Common Clinical Syndromes]] date: 2023-01-22 04:57
+- [[Restrictive Lung Diseases]] date: 2023-01-22 04:57
+- [[Respiratory Support]] date: 2023-01-22 04:57
+- [[Respiratory Distress]] date: 2023-01-22 04:57
+- [[Respiratory Alkalosis]] date: 2023-01-22 04:57
+- [[Respiratory Acidosis]] date: 2023-01-22 04:57
+- [[Renal Vascular Diseases]] date: 2023-01-22 04:57
+- [[Renal Tubular Acidosis (RTA)]] date: 2023-01-22 04:57
+- [[Renal Physiology]] date: 2023-01-22 04:57
+- [[Renal Formulas]] date: 2023-01-22 04:57
+- [[Renal Dysfunction]] date: 2023-01-22 04:57
+- [[Renal Cystic Diseases]] date: 2023-01-22 04:57
+- [[Renal Artery Stenosis]] date: 2023-01-22 04:57
+- [[Renal Anatomy]] date: 2023-01-22 04:57
+- [[Regular Atrial Rhythms]] date: 2023-01-22 04:57
+- [[RBC Disorders]] date: 2023-01-22 04:57
+- [[Quantitative Platelet Disorders]] date: 2023-01-22 04:57
+- [[Qualitative Platelet Disorders]] date: 2023-01-22 04:57
+- [[Pulmonary Infections]] date: 2023-01-22 04:57
+- [[Pulmonary Hypertension (PH)]] date: 2023-01-22 04:57
+- [[Pulmonary Function Testing (PFTs)]] date: 2023-01-22 04:57
+- [[Psychotic Disorders]] date: 2023-01-22 04:57
+- [[Psychosis (e.g., Delusions andor Hallucinations)]] date: 2023-01-22 04:57
+- [[ProceduralSurgical Interventions]] date: 2023-01-22 04:57
+- [[Principles of Antibiotic Selection and Infection Management]] date: 2023-01-22 04:57
+- [[Primary Headache Disorders]] date: 2023-01-22 04:57
+- [[Primary Fever Syndromes]] date: 2023-01-22 04:57
+- [[Preventative Health]] date: 2023-01-22 04:57
+- [[Prevalence vs. Incidence]] date: 2023-01-22 04:57
+- [[Pregnancy-Related Liver Diseases]] date: 2023-01-22 04:57
+- [[Precision vs. Accuracy]] date: 2023-01-22 04:57
+- [[Potassium]] date: 2023-01-22 04:57
+- [[Posterior Pituitary]] date: 2023-01-22 04:57
+- [[Post-Intensive Care Syndrome & Other Long-Term Physical and Cognitive Disability]] date: 2023-01-22 04:57
+- [[Polycythemia]] date: 2023-01-22 04:57
+- [[Physical Exam]] date: 2023-01-22 04:57
+- [[Physical Exam, Labs, and Other Data]] date: 2023-01-22 04:57
+- [[Phosphate]] date: 2023-01-22 04:57
+- [[Phases of the Cardiac Cycle]] date: 2023-01-22 04:57
+- [[Personality Disorders]] date: 2023-01-22 04:57
+- [[Peripheral Nervous System]] date: 2023-01-22 04:57
+- [[Peripheral Eosinophilia and Hypereosinophilia Syndromes]] date: 2023-01-22 04:57
+- [[Parasitic Infections]] date: 2023-01-22 04:57
+- [[Paracentesis]] date: 2023-01-22 04:57
+- [[Papulosquamous Dermatoses]] date: 2023-01-22 04:57
+- [[Panic Disorder]] date: 2023-01-22 04:57
+- [[Pancreas]] date: 2023-01-22 04:57
+- [[Overview of Clinically Important Pathogens]] date: 2023-01-22 04:57
+- [[Overlap of Diagnostic and Therapeutic Interventions in Gastroenterology]] date: 2023-01-22 04:57
+- [[Other Systemic Disorders Associated with Nephrotic-Range Proteinuria]] date: 2023-01-22 04:57
+- [[Other Statistical Concepts and Formulas]] date: 2023-01-22 04:57
+- [[Other Rheumatologic Conditions]] date: 2023-01-22 04:57
+- [[Other Pathologies Affecting the Liver]] date: 2023-01-22 04:57
+- [[Other Organ Systems]] date: 2023-01-22 04:57
+- [[Other Neurologic Emergencies]] date: 2023-01-22 04:57
+- [[Other Malignant Hematologic Conditions]] date: 2023-01-22 04:57
+- [[Other Diseases of the Biliary Tree]] date: 2023-01-22 04:57
+- [[Other Diseases Affecting the Kidney]] date: 2023-01-22 04:57
+- [[Other Diseases Affecting the Colon]] date: 2023-01-22 04:57
+- [[Other Diseases Affecting Renal Tubular Absorption]] date: 2023-01-22 04:57
+- [[Other Conditions that Affect the Small Bowel]] date: 2023-01-22 04:57
+- [[Ophthalmologic]] date: 2023-01-22 04:57
+- [[Odds Ratio, Risk Ratio, and Related Statistics]] date: 2023-01-22 04:57
+- [[Obstructive Lung Diseases]] date: 2023-01-22 04:57
+- [[Non-Hodgkin’s Lymphoma (NHL)]] date: 2023-01-22 04:57
+- [[Non-Biologic Disease Modifying Antirheumatic Drugs (DMARDs)]] date: 2023-01-22 04:57
+- [[Neutropenic Fever]] date: 2023-01-22 04:57
+- [[Neuromuscular]] date: 2023-01-22 04:57
+- [[Neuromuscular Junction Disorders]] date: 2023-01-22 04:57
+- [[Neuromuscular Disorders]] date: 2023-01-22 04:57
+- [[Neurologic Emergencies]] date: 2023-01-22 04:57
+- [[Neuroimmunology]] date: 2023-01-22 04:57
+- [[Neurocritical Care]] date: 2023-01-22 04:57
+- [[Neuro-oncology]] date: 2023-01-22 04:57
+- [[Nephritic Syndrome]] date: 2023-01-22 04:57
+- [[NauseaVomiting]] date: 2023-01-22 04:57
+- [[Narrow QRS Complex Tachycardia]] date: 2023-01-22 04:57
+- [[Myopathies]] date: 2023-01-22 04:57
+- [[Myocardial Viability Study]] date: 2023-01-22 04:57
+- [[Myocardial Diseases]] date: 2023-01-22 04:57
+- [[Myelopathy and Radiculopathy]] date: 2023-01-22 04:57
+- [[Musculoskeletal (MSK)]] date: 2023-01-22 04:57
+- [[Multiple Sclerosis]] date: 2023-01-22 04:57
+- [[Multiple Myeloma]] date: 2023-01-22 04:57
+- [[Movement Disorders]] date: 2023-01-22 04:57
+- [[Mood Disorders]] date: 2023-01-22 04:57
+- [[Mixed PlateletCoagulation Disorders]] date: 2023-01-22 04:57
+- [[Mixed Alkalosis]] date: 2023-01-22 04:57
+- [[Mixed Acidosis]] date: 2023-01-22 04:57
+- [[Miscellaneous]] date: 2023-01-22 04:57
+- [[Metabolic Etiologies of Liver Disease]] date: 2023-01-22 04:57
+- [[Metabolic Emergencies]] date: 2023-01-22 04:57
+- [[Metabolic Alkalosis]] date: 2023-01-22 04:57
+- [[Metabolic Acidosis]] date: 2023-01-22 04:57
+- [[Mental Status Exam]] date: 2023-01-22 04:57
+- [[Menopause]] date: 2023-01-22 04:57
+- [[Melanoma]] date: 2023-01-22 04:57
+- [[Medium Vessel Vasculitis]] date: 2023-01-22 04:57
+- [[Medications]] date: 2023-01-22 04:57
+- [[Mechanisms of Psychiatric Disease]] date: 2023-01-22 04:57
+- [[Management of Complications Associated with Advanced CKDESRD]] date: 2023-01-22 04:57
+- [[Malnutrition]] date: 2023-01-22 04:57
+- [[Males]] date: 2023-01-22 04:57
+- [[Major Depressive Disorder]] date: 2023-01-22 04:57
+- [[Magnesium]] date: 2023-01-22 04:57
+- [[Lymphomas]] date: 2023-01-22 04:57
+- [[Lymphoma]] date: 2023-01-22 04:57
+- [[Lumbar Puncture]] date: 2023-01-22 04:57
+- [[Liver]] date: 2023-01-22 04:57
+- [[Leukemias]] date: 2023-01-22 04:57
+- [[Left Heart CatheterizationCoronary Angiogram]] date: 2023-01-22 04:57
+- [[Large Vessel Vasculitis]] date: 2023-01-22 04:57
+- [[Key Terms and Definitions]] date: 2023-01-22 04:57
+- [[Irregular Atrial Rhythms]] date: 2023-01-22 04:57
+- [[Invasive Candidiasis]] date: 2023-01-22 04:57
+- [[Intracranial Hemorrhage]] date: 2023-01-22 04:57
+- [[Intra-Abdominal Infections]] date: 2023-01-22 04:57
+- [[Insterstitial Lung Disease]] date: 2023-01-22 04:57
+- [[Inpatient Dermatology]] date: 2023-01-22 04:57
+- [[Inhaler Glossary]] date: 2023-01-22 04:57
+- [[Influenza]] date: 2023-01-22 04:57
+- [[Inflammatory Bowel Disease (IBD)]] date: 2023-01-22 04:57
+- [[Inflammatory and Autoimmune Conditions]] date: 2023-01-22 04:57
+- [[Infectious Etiologies of Liver Disease]] date: 2023-01-22 04:57
+- [[Infections]] date: 2023-01-22 04:57
+- [[Impulse Control Disorders]] date: 2023-01-22 04:57
+- [[Immunotherapy]] date: 2023-01-22 04:57
+- [[Imaging]] date: 2023-01-22 04:57
+- [[IBD]] date: 2023-01-22 04:57
+- [[Hypoxemic Respiratory Failure]] date: 2023-01-22 04:57
+- [[Hypokinetic Movement Disorders]] date: 2023-01-22 04:57
+- [[Hypertension Management]] date: 2023-01-22 04:57
+- [[Hyperlipidemia]] date: 2023-01-22 04:57
+- [[Hyperkinetic Movement Disorders]] date: 2023-01-22 04:57
+- [[Hypercarbic Respiratory Failure]] date: 2023-01-22 04:57
+- [[How to Do Daily Presentations and Notes]] date: 2023-01-22 04:57
+- [[Hormone Therapy]] date: 2023-01-22 04:57
+- [[HIVAIDS]] date: 2023-01-22 04:57
+- [[Hemoglobin Targets in Patients with CKD]] date: 2023-01-22 04:57
+- [[Heart Failure with Reduced Ejection Fraction (HFrEF)]] date: 2023-01-22 04:57
+- [[Heart Failure (HF)]] date: 2023-01-22 04:57
+- [[Hearing loss]] date: 2023-01-22 04:57
+- [[Health Care Maintenance and Disease Screening]] date: 2023-01-22 04:57
+- [[Head and Neck]] date: 2023-01-22 04:57
+- [[Head & Neck Malignancies]] date: 2023-01-22 04:57
+- [[Hair and Nail Disorders]] date: 2023-01-22 04:57
+- [[Gynecologic]] date: 2023-01-22 04:57
+- [[GYN Malignancies]] date: 2023-01-22 04:57
+- [[GU Infections]] date: 2023-01-22 04:57
+- [[Gram-Negative Bacteremia]] date: 2023-01-22 04:57
+- [[Glomerular Pathology Associated with Nephritic Syndrome]] date: 2023-01-22 04:57
+- [[Glomerular Pathologies Commonly Associated with Nephrotic-Range Proteinuria]] date: 2023-01-22 04:57
+- [[Genitourinary (GU) Infections]] date: 2023-01-22 04:57
+- [[General Approaches to Treating Cancer]] date: 2023-01-22 04:57
+- [[General Approach to the Diagnosis and Management of AKI]] date: 2023-01-22 04:57
+- [[Gas exchange]] date: 2023-01-22 04:57
+- [[Gallbladder Stone Diseases]] date: 2023-01-22 04:57
+- [[Gallbladder and Biliary Tract]] date: 2023-01-22 04:57
+- [[Functional Bowel Disorders]] date: 2023-01-22 04:57
+- [[Fluids, Electrolytes, and AcidBase Disorders]] date: 2023-01-22 04:57
+- [[Fever in a Returning Traveler]] date: 2023-01-22 04:57
+- [[Females]] date: 2023-01-22 04:57
+- [[Extra Heart Sounds]] date: 2023-01-22 04:57
+- [[Evaluation of a Peripheral Blood Smear]] date: 2023-01-22 04:57
+- [[Etiologies of Liver Disease]] date: 2023-01-22 04:57
+- [[Esophagus]] date: 2023-01-22 04:57
+- [[Epilepsy]] date: 2023-01-22 04:57
+- [[Endocrine Axes]] date: 2023-01-22 04:57
+- [[Endocarditis]] date: 2023-01-22 04:57
+- [[Electromyography (EMG) and Nerve Conduction Studies]] date: 2023-01-22 04:57
+- [[Electroencephalogram (EEG)]] date: 2023-01-22 04:57
+- [[Eczematous Dermatoses]] date: 2023-01-22 04:57
+- [[Echocardiography]] date: 2023-01-22 04:57
+- [[Eating Disorders]] date: 2023-01-22 04:57
+- [[Dynamics Flow, Resistance, and VQ Matching]] date: 2023-01-22 04:57
+- [[DVTPE]] date: 2023-01-22 04:57
+- [[DrugToxin-Induced Liver Injury]] date: 2023-01-22 04:57
+- [[Diverticular Disease]] date: 2023-01-22 04:57
+- [[Dissociative Disorders]] date: 2023-01-22 04:57
+- [[Disorders of the Mucous Membranes]] date: 2023-01-22 04:57
+- [[Diseases of the Vasculature]] date: 2023-01-22 04:57
+- [[Diseases of the Pleura]] date: 2023-01-22 04:57
+- [[Diseases involving the Vasculature]] date: 2023-01-22 04:57
+- [[Discharge Checklist]] date: 2023-01-22 04:57
+- [[Diet and Exercise]] date: 2023-01-22 04:57
+- [[DialysisAccess]] date: 2023-01-22 04:57
+- [[Diagnostic Reasoning in Rheumatology]] date: 2023-01-22 04:57
+- [[Diagnostic Approach to Joint Pain]] date: 2023-01-22 04:57
+- [[Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic Syndrome (HHS)]] date: 2023-01-22 04:57
+- [[Determinants of Cardiac Function]] date: 2023-01-22 04:57
+- [[Depressed MoodSuicidal Ideation]] date: 2023-01-22 04:57
+- [[Decubitus Ulcers]] date: 2023-01-22 04:57
+- [[Cutaneous Drug Reactions]] date: 2023-01-22 04:57
+- [[Critical Illness Polyneuropathy, Critical Illness Myopathy, and ICU-Acquired Weakness]] date: 2023-01-22 04:57
+- [[Coronary CT Angiography (CCTA)]] date: 2023-01-22 04:57
+- [[Coronary Artery Disease (CAD)]] date: 2023-01-22 04:57
+- [[COPD]] date: 2023-01-22 04:57
+- [[Contraception]] date: 2023-01-22 04:57
+- [[Congenital Heart Diseases]] date: 2023-01-22 04:57
+- [[Congenital Heart disease with late Cyanosis (L → R shunt)]] date: 2023-01-22 04:57
+- [[Congenital Heart Disease with Early Cyanosis (R → L shunt)]] date: 2023-01-22 04:57
+- [[Congenital Adrenal Hyperplasia]] date: 2023-01-22 04:57
+- [[Complications Associated with Mechanical Ventilation]] date: 2023-01-22 04:57
+- [[Common Skin Infections]] date: 2023-01-22 04:57
+- [[Common Skin Cancers]] date: 2023-01-22 04:57
+- [[Colon]] date: 2023-01-22 04:57
+- [[Colon Cancer]] date: 2023-01-22 04:57
+- [[Cognitive Impairment]] date: 2023-01-22 04:57
+- [[Coagulation Disorders]] date: 2023-01-22 04:57
+- [[CNS Infections]] date: 2023-01-22 04:57
+- [[Clostridium difficile]] date: 2023-01-22 04:57
+- [[Cirrhosis Management]] date: 2023-01-22 04:57
+- [[Cirrhosis and its Complications]] date: 2023-01-22 04:57
+- [[Chronic Pain Management]] date: 2023-01-22 04:57
+- [[Chronic Noncancer Pain]] date: 2023-01-22 04:57
+- [[Chronic Kidney Disease (CKD) and End-Stage Renal Disease (ESRD)]] date: 2023-01-22 04:57
+- [[Chronic Diarrhea (3 weeks)]] date: 2023-01-22 04:57
+- [[Chronic Cough (8 wk) in Immunocompetent Adults]] date: 2023-01-22 04:57
+- [[Cholestatic Liver Diseases]] date: 2023-01-22 04:57
+- [[Cholecystectomy]] date: 2023-01-22 04:57
+- [[Chimeric-Antigen Receptor (CAR)-T cell therapy]] date: 2023-01-22 04:57
+- [[Chest x-ray (CXR)]] date: 2023-01-22 04:57
+- [[Chest Tubes]] date: 2023-01-22 04:57
+- [[Chest CT]] date: 2023-01-22 04:57
+- [[Chemotherapy]] date: 2023-01-22 04:57
+- [[Chemotherapy, Targeted Therapy, and Immunotherapy]] date: 2023-01-22 04:57
+- [[Central Venous Pressure (CVP) Waveform  Jugular Venous Pulse (JVP)]] date: 2023-01-22 04:57
+- [[Central Nervous System Infections]] date: 2023-01-22 04:57
+- [[Central Nervous System (CNS)]] date: 2023-01-22 04:57
+- [[Central Nervous System (CNS) Tumors]] date: 2023-01-22 04:57
+- [[Cellulitis and Cellulitis Mimickers]] date: 2023-01-22 04:57
+- [[Cardiovascular Disease Risk Prevention]] date: 2023-01-22 04:57
+- [[Cardiac Valve Infection and Inflammation]] date: 2023-01-22 04:57
+- [[Cardiac Stress Testing]] date: 2023-01-22 04:57
+- [[Cardiac Electrophysiology]] date: 2023-01-22 04:57
+- [[Cardiac Anatomy]] date: 2023-01-22 04:57
+- [[Calcium]] date: 2023-01-22 04:57
+- [[Bridging Anticoagulation]] date: 2023-01-22 04:57
+- [[Brain]] date: 2023-01-22 04:57
+- [[Brain abscess]] date: 2023-01-22 04:57
+- [[Bradycardic Rhythms]] date: 2023-01-22 04:57
+- [[Bradycardia]] date: 2023-01-22 04:57
+- [[BoneJoint Infections]] date: 2023-01-22 04:57
+- [[Bloodstream Infections]] date: 2023-01-22 04:57
+- [[Bipolar Disorder]] date: 2023-01-22 04:57
+- [[Biologic Disease-Modifying Antirheumatic Drugs (aka “Biologics” or Biologic DMARDs)]] date: 2023-01-22 04:57
+- [[Biases]] date: 2023-01-22 04:57
+- [[Bacterial Infections]] date: 2023-01-22 04:57
+- [[Axial and Appendicular Skeleton]] date: 2023-01-22 04:57
+- [[Autoimmune Etiologies of Liver Disease]] date: 2023-01-22 04:57
+- [[Autoimmune Bullous Diseases]] date: 2023-01-22 04:57
+- [[Arthridities]] date: 2023-01-22 04:57
+- [[Approach to Vascular Access]] date: 2023-01-22 04:57
+- [[Approach to Shock]] date: 2023-01-22 04:57
+- [[Approach to Reading a Hand X-Ray]] date: 2023-01-22 04:57
+- [[Approach to Narrow QRS Complex Tachycardia]] date: 2023-01-22 04:57
+- [[Approach to Managing a Patient with Cardiac Arrest, aka “Code Blue”]] date: 2023-01-22 04:57
+- [[Approach to Lactic Acidosis]] date: 2023-01-22 04:57
+- [[Approach to Headaches]] date: 2023-01-22 04:57
+- [[Approach to Bradycardia (HR  60 bpm)]] date: 2023-01-22 04:57
+- [[Approach to Analysis of an Arterial Blood Gas (ABG)]] date: 2023-01-22 04:57
+- [[Aortic Stenosis]] date: 2023-01-22 04:57
+- [[Anxiety Disorders]] date: 2023-01-22 04:57
+- [[Antiretroviral Therapy (ART)]] date: 2023-01-22 04:57
+- [[Antipsychotic Medications]] date: 2023-01-22 04:57
+- [[Antifungal Therapies]] date: 2023-01-22 04:57
+- [[Anticoagulation]] date: 2023-01-22 04:57
+- [[Anti-Inflammatory Agents]] date: 2023-01-22 04:57
+- [[Anterior Pituitary]] date: 2023-01-22 04:57
+- [[Anterior Mediastinal Mass]] date: 2023-01-22 04:57
+- [[Anatomy of the Lungs]] date: 2023-01-22 04:57
+- [[Analgesia, Sedation, Paralytics, and Vasoactive Medications]] date: 2023-01-22 04:57
+- [[ANA-Associated Connective Tissue Disorders]] date: 2023-01-22 04:57
+- [[Alveolar Hemorrhage]] date: 2023-01-22 04:57
+- [[Altered Mental Status]] date: 2023-01-22 04:57
+- [[Alcoholic Hepatitis]] date: 2023-01-22 04:57
+- [[Alcohol-Induced Liver Disease]] date: 2023-01-22 04:57
+- [[Advanced Care Planning]] date: 2023-01-22 04:57
+- [[Adrenal Masses]] date: 2023-01-22 04:57
+- [[Adrenal Insufficiency (AI)]] date: 2023-01-22 04:57
+- [[Additional History]] date: 2023-01-22 04:57
+- [[Additional Details about the Platelet Destructive Processes]] date: 2023-01-22 04:57
+- [[Acute Respiratory Distress Syndrome (ARDS)]] date: 2023-01-22 04:57
+- [[Acute Red Eye]] date: 2023-01-22 04:57
+- [[Acute Myeloid Leukemia]] date: 2023-01-22 04:57
+- [[Acute Liver Failure (ALF)]] date: 2023-01-22 04:57
+- [[Acute Coronary Syndrome (ACS) and Post-ACS Care]] date: 2023-01-22 04:57
+- [[Acneiform Eruptions]] date: 2023-01-22 04:57
+- [[Acid–Base Disorders]] date: 2023-01-22 04:57
+- [[ACE Inhibitor-ARB Combination]] date: 2023-01-22 04:57
 - [[prophylaxis supportive medications during HSCT]] date: 2023-01-22 04:44
 - [[timing of complications following allogeneic HSCT]] date: 2023-01-22 04:44
 - [[complications of hematopoietic stem cell transplantation]] date: 2023-01-22 04:44
 - [[Sinusoidal obstruction syndrome (SOS)]] date: 2023-01-22 04:43
-- [[Bleeding as complications of hematopoietic stem cell transplantation]] date: 2023-01-22 04:42
-- [[infectious complications of hematopoietic stem cell transplantation]] date: 2023-01-22 04:42
-- [[Acute GVHD]] date: 2023-01-22 04:42
-- [[engraftment syndrome]] date: 2023-01-22 04:42
-- [[idiopathic pneumonia syndrome (IPS)]] date: 2023-01-22 04:42
-- [[Diffuse alveolar hemorrhage (DAH)]] date: 2023-01-22 04:42
-- [[Chronic GVHD]] date: 2023-01-22 04:42
+- [[infectious complications of hematopoietic stem cell transplantation]] date: 2023-01-22 04:41
+- [[Chronic GVHD]] date: 2023-01-22 04:41
+- [[Acute GVHD]] date: 2023-01-22 04:41
+- [[Diffuse alveolar hemorrhage (DAH)]] date: 2023-01-22 04:41
+- [[Bleeding as complications of hematopoietic stem cell transplantation]] date: 2023-01-22 04:41
+- [[idiopathic pneumonia syndrome (IPS)]] date: 2023-01-22 04:41
+- [[engraftment syndrome]] date: 2023-01-22 04:41
 - [[indications of hematopoietic stem cell transplantation]] date: 2023-01-22 04:39
 - [[Types of Allo HSCT]] date: 2023-01-22 04:39
 - [[hematopoietic stem cell transplantation]] date: 2023-01-22 04:38
@@ -807,85 +856,85 @@ enableToc: false
 - [[transplantation procedure (for Allo HSCT)]] date: 2023-01-22 04:37
 - [[graft-versus-host disease]] date: 2023-01-22 04:20
 - [[waldenstrom’s macroglobulinemia (WM)]] date: 2023-01-22 04:18
-- [[clinical manifestations of waldenstrom’s macroglobulinemia (WM)]] date: 2023-01-22 04:18
 - [[treatment of waldenstrom’s macroglobulinemia (WM)]] date: 2023-01-22 04:18
 - [[diagnostic evaluation of waldenstrom’s macroglobulinemia (WM)]] date: 2023-01-22 04:18
+- [[clinical manifestations of waldenstrom’s macroglobulinemia (WM)]] date: 2023-01-22 04:18
 - [[definition of waldenstrom’s macroglobulinemia (WM)]] date: 2023-01-22 04:18
 - [[multiple myeloma (MM)]] date: 2023-01-22 04:16
-- [[clinical manifestations of multiple myeloma (MM)]] date: 2023-01-22 04:16
-- [[definition and epidemiology of multiple myeloma (MM)]] date: 2023-01-22 04:16
+- [[common toxicities of Rx of multiple myeloma (MM)]] date: 2023-01-22 04:16
 - [[treatment and prognosis of multiple myeloma (MM)]] date: 2023-01-22 04:16
 - [[multiple myeloma staging systems]] date: 2023-01-22 04:16
-- [[common toxicities of Rx of multiple myeloma (MM)]] date: 2023-01-22 04:16
+- [[clinical manifestations of multiple myeloma (MM)]] date: 2023-01-22 04:16
+- [[definition and epidemiology of multiple myeloma (MM)]] date: 2023-01-22 04:16
 - [[plasma cell dyscrasias]] date: 2023-01-22 04:14
-- [[monoclonal gammopathy of uncertain significance (MGUS)]] date: 2023-01-22 04:14
-- [[spectrum of nonmalignant to malignant clonal plasma cell disorders]] date: 2023-01-22 04:14
+- [[monoclonal gammopathy of uncertain significance (MGUS)]] date: 2023-01-22 04:13
+- [[spectrum of nonmalignant to malignant clonal plasma cell disorders]] date: 2023-01-22 04:13
+- [[small lymphocytic lymphoma]] date: 2023-01-22 04:09
 - [[treatment of small lymphocytic lymphoma]] date: 2023-01-22 04:09
 - [[diagnostic evaluation of small lymphocytic lymphoma]] date: 2023-01-22 04:09
-- [[definition of small lymphocytic lymphoma]] date: 2023-01-22 04:09
-- [[small lymphocytic lymphoma]] date: 2023-01-22 04:09
 - [[clinical manifestations of small lymphocytic lymphoma]] date: 2023-01-22 04:09
-- [[treatment of non-Hodgkin lymphoma]] date: 2023-01-22 04:07
-- [[epidemiology and risk factors of non-Hodgkin lymphoma (NHL)]] date: 2023-01-22 04:07
-- [[HIV-associated NHL]] date: 2023-01-22 04:07
+- [[definition of small lymphocytic lymphoma]] date: 2023-01-22 04:09
 - [[non-Hodgkin lymphoma (NHL)]] date: 2023-01-22 04:07
+- [[HIV-associated NHL]] date: 2023-01-22 04:07
+- [[treatment of non-Hodgkin lymphoma]] date: 2023-01-22 04:07
 - [[WHO Classification of Lymphoid Malignancies]] date: 2023-01-22 04:07
+- [[epidemiology and risk factors of non-Hodgkin lymphoma (NHL)]] date: 2023-01-22 04:07
 - [[lymphoma and CLL]] date: 2023-01-22 04:06
+- [[hodgkin lymphoma (HL)]] date: 2023-01-22 04:04
+- [[treatment of hodgkin lymphoma (HL)]] date: 2023-01-22 04:04
 - [[WHO Histologic Classification of Classical HL]] date: 2023-01-22 04:04
 - [[pathology of hodgkin lymphoma (HL)]] date: 2023-01-22 04:04
-- [[treatment of hodgkin lymphoma (HL)]] date: 2023-01-22 04:04
 - [[Epidemiology and risk factors]] date: 2023-01-22 04:04
-- [[hodgkin lymphoma (HL)]] date: 2023-01-22 04:04
 - [[overview of lymphoma and CLL]] date: 2023-01-22 04:02
-- [[diagnostic and staging evaluation of overview of lymphoma and CLL]] date: 2023-01-22 04:02
 - [[Ann Arbor Staging System with Cotswolds Modifications]] date: 2023-01-22 04:02
+- [[diagnostic and staging evaluation of overview of lymphoma and CLL]] date: 2023-01-22 04:02
 - [[clinical manifestations of overview of lymphoma and CLL]] date: 2023-01-22 04:02
-- [[prognosis of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:28
-- [[disease classification and manifestations of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:28
-- [[epidemiology and risk factors of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:28
-- [[definition of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:28
-- [[diagnostic evaluation of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:28
 - [[chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:28
-- [[treatment of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:28
+- [[prognosis of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:27
+- [[treatment of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:27
+- [[diagnostic evaluation of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:27
+- [[disease classification and manifestations of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:27
+- [[epidemiology and risk factors of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:27
+- [[definition of chronic myelogenous leukemia (CML)]] date: 2023-01-22 03:27
 - [[treatment of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:26
-- [[CNS prophylaxis of treatment of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:26
 - [[relapse refractory of treatment of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:26
 - [[post-remission therapy of treatment of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:26
+- [[CNS prophylaxis of treatment of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:26
 - [[induction chemotherapy of treatment of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:26
-- [[acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:24
-- [[classification of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:24
+- [[acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:23
+- [[classification of acute lymphoblastic leukemia (ALL)]] date: 2023-01-22 03:23
 - [[small lymphocytic lymphoma]] date: 2023-01-22 03:23
 - [[leukemia]] date: 2023-01-22 03:23
 - [[acute myelogenous leukemia (AML)]] date: 2023-01-22 03:22
-- [[classification of acute myelogenous leukemia (AML)]] date: 2023-01-22 03:22
+- [[acute promyelocytic leukemia (APL)]] date: 2023-01-22 03:22
+- [[prognosis of acute myelogenous leukemia (AML)]] date: 2023-01-22 03:22
 - [[consolidation therapy of acute myelogenous leukemia (AML)]] date: 2023-01-22 03:22
 - [[upfront treatment of acute myelogenous leukemia (AML)]] date: 2023-01-22 03:22
-- [[prognosis of acute myelogenous leukemia (AML)]] date: 2023-01-22 03:22
-- [[acute promyelocytic leukemia (APL)]] date: 2023-01-22 03:22
 - [[ENL 2017 Genetic Risk Classification]] date: 2023-01-22 03:22
-- [[acute leukemia]] date: 2023-01-22 03:20
+- [[classification of acute myelogenous leukemia (AML)]] date: 2023-01-22 03:22
 - [[clinical manifestations of acute leukemia]] date: 2023-01-22 03:20
+- [[acute leukemia]] date: 2023-01-22 03:20
 - [[Clinical manifestations]] date: 2023-01-22 03:20
 - [[diagnostic evaluation]] date: 2023-01-22 03:19
 - [[epidemiology and risk factors of acute leukemia]] date: 2023-01-22 03:19
 - [[primary myelofibrosis (PMF)]] date: 2023-01-22 03:13
-- [[definition of primary myelofibrosis (PMF)]] date: 2023-01-22 03:13
-- [[etiologies of myelofibrosis]] date: 2023-01-22 03:13
 - [[treatment of primary myelofibrosis (PMF)]] date: 2023-01-22 03:13
 - [[diagnostic evaluation of primary myelofibrosis (PMF)]] date: 2023-01-22 03:13
 - [[clinical manifestations of primary myelofibrosis (PMF)]] date: 2023-01-22 03:13
+- [[etiologies of myelofibrosis]] date: 2023-01-22 03:13
+- [[definition of primary myelofibrosis (PMF)]] date: 2023-01-22 03:13
 - [[essential thrombocythemia (ET)]] date: 2023-01-22 03:12
-- [[etiologies of thrombocytosis]] date: 2023-01-22 03:12
 - [[prognosis of essential thrombocythemia (ET)]] date: 2023-01-22 03:12
 - [[diagnostic evaluation of essential thrombocythemia (ET)]] date: 2023-01-22 03:12
+- [[etiologies of thrombocytosis]] date: 2023-01-22 03:12
 - [[polycythemia vera (PV)]] date: 2023-01-22 03:10
-- [[clinical manifestations of polycythemia vera]] date: 2023-01-22 03:10
-- [[diagnostic evaluation of polycythemia vera]] date: 2023-01-22 03:10
-- [[etiologies of erythrocytosis]] date: 2023-01-22 03:10
-- [[Treatment for JAK2 + PV]] date: 2023-01-22 03:10
 - [[prognosis of polycythemia vera (PV)]] date: 2023-01-22 03:10
+- [[Treatment for JAK2 + PV]] date: 2023-01-22 03:10
+- [[diagnostic evaluation of polycythemia vera]] date: 2023-01-22 03:10
+- [[clinical manifestations of polycythemia vera]] date: 2023-01-22 03:10
+- [[etiologies of erythrocytosis]] date: 2023-01-22 03:10
 - [[mutations useful as clonal markers and dx tools of myeloproliferative neoplasms]] date: 2023-01-22 03:09
-- [[Categories of MPN]] date: 2023-01-22 03:09
+- [[Categories of MPN]] date: 2023-01-22 03:08
 - [[overview of myeloproliferative neoplasms]] date: 2023-01-22 03:06
 - [[未命名]] date: 2023-01-22 03:03
 - [[myeloproliferative neoplasms]] date: 2023-01-22 03:02
@@ -896,11 +945,11 @@ enableToc: false
 - [[treatment of myelodysplastic syndromes]] date: 2023-01-22 02:54
 - [[WHO 2016 Classification Systems for MDS]] date: 2023-01-22 02:54
 - [[myelodysplastic syndromes (MDS) overview]] date: 2023-01-22 02:54
-- [[pericardial disease]] date: 2023-01-21 13:01
 - [[pericardiectomy]] date: 2023-01-21 13:00
+- [[pericardial disease]] date: 2023-01-21 13:00
 - [[chest pain]] date: 2023-01-21 10:31
-- [[什麼是數位花園]] date: 2023-01-20 17:59
-- [[hugo]] date: 2023-01-20 15:25
+- [[什麼是數位花園]] date: 2023-01-20 18:00
+- [[hugo]] date: 2023-01-20 15:26
 - [[R programing]] date: 2023-01-20 15:24
 - [[electrocardiography]] date: 2023-01-20 15:21
 - [[Etiologies of Prolonged-QT-interval]] date: 2023-01-20 15:21
@@ -916,28 +965,28 @@ enableToc: false
 - [[pathogen]] date: 2023-01-19 19:52
 - [[treatment of CRAB]] date: 2023-01-19 19:51
 - [[CRAB]] date: 2023-01-19 19:50
-- [[abdominopelvic emergencies]] date: 2023-01-19 18:13
-- [[chronic kidney disease]] date: 2023-01-19 18:12
-- [[emergency medicine]] date: 2023-01-19 18:08
-- [[geriatrics]] date: 2023-01-19 17:12
-- [[hematopoiesis]] date: 2023-01-19 17:11
-- [[Complications of HTN]] date: 2023-01-19 17:09
-- [[Noninvasive positive-pressure ventilation of COPDAE]] date: 2023-01-19 16:55
-- [[Oxygenation of COPDAE]] date: 2023-01-19 16:55
-- [[Haldane effect]] date: 2023-01-19 16:55
-- [[Corticosteroids of COPDAE]] date: 2023-01-19 16:49
-- [[Cochrane 2009:CD001288]] date: 2023-01-19 16:49
-- [[Prednisone]] date: 2023-01-19 16:35
-- [[APS Type II]] date: 2023-01-19 16:17
-- [[Hashimoto’s thyroiditis]] date: 2023-01-19 16:15
-- [[hypothyroidism]] date: 2023-01-19 13:00
-- [[Won’t Breathe as Etiologies of High elevated PaCO2]] date: 2023-01-19 12:59
-- [[Chemical Causes of Cellular Hypoxia]] date: 2023-01-19 12:59
-- [[Workup of acute hypoxemia]] date: 2023-01-19 12:58
-- [[respiratory failure]] date: 2023-01-19 12:57
-- [[ambulatory care]] date: 2023-01-19 12:57
-- [[Quartz]] date: 2023-01-19 11:41
-- [[sedation]] date: 2023-01-18 22:28
+- [[ambulatory care]] date: 2023-01-19 19:26
+- [[Quartz]] date: 2023-01-19 19:26
+- [[Hashimoto’s thyroiditis]] date: 2023-01-19 19:26
+- [[Haldane effect]] date: 2023-01-19 19:26
+- [[chronic kidney disease]] date: 2023-01-19 19:26
+- [[abdominopelvic emergencies]] date: 2023-01-19 19:26
+- [[Prednisone]] date: 2023-01-19 19:26
+- [[Cochrane 2009:CD001288]] date: 2023-01-19 19:26
+- [[hematopoiesis]] date: 2023-01-19 19:26
+- [[APS Type II]] date: 2023-01-19 19:26
+- [[Chemical Causes of Cellular Hypoxia]] date: 2023-01-19 19:26
+- [[Complications of HTN]] date: 2023-01-19 19:26
+- [[hypothyroidism]] date: 2023-01-19 19:26
+- [[Noninvasive positive-pressure ventilation of COPDAE]] date: 2023-01-19 19:26
+- [[geriatrics]] date: 2023-01-19 19:26
+- [[Workup of acute hypoxemia]] date: 2023-01-19 19:26
+- [[Won’t Breathe as Etiologies of High elevated PaCO2]] date: 2023-01-19 19:26
+- [[Oxygenation of COPDAE]] date: 2023-01-19 19:26
+- [[Corticosteroids of COPDAE]] date: 2023-01-19 19:26
+- [[respiratory failure]] date: 2023-01-19 19:26
+- [[emergency medicine]] date: 2023-01-19 19:26
+- [[sedation]] date: 2023-01-18 22:27
 - [[delirium]] date: 2023-01-18 22:27
 - [[Nutrition in the ICU]] date: 2023-01-18 22:27
 - [[glycemic management in the ICU setting]] date: 2023-01-18 22:24
@@ -948,7 +997,7 @@ enableToc: false
 - [[vitamin deficiencies]] date: 2023-01-18 22:06
 - [[hypomagnesemia]] date: 2023-01-18 22:06
 - [[hypokalemia]] date: 2023-01-18 22:06
-- [[hypophosphatemia]] date: 2023-01-18 22:06
+- [[hypophosphatemia]] date: 2023-01-18 22:05
 - [[rate of nutrition in the ICU]] date: 2023-01-18 22:04
 - [[timing of nutrition]] date: 2023-01-18 22:00
 - [[contraindications to enteral nutrition]] date: 2023-01-18 21:58
@@ -959,8 +1008,8 @@ enableToc: false
 - [[Low Back Pain]] date: 2023-01-18 21:54
 - [[dizziness]] date: 2023-01-18 21:53
 - [[acute respiratory tract infection]] date: 2023-01-18 21:53
-- [[allergy and immunology]] date: 2023-01-18 21:53
-- [[atopic dermatitis]] date: 2023-01-18 21:53
+- [[atopic dermatitis]] date: 2023-01-18 21:52
+- [[allergy and immunology]] date: 2023-01-18 21:52
 - [[immunodeficiency]] date: 2023-01-18 21:52
 - [[eosinophilia and mast-cell disorders]] date: 2023-01-18 21:52
 - [[urticaria and angioedema]] date: 2023-01-18 21:52
@@ -970,99 +1019,99 @@ enableToc: false
 - [[allergic rhinitis conjunctivitis sinusitis]] date: 2023-01-18 21:52
 - [[women’s health]] date: 2023-01-18 21:50
 - [[palliative care]] date: 2023-01-18 21:50
-- [[mental health]] date: 2023-01-18 21:50
-- [[PLASMIC score to discriminate TTP from other TMAs]] date: 2023-01-18 17:23
-- [[thrombotic thrombocytopenic purpura]] date: 2023-01-18 13:27
-- [[Drug-induced TMA]] date: 2023-01-18 13:25
-- [[Thrombotic microangiopathies]] date: 2023-01-18 13:25
-- [[immune-mediated thrombocytopenia]] date: 2023-01-18 13:23
-- [[Etiologies-of thrombocytopenia]] date: 2023-01-18 13:22
-- [[myelofibrosis]] date: 2023-01-18 13:21
-- [[Thrombocytopenia and Risk of Bleeding]] date: 2023-01-18 13:20
-- [[fluid and electrolyte disturbances]] date: 2023-01-18 08:40
-- [[sinus symptoms]] date: 2023-01-18 08:40
-- [[oral manifestations of disease]] date: 2023-01-18 08:40
-- [[dysuria]] date: 2023-01-18 08:40
-- [[acute kidney injury]] date: 2023-01-18 08:40
-- [[bleeding disorders]] date: 2023-01-18 08:40
-- [[weight loss]] date: 2023-01-18 08:40
-- [[abdominal swelling]] date: 2023-01-18 08:40
-- [[upper respiratory symptoms]] date: 2023-01-18 08:40
-- [[nausea, vomiting, and indigestion]] date: 2023-01-18 08:40
-- [[sore throat]] date: 2023-01-18 08:40
-- [[aids hiv infection]] date: 2023-01-18 08:40
-- [[disorders of hearing]] date: 2023-01-18 08:40
-- [[disorders of smell and taste]] date: 2023-01-18 08:40
-- [[interstitial cystitis]] date: 2023-01-18 08:40
-- [[approach to the patient with a heart murmur]] date: 2023-01-18 08:40
-- [[bladder pain syndrome]] date: 2023-01-18 08:40
-- [[palpitations]] date: 2023-01-18 08:40
-- [[disorders of the eye]] date: 2023-01-18 08:40
-- [[jaundice and abnormal liver enzymes]] date: 2023-01-18 08:40
-- [[azotemia]] date: 2023-01-18 08:40
-- [[leukotrienes]] date: 2023-01-18 08:40
-- [[dizziness and vertigo]] date: 2023-01-18 08:40
-- [[Kimmelstiel-Wilson]] date: 2023-01-18 08:40
-- [[fever]] date: 2023-01-18 08:40
-- [[definition of restrictive and infiltrative cardiomyopathy]] date: 2023-01-18 08:40
-- [[other supraventricular rhythms]] date: 2023-01-18 08:40
-- [[fibromyalgia]] date: 2023-01-18 08:40
-- [[aphasia, memory loss, and other cognitive disorders]] date: 2023-01-18 08:40
-- [[Takotsubo]] date: 2023-01-18 08:40
-- [[numbness, tingling, and sensory loss]] date: 2023-01-18 08:40
-- [[diagnostic studies and workup of dilated cardiomyopathy]] date: 2023-01-18 08:40
-- [[Why is this NOT Wandering Pacer]] date: 2023-01-18 08:40
-- [[gait disorders, imbalance, and falls]] date: 2023-01-18 08:40
-- [[dementia]] date: 2023-01-18 08:40
-- [[asphyxiation]] date: 2023-01-18 08:40
-- [[crystal-induced arthritis]] date: 2023-01-18 08:40
-- [[coma]] date: 2023-01-18 08:40
-- [[restrictive and infiltrative cardiomyopathy]] date: 2023-01-18 08:40
-- [[obstructive sleep apnea]] date: 2023-01-18 08:40
-- [[acute septic arthritis]] date: 2023-01-18 08:40
-- [[neurologic causes of weakness and paralysis]] date: 2023-01-18 08:40
-- [[etiologies of dilated cardiomyopathy]] date: 2023-01-18 08:40
-- [[EKG pocket brain]] date: 2023-01-18 08:40
-- [[sleep disorders]] date: 2023-01-18 08:40
-- [[earache]] date: 2023-01-18 08:40
-- [[diarrhea and constipation]] date: 2023-01-18 08:40
-- [[headache]] date: 2023-01-18 08:40
-- [[ST-elevation]] date: 2023-01-18 08:40
-- [[Treatment-hemoptysis]] date: 2023-01-18 08:40
-- [[fever and rash]] date: 2023-01-18 08:40
-- [[Nervous System Dysfunction]] date: 2023-01-18 08:40
-- [[T-wave-inversion]] date: 2023-01-18 08:40
-- [[dilated cardiomyopathy]] date: 2023-01-18 08:40
-- [[Dysphagia]] date: 2023-01-18 08:40
-- [[clinical reasoning]] date: 2023-01-18 08:40
-- [[cardiomyopathies]] date: 2023-01-18 08:40
-- [[Constipation]] date: 2023-01-18 08:40
-- [[allergy immunology]] date: 2023-01-18 08:40
-- [[Acromegaly]] date: 2023-01-18 08:40
-- [[fatigue]] date: 2023-01-18 08:39
-- [[pheochromocytoma]] date: 2023-01-18 08:39
-- [[hypercalcemia]] date: 2023-01-18 08:39
-- [[hypocalcemia]] date: 2023-01-18 08:39
-- [[hemoptysis]] date: 2023-01-18 08:39
-- [[syncope]] date: 2023-01-18 08:39
-- [[amyloidosis]] date: 2023-01-18 08:39
+- [[mental health]] date: 2023-01-18 21:49
+- [[Thrombotic microangiopathies]] date: 2023-01-18 19:04
+- [[thrombotic thrombocytopenic purpura]] date: 2023-01-18 19:04
+- [[Etiologies-of thrombocytopenia]] date: 2023-01-18 19:04
+- [[Thrombocytopenia and Risk of Bleeding]] date: 2023-01-18 19:04
+- [[Drug-induced TMA]] date: 2023-01-18 19:04
+- [[PLASMIC score to discriminate TTP from other TMAs]] date: 2023-01-18 19:04
+- [[myelofibrosis]] date: 2023-01-18 19:04
+- [[immune-mediated thrombocytopenia]] date: 2023-01-18 19:04
+- [[acute kidney injury]] date: 2023-01-18 01:00
+- [[jaundice and abnormal liver enzymes]] date: 2023-01-18 00:59
+- [[headache]] date: 2023-01-18 00:59
+- [[dysuria]] date: 2023-01-18 00:59
+- [[bleeding disorders]] date: 2023-01-18 00:59
+- [[aids hiv infection]] date: 2023-01-18 00:59
+- [[clinical reasoning]] date: 2023-01-18 00:59
+- [[hypocalcemia]] date: 2023-01-18 00:58
+- [[hypercalcemia]] date: 2023-01-18 00:58
+- [[fluid and electrolyte disturbances]] date: 2023-01-18 00:58
+- [[azotemia]] date: 2023-01-18 00:58
+- [[bladder pain syndrome]] date: 2023-01-18 00:58
+- [[interstitial cystitis]] date: 2023-01-18 00:58
+- [[abdominal swelling]] date: 2023-01-18 00:57
+- [[weight loss]] date: 2023-01-18 00:57
+- [[Constipation]] date: 2023-01-18 00:57
+- [[diarrhea and constipation]] date: 2023-01-18 00:56
+- [[nausea, vomiting, and indigestion]] date: 2023-01-18 00:56
+- [[Dysphagia]] date: 2023-01-18 00:56
+- [[palpitations]] date: 2023-01-18 00:56
+- [[approach to the patient with a heart murmur]] date: 2023-01-18 00:56
+- [[hemoptysis]] date: 2023-01-18 00:55
+- [[oral manifestations of disease]] date: 2023-01-18 00:55
+- [[sore throat]] date: 2023-01-18 00:55
+- [[sinus symptoms]] date: 2023-01-18 00:55
+- [[earache]] date: 2023-01-18 00:54
+- [[upper respiratory symptoms]] date: 2023-01-18 00:54
+- [[disorders of hearing]] date: 2023-01-18 00:54
+- [[disorders of smell and taste]] date: 2023-01-18 00:54
+- [[disorders of the eye]] date: 2023-01-18 00:54
+- [[sleep disorders]] date: 2023-01-18 00:53
+- [[Nervous System Dysfunction]] date: 2023-01-18 00:53
+- [[aphasia, memory loss, and other cognitive disorders]] date: 2023-01-18 00:53
+- [[dementia]] date: 2023-01-18 00:53
+- [[coma]] date: 2023-01-18 00:52
+- [[gait disorders, imbalance, and falls]] date: 2023-01-18 00:52
+- [[numbness, tingling, and sensory loss]] date: 2023-01-18 00:52
+- [[neurologic causes of weakness and paralysis]] date: 2023-01-18 00:52
+- [[fatigue]] date: 2023-01-18 00:52
+- [[dizziness and vertigo]] date: 2023-01-18 00:52
+- [[syncope]] date: 2023-01-18 00:52
+- [[fever]] date: 2023-01-18 00:51
+- [[allergy immunology]] date: 2023-01-18 00:51
+- [[fever and rash]] date: 2023-01-18 00:51
+- [[acute septic arthritis]] date: 2023-01-18 00:50
+- [[fibromyalgia]] date: 2023-01-18 00:50
+- [[crystal-induced arthritis]] date: 2023-01-18 00:50
+- [[amyloidosis]] date: 2023-01-18 00:47
+- [[Kimmelstiel-Wilson]] date: 2023-01-18 00:47
+- [[asphyxiation]] date: 2023-01-18 00:46
+- [[Treatment-hemoptysis]] date: 2023-01-18 00:46
+- [[leukotrienes]] date: 2023-01-18 00:45
+- [[restrictive and infiltrative cardiomyopathy]] date: 2023-01-18 00:44
+- [[definition of restrictive and infiltrative cardiomyopathy]] date: 2023-01-18 00:42
+- [[cardiomyopathies]] date: 2023-01-18 00:41
+- [[diagnostic studies and workup of dilated cardiomyopathy]] date: 2023-01-18 00:39
+- [[dilated cardiomyopathy]] date: 2023-01-18 00:38
+- [[etiologies of dilated cardiomyopathy]] date: 2023-01-18 00:35
+- [[obstructive sleep apnea]] date: 2023-01-18 00:34
+- [[pheochromocytoma]] date: 2023-01-18 00:34
+- [[Acromegaly]] date: 2023-01-18 00:34
+- [[EKG pocket brain]] date: 2023-01-18 00:31
+- [[other supraventricular rhythms]] date: 2023-01-18 00:31
+- [[Why is this NOT Wandering Pacer]] date: 2023-01-18 00:31
+- [[Takotsubo]] date: 2023-01-18 00:30
+- [[T-wave-inversion]] date: 2023-01-18 00:29
+- [[ST-elevation]] date: 2023-01-18 00:29
 - [[hypertrophic cardiomyopathy]] date: 2023-01-18 00:23
 - [[MYOCARDITIS]] date: 2023-01-18 00:22
 - [[autoimmune myocarditis]] date: 2023-01-18 00:22
-- [[giant cell myocarditis]] date: 2023-01-18 00:22
+- [[giant cell myocarditis]] date: 2023-01-18 00:21
 - [[Chagas]] date: 2023-01-18 00:21
 - [[infectious myocarditis]] date: 2023-01-18 00:21
 - [[mechanical ventilation]] date: 2023-01-17 23:30
 - [[indications-mechanical ventilation]] date: 2023-01-17 23:30
 - [[Blood Products and Indications]] date: 2023-01-17 23:28
-- [[transfusion therapy]] date: 2023-01-17 23:28
 - [[Blood Products and Indications ]] date: 2023-01-17 23:28
+- [[transfusion therapy]] date: 2023-01-17 23:28
 - [[hematology and oncology in critical care]] date: 2023-01-17 23:28
 - [[blood products and transfusions]] date: 2023-01-17 23:26
 - [[renal disorders in critical care]] date: 2023-01-17 23:23
 - [[infectious diseases in critical care]] date: 2023-01-17 23:23
 - [[overdose and toxidromes]] date: 2023-01-17 23:16
-- [[cardiac arrest]] date: 2023-01-17 23:16
+- [[cardiac arrest]] date: 2023-01-17 23:15
 - [[neurologic outcomes after cardiac arrest]] date: 2023-01-17 23:15
 - [[Additional Diabetes Treatment Options]] date: 2023-01-17 23:15
 - [[Diabetes Treatment Approach for ASCVD, HF, or CKD]] date: 2023-01-17 23:10
@@ -1072,7 +1121,7 @@ enableToc: false
 - [[Definition-diabetes mellitus]] date: 2023-01-17 23:02
 - [[Reduction in the Incidence of Type 2 Diabetes with Lifestyle Intervention or Metformin]] date: 2023-01-17 22:55
 - [[OGTT]] date: 2023-01-17 22:52
-- [[autoinflammatory syndromes]] date: 2023-01-17 22:51
+- [[autoinflammatory syndromes]] date: 2023-01-17 22:50
 - [[vasculitis]] date: 2023-01-17 22:50
 - [[IgG4-related disease]] date: 2023-01-17 22:50
 - [[systemic lupus erythematosus]] date: 2023-01-17 22:50
@@ -1080,24 +1129,24 @@ enableToc: false
 - [[infectious arthritis and bursitis]] date: 2023-01-17 22:50
 - [[seronegative spondyloarthritis]] date: 2023-01-17 22:50
 - [[crystal deposition arthritides]] date: 2023-01-17 22:50
-- [[calcium pyrophosphate dihydrate - cppd - deposition disease]] date: 2023-01-17 22:49
 - [[comparison of gout and pseudogout]] date: 2023-01-17 22:49
+- [[calcium pyrophosphate dihydrate - cppd - deposition disease]] date: 2023-01-17 22:49
 - [[gout]] date: 2023-01-17 22:49
-- [[pseudogout]] date: 2023-01-17 22:49
+- [[pseudogout]] date: 2023-01-17 22:48
 - [[Diagnostic Approach in a Patient with Possible Primary Ovarian Insufficiency]] date: 2023-01-17 22:46
 - [[primary ovarian insufficiency]] date: 2023-01-17 22:45
 - [[hormone-replacement therapy]] date: 2023-01-17 22:40
 - [[estradiol]] date: 2023-01-17 22:39
 - [[follicle-stimulating hormone]] date: 2023-01-17 22:39
-- [[obs gyn issues]] date: 2023-01-17 22:39
+- [[obs gyn issues]] date: 2023-01-17 22:38
 - [[ATS Reading List]] date: 2023-01-17 22:38
 - [[Balanced Multielectrolyte Solution versus Saline in Critically Ill Adults]] date: 2023-01-17 22:31
 - [[Fluids-sepsis and shock]] date: 2023-01-17 22:31
 - [[The Composition of Saline, Lactated Ringer’s Solution, and Plasma-Lyte 148]] date: 2023-01-17 22:29
-- [[surgical critical care]] date: 2023-01-17 22:25
+- [[surgical critical care]] date: 2023-01-17 22:24
 - [[bronchoscopy]] date: 2023-01-17 22:24
 - [[basic techniques and procedures]] date: 2023-01-17 22:24
-- [[Glycemic Control in intensive care unit]] date: 2023-01-17 22:24
+- [[Glycemic Control in intensive care unit]] date: 2023-01-17 22:23
 - [[Nutritional Support and Total Parenteral Nutrition]] date: 2023-01-17 22:23
 - [[bedside percutaneous dilational tracheostomy]] date: 2023-01-17 22:23
 - [[bacterial endocarditis]] date: 2023-01-17 22:23
@@ -1106,10 +1155,10 @@ enableToc: false
 - [[Modified Duke Criteria]] date: 2023-01-17 22:20
 - [[HACEK]] date: 2023-01-17 22:17
 - [[culture negative-bacterial endocarditis]] date: 2023-01-17 22:13
-- [[diagnosis of culture-negative endocarditis]] date: 2023-01-17 22:13
+- [[diagnosis of culture-negative endocarditis]] date: 2023-01-17 22:12
 - [[Brucella]] date: 2023-01-17 22:12
 - [[Bartonella]] date: 2023-01-17 22:11
-- [[Treatment of UTIs]] date: 2023-01-17 22:07
+- [[Treatment of UTIs]] date: 2023-01-17 22:06
 - [[Clinical manifestations-urinary tract infections]] date: 2023-01-17 22:05
 - [[prostatitis]] date: 2023-01-17 22:05
 - [[cystitis]] date: 2023-01-17 22:05
@@ -1145,8 +1194,8 @@ enableToc: false
 - [[NCCN guideline]] date: 2023-01-17 18:05
 - [[basal cell skin cancer]] date: 2023-01-17 18:05
 - [[cancer of unknown primary]] date: 2023-01-17 18:02
-- [[assessment of hospitalized cancer patients]] date: 2023-01-17 18:02
-- [[inpatient oncology]] date: 2023-01-17 18:02
+- [[assessment of hospitalized cancer patients]] date: 2023-01-17 18:01
+- [[inpatient oncology]] date: 2023-01-17 18:01
 - [[cancer prevention and screening]] date: 2023-01-17 18:01
 - [[general oncology]] date: 2023-01-17 18:01
 - [[regex]] date: 2023-01-17 17:57
@@ -1157,9 +1206,8 @@ enableToc: false
 - [[Mechanisms of VILI Ventilator Strategies]] date: 2023-01-17 17:33
 - [[Treatment acute respiratory distress syndrome]] date: 2023-01-17 17:32
 - [[ventilator-induced lung injury]] date: 2023-01-17 17:31
-- [[disseminated intravascular coagulation]] date: 2023-01-17 17:31
 - [[Etiologies acute respiratory distress syndrome]] date: 2023-01-17 17:31
-- [[pancreatitis]] date: 2023-01-17 17:30
+- [[disseminated intravascular coagulation]] date: 2023-01-17 17:31
 - [[Pathology acute respiratory distress syndrome]] date: 2023-01-17 17:29
 - [[Pathophysiology of acute respiratory distress syndrome]] date: 2023-01-17 17:29
 - [[Berlin definition]] date: 2023-01-17 17:23
@@ -1167,58 +1215,57 @@ enableToc: false
 - [[flowchart of approach to fatigue]] date: 2023-01-17 17:19
 - [[polysomnogram]] date: 2023-01-17 17:18
 - [[somatization disorder]] date: 2023-01-17 17:14
-- [[depression]] date: 2023-01-17 17:14
+- [[depression]] date: 2023-01-17 17:13
 - [[medications of fatigue]] date: 2023-01-17 17:11
 - [[adrenal insufficiency]] date: 2023-01-17 17:09
 - [[cardiovascular critical care]] date: 2023-01-17 17:04
 - [[hemodynamic monitoring]] date: 2023-01-17 17:01
 - [[mac的一些好用軟體]] date: 2023-01-17 15:59
-- [[radiation oncology]] date: 2023-01-17 15:56
 - [[external beam radiation therapy]] date: 2023-01-17 15:56
+- [[radiation oncology]] date: 2023-01-17 15:56
 - [[remark]] date: 2023-01-17 15:51
-- [[tricks]] date: 2023-01-17 15:42
-- [[Raycast]] date: 2023-01-17 15:41
-- [[cancer epidemiology]] date: 2023-01-17 15:40
-- [[tip]] date: 2023-01-17 15:39
-- [[bronchodilator]] date: 2023-01-17 14:08
-- [[Definitions-and-clinical-manifestations]] date: 2023-01-17 14:05
-- [[Structural dysphagia]] date: 2023-01-17 14:05
-- [[schistocytes]] date: 2023-01-16 23:34
-- [[Microangiopathic hemolytic anemia]] date: 2023-01-16 23:34
-- [[HELLP]] date: 2023-01-16 23:33
-- [[Hemolytic-uremic syndrome]] date: 2023-01-16 23:33
-- [[Diagnostic evaluation of thrombocytopenia]] date: 2023-01-16 23:32
-- [[platelet disorders]] date: 2023-01-16 23:32
-- [[duty]] date: 2023-01-16 23:32
-- [[Cutibacterium]] date: 2023-01-16 23:25
-- [[Infection as Etiologies of Classic FUO]] date: 2023-01-16 23:23
-- [[vertebral osteomyelitis]] date: 2023-01-16 23:17
-- [[5H5T]] date: 2023-01-16 23:10
-- [[Streptococcus gallolyticus]] date: 2023-01-16 22:18
-- [[Major clinical criteria]] date: 2023-01-16 21:40
-- [[Coxiella burnetii]] date: 2023-01-16 21:39
-- [[Short-Term Central Venous Catheter-Related Bloodstream Infxns]] date: 2023-01-16 21:29
-- [[definitions of bacteremia]] date: 2023-01-16 21:28
-- [[bacteremia]] date: 2023-01-16 21:28
-- [[貼片]] date: 2023-01-16 14:07
-- [[Crystalloid]] date: 2023-01-16 14:03
-- [[Pressors inotropes-sepsis and shock]] date: 2023-01-16 13:51
-- [[Sedation-and-Analgesia]] date: 2023-01-16 13:49
-- [[propofol infusion syndrome]] date: 2023-01-16 13:49
-- [[PocketBrain]] date: 2023-01-16 06:24
-- [[WHY 2 Separate Steps for Interpretation]] date: 2023-01-16 06:24
-- [[Systematic Approach to 12-Lead ECG Interpretation]] date: 2023-01-16 06:24
-- [[The 2 Steps to Systematic Interpretation]] date: 2023-01-16 06:24
-- [[Ventilator-associated pneumonia]] date: 2023-01-14 10:29
+- [[tricks]] date: 2023-01-17 15:41
+- [[Raycast]] date: 2023-01-17 15:40
+- [[cancer epidemiology]] date: 2023-01-17 15:39
+- [[tip]] date: 2023-01-17 15:38
+- [[Structural dysphagia]] date: 2023-01-17 15:16
+- [[schistocytes]] date: 2023-01-17 15:16
+- [[bronchodilator]] date: 2023-01-17 15:16
+- [[HELLP]] date: 2023-01-17 15:16
+- [[Cutibacterium]] date: 2023-01-17 15:16
+- [[vertebral osteomyelitis]] date: 2023-01-17 15:16
+- [[Coxiella burnetii]] date: 2023-01-17 15:16
+- [[Streptococcus gallolyticus]] date: 2023-01-17 15:16
+- [[Crystalloid]] date: 2023-01-17 15:16
+- [[propofol infusion syndrome]] date: 2023-01-17 15:16
+- [[definitions of bacteremia]] date: 2023-01-17 15:16
+- [[Major clinical criteria]] date: 2023-01-17 15:16
+- [[Pressors inotropes-sepsis and shock]] date: 2023-01-17 15:16
+- [[Sedation-and-Analgesia]] date: 2023-01-17 15:16
+- [[Short-Term Central Venous Catheter-Related Bloodstream Infxns]] date: 2023-01-17 15:16
+- [[Microangiopathic hemolytic anemia]] date: 2023-01-17 15:16
+- [[platelet disorders]] date: 2023-01-17 15:16
+- [[Infection as Etiologies of Classic FUO]] date: 2023-01-17 15:16
+- [[duty]] date: 2023-01-17 15:16
+- [[Definitions-and-clinical-manifestations]] date: 2023-01-17 15:16
+- [[Diagnostic evaluation of thrombocytopenia]] date: 2023-01-17 15:16
+- [[bacteremia]] date: 2023-01-17 15:16
+- [[貼片]] date: 2023-01-17 15:16
+- [[Hemolytic-uremic syndrome]] date: 2023-01-17 15:15
+- [[WHY 2 Separate Steps for Interpretation]] date: 2023-01-15 23:38
+- [[The 2 Steps to Systematic Interpretation]] date: 2023-01-15 23:38
+- [[Systematic Approach to 12-Lead ECG Interpretation]] date: 2023-01-15 23:38
+- [[PocketBrain]] date: 2023-01-15 23:30
+- [[Ventilator-associated pneumonia]] date: 2023-01-14 10:28
 - [[Recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens]] date: 2023-01-14 02:44
 - [[Acute Infectious Etiologies ]] date: 2023-01-14 02:38
 - [[Glomerular Diseases]] date: 2023-01-14 02:29
-- [[purpura]] date: 2023-01-14 02:27
+- [[purpura]] date: 2023-01-14 02:26
 - [[Obsidian]] date: 2023-01-13 22:13
 - [[Aldosterone]] date: 2023-01-13 01:22
 - [[aldosterone synthetic pathway]] date: 2023-01-13 01:06
-- [[calcium disorders]] date: 2023-01-13 01:05
 - [[Calcium homeostasis in normal humans]] date: 2023-01-13 01:05
+- [[calcium disorders]] date: 2023-01-13 01:05
 - [[principal cells]] date: 2023-01-13 00:55
 - [[Antidiuretic hormone]] date: 2023-01-13 00:53
 - [[overview-sodium and water homeostasis]] date: 2023-01-13 00:04
@@ -1231,24 +1278,24 @@ enableToc: false
 - [[Etiologies of hypercortisolism]] date: 2023-01-12 22:02
 - [[adrenal incidentaloma]] date: 2023-01-12 22:01
 - [[Nonaldosterone mineralocorticoid excess]] date: 2023-01-12 21:56
-- [[Etiologies-hyperaldosteronism]] date: 2023-01-12 21:56
 - [[Primary Hyperaldosteronism]] date: 2023-01-12 21:56
-- [[Treatment of Cushing’s syndrome]] date: 2023-01-12 21:54
+- [[Etiologies-hyperaldosteronism]] date: 2023-01-12 21:56
 - [[Secondary Hyperaldosteronism]] date: 2023-01-12 21:54
 - [[hyperaldosteronism]] date: 2023-01-12 21:54
+- [[Treatment of Cushing’s syndrome]] date: 2023-01-12 21:54
 - [[Cushing’s Syndrome]] date: 2023-01-12 21:50
-- [[Approach to suspected Cushing’s syndrome]] date: 2023-01-12 21:50
 - [[Diagnosis Cushing’s Syndrome]] date: 2023-01-12 21:50
+- [[Approach to suspected Cushing’s syndrome]] date: 2023-01-12 21:49
 - [[Cushing’s disease]] date: 2023-01-12 21:45
 - [[BIPSS]] date: 2023-01-12 21:41
 - [[Rationale of BIPSS]] date: 2023-01-12 21:39
-- [[somatostatin scan]] date: 2023-01-12 21:04
+- [[somatostatin scan]] date: 2023-01-12 21:03
 - [[3 options for screening for hypercortisolism]] date: 2023-01-12 20:21
-- [[24-hour urinary free cortisol]] date: 2023-01-12 20:15
+- [[24-hour urinary free cortisol]] date: 2023-01-12 20:14
 - [[venous thromboembolism]] date: 2023-01-12 01:47
-- [[Whom to treat-venous thromboembolism]] date: 2023-01-12 01:46
+- [[Whom to treat-venous thromboembolism]] date: 2023-01-12 01:45
 - [[Approach to suspected PE]] date: 2023-01-12 01:43
-- [[Complications & prognosis-venous thromboembolism]] date: 2023-01-12 01:41
+- [[Complications & prognosis-venous thromboembolism]] date: 2023-01-12 01:40
 - [[postthrombotic syndrome]] date: 2023-01-12 01:39
 - [[Extended DOAC strategies-venous thromboembolism]] date: 2023-01-12 01:36
 - [[Long-term anticoagulation options-venous thromboembolism]] date: 2023-01-12 01:35
@@ -1263,7 +1310,7 @@ enableToc: false
 - [[deep vein thrombosis]] date: 2023-01-11 23:12
 - [[Homan’s sign]] date: 2023-01-11 23:10
 - [[Clinical manifestations—DVT]] date: 2023-01-11 23:08
-- [[Definitions-venous thromboembolism]] date: 2023-01-11 22:31
+- [[Definitions-venous thromboembolism]] date: 2023-01-11 22:30
 - [[Diagnostic studies—DVT]] date: 2023-01-11 22:30
 - [[d-dimer]] date: 2023-01-11 22:27
 - [[Virchow’s triad]] date: 2023-01-11 22:10
@@ -1283,14 +1330,14 @@ enableToc: false
 - [[warning signs of headache]] date: 2023-01-11 20:24
 - [[IDSA Guidance]] date: 2023-01-11 20:20
 - [[urinary tract infections]] date: 2023-01-11 19:22
-- [[Venous Thromboembolism and Cancer]] date: 2023-01-11 18:18
 - [[central role of tissue factor in tumor progression and thrombosis]] date: 2023-01-11 18:18
+- [[Venous Thromboembolism and Cancer]] date: 2023-01-11 18:18
 - [[tamoxifen]] date: 2023-01-11 18:13
 - [[Pulmonary Embolism Severity Index PESI]] date: 2023-01-11 18:10
 - [[critical actions of Pulmonary Embolism Severity Index PESI]] date: 2023-01-11 18:07
 - [[Interpretation of Pulmonary Embolism Severity Index PESI]] date: 2023-01-11 18:06
-- [[Cockcroft-Gault formula]] date: 2023-01-11 18:04
-- [[Hestia Criteria for Outpatient Pulmonary Embolism Treatment]] date: 2023-01-11 18:04
+- [[Cockcroft-Gault formula]] date: 2023-01-11 18:03
+- [[Hestia Criteria for Outpatient Pulmonary Embolism Treatment]] date: 2023-01-11 18:03
 - [[surgical issues]] date: 2023-01-11 17:54
 - [[radiology]] date: 2023-01-11 17:53
 - [[其他科]] date: 2023-01-11 17:53
@@ -1303,62 +1350,61 @@ enableToc: false
 - [[Secondary causes of headaches]] date: 2023-01-11 17:10
 - [[Primary headache syndromes]] date: 2023-01-11 17:10
 - [[headaches from symptom to diagnosis]] date: 2023-01-11 17:10
-- [[Liddle’s syndrome]] date: 2023-01-10 17:00
-- [[epithelial sodium channel - ENaC]] date: 2023-01-10 16:59
-- [[licorice]] date: 2023-01-10 16:54
-- [[Renal potassium losses]] date: 2023-01-10 16:49
-- [[other-Secondary Causes of Hypertension]] date: 2023-01-10 16:48
-- [[metabolic-alkalosis]] date: 2023-01-10 16:43
-- [[Etiologies-of-Metabolic-Alkalosis]] date: 2023-01-10 13:46
+- [[Liddle’s syndrome]] date: 2023-01-11 16:49
+- [[licorice]] date: 2023-01-11 16:49
+- [[epithelial sodium channel - ENaC]] date: 2023-01-11 16:49
+- [[Renal potassium losses]] date: 2023-01-11 16:48
+- [[Etiologies-of-Metabolic-Alkalosis]] date: 2023-01-11 16:48
+- [[other-Secondary Causes of Hypertension]] date: 2023-01-11 16:48
+- [[metabolic-alkalosis]] date: 2023-01-11 16:10
 - [[opportunistic infections]] date: 2023-01-10 00:04
-- [[Workup-acid-base disturbances]] date: 2023-01-09 23:28
-- [[valvular heart disease]] date: 2023-01-09 23:28
-- [[STEMI]] date: 2023-01-09 23:28
-- [[stable ischemic heart disease]] date: 2023-01-09 23:28
-- [[systemic therapy of breast cancer]] date: 2023-01-09 23:28
-- [[SCLC staging and treatment]] date: 2023-01-09 23:28
-- [[urothelial carcinoma]] date: 2023-01-09 23:28
-- [[thereis]] date: 2023-01-09 23:28
-- [[Treatment of Chronic HF with Reduced EF]] date: 2023-01-09 23:28
-- [[PD-L1]] date: 2023-01-09 23:28
-- [[prostate cancer]] date: 2023-01-09 23:28
-- [[pulmonary hypertension]] date: 2023-01-09 23:28
-- [[pneumonia]] date: 2023-01-09 23:28
-- [[POCUS]] date: 2023-01-09 23:28
-- [[renal-cell-carcinoma]] date: 2023-01-09 23:28
-- [[NSCLC Treatment]] date: 2023-01-09 23:27
-- [[noninvasive evaluation of CAD]] date: 2023-01-09 23:27
+- [[Workup-acid-base disturbances]] date: 2023-01-09 23:27
+- [[valvular heart disease]] date: 2023-01-09 23:27
+- [[urothelial carcinoma]] date: 2023-01-09 23:27
+- [[Treatment of Chronic HF with Reduced EF]] date: 2023-01-09 23:27
+- [[thereis]] date: 2023-01-09 23:27
+- [[systemic therapy of breast cancer]] date: 2023-01-09 23:27
+- [[STEMI]] date: 2023-01-09 23:27
+- [[stable ischemic heart disease]] date: 2023-01-09 23:27
+- [[SCLC staging and treatment]] date: 2023-01-09 23:27
+- [[renal-cell-carcinoma]] date: 2023-01-09 23:27
+- [[pulmonary hypertension]] date: 2023-01-09 23:27
+- [[prostate cancer]] date: 2023-01-09 23:27
+- [[pneumonia]] date: 2023-01-09 23:27
+- [[PD-L1]] date: 2023-01-09 23:27
+- [[pancytopenia]] date: 2023-01-09 23:27
 - [[PA catheter and tailored therapy]] date: 2023-01-09 23:27
 - [[other solid tumors]] date: 2023-01-09 23:27
-- [[pancytopenia]] date: 2023-01-09 23:27
 - [[NSTE-ACS]] date: 2023-01-09 23:27
-- [[lenvatinib]] date: 2023-01-09 23:27
+- [[NSCLC Treatment]] date: 2023-01-09 23:27
+- [[noninvasive evaluation of CAD]] date: 2023-01-09 23:27
+- [[nephrology copy]] date: 2023-01-09 23:27
+- [[mitral-regurgitation]] date: 2023-01-09 23:27
 - [[Microbiology-of-Pneumonia]] date: 2023-01-09 23:27
+- [[metastatic esophageal cancer]] date: 2023-01-09 23:27
 - [[metabolic-acidosis]] date: 2023-01-09 23:27
 - [[lung cancer]] date: 2023-01-09 23:27
-- [[nephrology copy]] date: 2023-01-09 23:27
-- [[metastatic esophageal cancer]] date: 2023-01-09 23:27
-- [[mitral-regurgitation]] date: 2023-01-09 23:27
+- [[lenvatinib]] date: 2023-01-09 23:27
 - [[JAMA 2021;325:962]] date: 2023-01-09 23:27
-- [[immunotherapy and cellular therapy]] date: 2023-01-09 23:27
 - [[intrathecal chemotherapy]] date: 2023-01-09 23:27
 - [[interstitial lung disease]] date: 2023-01-09 23:27
+- [[immunotherapy and cellular therapy]] date: 2023-01-09 23:27
 - [[hyponatremia]] date: 2023-01-09 23:27
 - [[hepatocellular carcinoma]] date: 2023-01-09 23:27
-- [[Gastroesophageal varices and UGIB-cirrhosis]] date: 2023-01-09 23:27
-- [[Fibrinolysis vs  Hospital Transfer for Primary PCI]] date: 2023-01-09 23:27
 - [[heart failure]] date: 2023-01-09 23:27
 - [[genitourinary malignancies]] date: 2023-01-09 23:27
+- [[Gastroesophageal varices and UGIB-cirrhosis]] date: 2023-01-09 23:27
+- [[Fibrinolysis vs  Hospital Transfer for Primary PCI]] date: 2023-01-09 23:27
 - [[est zettel]] date: 2023-01-09 23:27
-- [[Diabetic Foot Infection]] date: 2023-01-09 23:27
-- [[Diagnostic studies acute coronary syndromes]] date: 2023-01-09 23:27
-- [[Diagnostic studies-mitral-stenosis]] date: 2023-01-09 23:27
 - [[esophageal cancer]] date: 2023-01-09 23:27
+- [[Diagnostic studies-mitral-stenosis]] date: 2023-01-09 23:27
+- [[Diagnostic studies acute coronary syndromes]] date: 2023-01-09 23:27
+- [[Diabetic Foot Infection]] date: 2023-01-09 23:27
 - [[colorectal cancer]] date: 2023-01-09 23:27
 - [[Chest Discomfort]] date: 2023-01-09 23:27
 - [[breast cancer]] date: 2023-01-09 23:27
-- [[aortic-stenosis]] date: 2023-01-09 23:27
 - [[atezolizumab]] date: 2023-01-09 23:27
+- [[aortic-stenosis]] date: 2023-01-09 23:27
 - [[aortic-regurgitation]] date: 2023-01-09 23:27
 - [[acute coronary syndromes]] date: 2023-01-09 23:27
 - [[ACLS]] date: 2023-01-09 23:27
@@ -1366,1379 +1412,1362 @@ enableToc: false
 - [[peripheral artery disease]] date: 2023-01-09 23:18
 - [[Diagnosis-peripheral artery disease]] date: 2023-01-09 23:18
 - [[Clinical features-peripheral artery disease]] date: 2023-01-09 23:18
+- [[rapid progressive glomerulonephritis (RPGN)]] date: 2023-01-09 23:01
+- [[Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
+- [[non- nucleoside reverse transcriptase inhibitor-NNRTI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
+- [[Signs and Symptoms of Uremia -chronic kidney disease (CKD)]] date: 2023-01-09 23:01
+- [[Hereditary spherocytosis (HS) ]] date: 2023-01-09 23:01
+- [[Hepatorenal syndrome (HRS)]] date: 2023-01-09 23:01
+- [[Hepatopulmonary syndrome (HPS)]] date: 2023-01-09 23:01
+- [[acute kidney injury (AKI)]] date: 2023-01-09 23:01
+- [[Idiopathic interstitial pneumonias (IIPs)]] date: 2023-01-09 23:01
+- [[Primary biliary cholangitis (PBC)]] date: 2023-01-09 23:01
+- [[coronavirus (covid-19)]] date: 2023-01-09 23:01
+- [[Treatment-Primary sclerosing cholangitis (PSC)]] date: 2023-01-09 23:01
+- [[Criteria-Hepatorenal syndrome (HRS)]] date: 2023-01-09 23:01
+- [[Early Goal-Directed Therapy (EGDT)]] date: 2023-01-09 23:01
+- [[wide-complex tachycardias (WCTS)]] date: 2023-01-09 23:01
+- [[Pneumocystis jiroveci (PCP) pneumonia]] date: 2023-01-09 23:01
+- [[pathogenesis of disseminated intravascular coagulation (DIC)]] date: 2023-01-09 23:01
+- [[Direct Oral Anticoagulants (DOACs) for NVAF]] date: 2023-01-09 23:01
+- [[Nonneutrocytic bacterascites (NNBA)]] date: 2023-01-09 23:01
+- [[Secondary immune thrombocytopenic purpura (2° ITP)]] date: 2023-01-09 23:01
+- [[α1-antitrypsin deficiency (α1-AT)]] date: 2023-01-09 23:01
+- [[Managing complications-acute kidney injury (AKI)]] date: 2023-01-09 23:01
+- [[supraventricular tachycardias (SVTS)]] date: 2023-01-09 23:01
+- [[Coronary artery bypass grafting (CABG)-related MI]] date: 2023-01-09 23:01
+- [[Hemodialysis (HD)]] date: 2023-01-09 23:01
+- [[autoimmune hepatitis (AIH)]] date: 2023-01-09 23:01
+- [[entry inhibitors-EI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
+- [[General treatment-acute kidney injury (AKI)]] date: 2023-01-09 23:01
+- [[von Willebrand’s disease (vWD)]] date: 2023-01-09 23:01
+- [[Treatment-Nonalcoholic fatty liver disease (NAFLD)]] date: 2023-01-09 23:01
+- [[Monomorphic ventricular tachycardia (MMVT)]] date: 2023-01-09 23:01
 - [[nonthyroidal illness (sick euthyroid syndrome) ]] date: 2023-01-09 23:01
-- [[Polymorphic ventricular tachycardia (PMVT)]] date: 2023-01-09 23:01
-- [[Transjugular intrahepatic portosystemic shunt (TIPS)]] date: 2023-01-09 23:01
-- [[nucleoside reverse transcriptase inhibitor NRTI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
 - [[Portal vein thrombosis (PVT) ]] date: 2023-01-09 23:01
 - [[Extrarenal H2O loss (Uosm >700–800)]] date: 2023-01-09 23:01
-- [[entry inhibitors-EI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
-- [[rapid progressive glomerulonephritis (RPGN)]] date: 2023-01-09 23:01
-- [[Fourth Universal Definition of Myocardial Infarction (2018)]] date: 2023-01-09 23:01
+- [[Tachycardia-bradycardia (“tachy-brady”) syndrome]] date: 2023-01-09 23:01
+- [[Definition-acute kidney injury (AKI)]] date: 2023-01-09 23:01
+- [[Primary immune thrombocytopenic purpura (ITP) ]] date: 2023-01-09 23:01
+- [[Pulmonary infiltrates with eosinophilia (PIE)]] date: 2023-01-09 23:01
+- [[Diagnosis and treatment-autoimmune hepatitis (AIH) ]] date: 2023-01-09 23:01
+- [[Transjugular intrahepatic portosystemic shunt (TIPS)]] date: 2023-01-09 23:01
+- [[Rx-Primary biliary cholangitis (PBC)]] date: 2023-01-09 23:01
+- [[chronic kidney disease (CKD)]] date: 2023-01-09 23:01
+- [[Complications gastroesophageal reflux disease]] date: 2023-01-09 23:01
+- [[UIP usual interstitial PNA (IP)]] date: 2023-01-09 23:01
 - [[Treatment-accessory pathways (wolff-parkinson-white)]] date: 2023-01-09 23:01
+- [[Immune Complex (IC) Disease (granular staining) ]] date: 2023-01-09 23:01
+- [[Implantable cardiac defibrillator (ICD)]] date: 2023-01-09 23:01
+- [[Disseminated Mycobacterium avium complex (DMAC)]] date: 2023-01-09 23:01
+- [[Peritoneal dialysis (PD)]] date: 2023-01-09 23:01
+- [[Dx-Portal vein thrombosis (PVT)]] date: 2023-01-09 23:01
+- [[Workup-acute kidney injury (AKI)]] date: 2023-01-09 23:01
 - [[Primary sclerosing cholangitis (PSC)]] date: 2023-01-09 23:01
 - [[Renal H2O loss (Uosm <700–800)]] date: 2023-01-09 23:01
-- [[Immune Complex (IC) Disease (granular staining) ]] date: 2023-01-09 23:01
-- [[Hepatorenal syndrome (HRS)]] date: 2023-01-09 23:01
-- [[Rx-Primary biliary cholangitis (PBC)]] date: 2023-01-09 23:01
-- [[Hepatic encephalopathy (HE)]] date: 2023-01-09 23:01
-- [[Primary immune thrombocytopenic purpura (ITP) ]] date: 2023-01-09 23:01
-- [[Implantable cardiac defibrillator (ICD)]] date: 2023-01-09 23:01
-- [[Primary biliary cholangitis (PBC)]] date: 2023-01-09 23:01
-- [[von Willebrand’s disease (vWD)]] date: 2023-01-09 23:01
-- [[Treatment-Hepatorenal syndrome (HRS)]] date: 2023-01-09 23:01
-- [[Disseminated Mycobacterium avium complex (DMAC)]] date: 2023-01-09 23:01
-- [[α1-antitrypsin deficiency (α1-AT)]] date: 2023-01-09 23:01
-- [[Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia]] date: 2023-01-09 23:01
-- [[Signs and Symptoms of Uremia -chronic kidney disease (CKD)]] date: 2023-01-09 23:01
-- [[Workup-acute kidney injury (AKI)]] date: 2023-01-09 23:01
-- [[Managing complications-acute kidney injury (AKI)]] date: 2023-01-09 23:01
-- [[Monomorphic ventricular tachycardia (MMVT)]] date: 2023-01-09 23:01
-- [[Hemodialysis (HD)]] date: 2023-01-09 23:01
-- [[Nonalcoholic fatty liver disease (NAFLD)]] date: 2023-01-09 23:01
-- [[pathogenesis of disseminated intravascular coagulation (DIC)]] date: 2023-01-09 23:01
-- [[protease inhibitors - PI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
-- [[Tachycardia-bradycardia (“tachy-brady”) syndrome]] date: 2023-01-09 23:01
-- [[Treatment-Nonalcoholic fatty liver disease (NAFLD)]] date: 2023-01-09 23:01
-- [[General treatment-acute kidney injury (AKI)]] date: 2023-01-09 23:01
-- [[non- nucleoside reverse transcriptase inhibitor-NNRTI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
-- [[Treatment-Primary sclerosing cholangitis (PSC)]] date: 2023-01-09 23:01
-- [[Pneumocystis jiroveci (PCP) pneumonia]] date: 2023-01-09 23:01
-- [[Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve(s)]] date: 2023-01-09 23:01
-- [[Treatment-Portal vein thrombosis (PVT)]] date: 2023-01-09 23:01
-- [[Etiologies-wide-complex tachycardias (WCTS)]] date: 2023-01-09 23:01
-- [[immune complex (IC)–associated small-vessel vasculitis]] date: 2023-01-09 23:01
-- [[UIP usual interstitial PNA (IP)]] date: 2023-01-09 23:01
-- [[Secondary immune thrombocytopenic purpura (2° ITP)]] date: 2023-01-09 23:01
-- [[Type of Idiopathic interstitial pneumonias (IIPs)]] date: 2023-01-09 23:01
-- [[wide-complex tachycardias (WCTS)]] date: 2023-01-09 23:01
-- [[Nonneutrocytic bacterascites (NNBA)]] date: 2023-01-09 23:01
-- [[Early Goal-Directed Therapy (EGDT)]] date: 2023-01-09 23:01
-- [[Direct Oral Anticoagulants (DOACs) for NVAF]] date: 2023-01-09 23:01
-- [[Definitions-accessory pathways (wolff-parkinson-white)]] date: 2023-01-09 23:01
-- [[Dx-Portal vein thrombosis (PVT)]] date: 2023-01-09 23:01
-- [[Disseminated intravascular coagulation (DIC)]] date: 2023-01-09 23:01
-- [[Diagnosis and treatment-autoimmune hepatitis (AIH) ]] date: 2023-01-09 23:01
-- [[coronavirus (covid-19)]] date: 2023-01-09 23:01
-- [[Clinical manifestations-Portal vein thrombosis (PVT)]] date: 2023-01-09 23:01
-- [[Definition-acute kidney injury (AKI)]] date: 2023-01-09 23:01
-- [[chronic kidney disease (CKD)]] date: 2023-01-09 23:01
-- [[Coronary artery bypass grafting (CABG)-related MI]] date: 2023-01-09 23:01
-- [[integrase strand transfer inhibitor-INSTI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
-- [[Criteria-Hepatorenal syndrome (HRS)]] date: 2023-01-09 23:01
-- [[Complications gastroesophageal reflux disease]] date: 2023-01-09 23:01
-- [[Continuous veno-venous hemofiltration (CVVH)]] date: 2023-01-09 23:01
-- [[Classification-autoimmune hepatitis (AIH)]] date: 2023-01-09 23:01
-- [[Definition and etiologies-chronic kidney disease (CKD)]] date: 2023-01-09 23:01
-- [[Cardiac resynch therapy (CRT) Biventricular (BiV) pacing]] date: 2023-01-09 23:01
-- [[Complications-treatment-chronic kidney disease (CKD)]] date: 2023-01-09 23:01
-- [[Ascites fluid total protein (AFTP)]] date: 2023-01-09 23:01
-- [[autoimmune hepatitis (AIH)]] date: 2023-01-09 23:01
-- [[Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
 - [[Antiarrhythmic Drugs (AAD) for AF]] date: 2023-01-09 23:01
+- [[Periprocedural “Bridging” of Anticoagulation in Pts with Mechanical Valve(s)]] date: 2023-01-09 23:01
+- [[Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia]] date: 2023-01-09 23:01
+- [[integrase strand transfer inhibitor-INSTI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
+- [[Classification-autoimmune hepatitis (AIH)]] date: 2023-01-09 23:01
+- [[Ascites fluid total protein (AFTP)]] date: 2023-01-09 23:01
+- [[protease inhibitors - PI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
+- [[Fourth Universal Definition of Myocardial Infarction (2018)]] date: 2023-01-09 23:01
+- [[Complications-treatment-chronic kidney disease (CKD)]] date: 2023-01-09 23:01
 - [[AIP acute IP (Hamman-Rich syndrome)]] date: 2023-01-09 23:01
+- [[Treatment-Hepatorenal syndrome (HRS)]] date: 2023-01-09 23:01
+- [[Disseminated intravascular coagulation (DIC)]] date: 2023-01-09 23:01
+- [[Treatment-Portal vein thrombosis (PVT)]] date: 2023-01-09 23:01
+- [[Type of Idiopathic interstitial pneumonias (IIPs)]] date: 2023-01-09 23:01
+- [[hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens]] date: 2023-01-09 23:01
+- [[Definitions-accessory pathways (wolff-parkinson-white)]] date: 2023-01-09 23:01
+- [[Portopulmonary hypertension (POPH)]] date: 2023-01-09 23:01
+- [[Definition and etiologies-chronic kidney disease (CKD)]] date: 2023-01-09 23:01
 - [[accessory pathways (wolff-parkinson-white)]] date: 2023-01-09 23:01
-- [[acute kidney injury (AKI)]] date: 2023-01-09 23:01
 - [[Acute tubular necrosis (ATN)]] date: 2023-01-09 23:01
 - [[Long-term management-wide-complex tachycardias (WCTS)]] date: 2023-01-09 23:01
-- [[Idiopathic interstitial pneumonias (IIPs)]] date: 2023-01-09 23:01
-- [[Peritoneal dialysis (PD)]] date: 2023-01-09 23:01
-- [[Hereditary spherocytosis (HS) ]] date: 2023-01-09 23:01
-- [[hepatitis C virus recommended First-Line Oral Direct-Acting Antiviral (DAA) Regimens]] date: 2023-01-09 23:01
-- [[Pulmonary infiltrates with eosinophilia (PIE)]] date: 2023-01-09 23:01
-- [[Hepatopulmonary syndrome (HPS)]] date: 2023-01-09 23:01
-- [[Portopulmonary hypertension (POPH)]] date: 2023-01-09 23:01
-- [[supraventricular tachycardias (SVTS)]] date: 2023-01-09 23:01
+- [[Clinical manifestations-Portal vein thrombosis (PVT)]] date: 2023-01-09 23:01
 - [[Other (Uosm >700–800)]] date: 2023-01-09 23:01
+- [[Cardiac resynch therapy (CRT) Biventricular (BiV) pacing]] date: 2023-01-09 23:01
+- [[Nonalcoholic fatty liver disease (NAFLD)]] date: 2023-01-09 23:01
+- [[immune complex (IC)–associated small-vessel vasculitis]] date: 2023-01-09 23:01
+- [[Continuous veno-venous hemofiltration (CVVH)]] date: 2023-01-09 23:01
+- [[Etiologies-wide-complex tachycardias (WCTS)]] date: 2023-01-09 23:01
+- [[Hepatic encephalopathy (HE)]] date: 2023-01-09 23:01
+- [[nucleoside reverse transcriptase inhibitor NRTI-Antiretrovirals (ARVs)]] date: 2023-01-09 23:01
+- [[Polymorphic ventricular tachycardia (PMVT)]] date: 2023-01-09 23:01
 - [[bevacizumab]] date: 2023-01-09 22:58
 - [[inpatient diabetes management]] date: 2023-01-09 22:47
-- [[spondyloarthritis]] date: 2023-01-09 22:46
-- [[neurofibroma]] date: 2023-01-09 22:46
-- [[Etiologies of spinal cord compression]] date: 2023-01-09 22:46
-- [[Conservative therapy of nerve root compression]] date: 2023-01-09 22:46
-- [[Evaluation and treatment of nerve root compression]] date: 2023-01-09 22:46
-- [[sciatica]] date: 2023-01-09 22:46
-- [[Vascular Claudication]] date: 2023-01-09 22:46
-- [[neurogenic claudication]] date: 2023-01-09 22:46
-- [[Pathophysiology of nerve root compression]] date: 2023-01-09 22:46
-- [[Evaluation and treatment of spinal cord compression]] date: 2023-01-09 22:46
-- [[spinal cord compression]] date: 2023-01-09 22:46
 - [[Laboratory of back and spinal cord disease]] date: 2023-01-09 22:46
-- [[referred pain from visceral disease of back pain]] date: 2023-01-09 22:46
-- [[Musculoskeletal ddx of back pain]] date: 2023-01-09 22:46
-- [[straight leg raise]] date: 2023-01-09 22:46
-- [[Neuro exam of back and spinal cord disease]] date: 2023-01-09 22:46
+- [[neurogenic claudication]] date: 2023-01-09 22:46
+- [[spondyloarthritis]] date: 2023-01-09 22:46
 - [[spurling sign]] date: 2023-01-09 22:46
-- [[screening and health maintenance]] date: 2023-01-09 22:46
-- [[vim append]] date: 2023-01-09 22:46
-- [[adult-onset Still’s disease ]] date: 2023-01-09 22:46
-- [[rheumatoid arthritis]] date: 2023-01-09 22:46
-- [[brother]] date: 2023-01-09 22:46
-- [[Duty note of hypokalemia]] date: 2023-01-09 22:46
-- [[History taking of back and spinal cord disease]] date: 2023-01-09 22:46
 - [[approach to rheumatic disease]] date: 2023-01-09 22:46
-- [[BufNewFile]] date: 2023-01-09 22:39
-- [[nerve root compression]] date: 2023-01-09 22:39
-- [[mother]] date: 2023-01-09 22:39
+- [[Evaluation and treatment of spinal cord compression]] date: 2023-01-09 22:46
+- [[History taking of back and spinal cord disease]] date: 2023-01-09 22:46
+- [[referred pain from visceral disease of back pain]] date: 2023-01-09 22:46
+- [[Etiologies of spinal cord compression]] date: 2023-01-09 22:46
+- [[straight leg raise]] date: 2023-01-09 22:46
+- [[Pathophysiology of nerve root compression]] date: 2023-01-09 22:46
+- [[sciatica]] date: 2023-01-09 22:46
+- [[vim append]] date: 2023-01-09 22:46
+- [[Musculoskeletal ddx of back pain]] date: 2023-01-09 22:46
+- [[Neuro exam of back and spinal cord disease]] date: 2023-01-09 22:46
+- [[rheumatoid arthritis]] date: 2023-01-09 22:46
+- [[Evaluation and treatment of nerve root compression]] date: 2023-01-09 22:46
+- [[Duty note of hypokalemia]] date: 2023-01-09 22:46
+- [[screening and health maintenance]] date: 2023-01-09 22:46
+- [[spinal cord compression]] date: 2023-01-09 22:46
+- [[brother]] date: 2023-01-09 22:46
+- [[Vascular Claudication]] date: 2023-01-09 22:46
+- [[neurofibroma]] date: 2023-01-09 22:46
+- [[Conservative therapy of nerve root compression]] date: 2023-01-09 22:46
+- [[adult-onset Still’s disease ]] date: 2023-01-09 22:46
 - [[Prinzmetal s variant angina]] date: 2023-01-09 22:39
+- [[BufNewFile]] date: 2023-01-09 22:39
+- [[mother]] date: 2023-01-09 22:39
+- [[nerve root compression]] date: 2023-01-09 22:39
 - [[acid-base abnormalities]] date: 2023-01-09 22:37
-- [[Treatment of acute advanced heart failure]] date: 2023-01-09 16:41
-- [[Etiologies of Decreased Responsiveness]] date: 2023-01-09 16:31
-- [[Consciousness Arousal]] date: 2023-01-09 16:30
-- [[change]] date: 2023-01-09 16:27
-- [[change in mental status]] date: 2023-01-09 16:26
-- [[Anemia of chronic inflammation ]] date: 2023-01-09 14:20
-- [[Treatment of Hyperkalemia-hyperkalemia]] date: 2023-01-09 14:19
-- [[orphan]] date: 2023-01-09 14:13
+- [[Consciousness Arousal]] date: 2023-01-09 18:58
+- [[change]] date: 2023-01-09 18:58
+- [[Treatment of acute advanced heart failure]] date: 2023-01-09 18:58
+- [[Etiologies of Decreased Responsiveness]] date: 2023-01-09 18:58
+- [[orphan]] date: 2023-01-09 18:58
+- [[change in mental status]] date: 2023-01-09 18:58
+- [[Anemia of chronic inflammation ]] date: 2023-01-09 18:58
+- [[Treatment of Hyperkalemia-hyperkalemia]] date: 2023-01-09 18:58
 - [[cardiac risk assessment for noncardiac surgery]] date: 2023-01-09 00:43
 - [[stable]] date: 2023-01-09 00:38
 - [[coronary]] date: 2023-01-09 00:38
 - [[chest]] date: 2023-01-09 00:38
-- [[Sickle cell anemia ]] date: 2023-01-09 00:36
-- [[mechanisms of hypophosphatemia]] date: 2023-01-09 00:36
-- [[KEYNOTE-181]] date: 2023-01-09 00:36
-- [[Treatment-hyperthyroidism]] date: 2023-01-09 00:36
-- [[Giant cell arteritis]] date: 2023-01-09 00:36
-- [[Microbiology in Bacterial Meningitis]] date: 2023-01-09 00:36
-- [[typical electrocardiogram in a patient with acute pericarditis]] date: 2023-01-09 00:36
-- [[hyperthyroidism]] date: 2023-01-09 00:36
-- [[Synthesis and Metabolism of Vitamin D]] date: 2023-01-09 00:36
-- [[Role of Circulating Tumor DNA in Guiding Adjuvant Therapy in Colon Cancer]] date: 2023-01-09 00:36
-- [[Factitious disorder]] date: 2023-01-09 00:36
-- [[Mount-Sinai-Expert-Guides]] date: 2023-01-09 00:36
-- [[Lennox Gastaut Syndrome]] date: 2023-01-09 00:36
-- [[Sequential management of bacterial meningitis]] date: 2023-01-09 00:36
-- [[Other diagnostic studies-syncope]] date: 2023-01-09 00:36
-- [[Takayasu’s arteritis]] date: 2023-01-09 00:36
-- [[Revascularization]] date: 2023-01-09 00:36
-- [[Pathophysiology-metabolic-alkalosis]] date: 2023-01-09 00:36
-- [[Washington Manual Thyroid Disorders]] date: 2023-01-09 00:36
-- [[PART 1 The Profession of Medicine]] date: 2023-01-09 00:36
-- [[Vasoactive Agents as Treatment-pulmonary hypertension]] date: 2023-01-09 00:36
-- [[Treatment of hypertrophic cardiomyopathy]] date: 2023-01-09 00:36
-- [[Hepatitis C]] date: 2023-01-09 00:36
-- [[vitamin D replacement]] date: 2023-01-09 00:36
-- [[Nonspecific Low Back Pain - Annotations (8122022, 123726 AM)]] date: 2023-01-09 00:36
-- [[Medical Therapy of Ulcerative Colitis]] date: 2023-01-09 00:36
-- [[What are the most commonly encountered fever patterns]] date: 2023-01-09 00:36
-- [[lung transplant]] date: 2023-01-09 00:36
-- [[Treatment-pulmonary hypertension]] date: 2023-01-09 00:36
-- [[Etiologies of Hypercalcemia]] date: 2023-01-09 00:36
-- [[Pharmacologic options-Treatment-hypertension]] date: 2023-01-09 00:36
-- [[laryngoscopy and confirmation of placement]] date: 2023-01-09 00:36
-- [[Shock]] date: 2023-01-09 00:36
-- [[Stepwise Evaluation of a Patient with Delirium]] date: 2023-01-09 00:36
-- [[Laboratory Findings in Calcium Disorders]] date: 2023-01-09 00:36
-- [[Overview-immunotherapy and cellular therapy]] date: 2023-01-09 00:36
-- [[Staging of breast cancer]] date: 2023-01-09 00:36
-- [[Workup-syncope]] date: 2023-01-09 00:36
-- [[TAVI]] date: 2023-01-09 00:36
-- [[Tailored therapy in cardiogenic shock ]] date: 2023-01-09 00:36
-- [[viral respiratory infections]] date: 2023-01-09 00:36
-- [[Renal tubular acidoses]] date: 2023-01-09 00:36
-- [[Etiologies-pulmonary hypertension]] date: 2023-01-09 00:36
-- [[Treatment-acute pancreatitis]] date: 2023-01-09 00:36
-- [[valve-replacement]] date: 2023-01-09 00:35
-- [[Weaning from Mechanical Ventilation]] date: 2023-01-09 00:35
-- [[Secondary hyperPTH]] date: 2023-01-09 00:35
-- [[Evaluation-asthma-EXACERBATION]] date: 2023-01-09 00:35
-- [[Treatment-diverticulitis]] date: 2023-01-09 00:35
-- [[Treatment-aortic aneurysms]] date: 2023-01-09 00:35
-- [[Treatment-pleural effusion]] date: 2023-01-09 00:35
-- [[Other Complication-cirrhosis]] date: 2023-01-09 00:35
-- [[Specialized Diagnostic Tests in Thyroid Disorders]] date: 2023-01-09 00:35
-- [[Iron deficiency]] date: 2023-01-09 00:35
-- [[Treatment of Granulomatosis with polyangiitis]] date: 2023-01-09 00:35
-- [[Treatment of latent TB]] date: 2023-01-09 00:35
-- [[treatment of peptic ulcer disease]] date: 2023-01-09 00:35
-- [[Vitamin B12 deficiency]] date: 2023-01-09 00:35
-- [[Exposure-interstitial lung disease]] date: 2023-01-09 00:35
-- [[Normal GFR but with ↓ renal K excretion-hyperkalemia]] date: 2023-01-09 00:35
-- [[Workup-hyperkalemia]] date: 2023-01-09 00:35
-- [[Treatment peptic ulcer disease ]] date: 2023-01-09 00:35
-- [[Initial treatment-clostridioides difficile infection ]] date: 2023-01-09 00:35
-- [[Workup-for-AG-metabolic-acidosis]] date: 2023-01-09 00:35
-- [[Etiologies-Aplastic anemia]] date: 2023-01-09 00:35
-- [[Fever workup in patient with HIV AIDS]] date: 2023-01-09 00:35
-- [[Treatment gastroesophageal reflux disease]] date: 2023-01-09 00:35
-- [[The Confusion Assessment Method]] date: 2023-01-09 00:35
-- [[Pseudoinfarct]] date: 2023-01-09 00:35
-- [[Pembrolizumab plus Chemotherapy in Metastatic Non–Small-Cell Lung Cancer]] date: 2023-01-09 00:35
-- [[Exudates]] date: 2023-01-09 00:35
-- [[OpenAIDemo]] date: 2023-01-09 00:35
-- [[interpretation of serum calcium]] date: 2023-01-09 00:35
-- [[Treatment of pericarditis]] date: 2023-01-09 00:35
-- [[Medical Therapy of Crohn’s Disease]] date: 2023-01-09 00:35
-- [[equipment of airway-management]] date: 2023-01-09 00:35
-- [[Treatment-hypocalcemia]] date: 2023-01-09 00:35
-- [[Etiologies of Hypocalcemia]] date: 2023-01-09 00:35
-- [[ischemic colitis]] date: 2023-01-09 00:35
-- [[Sideroblastic anemia]] date: 2023-01-09 00:35
-- [[oxygenation]] date: 2023-01-09 00:35
-- [[irAE]] date: 2023-01-09 00:35
-- [[how the human body breathes]] date: 2023-01-09 00:35
-- [[Fungal diagnostics]] date: 2023-01-09 00:35
-- [[Physical Exam Secret]] date: 2023-01-09 00:35
-- [[Oral anticoagulation-atrial fibrillation]] date: 2023-01-09 00:35
-- [[Vascular Beds Affected by Inherited and Acquired Hypercoagulable States]] date: 2023-01-09 00:35
-- [[ER PR]] date: 2023-01-09 00:35
-- [[Sarcoidosis]] date: 2023-01-09 00:35
-- [[Etiologies-syncope]] date: 2023-01-09 00:35
-- [[Urine Sediment]] date: 2023-01-09 00:35
-- [[Hyperprolactinemia]] date: 2023-01-09 00:35
-- [[Heparin-Induced Thrombocytopenias]] date: 2023-01-09 00:35
-- [[Parathyroid MIBI Scan]] date: 2023-01-09 00:35
-- [[Physical exam heart failure]] date: 2023-01-09 00:35
-- [[Microbiology-skin and soft tissue infections]] date: 2023-01-09 00:35
-- [[Physical-exam-mitral-regurgitation]] date: 2023-01-09 00:35
-- [[Immunotherapies-asthma]] date: 2023-01-09 00:35
-- [[Management-acute liver failure]] date: 2023-01-09 00:35
-- [[Etiologies of Acute Pericarditis]] date: 2023-01-09 00:35
-- [[Left-ventricular-hypertrophy]] date: 2023-01-09 00:35
-- [[When to suspect migraine]] date: 2023-01-09 00:35
-- [[Thalassemias]] date: 2023-01-09 00:35
-- [[Workup for non-AG metabolic acidosis]] date: 2023-01-09 00:35
-- [[Hemothroax]] date: 2023-01-09 00:35
-- [[Polyarteritis nodosa]] date: 2023-01-09 00:35
-- [[Treatment-cystic fibrosis]] date: 2023-01-09 00:35
-- [[Treatment of active tuberculosis]] date: 2023-01-09 00:35
-- [[Properties and Antidotes for Anticoagulants Fibrinolytics]] date: 2023-01-09 00:35
-- [[surgery and radiation for local control of breast cancer]] date: 2023-01-09 00:35
-- [[Physical exam-acute bacterial meningitis]] date: 2023-01-09 00:35
-- [[Other Post MI Complications]] date: 2023-01-09 00:35
-- [[Treatment acute diarrhea]] date: 2023-01-09 00:35
-- [[Neurologic Psychologic-complications of HIV AIDS]] date: 2023-01-09 00:35
-- [[Treatment-mitral-stenosis]] date: 2023-01-09 00:35
-- [[Heart failure with preserved EF]] date: 2023-01-09 00:35
-- [[Nonspecific Low Back Pain-metadata]] date: 2023-01-09 00:35
-- [[Screening of breast cancer]] date: 2023-01-09 00:35
-- [[Urine Dipstick]] date: 2023-01-09 00:35
-- [[Modalities-renal replacement and dialysis]] date: 2023-01-09 00:35
-- [[Treatment-hypertension]] date: 2023-01-09 00:35
-- [[lymphadenopathy]] date: 2023-01-09 00:35
-- [[Use of 1,3-β-D-glucan in invasive fungal diseases in hematology patients]] date: 2023-01-09 00:35
-- [[Microscopic polyangiitis]] date: 2023-01-09 00:35
-- [[Treatment-acute aortic syndromes]] date: 2023-01-09 00:35
-- [[Test-results-noninvasive evaluation of CAD]] date: 2023-01-09 00:35
-- [[polyps]] date: 2023-01-09 00:35
-- [[Initial evaluation  diagnostic studies-acute aortic syndromes]] date: 2023-01-09 00:35
-- [[Treatment-sexually transmitted infections]] date: 2023-01-09 00:35
-- [[Initial evaluation of change in mental status]] date: 2023-01-09 00:35
-- [[Specific gravity of Urine Dipstick]] date: 2023-01-09 00:35
-- [[phosphate replacement therapies]] date: 2023-01-09 00:35
-- [[Modification to initial antibiotic regimen based on site-specific evaluation of fever and neutropenia]] date: 2023-01-09 00:35
-- [[The Effect of Advances in Lung-Cancer Treatment on Population Mortality]] date: 2023-01-09 00:35
-- [[Treatment-pneumonia]] date: 2023-01-09 00:35
-- [[Microbiology-necrotizing soft-tissue infections]] date: 2023-01-09 00:35
-- [[Transudate vs exudate]] date: 2023-01-09 00:35
-- [[Recommended Chronic Therapy by HF Stage]] date: 2023-01-09 00:35
-- [[Types of stones and risk factors]] date: 2023-01-09 00:35
-- [[hematuria]] date: 2023-01-09 00:35
-- [[general approach to treatment of breast cancer]] date: 2023-01-09 00:35
-- [[Methotrexate]] date: 2023-01-09 00:35
-- [[Pathophysiology-hyponatremia]] date: 2023-01-09 00:35
-- [[polyuria]] date: 2023-01-09 00:35
-- [[ketamine]] date: 2023-01-09 00:35
-- [[epidural abscess]] date: 2023-01-09 00:35
-- [[setup]] date: 2023-01-09 00:35
-- [[Etiologies-encephalitis]] date: 2023-01-09 00:35
-- [[Treatment of SVT]] date: 2023-01-09 00:35
-- [[Glasgow-Blatchford]] date: 2023-01-09 00:35
-- [[Etiologies-acute pancreatitis]] date: 2023-01-09 00:35
-- [[Measurements-lipid disorders]] date: 2023-01-09 00:35
-- [[Standard workup-hypertension]] date: 2023-01-09 00:35
-- [[Outpatient screening and treatment goals-diabetes mellitus]] date: 2023-01-09 00:35
-- [[Optimal-medical-therapy-stable ischemic heart disease]] date: 2023-01-09 00:35
-- [[Troponin]] date: 2023-01-09 00:35
-- [[Etiologies-adrenal insufficiency]] date: 2023-01-09 00:35
-- [[Region or Exposure Common Etiologies -fever in a returned traveler]] date: 2023-01-09 00:35
-- [[preoxygenation]] date: 2023-01-09 00:35
-- [[Initial workup-bronchiectasis]] date: 2023-01-09 00:35
-- [[hypotension]] date: 2023-01-09 00:35
-- [[Rationale PA catheter and tailored therapy]] date: 2023-01-09 00:35
-- [[Overview-potassium homeostasis]] date: 2023-01-09 00:35
-- [[Pathophysiology of hypertrophic cardiomyopathy]] date: 2023-01-09 00:35
-- [[Pathology pathogenesis esophageal cancer]] date: 2023-01-09 00:35
-- [[Treatment-aortic-regurgitation]] date: 2023-01-09 00:35
-- [[Treatment-mitral-regurgitation]] date: 2023-01-09 00:35
-- [[Patterns of LFTs]] date: 2023-01-09 00:35
-- [[Physical-exam-aortic-stenosis]] date: 2023-01-09 00:35
-- [[Variable and Possible Etiology-fever and rash]] date: 2023-01-09 00:35
-- [[Malignancy workup-adrenal incidentalomas]] date: 2023-01-09 00:35
-- [[Physical exam-bacterial endocarditis]] date: 2023-01-09 00:35
-- [[Treatment of Constipation]] date: 2023-01-09 00:35
-- [[Rate Control-atrial fibrillation]] date: 2023-01-09 00:35
-- [[Etiologies-aseptic meningitis]] date: 2023-01-09 00:35
-- [[Screening for latent TB]] date: 2023-01-09 00:35
-- [[Etiologies of Non-AG Metabolic Acidosis]] date: 2023-01-09 00:35
-- [[Physical exam-pericarditis and pericardial effusion]] date: 2023-01-09 00:35
-- [[hypertensive crises]] date: 2023-01-09 00:35
-- [[Ommaya]] date: 2023-01-09 00:35
-- [[treatment of acute decompensating heart failure]] date: 2023-01-09 00:35
-- [[Prophylaxis-HIV AIDS]] date: 2023-01-09 00:35
-- [[woman health]] date: 2023-01-09 00:35
-- [[Loop diuretics]] date: 2023-01-09 00:35
-- [[Select clinical manifestations-fever in a returned traveler]] date: 2023-01-09 00:35
-- [[Etiologies-cirrhosis]] date: 2023-01-09 00:35
-- [[Treatment for acute HBV]] date: 2023-01-09 00:35
-- [[Workup-fever in a returned traveler]] date: 2023-01-09 00:35
-- [[LV failure]] date: 2023-01-09 00:35
-- [[Treatment of Behçet’s syndrome]] date: 2023-01-09 00:35
-- [[Physical exam-pericardial tamponade]] date: 2023-01-09 00:35
-- [[Hematologic oncologic-complications of HIV AIDS]] date: 2023-01-09 00:35
-- [[hypertrophic pulm osteoarthropathy]] date: 2023-01-09 00:35
-- [[vagal maneuvers]] date: 2023-01-09 00:35
-- [[Hepatitis A]] date: 2023-01-09 00:35
-- [[other names for vasculitides]] date: 2023-01-09 00:35
-- [[Likelihood of ACS  Circ 2007 116 e148  Circ 1994 90 1  613 22 ]] date: 2023-01-09 00:35
-- [[Treatment-hypertensive crises]] date: 2023-01-09 00:35
-- [[Hemochromatosis & iron overload syndromes]] date: 2023-01-09 00:35
-- [[Tests of hepatocellular injury or cholestasis]] date: 2023-01-09 00:35
-- [[Initial evaluation-management-inflammatory bowel disease]] date: 2023-01-09 00:35
-- [[Transudates]] date: 2023-01-09 00:35
-- [[Kidney transplantation]] date: 2023-01-09 00:35
-- [[JAMA review of hyponatremia]] date: 2023-01-09 00:35
-- [[Indications PA catheter and tailored therapy]] date: 2023-01-09 00:35
-- [[Evaluation of Suspected HIT]] date: 2023-01-09 00:35
-- [[Workup-cirrhosis]] date: 2023-01-09 00:35
-- [[respiratory-acidosis]] date: 2023-01-09 00:35
-- [[Localization of MI]] date: 2023-01-09 00:35
-- [[Excruciatingly Useful Shortcuts]] date: 2023-01-09 00:35
-- [[inflammatory bowel disease]] date: 2023-01-09 00:35
-- [[Tests of hepatic function]] date: 2023-01-09 00:35
-- [[Treatment-pericardial tamponade]] date: 2023-01-09 00:35
-- [[Workup for effusion]] date: 2023-01-09 00:35
-- [[IV Drugs for Hypertensive Crises]] date: 2023-01-09 00:35
-- [[Evaluation for the presence of heart failure]] date: 2023-01-09 00:35
-- [[Treatment of LDL-C]] date: 2023-01-09 00:35
-- [[Pathophysiology-pericardial tamponade]] date: 2023-01-09 00:35
-- [[Workup-of-hematuria]] date: 2023-01-09 00:35
-- [[Extrapulmonary TB]] date: 2023-01-09 00:35
-- [[Treatment of asymptomatic 1° HPT]] date: 2023-01-09 00:35
-- [[Pituitary tumors]] date: 2023-01-09 00:35
-- [[Etiologies-of-AG-Metabolic-Acidosis]] date: 2023-01-09 00:35
-- [[Hypersplenism]] date: 2023-01-09 00:35
-- [[Ingestions-caused-metabolic-acidosis]] date: 2023-01-09 00:35
-- [[Treatment-acute mesenteric ischemia]] date: 2023-01-09 00:35
-- [[Prognosis-cirrhosis]] date: 2023-01-09 00:35
-- [[workup-hyponatremia]] date: 2023-01-09 00:35
-- [[GI prophylaxis if taking ASA NSAID peptic ulcer disease.md]] date: 2023-01-09 00:35
-- [[Pathophysiology-gastroesophageal reflux disease]] date: 2023-01-09 00:35
-- [[Treatment-osteomyelitis]] date: 2023-01-09 00:35
-- [[Precipitants of acute heart failure]] date: 2023-01-09 00:35
-- [[Epidemiology-tuberculosis]] date: 2023-01-09 00:35
-- [[respiratory-alkalosis]] date: 2023-01-09 00:35
-- [[Etiologies-hypoglycemia]] date: 2023-01-09 00:35
-- [[Indications for Permanent Pacing]] date: 2023-01-09 00:35
-- [[Treatment of Migraine]] date: 2023-01-09 00:35
-- [[Treatment-Acetaminophen hepatotoxicity]] date: 2023-01-09 00:35
-- [[Treatment-cholangitis]] date: 2023-01-09 00:35
-- [[Microbiology and severity-diabetic foot infections]] date: 2023-01-09 00:35
-- [[Treatment-diabetic foot infections]] date: 2023-01-09 00:35
-- [[Imaging studies of acute pancreatitis]] date: 2023-01-09 00:35
-- [[IMI complications]] date: 2023-01-09 00:35
-- [[Multiple Endocrine Neoplasia]] date: 2023-01-09 00:35
-- [[Etiologies-hyperthyroidism]] date: 2023-01-09 00:35
-- [[hyaline casts]] date: 2023-01-09 00:35
-- [[Initial treatment details of asthma]] date: 2023-01-09 00:35
-- [[tension pneumocephalus]] date: 2023-01-09 00:35
-- [[Thyroid nodules]] date: 2023-01-09 00:35
-- [[Grading-of-Mitral-Stenosis]] date: 2023-01-09 00:35
-- [[Treatment-syncope]] date: 2023-01-09 00:35
-- [[Horner’s syndrome]] date: 2023-01-09 00:35
-- [[Zygomycetes]] date: 2023-01-09 00:35
-- [[Resistant HTN]] date: 2023-01-09 00:35
-- [[Principles of treatment-asthma]] date: 2023-01-09 00:35
-- [[Polymyalgia rheumatica]] date: 2023-01-09 00:35
-- [[Pathophysiology  risk factors -aortic aneurysms]] date: 2023-01-09 00:35
-- [[Treatment-anaphylaxis]] date: 2023-01-09 00:35
-- [[Milk-alkali syndrome]] date: 2023-01-09 00:35
-- [[Intracardiac pressures PA catheter and tailored therapy]] date: 2023-01-09 00:35
-- [[Indications for urgent dialysis]] date: 2023-01-09 00:35
-- [[Transfusion Complications]] date: 2023-01-09 00:35
-- [[head injury]] date: 2023-01-09 00:35
-- [[Pathophysiology-constrictive pericarditis]] date: 2023-01-09 00:35
-- [[Topiramate]] date: 2023-01-09 00:35
-- [[Stages of CKD]] date: 2023-01-09 00:35
-- [[Genital Lesions]] date: 2023-01-09 00:35
-- [[Recurrent infection-clostridioides difficile infection]] date: 2023-01-09 00:35
-- [[Evaluation in patients without diabetes- but have hypoglycemia]] date: 2023-01-09 00:35
-- [[Prognosis-syncope]] date: 2023-01-09 00:35
-- [[Myxedema coma]] date: 2023-01-09 00:35
-- [[Screening and Diagnosis-HIV AIDS]] date: 2023-01-09 00:35
-- [[Pathophysiology of diverticulitis]] date: 2023-01-09 00:35
-- [[PD-1 PD-L1 pathway]] date: 2023-01-09 00:35
-- [[Initial antibiotic therapy of fever and neutropenia]] date: 2023-01-09 00:35
-- [[TIMI Risk Score]] date: 2023-01-09 00:35
-- [[Indications for surgery-bacterial endocarditis]] date: 2023-01-09 00:35
-- [[Pulseless Arrest]] date: 2023-01-09 00:35
-- [[OI Prophylaxis-HIV AIDS]] date: 2023-01-09 00:35
-- [[Physical exam-cirrhosis]] date: 2023-01-09 00:35
-- [[Pathophysiology and microbiology of fever and neutropenia]] date: 2023-01-09 00:35
-- [[Folate deficiency]] date: 2023-01-09 00:35
-- [[Euvolemic-hypotonic-hyponatremia]] date: 2023-01-09 00:35
-- [[Mixed-disorders]] date: 2023-01-09 00:35
-- [[Treatment-cholelithiasis]] date: 2023-01-09 00:35
-- [[Mechanical complications]] date: 2023-01-09 00:35
-- [[Treatment of DKA]] date: 2023-01-09 00:35
-- [[Treatment of SIADH]] date: 2023-01-09 00:35
-- [[First-line or upfront therapy for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:35
-- [[Etiologies of Hematuria]] date: 2023-01-09 00:35
-- [[Hepatic hydrothorax]] date: 2023-01-09 00:35
-- [[positioning-airway-management]] date: 2023-01-09 00:35
-- [[neutrophilia]] date: 2023-01-09 00:35
-- [[Physical-exam-aortic-regurgitation]] date: 2023-01-09 00:35
-- [[mitral-valve-prolapse]] date: 2023-01-09 00:35
-- [[Major-risk-factor-modification-stable ischemic heart disease]] date: 2023-01-09 00:35
-- [[tricuspid-regurgitation]] date: 2023-01-09 00:35
-- [[Hepatitis B]] date: 2023-01-09 00:35
-- [[wide complex]] date: 2023-01-09 00:35
-- [[Paraneoplastic syndromes]] date: 2023-01-09 00:35
-- [[Treatment-hypernatremia]] date: 2023-01-09 00:35
-- [[type 2 MI]] date: 2023-01-09 00:35
-- [[Etiology-epidural abscess]] date: 2023-01-09 00:35
-- [[High-risk features-syncope]] date: 2023-01-09 00:35
-- [[Hemophilias]] date: 2023-01-09 00:35
-- [[Inherited Hypercoagulable States]] date: 2023-01-09 00:35
-- [[Paroxysmal nocturnal hemoglobinuria]] date: 2023-01-09 00:35
-- [[How does this thing work?]] date: 2023-01-09 00:35
-- [[Rhabdomyolysis]] date: 2023-01-09 00:35
-- [[Pathogenesis epidemiology-clostridioides difficile infection]] date: 2023-01-09 00:35
-- [[Pel-Ebstein fever]] date: 2023-01-09 00:35
-- [[Graves’ disease]] date: 2023-01-09 00:35
-- [[Wilson disease]] date: 2023-01-09 00:35
-- [[Treatment-polyuria]] date: 2023-01-09 00:35
-- [[Follow-up-aortic aneurysms]] date: 2023-01-09 00:35
-- [[Granulomatosis with polyangiitis]] date: 2023-01-09 00:35
-- [[Treatment of overt hypothyroidism]] date: 2023-01-09 00:35
-- [[Risk factors-acute aortic syndromes]] date: 2023-01-09 00:35
-- [[RASi ACEI ARB]] date: 2023-01-09 00:35
-- [[TaitaNo5]] date: 2023-01-09 00:35
-- [[Migraine with aura]] date: 2023-01-09 00:35
-- [[Workup of chronic diarrhea]] date: 2023-01-09 00:35
-- [[Treatment-hypokalemia]] date: 2023-01-09 00:35
-- [[Treatment-bronchiectasis]] date: 2023-01-09 00:35
-- [[Managing migraine in special populations]] date: 2023-01-09 00:35
-- [[hypercoagulable states]] date: 2023-01-09 00:35
-- [[Kawasaki disease]] date: 2023-01-09 00:35
-- [[Treatment-cholecystitis]] date: 2023-01-09 00:35
-- [[Markdownify]] date: 2023-01-09 00:35
-- [[toxicology]] date: 2023-01-09 00:35
-- [[Prognosis-pulmonary hypertension]] date: 2023-01-09 00:35
-- [[fever and neutropenia]] date: 2023-01-09 00:35
-- [[Principles of Imaging in Vasculitides]] date: 2023-01-09 00:35
-- [[K-sparing diuretics]] date: 2023-01-09 00:35
-- [[Types of gallstones-cholelithiasis]] date: 2023-01-09 00:35
-- [[Physical exam-mitral-stenosis]] date: 2023-01-09 00:35
-- [[General-renal replacement and dialysis]] date: 2023-01-09 00:35
-- [[Evaluation for the potential causes of heart failure]] date: 2023-01-09 00:35
-- [[Primary hyperparathyroidism]] date: 2023-01-09 00:35
-- [[Primary central nervous system vasculitis]] date: 2023-01-09 00:35
-- [[Genital Discharge]] date: 2023-01-09 00:35
-- [[Treatment-Vitamin B12 deficiency]] date: 2023-01-09 00:35
-- [[factitious fever]] date: 2023-01-09 00:35
-- [[GI prophylaxis if taking ASA and nonsteroidal anti-inflam drug]] date: 2023-01-09 00:35
-- [[Mechanisms-Loop diuretics]] date: 2023-01-09 00:35
-- [[Treatment and prognosis-Aplastic anemia]] date: 2023-01-09 00:35
-- [[Neuromuscular dysphagia]] date: 2023-01-09 00:35
-- [[prosthetic-heart-valves]] date: 2023-01-09 00:35
-- [[fever in a returned traveler]] date: 2023-01-09 00:35
-- [[Imaging-Diagnosis-osteomyelitis]] date: 2023-01-09 00:35
-- [[Replacement fluid of continuous veno-venous hemofiltration]] date: 2023-01-09 00:35
-- [[Second-line or maintainence therapy for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:35
-- [[Workup-acute liver failure]] date: 2023-01-09 00:35
-- [[Treatment-nephrotic syndrome]] date: 2023-01-09 00:35
-- [[Treatment-Anemia of chronic inflammation]] date: 2023-01-09 00:35
-- [[Workup-glomerulonephritis]] date: 2023-01-09 00:35
-- [[Family history of migraine]] date: 2023-01-09 00:35
-- [[Placement PA catheter and tailored therapy]] date: 2023-01-09 00:35
-- [[Treatment-glomerulonephritis]] date: 2023-01-09 00:35
-- [[Thiazide diuretics ]] date: 2023-01-09 00:35
-- [[physical findings may help identify the cause of a fever]] date: 2023-01-09 00:35
-- [[Prevention-Contrast-induced acute kidney injury]] date: 2023-01-09 00:35
-- [[Pacemaker Complications]] date: 2023-01-09 00:35
-- [[HER2]] date: 2023-01-09 00:35
-- [[Etiology-mitral-stenosis]] date: 2023-01-09 00:35
-- [[Treatment of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:35
-- [[Severity of Asthma Exacerbation]] date: 2023-01-09 00:35
-- [[hemolytic anemias]] date: 2023-01-09 00:35
-- [[Pathogenesis-cholecystitis]] date: 2023-01-09 00:35
-- [[Thoracentesis]] date: 2023-01-09 00:35
-- [[Hepatitis E]] date: 2023-01-09 00:35
-- [[SIADH]] date: 2023-01-09 00:35
-- [[Treatment-of-hyponatremia]] date: 2023-01-09 00:35
-- [[fever of unknown origin]] date: 2023-01-09 00:35
-- [[Oncology-related glomerulopathy]] date: 2023-01-09 00:35
-- [[skin and soft tissue infections]] date: 2023-01-09 00:35
-- [[Pathophysiology-diabetic ketoacidosis]] date: 2023-01-09 00:35
-- [[Thyroiditis]] date: 2023-01-09 00:35
-- [[Uremia]] date: 2023-01-09 00:35
-- [[management-inflammatory bowel disease]] date: 2023-01-09 00:35
-- [[Pathogenesis etiology-chronic pancreatitis]] date: 2023-01-09 00:35
-- [[When to treat chronic HBV with anti-virals]] date: 2023-01-09 00:35
-- [[Etiologies of Constipation]] date: 2023-01-09 00:35
-- [[Prerenal acute kidney injury etiology]] date: 2023-01-09 00:35
-- [[herpes simplex virus infection]] date: 2023-01-09 00:35
-- [[neutropenia]] date: 2023-01-09 00:35
-- [[Granulocytopenia or neutropenia]] date: 2023-01-09 00:35
-- [[MI in absence of obstructive CAD]] date: 2023-01-09 00:35
-- [[Preventive treatment of Migraine]] date: 2023-01-09 00:35
-- [[infections of the nervous system]] date: 2023-01-09 00:35
-- [[Transfusion reactions]] date: 2023-01-09 00:35
-- [[narrow complex]] date: 2023-01-09 00:35
-- [[risk factor of delirium]] date: 2023-01-09 00:35
-- [[Platelets-transfusion]] date: 2023-01-09 00:35
-- [[Treatment of Hypervolemic hyponatremia]] date: 2023-01-09 00:35
-- [[Lactic acidosis]] date: 2023-01-09 00:35
-- [[Mx of ACLS Tachycardia Algorithm]] date: 2023-01-09 00:35
-- [[Papillary thyroid cancer]] date: 2023-01-09 00:35
-- [[mitral-stenosis]] date: 2023-01-09 00:35
-- [[Management-solitary pulmonary nodule]] date: 2023-01-09 00:35
-- [[Treatment prevention-herpes zoster]] date: 2023-01-09 00:35
-- [[Role of hematopoietic growth factors]] date: 2023-01-09 00:35
-- [[Hepatitis D]] date: 2023-01-09 00:35
-- [[Initial evaluation-solitary pulmonary nodule]] date: 2023-01-09 00:35
-- [[Sinus bradycardia]] date: 2023-01-09 00:35
-- [[symptom to diagnosis of dyspnea]] date: 2023-01-09 00:35
-- [[Prognosis-Alcohol-associated hepatitis]] date: 2023-01-09 00:35
-- [[King’s College Criteria for Liver Transplantation consideration]] date: 2023-01-09 00:35
-- [[infxns in immunosuppressed hosts]] date: 2023-01-09 00:35
-- [[herpes zoster]] date: 2023-01-09 00:35
-- [[Treatment of Heart failure with preserved EF]] date: 2023-01-09 00:35
-- [[Subclinical hypothyroidism]] date: 2023-01-09 00:35
-- [[transthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis]] date: 2023-01-09 00:35
-- [[pathophysiology gastroesophageal reflux disease]] date: 2023-01-09 00:35
-- [[pleocytosis]] date: 2023-01-09 00:35
-- [[Non-tuberculous mycobacterium-bronchiectasis]] date: 2023-01-09 00:35
-- [[systematic-Treatment]] date: 2023-01-09 00:35
-- [[Follow-up, treatment response and failure of Migraine]] date: 2023-01-09 00:35
-- [[Workup-nephrotic syndrome]] date: 2023-01-09 00:35
-- [[Nonmegaloblastic macrocytic anemias]] date: 2023-01-09 00:35
-- [[Etiologies-hypertension]] date: 2023-01-09 00:35
-- [[Etiology-pericardial tamponade]] date: 2023-01-09 00:35
-- [[hyperpituitary syndromes]] date: 2023-01-09 00:35
-- [[Impaired cell-mediated immunity]] date: 2023-01-09 00:35
-- [[urinalysis]] date: 2023-01-09 00:35
-- [[Severity-acute pancreatitis]] date: 2023-01-09 00:35
-- [[type 1 MI]] date: 2023-01-09 00:35
-- [[myofascial pain syndrome]] date: 2023-01-09 00:35
-- [[Malabsorption]] date: 2023-01-09 00:35
-- [[Pulmonary-complications of HIV AIDS]] date: 2023-01-09 00:35
-- [[Workup-nephrolithiasis]] date: 2023-01-09 00:35
-- [[Treatment-Candida species]] date: 2023-01-09 00:35
-- [[hypoglycemia]] date: 2023-01-09 00:35
-- [[Precipitants-diabetic ketoacidosis]] date: 2023-01-09 00:35
-- [[Etiologies-solitary pulmonary nodule]] date: 2023-01-09 00:35
-- [[Treatment of other lipid fractions]] date: 2023-01-09 00:35
-- [[ICU-level care-asthma-EXACERBATION]] date: 2023-01-09 00:35
-- [[Glucose-6-phosphate dehydrogenase]] date: 2023-01-09 00:35
-- [[ST-depression]] date: 2023-01-09 00:35
-- [[Prasugrel]] date: 2023-01-09 00:35
-- [[Treatment-Paroxysmal nocturnal hemoglobinuria]] date: 2023-01-09 00:35
-- [[model for clinical reasoning]] date: 2023-01-09 00:35
-- [[pain and palliative care]] date: 2023-01-09 00:35
-- [[methylprednisolone]] date: 2023-01-09 00:35
-- [[Etiologies of Classic FUO]] date: 2023-01-09 00:35
-- [[Poor-R-wave-progression]] date: 2023-01-09 00:35
-- [[Vascular Access-renal replacement and dialysis]] date: 2023-01-09 00:35
-- [[Intrinsic acute kidney injury etiology]] date: 2023-01-09 00:35
-- [[tuberculosis]] date: 2023-01-09 00:35
-- [[Etiology-aortic-regurgitation]] date: 2023-01-09 00:35
-- [[Measure plasma osmolality]] date: 2023-01-09 00:35
-- [[hepatitis B virus Rx duration]] date: 2023-01-09 00:35
-- [[Treatment of Hemochromatosis]] date: 2023-01-09 00:35
-- [[Genetics of Diagnostic and staging evaluation of lung cancer]] date: 2023-01-09 00:35
-- [[Workup-fever of unknown origin]] date: 2023-01-09 00:35
-- [[Physical exam-constrictive pericarditis]] date: 2023-01-09 00:35
-- [[Rapid correction of Treatment-of-hyponatremia]] date: 2023-01-09 00:35
-- [[Hypoparathyroidism]] date: 2023-01-09 00:35
-- [[macos config]] date: 2023-01-09 00:35
-- [[renal-Secondary Causes of Hypertension]] date: 2023-01-09 00:35
-- [[Neoplasm Etiologies of Classic FUO]] date: 2023-01-09 00:35
-- [[Etiology-acute liver failure]] date: 2023-01-09 00:35
-- [[hepatitis C virus Monitoring on Rx]] date: 2023-01-09 00:35
-- [[Treatment-Wilson disease]] date: 2023-01-09 00:35
-- [[Tricyclic antidepressants-toxicology]] date: 2023-01-09 00:35
-- [[Packed red blood cells]] date: 2023-01-09 00:35
-- [[WBC of cerebrospinal fluid]] date: 2023-01-09 00:35
-- [[MASCC Risk Index]] date: 2023-01-09 00:35
-- [[Histoplasmosis]] date: 2023-01-09 00:35
-- [[muddy brown casts]] date: 2023-01-09 00:35
-- [[Pathophysiology-Heparin-Induced Thrombocytopenias]] date: 2023-01-09 00:35
-- [[Pulmonary-Renal Syndromes]] date: 2023-01-09 00:35
-- [[Protein of Urine Dipstick]] date: 2023-01-09 00:35
-- [[Rhythm control]] date: 2023-01-09 00:35
-- [[Vitamin K deficiency]] date: 2023-01-09 00:35
-- [[Temporary pacing wires]] date: 2023-01-09 00:35
-- [[transfusion-related acute lung injury]] date: 2023-01-09 00:35
-- [[Pancoast’s syndrome]] date: 2023-01-09 00:35
-- [[hepatitis]] date: 2023-01-09 00:35
-- [[Oxygen for chronic obstructive pulmonary disease]] date: 2023-01-09 00:35
-- [[hectic fever]] date: 2023-01-09 00:35
-- [[Treatment of Antiphospholipid syndrome]] date: 2023-01-09 00:35
-- [[YPM0hbw1azf qwq2fpw]] date: 2023-01-09 00:35
-- [[Medullary thyroid cancer]] date: 2023-01-09 00:35
-- [[urgent symptomatic interventions of leptomeningeal disease]] date: 2023-01-09 00:35
-- [[Rate of correction of hypernatremia]] date: 2023-01-09 00:35
-- [[Hypophosphatemia - Approach to the Patient]] date: 2023-01-09 00:35
-- [[monocytosis]] date: 2023-01-09 00:35
-- [[Treatment of Prinzmetals variant angina]] date: 2023-01-09 00:35
-- [[Triage-pneumonia]] date: 2023-01-09 00:35
-- [[Treatment-hypopituitary syndromes]] date: 2023-01-09 00:35
-- [[jupyter]] date: 2023-01-09 00:35
-- [[Treatment-hyperosmolar hyperglycemic state]] date: 2023-01-09 00:35
-- [[Obstructive diseases-disease-specific management of kidney disease ]] date: 2023-01-09 00:35
-- [[Protein of cerebrospinal fluid]] date: 2023-01-09 00:35
-- [[Evaluation of vasculitis]] date: 2023-01-09 00:35
-- [[hepatitis C virus Treatment indications]] date: 2023-01-09 00:35
-- [[GI prophylaxis if taking ASA NSAID peptic ulcer disease ]] date: 2023-01-09 00:35
-- [[Risk stratification of fever and neutropenia]] date: 2023-01-09 00:35
-- [[Targets-sepsis and shock]] date: 2023-01-09 00:35
-- [[solitary pulmonary nodule]] date: 2023-01-09 00:35
-- [[Growth hormone deficiency]] date: 2023-01-09 00:35
-- [[thromboangiitis obliterans]] date: 2023-01-09 00:35
-- [[Prognosis-acute pancreatitis]] date: 2023-01-09 00:35
-- [[Management of ICU patient-pulmonary hypertension]] date: 2023-01-09 00:35
-- [[Etiology-mitral-regurgitation]] date: 2023-01-09 00:35
-- [[Workup-hypernatremia]] date: 2023-01-09 00:35
-- [[Right-ventricular-hypertrophy]] date: 2023-01-09 00:35
-- [[Humoral immune dysfunction]] date: 2023-01-09 00:35
-- [[Pathophysiology-hypernatremia]] date: 2023-01-09 00:35
-- [[hyperkalemia]] date: 2023-01-09 00:35
-- [[Erythema nodosum]] date: 2023-01-09 00:35
-- [[Etiology-osteomyelitis]] date: 2023-01-09 00:35
-- [[Late renal dysfxn]] date: 2023-01-09 00:35
-- [[three-component friction rub]] date: 2023-01-09 00:35
-- [[SVC syndrome]] date: 2023-01-09 00:35
-- [[Wolff-Chaikoff effect]] date: 2023-01-09 00:35
-- [[wowoowow]] date: 2023-01-09 00:35
-- [[Hypovolemic-hypotonic-hyponatremia]] date: 2023-01-09 00:35
-- [[sensible and insensible fluid losses]] date: 2023-01-09 00:35
-- [[Staging and prognosis-chronic obstructive pulmonary disease]] date: 2023-01-09 00:35
-- [[Sx of Hemochromatosis]] date: 2023-01-09 00:35
-- [[Peritoneal dialysis-associated-Bacterial peritonitis]] date: 2023-01-09 00:35
-- [[β-blocker]] date: 2023-01-09 00:35
-- [[Prognosis-ulcerative colitis]] date: 2023-01-09 00:35
-- [[type 3 myocardial infarction]] date: 2023-01-09 00:35
-- [[Residual syndrome]] date: 2023-01-09 00:35
-- [[Follicular thyroid cancer]] date: 2023-01-09 00:35
-- [[Physical exam of hypertrophic cardiomyopathy]] date: 2023-01-09 00:35
-- [[type my note]] date: 2023-01-09 00:35
-- [[lipid disorders]] date: 2023-01-09 00:35
-- [[necrotizing soft-tissue infections]] date: 2023-01-09 00:35
-- [[Physical examination]] date: 2023-01-09 00:35
-- [[Spot urine]] date: 2023-01-09 00:35
-- [[Pathophysiology-Acetaminophen hepatotoxicity]] date: 2023-01-09 00:35
-- [[Epidemiology-HIV AIDS]] date: 2023-01-09 00:35
-- [[Post-renal acute kidney injury etiology]] date: 2023-01-09 00:35
-- [[Secondary causes of iron overload]] date: 2023-01-09 00:35
-- [[weakness and neuromuscular dysfunction]] date: 2023-01-09 00:35
-- [[Focal segmental glomerulosclerosis]] date: 2023-01-09 00:35
-- [[Molecular description of lymphoma]] date: 2023-01-09 00:35
-- [[ulcerative colitis]] date: 2023-01-09 00:35
-- [[Patient isolation-tuberculosis]] date: 2023-01-09 00:35
-- [[Etiologies of High elevated PaCO2]] date: 2023-01-09 00:35
-- [[parapneumonic effusions]] date: 2023-01-09 00:35
-- [[Treatment-Pure red cell aplasia]] date: 2023-01-09 00:35
-- [[Pathophysiology of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:35
-- [[Oral-complications of HIV AIDS]] date: 2023-01-09 00:35
-- [[Types of Cryoglobulinemia]] date: 2023-01-09 00:35
-- [[Treatment-fever of unknown origin]] date: 2023-01-09 00:35
-- [[α1-antitrypsin deficiency]] date: 2023-01-09 00:35
-- [[Pseudo-hypoparathyroidism]] date: 2023-01-09 00:35
-- [[pericardial tamponade]] date: 2023-01-09 00:35
-- [[Etiologies-pancytopenia]] date: 2023-01-09 00:35
-- [[tick-borne diseases]] date: 2023-01-09 00:35
-- [[Steroids-sepsis and shock]] date: 2023-01-09 00:35
-- [[Membranoproliferative GN]] date: 2023-01-09 00:35
-- [[fever in oncology - duty note]] date: 2023-01-09 00:35
-- [[management of Barrett’s esophagitis]] date: 2023-01-09 00:35
-- [[Mechanical-prosthetic-heart-valves]] date: 2023-01-09 00:35
-- [[Risk Factors and Screening]] date: 2023-01-09 00:35
-- [[Transfusion-associated circulatory overload]] date: 2023-01-09 00:35
-- [[HIV AIDS]] date: 2023-01-09 00:35
-- [[lymphocytosis]] date: 2023-01-09 00:35
-- [[Tubulointerstitial proteinuria]] date: 2023-01-09 00:35
-- [[Pituitary apoplexy]] date: 2023-01-09 00:35
-- [[Treatment-hyperaldosteronism]] date: 2023-01-09 00:35
-- [[Workup-hypokalemia]] date: 2023-01-09 00:35
-- [[hyperactive delirium]] date: 2023-01-09 00:35
-- [[Vericiguat]] date: 2023-01-09 00:35
-- [[lumbar puncture after brain imaging]] date: 2023-01-09 00:35
-- [[sexually transmitted infections]] date: 2023-01-09 00:35
-- [[Transcellular shifts-hyperkalemia]] date: 2023-01-09 00:35
-- [[Treatment-acute respiratory distress syndrome]] date: 2023-01-09 00:35
-- [[Raynaud phenomenon]] date: 2023-01-09 00:35
-- [[pheochromocytoma and paraganglioma]] date: 2023-01-09 00:35
-- [[premedication of airway-management]] date: 2023-01-09 00:35
-- [[Long-term follow-up of Migraine]] date: 2023-01-09 00:35
-- [[tutorial]] date: 2023-01-09 00:35
-- [[Pathogenesis-chronic obstructive pulmonary disease]] date: 2023-01-09 00:35
-- [[ipratropium]] date: 2023-01-09 00:35
-- [[Ticagrelor]] date: 2023-01-09 00:35
-- [[Precipitants-hypertensive crises]] date: 2023-01-09 00:35
-- [[pulmonary critical care]] date: 2023-01-09 00:35
-- [[Etiologies and Diagnosis of Acute Kidney Injury ]] date: 2023-01-09 00:35
-- [[Prognosis-acute liver failure]] date: 2023-01-09 00:35
-- [[zettle]] date: 2023-01-09 00:35
-- [[Treatment-skin and soft tissue infections]] date: 2023-01-09 00:35
-- [[timeV]] date: 2023-01-09 00:35
-- [[Principles-solitary pulmonary nodule]] date: 2023-01-09 00:35
-- [[Uremic bleeding]] date: 2023-01-09 00:35
-- [[Preoperative evaluation]] date: 2023-01-09 00:35
-- [[fever syndromes]] date: 2023-01-09 00:35
-- [[Treatment-epidural abscess]] date: 2023-01-09 00:35
-- [[Procedures-Endocarditis Prophylaxis]] date: 2023-01-09 00:35
-- [[Names for vasculitides]] date: 2023-01-09 00:35
-- [[Pure red cell aplasia]] date: 2023-01-09 00:35
-- [[Replace free H2O deficit]] date: 2023-01-09 00:35
-- [[Surgery of inflammatory bowel disease]] date: 2023-01-09 00:35
-- [[Renal losses of Hypovolemic-hypotonic-hyponatremia]] date: 2023-01-09 00:35
-- [[hyperosmolar hyperglycemic state]] date: 2023-01-09 00:35
-- [[Etiology-aortic-stenosis]] date: 2023-01-09 00:35
-- [[Measure Uosm]] date: 2023-01-09 00:35
-- [[type]] date: 2023-01-09 00:35
-- [[Treatment-chronic pancreatitis]] date: 2023-01-09 00:35
-- [[History and physical exam-interstitial lung disease]] date: 2023-01-09 00:35
-- [[Whipple’s disease]] date: 2023-01-09 00:35
-- [[pathogenesis of vasculitides]] date: 2023-01-09 00:35
-- [[volume status]] date: 2023-01-09 00:35
-- [[Recognizing and managing comorbidities of Migraine]] date: 2023-01-09 00:34
-- [[terms used to describe patients with delirium]] date: 2023-01-09 00:34
-- [[Pathologic-Q-waves]] date: 2023-01-09 00:34
-- [[Membranous nephropathy]] date: 2023-01-09 00:34
-- [[Therapeutic apheresis]] date: 2023-01-09 00:34
-- [[nephrolithiasis]] date: 2023-01-09 00:34
-- [[Polycystic kidney disease]] date: 2023-01-09 00:34
-- [[indications of thoracentesis]] date: 2023-01-09 00:34
-- [[pericarditis and pericardial effusion]] date: 2023-01-09 00:34
-- [[Staging of lung cancer]] date: 2023-01-09 00:34
-- [[NSIP nonspecific IP]] date: 2023-01-09 00:34
-- [[POUNDing Mnemonic]] date: 2023-01-09 00:34
-- [[glucose water osmolarity]] date: 2023-01-09 00:34
-- [[glomerulonephritis]] date: 2023-01-09 00:34
-- [[Screening-aortic aneurysms]] date: 2023-01-09 00:34
-- [[Obstructive shock]] date: 2023-01-09 00:34
-- [[Etiology-constrictive pericarditis]] date: 2023-01-09 00:34
-- [[Ventilator Modes and Principles]] date: 2023-01-09 00:34
-- [[History heart failure]] date: 2023-01-09 00:34
-- [[Megaloblastic anemia]] date: 2023-01-09 00:34
-- [[Fibromuscular dysplasia]] date: 2023-01-09 00:34
-- [[Salicylates-toxicology]] date: 2023-01-09 00:34
-- [[Treatment of Hypovolemic hyponatremia]] date: 2023-01-09 00:34
-- [[hepatitis C virus extrahepatic syndromes]] date: 2023-01-09 00:34
-- [[Isopropanol-toxicology]] date: 2023-01-09 00:34
-- [[Mechanisms and Etiologies of Platelet Function Abnormalities]] date: 2023-01-09 00:34
-- [[Nonspecific Low Back Pain]] date: 2023-01-09 00:34
-- [[renal replacement and dialysis]] date: 2023-01-09 00:34
-- [[levamisole]] date: 2023-01-09 00:34
-- [[Medical Therapy for IBD]] date: 2023-01-09 00:34
-- [[pulsus paradoxus]] date: 2023-01-09 00:34
-- [[paresthesia and dysesthesia]] date: 2023-01-09 00:34
-- [[Glucose of cerebrospinal fluid]] date: 2023-01-09 00:34
-- [[Managing complications of Migraine]] date: 2023-01-09 00:34
-- [[Treatment of Thyroid storm]] date: 2023-01-09 00:34
-- [[Leuko-reduced blood products]] date: 2023-01-09 00:34
-- [[neurologic critical care]] date: 2023-01-09 00:34
-- [[Ischemic hepatitis]] date: 2023-01-09 00:34
-- [[new report]] date: 2023-01-09 00:34
-- [[RESTRICTIVE---INFILTRATIVE]] date: 2023-01-09 00:34
-- [[my report about irAE]] date: 2023-01-09 00:34
-- [[Fluid Resuscitation]] date: 2023-01-09 00:34
-- [[Rank the Differential Diagnosis]] date: 2023-01-09 00:34
-- [[hyperparathyroidism]] date: 2023-01-09 00:34
-- [[Symptoms-ascites]] date: 2023-01-09 00:34
-- [[Sotalol]] date: 2023-01-09 00:34
-- [[Organ dysfunction]] date: 2023-01-09 00:34
-- [[Etiologies of Proteinuria]] date: 2023-01-09 00:34
-- [[Thyroid storm]] date: 2023-01-09 00:34
-- [[Myelophthisic anemia]] date: 2023-01-09 00:34
-- [[Familial Mediterranean fever]] date: 2023-01-09 00:34
-- [[RB-ILD resp bronchiolitis-assoc ILD]] date: 2023-01-09 00:34
-- [[pancreatic tumors]] date: 2023-01-09 00:34
-- [[pleural effusion]] date: 2023-01-09 00:34
-- [[Fresh H2O soft tissue infections]] date: 2023-01-09 00:34
-- [[Minimal change disease]] date: 2023-01-09 00:34
-- [[hepatitis C virus acute infxn]] date: 2023-01-09 00:34
-- [[Evolution of Necrotizing Fasciitis or Myonecrosis]] date: 2023-01-09 00:34
-- [[IV immune globulin]] date: 2023-01-09 00:34
-- [[phosphate disorders]] date: 2023-01-09 00:34
-- [[Febrile nonhemolytic]] date: 2023-01-09 00:34
-- [[Polyp or Tumor]] date: 2023-01-09 00:34
-- [[Treatment of Primary ITP in Adults]] date: 2023-01-09 00:34
-- [[PIK3CA]] date: 2023-01-09 00:34
-- [[Pacemaker Code]] date: 2023-01-09 00:34
-- [[myxoma]] date: 2023-01-09 00:34
-- [[Presentation of Thyroid storm]] date: 2023-01-09 00:34
-- [[Irradiated blood products]] date: 2023-01-09 00:34
-- [[nnnnnnnnew note]] date: 2023-01-09 00:34
-- [[physiology of pulmary]] date: 2023-01-09 00:34
-- [[Lithium-toxicology]] date: 2023-01-09 00:34
-- [[hypernatremia]] date: 2023-01-09 00:34
-- [[leptomeningeal disease]] date: 2023-01-09 00:34
-- [[hepatic vascular disease]] date: 2023-01-09 00:34
-- [[Ivabradine]] date: 2023-01-09 00:34
-- [[ICD]] date: 2023-01-09 00:34
-- [[SGLT2i]] date: 2023-01-09 00:34
-- [[General considerations-diuresis]] date: 2023-01-09 00:34
-- [[Roflumilast]] date: 2023-01-09 00:34
-- [[Methanol-toxicology]] date: 2023-01-09 00:34
-- [[Renal-limited vasculitis]] date: 2023-01-09 00:34
-- [[Prevention of chronic obstructive pulmonary disease]] date: 2023-01-09 00:34
-- [[Isolated proteinuria]] date: 2023-01-09 00:34
-- [[Home]] date: 2023-01-09 00:34
-- [[Ethylene glycol-toxicology]] date: 2023-01-09 00:34
-- [[Mesangial proliferative GN]] date: 2023-01-09 00:34
-- [[Nonspecific Low Back Pain - New Note]] date: 2023-01-09 00:34
-- [[oncologic emergencies]] date: 2023-01-09 00:34
-- [[Rejection-Kidney transplantation]] date: 2023-01-09 00:34
-- [[molecular diagnostics]] date: 2023-01-09 00:34
-- [[kidney disease]] date: 2023-01-09 00:34
-- [[Iron-supplementation]] date: 2023-01-09 00:34
-- [[Gardening]] date: 2023-01-09 00:34
-- [[open pressure]] date: 2023-01-09 00:34
-- [[Glomerular proteinuria]] date: 2023-01-09 00:34
-- [[Penetrating injury]] date: 2023-01-09 00:34
-- [[Scleroderma renal crisis]] date: 2023-01-09 00:34
-- [[Overflow proteinuria]] date: 2023-01-09 00:34
-- [[Massive transfusion]] date: 2023-01-09 00:34
-- [[Fresh frozen plasma]] date: 2023-01-09 00:34
-- [[Hypovolemic shock]] date: 2023-01-09 00:34
-- [[Rule out mimickers of ILD]] date: 2023-01-09 00:34
-- [[Procainamide]] date: 2023-01-09 00:34
-- [[Low-voltage]] date: 2023-01-09 00:34
-- [[Ibutilide]] date: 2023-01-09 00:34
-- [[Inherited Disorders of Connective Tissue]] date: 2023-01-09 00:34
-- [[Post-exacerb care of COPDAE]] date: 2023-01-09 00:34
-- [[Precipitants of Migraine]] date: 2023-01-09 00:34
-- [[SGLT2i in chronic kidney disease]] date: 2023-01-09 00:34
-- [[selexipag]] date: 2023-01-09 00:34
-- [[new note]] date: 2023-01-09 00:34
-- [[Opioids-toxicology]] date: 2023-01-09 00:34
-- [[Nonspecific Low Back Pain - Annotations (8122022, 123726 AM)-1]] date: 2023-01-09 00:34
-- [[Other antimicrobial agents of Drug fever]] date: 2023-01-09 00:34
-- [[Screening Test Abnormalities in Inherited and Acquired Coagulopathies]] date: 2023-01-09 00:34
-- [[Renal-complications of HIV AIDS]] date: 2023-01-09 00:34
-- [[Erythema multiforme]] date: 2023-01-09 00:34
-- [[Pathophysiology-pleural effusion]] date: 2023-01-09 00:34
-- [[Ophthalmologic-complications of HIV AIDS]] date: 2023-01-09 00:34
-- [[PD peritonitis]] date: 2023-01-09 00:34
-- [[New York Heart Association class]] date: 2023-01-09 00:34
-- [[Prevention-pneumonia]] date: 2023-01-09 00:34
-- [[Risk-Stratification-andreatment-of-Localized-Prostate]] date: 2023-01-09 00:34
-- [[Salt H2O or raw oysters fish]] date: 2023-01-09 00:34
-- [[sorafenib]] date: 2023-01-09 00:34
-- [[NV would have selected]] date: 2023-01-09 00:34
-- [[Focused history of chest pain]] date: 2023-01-09 00:34
-- [[secondary bacterial peritonitis]] date: 2023-01-09 00:34
-- [[Propafenone]] date: 2023-01-09 00:34
-- [[thyroid cancer]] date: 2023-01-09 00:34
-- [[incidence of vasculitides]] date: 2023-01-09 00:34
-- [[Etiologies of and approach to dysphagia]] date: 2023-01-09 00:34
-- [[Insulin Preparations]] date: 2023-01-09 00:34
-- [[Phases of Chronic HBV Infection]] date: 2023-01-09 00:34
-- [[Immunosuppression-Kidney transplantation]] date: 2023-01-09 00:34
-- [[Splenic vein thrombosis]] date: 2023-01-09 00:34
-- [[Ipratropium of COPDAE]] date: 2023-01-09 00:34
-- [[microcytic anemias]] date: 2023-01-09 00:34
-- [[normocytic anemias]] date: 2023-01-09 00:34
-- [[Post-sphincter-otomy bleeding]] date: 2023-01-09 00:34
-- [[Schistosoma haematobium]] date: 2023-01-09 00:34
-- [[irregular of narrow complex]] date: 2023-01-09 00:34
-- [[Hemodynamic-Monitoring]] date: 2023-01-09 00:34
-- [[Medication causes of abnormal LFTs]] date: 2023-01-09 00:34
-- [[IPF idiopathic pulm fibrosis]] date: 2023-01-09 00:34
-- [[predictors of difficult mask ventilation]] date: 2023-01-09 00:34
-- [[hypoactive delirium]] date: 2023-01-09 00:34
-- [[Diagnostic studies-choledocholithiasis]] date: 2023-01-09 00:34
-- [[Hydralazine---nitrates]] date: 2023-01-09 00:34
-- [[Early intravenous administration of glucocorticoids in central nervous system infection]] date: 2023-01-09 00:34
-- [[Regimens-Endocarditis Prophylaxis]] date: 2023-01-09 00:34
-- [[Epidemiology  pathogenesis-cholelithiasis]] date: 2023-01-09 00:34
-- [[Disorders of EGJ Outflow]] date: 2023-01-09 00:34
-- [[Distributive shock]] date: 2023-01-09 00:34
-- [[Diagnostic evaluation of fever and neutropenia]] date: 2023-01-09 00:34
-- [[Diagnostic studies-encephalitis]] date: 2023-01-09 00:34
-- [[Mallory-Weiss tear]] date: 2023-01-09 00:34
-- [[Flecainide]] date: 2023-01-09 00:34
-- [[Differential Diagnosis of Dyspnea]] date: 2023-01-09 00:34
-- [[Education and patient centricity]] date: 2023-01-09 00:34
-- [[Endocrine metabolic]] date: 2023-01-09 00:34
-- [[diagnostic studies of peptic ulcer disease]] date: 2023-01-09 00:34
-- [[Dog bite]] date: 2023-01-09 00:34
-- [[pyenv]] date: 2023-01-09 00:34
-- [[Dx of Hemochromatosis]] date: 2023-01-09 00:34
-- [[Diagnostic studies-pleural effusion]] date: 2023-01-09 00:34
-- [[Definitions-acute aortic syndromes]] date: 2023-01-09 00:34
-- [[Diagnostic studies of hypertrophic cardiomyopathy]] date: 2023-01-09 00:34
-- [[potassium homeostasis]] date: 2023-01-09 00:34
-- [[Lidocaine]] date: 2023-01-09 00:34
-- [[Definition-syncope]] date: 2023-01-09 00:34
-- [[disorders of leukocytes]] date: 2023-01-09 00:34
-- [[Diagnostic studies peptic ulcer disease ]] date: 2023-01-09 00:34
-- [[Normal hepatic vasculature]] date: 2023-01-09 00:34
-- [[Definitions-sepsis and shock]] date: 2023-01-09 00:34
-- [[Diagnosis-osteomyelitis]] date: 2023-01-09 00:34
-- [[Diagnostic evaluation of hypercoagulable states]] date: 2023-01-09 00:34
-- [[stroke]] date: 2023-01-09 00:34
-- [[diverticulosis]] date: 2023-01-09 00:34
-- [[Diagnostic studies-cholecystitis]] date: 2023-01-09 00:34
-- [[Differential Diagnosis of Delirium]] date: 2023-01-09 00:34
-- [[Effect of 1 L infusion in 70-kg male]] date: 2023-01-09 00:34
-- [[Secondary Causes of Hypertension]] date: 2023-01-09 00:34
-- [[Diagnostic studies-hypercalcemia]] date: 2023-01-09 00:34
-- [[Pathogenesis-acute pancreatitis]] date: 2023-01-09 00:34
-- [[Endotracheal intubation of COPDAE]] date: 2023-01-09 00:34
-- [[ECG-in-young-athletes]] date: 2023-01-09 00:34
-- [[Diagnostic-studies-workup-pulmonary hypertension]] date: 2023-01-09 00:34
-- [[Epidemiology and etiologies-atrial fibrillation]] date: 2023-01-09 00:34
-- [[Organopho- sphate-toxicology]] date: 2023-01-09 00:34
-- [[Diagnosis-crohn’s disease]] date: 2023-01-09 00:34
-- [[EGFR ex20 insertion]] date: 2023-01-09 00:34
-- [[dysnatremias]] date: 2023-01-09 00:34
-- [[Definitions-tuberculosis]] date: 2023-01-09 00:34
-- [[Other measures of COPDAE]] date: 2023-01-09 00:34
-- [[excursion]] date: 2023-01-09 00:34
-- [[Diagnosis-clostridioides difficile infection]] date: 2023-01-09 00:34
-- [[Epidemiology-aortic aneurysms]] date: 2023-01-09 00:34
-- [[Lymphocytic pleocytosis]] date: 2023-01-09 00:34
-- [[Digoxin-toxicology]] date: 2023-01-09 00:34
-- [[Eaton-Lambert]] date: 2023-01-09 00:34
-- [[Fanconi’s syndrome]] date: 2023-01-09 00:34
-- [[Diagnosis gastroesophageal reflux disease ]] date: 2023-01-09 00:34
-- [[Dx-Wilson disease]] date: 2023-01-09 00:34
-- [[diabetic foot infections]] date: 2023-01-09 00:34
-- [[diagnosis of Giant cell arteritis]] date: 2023-01-09 00:34
-- [[Drug Therapy of Pulseless Arrest]] date: 2023-01-09 00:34
-- [[Distinguihing Characteristics of Vascuiti Subtypes]] date: 2023-01-09 00:34
-- [[Endocarditis Prophylaxis]] date: 2023-01-09 00:34
-- [[Diagnostics for active TB]] date: 2023-01-09 00:34
-- [[glomerular disease]] date: 2023-01-09 00:34
-- [[seizures]] date: 2023-01-09 00:34
-- [[Diagnosis-anaphylaxis]] date: 2023-01-09 00:34
-- [[differential diagnosis]] date: 2023-01-09 00:34
-- [[orthopaedic]] date: 2023-01-09 00:34
-- [[this is a book]] date: 2023-01-09 00:34
-- [[Orthostatic proteinuria]] date: 2023-01-09 00:34
-- [[Nonpharmacologic stroke prevent ]] date: 2023-01-09 00:34
-- [[old headache]] date: 2023-01-09 00:34
-- [[disorders of the colon]] date: 2023-01-09 00:34
-- [[macrocytic anemias]] date: 2023-01-09 00:34
-- [[Disease state specific regimens-diuresis]] date: 2023-01-09 00:34
-- [[diabetic ketoacidosis]] date: 2023-01-09 00:34
-- [[Dofetilide]] date: 2023-01-09 00:34
-- [[Disposition-anaphylaxis]] date: 2023-01-09 00:34
-- [[DIP desquamative IP]] date: 2023-01-09 00:34
-- [[Delayed hemolytic]] date: 2023-01-09 00:34
-- [[Diagnosis-aseptic meningitis]] date: 2023-01-09 00:34
-- [[Diagnostic evaluation of breast cancer]] date: 2023-01-09 00:34
-- [[DILATED-CARDIOMYOPATHY]] date: 2023-01-09 00:34
-- [[Diagnostic clues that favor VT]] date: 2023-01-09 00:34
-- [[Diagnostic studies-acute pancreatitis]] date: 2023-01-09 00:34
-- [[disease-specific management of kidney disease]] date: 2023-01-09 00:34
-- [[Endovascular repair EVAR-aortic aneurysms]] date: 2023-01-09 00:34
-- [[Empiric treatment-aseptic meningitis]] date: 2023-01-09 00:34
-- [[Diagnostic studies-constrictive pericarditis]] date: 2023-01-09 00:34
-- [[Diagnostic studies-cholelithiasis]] date: 2023-01-09 00:34
-- [[Diagnostic and staging evaluation of lung cancer]] date: 2023-01-09 00:34
-- [[Diverticular bleed]] date: 2023-01-09 00:34
-- [[Diagnostic studies-diabetic ketoacidosis]] date: 2023-01-09 00:34
-- [[delta-delta]] date: 2023-01-09 00:34
-- [[Diagnostic evaluation-hemolytic anemias]] date: 2023-01-09 00:34
-- [[Duration of therapy of fever and neutropenia]] date: 2023-01-09 00:34
-- [[Disorders of Peristalsis]] date: 2023-01-09 00:34
-- [[Dronedarone]] date: 2023-01-09 00:34
-- [[Diagnosis-ulcerative colitis]] date: 2023-01-09 00:34
-- [[Diagnostic studies of thoracentesis]] date: 2023-01-09 00:34
-- [[Disposition of patients after initial treatment of asthma exacerbation]] date: 2023-01-09 00:34
-- [[dotfile]] date: 2023-01-09 00:34
-- [[encephalitis]] date: 2023-01-09 00:34
-- [[Definition-necrotizing soft-tissue infections]] date: 2023-01-09 00:34
-- [[Diagnosis-sexually transmitted infections]] date: 2023-01-09 00:34
-- [[Drug-induced hemolytic anemia]] date: 2023-01-09 00:34
-- [[Dyslipidemias]] date: 2023-01-09 00:34
-- [[diverticulitis]] date: 2023-01-09 00:34
-- [[Epidemiology of breast cancer]] date: 2023-01-09 00:34
-- [[empiric replacement fluids can be used for fluid losses]] date: 2023-01-09 00:34
-- [[Definition-glomerulonephritis]] date: 2023-01-09 00:34
-- [[Device infection]] date: 2023-01-09 00:34
-- [[Diagnostic studies-acute mesenteric ischemia]] date: 2023-01-09 00:34
-- [[Digoxin]] date: 2023-01-09 00:34
-- [[Diagnosis-hyperaldosteronism]] date: 2023-01-09 00:34
-- [[diagnostic process]] date: 2023-01-09 00:34
-- [[Differential Diagnosis of Cellulitis]] date: 2023-01-09 00:34
-- [[Diagnostic studies of solitary pulmonary nodule]] date: 2023-01-09 00:34
-- [[Diagnostic studies-chronic pancreatitis ]] date: 2023-01-09 00:34
-- [[Diagnostic studies of PE]] date: 2023-01-09 00:34
-- [[Definitions-skin and soft tissue infections]] date: 2023-01-09 00:34
-- [[Diagnostic studies-aortic aneurysms]] date: 2023-01-09 00:34
-- [[Empiric Treatment of Bacterial Meningitis]] date: 2023-01-09 00:34
-- [[Control of Mineral Homeostasis by Parathyroid Hormone and the Calcium-Sensing Receptor]] date: 2023-01-09 00:34
-- [[Dx studies of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:34
-- [[Diagnosis-necrotizing soft-tissue infections]] date: 2023-01-09 00:34
-- [[Diagnostic-studies-mitral-regurgitation]] date: 2023-01-09 00:34
-- [[Drug fever]] date: 2023-01-09 00:34
-- [[Epidemiology and risk factors-lung cancer]] date: 2023-01-09 00:34
-- [[Diagnostic workup-hemoptysis]] date: 2023-01-09 00:34
-- [[eosinophilia]] date: 2023-01-09 00:34
-- [[Diagnosis gastroesophageal reflux disease]] date: 2023-01-09 00:34
-- [[Diagnostic studies-pericarditis and pericardial effusion]] date: 2023-01-09 00:34
-- [[dysmotility and nutrition]] date: 2023-01-09 00:34
-- [[Diagnosis of Thrombotic microangiopathies]] date: 2023-01-09 00:34
-- [[Drugs and toxins that cause acute liver failure]] date: 2023-01-09 00:34
-- [[Diagnostic studies-chronic obstructive pulmonary disease]] date: 2023-01-09 00:34
-- [[demo]] date: 2023-01-09 00:34
-- [[Eosinophilic esophagitis]] date: 2023-01-09 00:34
-- [[Efficacy concerns PA catheter and tailored therapy]] date: 2023-01-09 00:34
-- [[Diagnostic studies-pheochromocytoma and paraganglioma]] date: 2023-01-09 00:34
-- [[Diagnostic-studies-aortic-stenosis]] date: 2023-01-09 00:34
-- [[Diagnosis-Glucose-6-phosphate dehydrogenase]] date: 2023-01-09 00:34
-- [[Definitions heart failure]] date: 2023-01-09 00:34
-- [[Diagnostic studies-interstitial lung disease]] date: 2023-01-09 00:34
-- [[Diagnostic evaluation-anemia]] date: 2023-01-09 00:34
-- [[Definitions-aortic aneurysms]] date: 2023-01-09 00:34
-- [[Diagnostic evaluation-hypopituitary syndromes]] date: 2023-01-09 00:34
-- [[Diagnosis-bacterial endocarditis]] date: 2023-01-09 00:34
-- [[Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state]] date: 2023-01-09 00:34
-- [[Dx studies of Granulomatosis with polyangiitis]] date: 2023-01-09 00:34
-- [[diltiazem]] date: 2023-01-09 00:34
-- [[Diagnostic approach-fever syndromes]] date: 2023-01-09 00:34
-- [[Effect of IV fluids-treatment-of-hyponatremia]] date: 2023-01-09 00:34
-- [[COP cryptogenic organizing PNA]] date: 2023-01-09 00:34
-- [[endocrine-Secondary Causes of Hypertension]] date: 2023-01-09 00:34
-- [[Clinical-manifestations-mitral-regurgitation]] date: 2023-01-09 00:34
-- [[Clinical manifestations  dx studies-hyperosmolar hyperglycemic state]] date: 2023-01-09 00:34
-- [[Contrast-induced acute kidney injury]] date: 2023-01-09 00:34
-- [[CXR of Diagnostic studies-chronic obstructive pulmonary disease]] date: 2023-01-09 00:34
-- [[Cryptococcus neoformans]] date: 2023-01-09 00:34
-- [[Clinical manifestations of Eosinophilic gran with polyangiitis]] date: 2023-01-09 00:34
-- [[Contact]] date: 2023-01-09 00:34
-- [[Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease]] date: 2023-01-09 00:34
-- [[Clinical manifestations of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:34
-- [[Dako 28-8]] date: 2023-01-09 00:34
-- [[chronic pancreatitis]] date: 2023-01-09 00:34
-- [[Chronic mild-to-moderate elevation in ALT AST ]] date: 2023-01-09 00:34
-- [[Complications-cholelithiasis]] date: 2023-01-09 00:34
-- [[Correction of overanticoagulation]] date: 2023-01-09 00:34
-- [[clinical characteristics of bleeding disorders]] date: 2023-01-09 00:34
-- [[Definitions-acid-base disturbances]] date: 2023-01-09 00:34
-- [[cholecystitis]] date: 2023-01-09 00:34
-- [[Complications-crohn’s disease]] date: 2023-01-09 00:34
-- [[diuresis]] date: 2023-01-09 00:34
-- [[drugs routinely used for intrathecal application]] date: 2023-01-09 00:34
-- [[Collagen vascular diseases]] date: 2023-01-09 00:34
-- [[Consider Advanced Airway]] date: 2023-01-09 00:34
-- [[Clinical manifestations-chronic pancreatitis]] date: 2023-01-09 00:34
-- [[CSF leak]] date: 2023-01-09 00:34
-- [[Diagnosis of heparin-induced thrombocytopenia]] date: 2023-01-09 00:34
-- [[Clinical Manifestations of Sarcoidosis]] date: 2023-01-09 00:34
-- [[Cutaneous arteritis]] date: 2023-01-09 00:34
-- [[Contraindications to Fibrinolysis]] date: 2023-01-09 00:34
-- [[Definition and epidemiology-bronchiectasis]] date: 2023-01-09 00:34
-- [[Clinical manifestations-osteomyelitis]] date: 2023-01-09 00:34
-- [[COVID-19 associated AKI]] date: 2023-01-09 00:34
-- [[Clinical manifestations complications-herpes zoster]] date: 2023-01-09 00:34
-- [[disease-specific management of kidney disease 2]] date: 2023-01-09 00:34
-- [[Diagnosis of SVT Type]] date: 2023-01-09 00:34
-- [[Clinical manifestations of Giant cell arteritis]] date: 2023-01-09 00:34
-- [[Clinical manifestations-adrenal insufficiency]] date: 2023-01-09 00:34
-- [[Diagnosis-skin and soft tissue infections]] date: 2023-01-09 00:34
-- [[Clinical-manifestations-aortic-stenosis]] date: 2023-01-09 00:34
-- [[Clinical manifestations of Polyarteritis nodosa]] date: 2023-01-09 00:34
-- [[clinical research methods]] date: 2023-01-09 00:34
-- [[CRC screening]] date: 2023-01-09 00:34
-- [[Coccidioidomycosis]] date: 2023-01-09 00:34
-- [[Cytomegalovirus]] date: 2023-01-09 00:34
-- [[Diagnostic-studies-aortic-regurgitation]] date: 2023-01-09 00:34
-- [[Clinical manifestations-diabetic ketoacidosis]] date: 2023-01-09 00:34
-- [[consider the potential harms]] date: 2023-01-09 00:34
-- [[config]] date: 2023-01-09 00:34
-- [[Clinical manifestations gastroesophageal reflux disease]] date: 2023-01-09 00:34
-- [[Echocardiogram for Constrictive vs Restrictive Pericarditis]] date: 2023-01-09 00:34
-- [[Confusion and Delirium]] date: 2023-01-09 00:34
-- [[Entecavir or tenofovir]] date: 2023-01-09 00:34
-- [[Diagnostic studies-pneumonia]] date: 2023-01-09 00:34
-- [[Drug Treatment-lipid disorders]] date: 2023-01-09 00:34
-- [[Clinical manifestations-hypokalemia]] date: 2023-01-09 00:34
-- [[Clinical manifestations-Screening for latent TB]] date: 2023-01-09 00:34
-- [[Complications-aortic aneurysms]] date: 2023-01-09 00:34
-- [[Clinical features-cystic fibrosis]] date: 2023-01-09 00:34
-- [[ddMVAC]] date: 2023-01-09 00:34
-- [[Clinical manifestations of lung cancer]] date: 2023-01-09 00:34
-- [[chronic mesenteric ischemia]] date: 2023-01-09 00:34
-- [[Electrolyte-abnormalities]] date: 2023-01-09 00:34
-- [[Clinical manifestations-acute pancreatitis]] date: 2023-01-09 00:34
-- [[Complications PA catheter and tailored therapy]] date: 2023-01-09 00:34
-- [[Coronary-angiography-for-SIHD]] date: 2023-01-09 00:34
-- [[Complications gastroesophageal reflux disease ]] date: 2023-01-09 00:34
-- [[Clinical manifestations of breast cancer]] date: 2023-01-09 00:34
-- [[Eosinophilic gran with polyangiitis]] date: 2023-01-09 00:34
-- [[Cyclic vomiting syndrome]] date: 2023-01-09 00:34
-- [[Classification-atrial fibrillation]] date: 2023-01-09 00:34
-- [[Coagulation factor inhibitors]] date: 2023-01-09 00:34
-- [[Complications-prosthetic-heart-valves]] date: 2023-01-09 00:34
-- [[Connective tissue disease as Etiologies of Classic FUO]] date: 2023-01-09 00:34
-- [[definition and etiologies of peptic ulcer disease]] date: 2023-01-09 00:34
-- [[Diagnostic studies-pericardial tamponade]] date: 2023-01-09 00:34
-- [[Clinical manifestations-cholecystitis]] date: 2023-01-09 00:34
-- [[cystic fibrosis]] date: 2023-01-09 00:33
-- [[cutaneous leukocytoclastic angiitis]] date: 2023-01-09 00:33
-- [[crohn’s disease]] date: 2023-01-09 00:33
-- [[clostridioides difficile infection]] date: 2023-01-09 00:33
-- [[Definition Clinical Manifestations-HIV AIDS]] date: 2023-01-09 00:33
-- [[Consequences-of-Severe-Acid-Base-Disturbances]] date: 2023-01-09 00:33
-- [[Ddx-of-dominant-R-wave-in-V1-or-V2]] date: 2023-01-09 00:33
-- [[CMV-negative]] date: 2023-01-09 00:33
-- [[Definition and pathophysiology-anaphylaxis]] date: 2023-01-09 00:33
-- [[Clinical manifestations-acute liver failure]] date: 2023-01-09 00:33
-- [[Clinical manifestations peptic ulcer disease ]] date: 2023-01-09 00:33
-- [[Definition and clinical manifestations of Migraine]] date: 2023-01-09 00:33
-- [[Chronic treatment-nephrolithiasis]] date: 2023-01-09 00:33
-- [[Clinical manifestations-hyperkalemia]] date: 2023-01-09 00:33
-- [[deafferentation pain]] date: 2023-01-09 00:33
-- [[Cryoprecipitate]] date: 2023-01-09 00:33
-- [[CPR人力配置]] date: 2023-01-09 00:33
-- [[Common Etiologies of SVT]] date: 2023-01-09 00:33
-- [[Clinical manifestations-hypercalcemia]] date: 2023-01-09 00:33
-- [[Classic-Eponymous-Signs-in-Chronic-AR]] date: 2023-01-09 00:33
-- [[Definition and pathophysiology-hemoptysis]] date: 2023-01-09 00:33
-- [[Cyanide-toxicology]] date: 2023-01-09 00:33
-- [[coagulation cascade and sites of action for anticoagulants]] date: 2023-01-09 00:33
-- [[Clopidogrel]] date: 2023-01-09 00:33
-- [[Definition-Antiphospholipid syndrome]] date: 2023-01-09 00:33
-- [[Cryptococcus]] date: 2023-01-09 00:33
-- [[clinical manifestations of peptic ulcer disease]] date: 2023-01-09 00:33
-- [[chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
-- [[Clinical manifestations-Cushing’s Syndrome]] date: 2023-01-09 00:33
-- [[chemo side effects]] date: 2023-01-09 00:33
-- [[Clinical-manifestations-aortic-regurgitation]] date: 2023-01-09 00:33
-- [[Clinical manifestations-hypocalcemia]] date: 2023-01-09 00:33
-- [[Definition of fever and neutropenia]] date: 2023-01-09 00:33
-- [[Clinical manifestations-Candida species]] date: 2023-01-09 00:33
-- [[Clinical manifestation-bacterial endocarditis]] date: 2023-01-09 00:33
-- [[Cryoglobulinemic vasculitis]] date: 2023-01-09 00:33
-- [[Clinical manifestations-nephrolithiasis]] date: 2023-01-09 00:33
-- [[Definition and causes-acute mesenteric ischemia]] date: 2023-01-09 00:33
-- [[Chronic migraine]] date: 2023-01-09 00:33
-- [[Compensation-for-Acid-Base-Disorders]] date: 2023-01-09 00:33
-- [[Decreased GFR-hyperkalemia]] date: 2023-01-09 00:33
-- [[Ddx  causes of myocardial ischemia infarction other than atherosclerotic plaque rupture ]] date: 2023-01-09 00:33
-- [[Clinical manifestations-clostridioides difficile infection]] date: 2023-01-09 00:33
-- [[Definition etiologies peptic ulcer disease ]] date: 2023-01-09 00:33
-- [[Complications-acute aortic syndromes]] date: 2023-01-09 00:33
-- [[Clinical manifestations of Granulomatosis with polyangiitis]] date: 2023-01-09 00:33
-- [[Clinical manifestations-hyperaldosteronism]] date: 2023-01-09 00:33
-- [[clinical manifestations-anemia]] date: 2023-01-09 00:33
-- [[Clinical manifestations-cholelithiasis]] date: 2023-01-09 00:33
-- [[Definition of Constipation]] date: 2023-01-09 00:33
-- [[Definition and pathophysiology-cystic fibrosis]] date: 2023-01-09 00:33
-- [[complications of HIV AIDS]] date: 2023-01-09 00:33
-- [[Classification-acute aortic syndromes]] date: 2023-01-09 00:33
-- [[chest radiograph]] date: 2023-01-09 00:33
-- [[cynosis]] date: 2023-01-09 00:33
-- [[constrictive pericarditis]] date: 2023-01-09 00:33
-- [[Definition-acute liver failure]] date: 2023-01-09 00:33
-- [[classes of hemorrhagic shock]] date: 2023-01-09 00:33
-- [[Common Pacing Modes]] date: 2023-01-09 00:33
-- [[Classic tachycardias of WPW accessory pathways]] date: 2023-01-09 00:33
-- [[Classification criteria of Behçet’s syndrome]] date: 2023-01-09 00:33
-- [[Clinical manifestations-cirrhosis]] date: 2023-01-09 00:33
-- [[Clinical manifestations of IgA vasculitis]] date: 2023-01-09 00:33
-- [[Clinical manifestations-mitral-stenosis]] date: 2023-01-09 00:33
-- [[complications of bacterial meningitis]] date: 2023-01-09 00:33
-- [[Clinical manifestations-acute mesenteric ischemia]] date: 2023-01-09 00:33
-- [[Clinical manifestations of acute coronary syndromes]] date: 2023-01-09 00:33
-- [[Coronary angiography]] date: 2023-01-09 00:33
-- [[Clinical manifestations-pericardial tamponade]] date: 2023-01-09 00:33
-- [[Common biases in clinical reasoning]] date: 2023-01-09 00:33
-- [[computed tomogram in central nervous system infection]] date: 2023-01-09 00:33
-- [[Classification of Pain]] date: 2023-01-09 00:33
-- [[Definition and epidemiology-chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
-- [[Complications-diabetes mellitus]] date: 2023-01-09 00:33
-- [[Cutaneous-complications of HIV AIDS]] date: 2023-01-09 00:33
-- [[Clinical manifestations-pericarditis and pericardial effusion]] date: 2023-01-09 00:33
-- [[Clinical manifestations-necrotizing soft-tissue infections]] date: 2023-01-09 00:33
-- [[Clinical manifestations-chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
-- [[colonoscopy for LGIB]] date: 2023-01-09 00:33
-- [[Clinical manifestations-pheochromocytoma and paraganglioma]] date: 2023-01-09 00:33
-- [[Complications-ulcerative colitis]] date: 2023-01-09 00:33
-- [[COPD Exacerbation Treatment]] date: 2023-01-09 00:33
-- [[Commonly drug-induced Acute interstitial nephritis]] date: 2023-01-09 00:33
-- [[Clinical manifestations-ulcerative colitis]] date: 2023-01-09 00:33
-- [[Chronic or refractory for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:33
-- [[Corticosteroids for chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
-- [[clinical case of epidural abscess]] date: 2023-01-09 00:33
-- [[bronchiectasis]] date: 2023-01-09 00:33
-- [[cerebrospinal fluid lab results]] date: 2023-01-09 00:33
-- [[Bacterial peritonitis]] date: 2023-01-09 00:33
-- [[cholangitis]] date: 2023-01-09 00:33
-- [[Calcium channel blockers-toxicology]] date: 2023-01-09 00:33
-- [[Cardiovascular-complications of HIV AIDS]] date: 2023-01-09 00:33
-- [[bradycardias av block and av dissociation]] date: 2023-01-09 00:33
-- [[begins]] date: 2023-01-09 00:33
-- [[Causes of low Mg]] date: 2023-01-09 00:33
-- [[Central diabetes insipidus]] date: 2023-01-09 00:33
-- [[Causes of Hemolytic Anemia by Mechanism]] date: 2023-01-09 00:33
-- [[Broad categories-interstitial lung disease]] date: 2023-01-09 00:33
-- [[Cardiorenal syndrome]] date: 2023-01-09 00:33
-- [[Complicated vs uncomplicated parapneumonic]] date: 2023-01-09 00:33
-- [[Blastomycosis]] date: 2023-01-09 00:33
-- [[CHA2DS2-VASc]] date: 2023-01-09 00:33
-- [[CPS-22C3]] date: 2023-01-09 00:33
-- [[Clinical manifestations-crohn’s disease]] date: 2023-01-09 00:33
-- [[Bioprosthetic]] date: 2023-01-09 00:33
-- [[Causes of Shock Classified by Mechanism and Hemodynamics]] date: 2023-01-09 00:33
-- [[Central hypogonadism]] date: 2023-01-09 00:33
-- [[Bronchodilators]] date: 2023-01-09 00:33
-- [[Beta blockers-toxicology]] date: 2023-01-09 00:33
-- [[Clinical Manifestations and Physical Exam-acute aortic syndromes]] date: 2023-01-09 00:33
-- [[Controller medications]] date: 2023-01-09 00:33
-- [[Celiac disease]] date: 2023-01-09 00:33
-- [[Cangrelor]] date: 2023-01-09 00:33
-- [[Cerebral edema-Management-acute liver failure]] date: 2023-01-09 00:33
-- [[Chvostek sign]] date: 2023-01-09 00:33
-- [[Bell’s palsy]] date: 2023-01-09 00:33
-- [[Complications-cholecystitis]] date: 2023-01-09 00:33
-- [[cancer biology]] date: 2023-01-09 00:33
-- [[cholelithiasis]] date: 2023-01-09 00:33
-- [[Central vein stenosis]] date: 2023-01-09 00:33
-- [[Cardioversion]] date: 2023-01-09 00:33
-- [[Bleeding Treatment for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:33
-- [[buy mac]] date: 2023-01-09 00:33
-- [[Cardiac-resynch-therapy]] date: 2023-01-09 00:33
-- [[Chronic treatment-chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
-- [[cancer complications]] date: 2023-01-09 00:33
-- [[Complications-acute pancreatitis]] date: 2023-01-09 00:33
-- [[Cardiogenic shock]] date: 2023-01-09 00:33
-- [[Cardiac output PA catheter and tailored therapy]] date: 2023-01-09 00:33
-- [[Categories-diabetes mellitus]] date: 2023-01-09 00:33
-- [[bag and mask ventilation]] date: 2023-01-09 00:33
-- [[Central hypothyroidism]] date: 2023-01-09 00:33
-- [[CAR-T-Toxicity]] date: 2023-01-09 00:33
-- [[CAPT-resistant GNB]] date: 2023-01-09 00:33
-- [[biliary tract disease]] date: 2023-01-09 00:33
-- [[BP control in chronic kidney disease]] date: 2023-01-09 00:33
-- [[Carbon monoxide-toxicology]] date: 2023-01-09 00:33
-- [[Background of vasculitis]] date: 2023-01-09 00:33
-- [[AV dissociation]] date: 2023-01-09 00:33
-- [[Biologics]] date: 2023-01-09 00:33
-- [[Calcitriol]] date: 2023-01-09 00:33
-- [[Cellulitis Treatment]] date: 2023-01-09 00:33
-- [[Cluster headache]] date: 2023-01-09 00:33
-- [[Cell count of cerebrospinal fluid]] date: 2023-01-09 00:33
-- [[cancer survivorship]] date: 2023-01-09 00:33
-- [[Characteristics of Pleural Fluid]] date: 2023-01-09 00:33
-- [[choledocholithiasis]] date: 2023-01-09 00:33
-- [[Cat bite]] date: 2023-01-09 00:33
-- [[basophilia]] date: 2023-01-09 00:33
-- [[cardiac rhythm management devices]] date: 2023-01-09 00:33
-- [[Cancer screening of inflammatory bowel disease]] date: 2023-01-09 00:33
-- [[AV Block]] date: 2023-01-09 00:33
-- [[Calciphylaxis]] date: 2023-01-09 00:33
-- [[Axis-deviation]] date: 2023-01-09 00:33
-- [[Behçet’s syndrome]] date: 2023-01-09 00:33
-- [[cancer pharmacology]] date: 2023-01-09 00:33
-- [[Common Diagnostic Tests in Thyroid Disorders]] date: 2023-01-09 00:33
-- [[Candida species]] date: 2023-01-09 00:33
-- [[cardioversion of ACLS Tachycardia Algorithm]] date: 2023-01-09 00:33
-- [[C5-9 deficiency]] date: 2023-01-09 00:33
-- [[CHECKLIST AND LONG TERM POST ACS MANAGEMENT]] date: 2023-01-09 00:33
-- [[Cardiac conditions-Endocarditis Prophylaxis]] date: 2023-01-09 00:33
-- [[Context sensitive half time]] date: 2023-01-09 00:33
-- [[Benzodiazepines-toxicology]] date: 2023-01-09 00:33
-- [[Approach to glomerulonephritis based on immunofluorescence pattern]] date: 2023-01-09 00:33
-- [[Approach to hypokalemia]] date: 2023-01-09 00:33
-- [[Anticoagulation-Treatment of Chronic HF with Reduced EF]] date: 2023-01-09 00:33
-- [[arrhythmias]] date: 2023-01-09 00:33
-- [[antibiotics]] date: 2023-01-09 00:33
-- [[Angioedema]] date: 2023-01-09 00:33
-- [[Anticoagulant Therapy]] date: 2023-01-09 00:33
-- [[Antituberculous Treatment Regimens]] date: 2023-01-09 00:33
-- [[Antituberculous Medications]] date: 2023-01-09 00:33
-- [[Anti-IL5]] date: 2023-01-09 00:33
-- [[Autoimmune hemolytic anemia]] date: 2023-01-09 00:33
-- [[Approach to syncope-syncope]] date: 2023-01-09 00:33
-- [[aortic aneurysms]] date: 2023-01-09 00:33
-- [[anion gap]] date: 2023-01-09 00:33
-- [[Bundle-Branch-Blocks]] date: 2023-01-09 00:33
-- [[Approach to acute AF]] date: 2023-01-09 00:33
-- [[Atrial-Abnormality]] date: 2023-01-09 00:33
-- [[Aspirin]] date: 2023-01-09 00:33
-- [[Asthma Stepwise Therapy]] date: 2023-01-09 00:33
-- [[Asthma plus syndromes]] date: 2023-01-09 00:33
-- [[Anticoagulant in chronic kidney disease]] date: 2023-01-09 00:33
-- [[Anemia in chronic kidney disease]] date: 2023-01-09 00:33
-- [[Amiodarone]] date: 2023-01-09 00:33
-- [[amiodarone and thyroid disease]] date: 2023-01-09 00:33
-- [[Aldosterone-antagonists]] date: 2023-01-09 00:33
-- [[Aspergillus flavus]] date: 2023-01-09 00:33
-- [[Antiphospholipid antibodies]] date: 2023-01-09 00:33
-- [[Arrhythmias post MI]] date: 2023-01-09 00:33
-- [[approach to abnormal hemostasis]] date: 2023-01-09 00:33
-- [[Approach to oxygenation, hypoxemia, and hypoxemic respiratory failure]] date: 2023-01-09 00:33
-- [[Anaplastic thyroid cancer]] date: 2023-01-09 00:33
-- [[Approach to treatment-of-hyponatremia]] date: 2023-01-09 00:33
-- [[Approach to polyuria]] date: 2023-01-09 00:33
-- [[Anti-GBM Disease]] date: 2023-01-09 00:33
-- [[aura]] date: 2023-01-09 00:33
-- [[autoimmune pancreatitis]] date: 2023-01-09 00:33
-- [[asymptomatic glomerular hematuria]] date: 2023-01-09 00:33
-- [[alcohol withdrawal]] date: 2023-01-09 00:33
-- [[Autoimmune Polyglandular Syndromes]] date: 2023-01-09 00:33
-- [[Antibiotics of COPDAE]] date: 2023-01-09 00:33
-- [[Albuterol of COPDAE]] date: 2023-01-09 00:33
-- [[Aplastic anemia]] date: 2023-01-09 00:33
-- [[Aspergillosis]] date: 2023-01-09 00:33
-- [[Anticoagulation  antiplatelet therapy-prosthetic-heart-valves]] date: 2023-01-09 00:33
-- [[Allergic Transfusion reactions]] date: 2023-01-09 00:33
-- [[Approach to metabolic acidosis]] date: 2023-01-09 00:33
-- [[Anti Depressant KFSYSCC]] date: 2023-01-09 00:33
-- [[Approach to microcytic anemias]] date: 2023-01-09 00:33
-- [[Approach to previously established HIV positive Pt]] date: 2023-01-09 00:33
-- [[Antiplatelet Therapy]] date: 2023-01-09 00:33
-- [[Antiplatelet Therapy of STEMI]] date: 2023-01-09 00:33
-- [[Approach to Diuresis ]] date: 2023-01-09 00:33
-- [[Antibiotics-sepsis and shock]] date: 2023-01-09 00:33
-- [[Approach to newly diagnosed HIV positive Pt]] date: 2023-01-09 00:33
-- [[Approach to anemia and common causes]] date: 2023-01-09 00:33
-- [[ANCA positive Vasculitis]] date: 2023-01-09 00:33
-- [[Atypical ANCA patterns]] date: 2023-01-09 00:33
-- [[ATTRACTION-3]] date: 2023-01-09 00:33
-- [[antimetabolites]] date: 2023-01-09 00:33
-- [[Anorectal disorders]] date: 2023-01-09 00:33
-- [[Appearance of cerebrospinal fluid]] date: 2023-01-09 00:33
-- [[aseptic meningitis]] date: 2023-01-09 00:33
-- [[Approach to hypernatremia]] date: 2023-01-09 00:33
-- [[Approach to TSH levels]] date: 2023-01-09 00:33
-- [[Anemias of other chronic disorders]] date: 2023-01-09 00:33
-- [[acid-base disturbances]] date: 2023-01-09 00:32
-- [[Acute Anti Ischemic and Analgesic Treatment]] date: 2023-01-09 00:32
-- [[Acute Treatment of Hypercalcemia]] date: 2023-01-09 00:32
-- [[Acute Kidney Injury in Patients with Liver Disease | American Society of Nephrology]] date: 2023-01-09 00:32
-- [[Acetaminophen hepatotoxicity]] date: 2023-01-09 00:32
+- [[β-blocker]] date: 2023-01-09 00:33
+- [[α1-antitrypsin deficiency]] date: 2023-01-09 00:33
+- [[Zygomycetes]] date: 2023-01-09 00:33
+- [[zettle]] date: 2023-01-09 00:33
+- [[YPM0hbw1azf qwq2fpw]] date: 2023-01-09 00:33
+- [[wowoowow]] date: 2023-01-09 00:33
+- [[Workup-syncope]] date: 2023-01-09 00:33
+- [[Workup-of-hematuria]] date: 2023-01-09 00:33
+- [[Workup-nephrotic syndrome]] date: 2023-01-09 00:33
+- [[Workup-nephrolithiasis]] date: 2023-01-09 00:33
+- [[workup-hyponatremia]] date: 2023-01-09 00:33
+- [[Workup-hypokalemia]] date: 2023-01-09 00:33
+- [[Workup-hypernatremia]] date: 2023-01-09 00:33
+- [[Workup-hyperkalemia]] date: 2023-01-09 00:33
+- [[Workup-glomerulonephritis]] date: 2023-01-09 00:33
+- [[Workup-for-AG-metabolic-acidosis]] date: 2023-01-09 00:33
+- [[Workup-fever of unknown origin]] date: 2023-01-09 00:33
+- [[Workup-fever in a returned traveler]] date: 2023-01-09 00:33
+- [[Workup-cirrhosis]] date: 2023-01-09 00:33
+- [[Workup-acute liver failure]] date: 2023-01-09 00:33
+- [[Workup of chronic diarrhea]] date: 2023-01-09 00:33
+- [[Workup for non-AG metabolic acidosis]] date: 2023-01-09 00:33
+- [[Workup for effusion]] date: 2023-01-09 00:33
+- [[woman health]] date: 2023-01-09 00:33
+- [[Wolff-Chaikoff effect]] date: 2023-01-09 00:33
+- [[wide complex]] date: 2023-01-09 00:33
+- [[Whipple’s disease]] date: 2023-01-09 00:33
+- [[When to treat chronic HBV with anti-virals]] date: 2023-01-09 00:33
+- [[When to suspect migraine]] date: 2023-01-09 00:33
+- [[What are the most commonly encountered fever patterns]] date: 2023-01-09 00:33
+- [[Weaning from Mechanical Ventilation]] date: 2023-01-09 00:33
+- [[weakness and neuromuscular dysfunction]] date: 2023-01-09 00:33
+- [[WBC of cerebrospinal fluid]] date: 2023-01-09 00:33
+- [[Washington Manual Thyroid Disorders]] date: 2023-01-09 00:33
+- [[volume status]] date: 2023-01-09 00:33
+- [[Vitamin K deficiency]] date: 2023-01-09 00:33
+- [[vitamin D replacement]] date: 2023-01-09 00:33
+- [[Vitamin B12 deficiency]] date: 2023-01-09 00:33
+- [[viral respiratory infections]] date: 2023-01-09 00:33
+- [[Vericiguat]] date: 2023-01-09 00:33
+- [[Ventilator Modes and Principles]] date: 2023-01-09 00:33
+- [[Vasoactive Agents as Treatment-pulmonary hypertension]] date: 2023-01-09 00:33
+- [[Vascular Beds Affected by Inherited and Acquired Hypercoagulable States]] date: 2023-01-09 00:33
+- [[Vascular Access-renal replacement and dialysis]] date: 2023-01-09 00:33
+- [[Variable and Possible Etiology-fever and rash]] date: 2023-01-09 00:33
+- [[valve-replacement]] date: 2023-01-09 00:33
+- [[vagal maneuvers]] date: 2023-01-09 00:33
+- [[Use of 1,3-β-D-glucan in invasive fungal diseases in hematology patients]] date: 2023-01-09 00:33
+- [[Urine Sediment]] date: 2023-01-09 00:33
+- [[Urine Dipstick]] date: 2023-01-09 00:33
+- [[urinalysis]] date: 2023-01-09 00:33
+- [[urgent symptomatic interventions of leptomeningeal disease]] date: 2023-01-09 00:33
+- [[Uremic bleeding]] date: 2023-01-09 00:33
+- [[Uremia]] date: 2023-01-09 00:33
+- [[ulcerative colitis]] date: 2023-01-09 00:33
+- [[typical electrocardiogram in a patient with acute pericarditis]] date: 2023-01-09 00:33
+- [[Types of stones and risk factors]] date: 2023-01-09 00:33
+- [[Types of gallstones-cholelithiasis]] date: 2023-01-09 00:33
+- [[Types of Cryoglobulinemia]] date: 2023-01-09 00:33
+- [[type]] date: 2023-01-09 00:33
+- [[type my note]] date: 2023-01-09 00:33
+- [[type 3 myocardial infarction]] date: 2023-01-09 00:33
+- [[type 2 MI]] date: 2023-01-09 00:33
+- [[type 1 MI]] date: 2023-01-09 00:33
+- [[tutorial]] date: 2023-01-09 00:33
+- [[Tubulointerstitial proteinuria]] date: 2023-01-09 00:33
+- [[tuberculosis]] date: 2023-01-09 00:33
+- [[Troponin]] date: 2023-01-09 00:33
+- [[Tricyclic antidepressants-toxicology]] date: 2023-01-09 00:33
+- [[tricuspid-regurgitation]] date: 2023-01-09 00:33
+- [[Triage-pneumonia]] date: 2023-01-09 00:33
+- [[Treatment-Wilson disease]] date: 2023-01-09 00:33
+- [[Treatment-Vitamin B12 deficiency]] date: 2023-01-09 00:33
+- [[Treatment-syncope]] date: 2023-01-09 00:33
+- [[Treatment-skin and soft tissue infections]] date: 2023-01-09 00:33
+- [[Treatment-sexually transmitted infections]] date: 2023-01-09 00:33
+- [[Treatment-Pure red cell aplasia]] date: 2023-01-09 00:33
+- [[Treatment-pulmonary hypertension]] date: 2023-01-09 00:33
+- [[Treatment-polyuria]] date: 2023-01-09 00:33
+- [[Treatment-pneumonia]] date: 2023-01-09 00:33
+- [[Treatment-pleural effusion]] date: 2023-01-09 00:33
+- [[Treatment-pericardial tamponade]] date: 2023-01-09 00:33
+- [[Treatment-Paroxysmal nocturnal hemoglobinuria]] date: 2023-01-09 00:33
+- [[Treatment-osteomyelitis]] date: 2023-01-09 00:33
+- [[Treatment-of-hyponatremia]] date: 2023-01-09 00:33
+- [[Treatment-nephrotic syndrome]] date: 2023-01-09 00:33
+- [[Treatment-mitral-stenosis]] date: 2023-01-09 00:33
+- [[Treatment-mitral-regurgitation]] date: 2023-01-09 00:33
+- [[Treatment-hypopituitary syndromes]] date: 2023-01-09 00:33
+- [[Treatment-hypokalemia]] date: 2023-01-09 00:33
+- [[Treatment-hypocalcemia]] date: 2023-01-09 00:33
+- [[Treatment-hyperthyroidism]] date: 2023-01-09 00:33
+- [[Treatment-hypertensive crises]] date: 2023-01-09 00:33
+- [[Treatment-hypertension]] date: 2023-01-09 00:33
+- [[Treatment-hyperosmolar hyperglycemic state]] date: 2023-01-09 00:33
+- [[Treatment-hypernatremia]] date: 2023-01-09 00:33
+- [[Treatment-hyperaldosteronism]] date: 2023-01-09 00:33
+- [[Treatment-glomerulonephritis]] date: 2023-01-09 00:33
+- [[Treatment-fever of unknown origin]] date: 2023-01-09 00:33
+- [[Treatment-epidural abscess]] date: 2023-01-09 00:33
+- [[Treatment-diverticulitis]] date: 2023-01-09 00:33
+- [[Treatment-diabetic foot infections]] date: 2023-01-09 00:33
+- [[Treatment-cystic fibrosis]] date: 2023-01-09 00:33
+- [[Treatment-chronic pancreatitis]] date: 2023-01-09 00:33
+- [[Treatment-cholelithiasis]] date: 2023-01-09 00:33
+- [[Treatment-Candida species]] date: 2023-01-09 00:33
+- [[Treatment-bronchiectasis]] date: 2023-01-09 00:33
+- [[Treatment-aortic-regurgitation]] date: 2023-01-09 00:33
+- [[Treatment-aortic aneurysms]] date: 2023-01-09 00:33
+- [[Treatment-Anemia of chronic inflammation]] date: 2023-01-09 00:33
+- [[Treatment-anaphylaxis]] date: 2023-01-09 00:33
+- [[Treatment-acute respiratory distress syndrome]] date: 2023-01-09 00:33
+- [[Treatment-acute pancreatitis]] date: 2023-01-09 00:33
+- [[Treatment-acute mesenteric ischemia]] date: 2023-01-09 00:33
+- [[Treatment-acute aortic syndromes]] date: 2023-01-09 00:33
+- [[Treatment-Acetaminophen hepatotoxicity]] date: 2023-01-09 00:33
+- [[Treatment prevention-herpes zoster]] date: 2023-01-09 00:33
+- [[Treatment peptic ulcer disease ]] date: 2023-01-09 00:33
+- [[Treatment of Thyroid storm]] date: 2023-01-09 00:33
+- [[Treatment of SVT]] date: 2023-01-09 00:33
+- [[Treatment of SIADH]] date: 2023-01-09 00:33
+- [[Treatment of Prinzmetals variant angina]] date: 2023-01-09 00:33
+- [[Treatment of Primary ITP in Adults]] date: 2023-01-09 00:33
+- [[Treatment of pericarditis]] date: 2023-01-09 00:33
+- [[treatment of peptic ulcer disease]] date: 2023-01-09 00:33
+- [[Treatment of overt hypothyroidism]] date: 2023-01-09 00:33
+- [[Treatment of other lipid fractions]] date: 2023-01-09 00:33
+- [[Treatment of Migraine]] date: 2023-01-09 00:33
+- [[Treatment of LDL-C]] date: 2023-01-09 00:33
+- [[Treatment of latent TB]] date: 2023-01-09 00:33
+- [[Treatment of Hypovolemic hyponatremia]] date: 2023-01-09 00:33
+- [[Treatment of Hypervolemic hyponatremia]] date: 2023-01-09 00:33
+- [[Treatment of hypertrophic cardiomyopathy]] date: 2023-01-09 00:33
+- [[Treatment of Hemochromatosis]] date: 2023-01-09 00:33
+- [[Treatment of Heart failure with preserved EF]] date: 2023-01-09 00:33
+- [[Treatment of Granulomatosis with polyangiitis]] date: 2023-01-09 00:33
+- [[Treatment of DKA]] date: 2023-01-09 00:33
+- [[Treatment of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:33
+- [[Treatment of Constipation]] date: 2023-01-09 00:33
+- [[Treatment of Behçet’s syndrome]] date: 2023-01-09 00:33
+- [[Treatment of asymptomatic 1° HPT]] date: 2023-01-09 00:33
+- [[Treatment of Antiphospholipid syndrome]] date: 2023-01-09 00:33
+- [[treatment of acute decompensating heart failure]] date: 2023-01-09 00:33
+- [[Treatment of active tuberculosis]] date: 2023-01-09 00:33
+- [[Treatment gastroesophageal reflux disease]] date: 2023-01-09 00:33
+- [[Treatment for acute HBV]] date: 2023-01-09 00:33
+- [[Treatment and prognosis-Aplastic anemia]] date: 2023-01-09 00:33
+- [[Treatment acute diarrhea]] date: 2023-01-09 00:33
+- [[Transudates]] date: 2023-01-09 00:33
+- [[Transudate vs exudate]] date: 2023-01-09 00:33
+- [[transthoracic echo vs transesophageal echo in-Diagnosis-bacterial endocarditis]] date: 2023-01-09 00:33
+- [[transfusion-related acute lung injury]] date: 2023-01-09 00:33
+- [[Transfusion-associated circulatory overload]] date: 2023-01-09 00:33
+- [[Transfusion reactions]] date: 2023-01-09 00:33
+- [[Transfusion Complications]] date: 2023-01-09 00:33
+- [[Transcellular shifts-hyperkalemia]] date: 2023-01-09 00:33
+- [[toxicology]] date: 2023-01-09 00:33
+- [[Topiramate]] date: 2023-01-09 00:33
+- [[TIMI Risk Score]] date: 2023-01-09 00:33
+- [[timeV]] date: 2023-01-09 00:33
+- [[tick-borne diseases]] date: 2023-01-09 00:33
+- [[Ticagrelor]] date: 2023-01-09 00:33
+- [[Thyroiditis]] date: 2023-01-09 00:33
+- [[Thyroid storm]] date: 2023-01-09 00:33
+- [[Thyroid nodules]] date: 2023-01-09 00:33
+- [[thyroid cancer]] date: 2023-01-09 00:33
+- [[thromboangiitis obliterans]] date: 2023-01-09 00:33
+- [[three-component friction rub]] date: 2023-01-09 00:33
+- [[Thoracentesis]] date: 2023-01-09 00:33
+- [[this is a book]] date: 2023-01-09 00:33
+- [[Thiazide diuretics ]] date: 2023-01-09 00:33
+- [[Therapeutic apheresis]] date: 2023-01-09 00:33
+- [[The Effect of Advances in Lung-Cancer Treatment on Population Mortality]] date: 2023-01-09 00:33
+- [[The Confusion Assessment Method]] date: 2023-01-09 00:33
+- [[Thalassemias]] date: 2023-01-09 00:33
+- [[Tests of hepatic function]] date: 2023-01-09 00:33
+- [[Test-results-noninvasive evaluation of CAD]] date: 2023-01-09 00:33
+- [[terms used to describe patients with delirium]] date: 2023-01-09 00:33
+- [[tension pneumocephalus]] date: 2023-01-09 00:33
+- [[Temporary pacing wires]] date: 2023-01-09 00:33
+- [[TAVI]] date: 2023-01-09 00:33
+- [[Targets-sepsis and shock]] date: 2023-01-09 00:33
+- [[Takayasu’s arteritis]] date: 2023-01-09 00:33
+- [[TaitaNo5]] date: 2023-01-09 00:33
+- [[Tailored therapy in cardiogenic shock ]] date: 2023-01-09 00:33
+- [[systematic-Treatment]] date: 2023-01-09 00:33
+- [[Synthesis and Metabolism of Vitamin D]] date: 2023-01-09 00:33
+- [[Symptoms-ascites]] date: 2023-01-09 00:33
+- [[symptom to diagnosis of dyspnea]] date: 2023-01-09 00:33
+- [[Sx of Hemochromatosis]] date: 2023-01-09 00:33
+- [[SVC syndrome]] date: 2023-01-09 00:33
+- [[Surgery of inflammatory bowel disease]] date: 2023-01-09 00:33
+- [[surgery and radiation for local control of breast cancer]] date: 2023-01-09 00:33
+- [[Subclinical hypothyroidism]] date: 2023-01-09 00:33
+- [[stroke]] date: 2023-01-09 00:33
+- [[Steroids-sepsis and shock]] date: 2023-01-09 00:33
+- [[Stepwise Evaluation of a Patient with Delirium]] date: 2023-01-09 00:33
+- [[Standard workup-hypertension]] date: 2023-01-09 00:33
+- [[Staging of lung cancer]] date: 2023-01-09 00:33
+- [[Staging of breast cancer]] date: 2023-01-09 00:33
+- [[Staging and prognosis-chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
+- [[Stages of CKD]] date: 2023-01-09 00:33
+- [[ST-depression]] date: 2023-01-09 00:33
+- [[Spot urine]] date: 2023-01-09 00:33
+- [[Splenic vein thrombosis]] date: 2023-01-09 00:33
+- [[Specific gravity of Urine Dipstick]] date: 2023-01-09 00:33
+- [[Specialized Diagnostic Tests in Thyroid Disorders]] date: 2023-01-09 00:33
+- [[Sotalol]] date: 2023-01-09 00:33
+- [[sorafenib]] date: 2023-01-09 00:33
+- [[solitary pulmonary nodule]] date: 2023-01-09 00:33
+- [[skin and soft tissue infections]] date: 2023-01-09 00:33
+- [[Sinus bradycardia]] date: 2023-01-09 00:33
+- [[Sideroblastic anemia]] date: 2023-01-09 00:33
+- [[Sickle cell anemia ]] date: 2023-01-09 00:33
+- [[SIADH]] date: 2023-01-09 00:33
+- [[Shock]] date: 2023-01-09 00:33
+- [[SGLT2i]] date: 2023-01-09 00:33
+- [[SGLT2i in chronic kidney disease]] date: 2023-01-09 00:33
+- [[sexually transmitted infections]] date: 2023-01-09 00:33
+- [[Severity-acute pancreatitis]] date: 2023-01-09 00:33
+- [[Severity of Asthma Exacerbation]] date: 2023-01-09 00:33
+- [[setup]] date: 2023-01-09 00:33
+- [[Sequential management of bacterial meningitis]] date: 2023-01-09 00:33
+- [[sensible and insensible fluid losses]] date: 2023-01-09 00:33
+- [[selexipag]] date: 2023-01-09 00:33
+- [[Select clinical manifestations-fever in a returned traveler]] date: 2023-01-09 00:33
+- [[seizures]] date: 2023-01-09 00:33
+- [[Secondary hyperPTH]] date: 2023-01-09 00:33
+- [[Secondary causes of iron overload]] date: 2023-01-09 00:33
+- [[Secondary Causes of Hypertension]] date: 2023-01-09 00:33
+- [[secondary bacterial peritonitis]] date: 2023-01-09 00:33
+- [[Second-line or maintainence therapy for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:33
+- [[Screening-aortic aneurysms]] date: 2023-01-09 00:33
+- [[Screening Test Abnormalities in Inherited and Acquired Coagulopathies]] date: 2023-01-09 00:33
+- [[Screening of breast cancer]] date: 2023-01-09 00:33
+- [[Screening for latent TB]] date: 2023-01-09 00:33
+- [[Screening and Diagnosis-HIV AIDS]] date: 2023-01-09 00:33
+- [[Scleroderma renal crisis]] date: 2023-01-09 00:33
+- [[Schistosoma haematobium]] date: 2023-01-09 00:33
+- [[Sarcoidosis]] date: 2023-01-09 00:33
+- [[Salt H2O or raw oysters fish]] date: 2023-01-09 00:33
+- [[Salicylates-toxicology]] date: 2023-01-09 00:33
+- [[Rule out mimickers of ILD]] date: 2023-01-09 00:33
+- [[Role of hematopoietic growth factors]] date: 2023-01-09 00:33
+- [[Role of Circulating Tumor DNA in Guiding Adjuvant Therapy in Colon Cancer]] date: 2023-01-09 00:33
+- [[Roflumilast]] date: 2023-01-09 00:33
+- [[Risk-Stratification-andreatment-of-Localized-Prostate]] date: 2023-01-09 00:33
+- [[Risk stratification of fever and neutropenia]] date: 2023-01-09 00:33
+- [[Risk factors-acute aortic syndromes]] date: 2023-01-09 00:33
+- [[Risk Factors and Screening]] date: 2023-01-09 00:33
+- [[risk factor of delirium]] date: 2023-01-09 00:33
+- [[Right-ventricular-hypertrophy]] date: 2023-01-09 00:33
+- [[Rhythm control]] date: 2023-01-09 00:33
+- [[Rhabdomyolysis]] date: 2023-01-09 00:33
+- [[Revascularization]] date: 2023-01-09 00:33
+- [[RESTRICTIVE---INFILTRATIVE]] date: 2023-01-09 00:33
+- [[respiratory-alkalosis]] date: 2023-01-09 00:33
+- [[respiratory-acidosis]] date: 2023-01-09 00:33
+- [[Resistant HTN]] date: 2023-01-09 00:33
+- [[Residual syndrome]] date: 2023-01-09 00:33
+- [[Replacement fluid of continuous veno-venous hemofiltration]] date: 2023-01-09 00:33
+- [[Replace free H2O deficit]] date: 2023-01-09 00:33
+- [[renal-Secondary Causes of Hypertension]] date: 2023-01-09 00:33
+- [[Renal-limited vasculitis]] date: 2023-01-09 00:33
+- [[Renal-complications of HIV AIDS]] date: 2023-01-09 00:33
+- [[Renal tubular acidoses]] date: 2023-01-09 00:33
+- [[renal replacement and dialysis]] date: 2023-01-09 00:33
+- [[Renal losses of Hypovolemic-hypotonic-hyponatremia]] date: 2023-01-09 00:33
+- [[Rejection-Kidney transplantation]] date: 2023-01-09 00:33
+- [[Region or Exposure Common Etiologies -fever in a returned traveler]] date: 2023-01-09 00:33
+- [[Regimens-Endocarditis Prophylaxis]] date: 2023-01-09 00:33
+- [[Recurrent infection-clostridioides difficile infection]] date: 2023-01-09 00:33
+- [[Recommended Chronic Therapy by HF Stage]] date: 2023-01-09 00:33
+- [[Recognizing and managing comorbidities of Migraine]] date: 2023-01-09 00:33
+- [[RB-ILD resp bronchiolitis-assoc ILD]] date: 2023-01-09 00:33
+- [[Raynaud phenomenon]] date: 2023-01-09 00:33
+- [[Rationale PA catheter and tailored therapy]] date: 2023-01-09 00:33
+- [[Rate of correction of hypernatremia]] date: 2023-01-09 00:33
+- [[Rate Control-atrial fibrillation]] date: 2023-01-09 00:33
+- [[RASi ACEI ARB]] date: 2023-01-09 00:33
+- [[Rapid correction of Treatment-of-hyponatremia]] date: 2023-01-09 00:33
+- [[Rank the Differential Diagnosis]] date: 2023-01-09 00:33
+- [[pyenv]] date: 2023-01-09 00:33
+- [[Pure red cell aplasia]] date: 2023-01-09 00:33
+- [[pulsus paradoxus]] date: 2023-01-09 00:33
+- [[Pulmonary-Renal Syndromes]] date: 2023-01-09 00:33
+- [[Pulmonary-complications of HIV AIDS]] date: 2023-01-09 00:33
+- [[pulmonary critical care]] date: 2023-01-09 00:33
+- [[Pseudoinfarct]] date: 2023-01-09 00:33
+- [[Pseudo-hypoparathyroidism]] date: 2023-01-09 00:33
+- [[Protein of Urine Dipstick]] date: 2023-01-09 00:33
+- [[Protein of cerebrospinal fluid]] date: 2023-01-09 00:33
+- [[prosthetic-heart-valves]] date: 2023-01-09 00:33
+- [[Prophylaxis-HIV AIDS]] date: 2023-01-09 00:33
+- [[Properties and Antidotes for Anticoagulants Fibrinolytics]] date: 2023-01-09 00:33
+- [[Propafenone]] date: 2023-01-09 00:33
+- [[Prognosis-ulcerative colitis]] date: 2023-01-09 00:33
+- [[Prognosis-syncope]] date: 2023-01-09 00:33
+- [[Prognosis-pulmonary hypertension]] date: 2023-01-09 00:33
+- [[Prognosis-cirrhosis]] date: 2023-01-09 00:33
+- [[Prognosis-Alcohol-associated hepatitis]] date: 2023-01-09 00:33
+- [[Prognosis-acute pancreatitis]] date: 2023-01-09 00:33
+- [[Prognosis-acute liver failure]] date: 2023-01-09 00:33
+- [[Procedures-Endocarditis Prophylaxis]] date: 2023-01-09 00:33
+- [[Procainamide]] date: 2023-01-09 00:33
+- [[Principles-solitary pulmonary nodule]] date: 2023-01-09 00:33
+- [[Principles of treatment-asthma]] date: 2023-01-09 00:33
+- [[Principles of Imaging in Vasculitides]] date: 2023-01-09 00:33
+- [[Primary hyperparathyroidism]] date: 2023-01-09 00:33
+- [[Primary central nervous system vasculitis]] date: 2023-01-09 00:33
+- [[Preventive treatment of Migraine]] date: 2023-01-09 00:33
+- [[Prevention-pneumonia]] date: 2023-01-09 00:33
+- [[Prevention-Contrast-induced acute kidney injury]] date: 2023-01-09 00:33
+- [[Prevention of chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
+- [[Presentation of Thyroid storm]] date: 2023-01-09 00:33
+- [[Prerenal acute kidney injury etiology]] date: 2023-01-09 00:33
+- [[preoxygenation]] date: 2023-01-09 00:33
+- [[Preoperative evaluation]] date: 2023-01-09 00:33
+- [[premedication of airway-management]] date: 2023-01-09 00:33
+- [[predictors of difficult mask ventilation]] date: 2023-01-09 00:33
+- [[Precipitants-hypertensive crises]] date: 2023-01-09 00:33
+- [[Precipitants-diabetic ketoacidosis]] date: 2023-01-09 00:33
+- [[Precipitants of Migraine]] date: 2023-01-09 00:33
+- [[Precipitants of acute heart failure]] date: 2023-01-09 00:33
+- [[Prasugrel]] date: 2023-01-09 00:33
+- [[POUNDing Mnemonic]] date: 2023-01-09 00:33
+- [[potassium homeostasis]] date: 2023-01-09 00:33
+- [[Post-sphincter-otomy bleeding]] date: 2023-01-09 00:33
+- [[Post-renal acute kidney injury etiology]] date: 2023-01-09 00:33
+- [[Post-exacerb care of COPDAE]] date: 2023-01-09 00:33
+- [[positioning-airway-management]] date: 2023-01-09 00:33
+- [[Poor-R-wave-progression]] date: 2023-01-09 00:33
+- [[polyuria]] date: 2023-01-09 00:33
+- [[polyps]] date: 2023-01-09 00:33
+- [[Polyp or Tumor]] date: 2023-01-09 00:33
+- [[Polymyalgia rheumatica]] date: 2023-01-09 00:33
+- [[Polycystic kidney disease]] date: 2023-01-09 00:33
+- [[Polyarteritis nodosa]] date: 2023-01-09 00:33
+- [[pleural effusion]] date: 2023-01-09 00:33
+- [[pleocytosis]] date: 2023-01-09 00:33
+- [[Platelets-transfusion]] date: 2023-01-09 00:33
+- [[Placement PA catheter and tailored therapy]] date: 2023-01-09 00:33
+- [[Pituitary tumors]] date: 2023-01-09 00:33
+- [[Pituitary apoplexy]] date: 2023-01-09 00:33
+- [[PIK3CA]] date: 2023-01-09 00:33
+- [[physiology of pulmary]] date: 2023-01-09 00:33
+- [[Physical-exam-mitral-regurgitation]] date: 2023-01-09 00:33
+- [[Physical-exam-aortic-stenosis]] date: 2023-01-09 00:33
+- [[Physical-exam-aortic-regurgitation]] date: 2023-01-09 00:33
+- [[physical findings may help identify the cause of a fever]] date: 2023-01-09 00:33
+- [[Physical examination]] date: 2023-01-09 00:33
+- [[Physical exam-pericarditis and pericardial effusion]] date: 2023-01-09 00:33
+- [[Physical exam-pericardial tamponade]] date: 2023-01-09 00:33
+- [[Physical exam-mitral-stenosis]] date: 2023-01-09 00:33
+- [[Physical exam-constrictive pericarditis]] date: 2023-01-09 00:33
+- [[Physical exam-cirrhosis]] date: 2023-01-09 00:33
+- [[Physical exam-bacterial endocarditis]] date: 2023-01-09 00:33
+- [[Physical exam-acute bacterial meningitis]] date: 2023-01-09 00:33
+- [[Physical Exam Secret]] date: 2023-01-09 00:33
+- [[Physical exam of hypertrophic cardiomyopathy]] date: 2023-01-09 00:33
+- [[Physical exam heart failure]] date: 2023-01-09 00:33
+- [[phosphate replacement therapies]] date: 2023-01-09 00:33
+- [[phosphate disorders]] date: 2023-01-09 00:33
+- [[pheochromocytoma and paraganglioma]] date: 2023-01-09 00:33
+- [[Phases of Chronic HBV Infection]] date: 2023-01-09 00:33
+- [[Pharmacologic options-Treatment-hypertension]] date: 2023-01-09 00:33
+- [[Peritoneal dialysis-associated-Bacterial peritonitis]] date: 2023-01-09 00:33
+- [[pericarditis and pericardial effusion]] date: 2023-01-09 00:33
+- [[pericardial tamponade]] date: 2023-01-09 00:33
+- [[Penetrating injury]] date: 2023-01-09 00:33
+- [[Pembrolizumab plus Chemotherapy in Metastatic Non–Small-Cell Lung Cancer]] date: 2023-01-09 00:33
+- [[Pel-Ebstein fever]] date: 2023-01-09 00:33
+- [[PD-1 PD-L1 pathway]] date: 2023-01-09 00:33
+- [[PD peritonitis]] date: 2023-01-09 00:33
+- [[Patterns of LFTs]] date: 2023-01-09 00:33
+- [[Patient isolation-tuberculosis]] date: 2023-01-09 00:33
+- [[Pathophysiology-pleural effusion]] date: 2023-01-09 00:33
+- [[Pathophysiology-pericardial tamponade]] date: 2023-01-09 00:33
+- [[Pathophysiology-metabolic-alkalosis]] date: 2023-01-09 00:33
+- [[Pathophysiology-hyponatremia]] date: 2023-01-09 00:33
+- [[Pathophysiology-hypernatremia]] date: 2023-01-09 00:33
+- [[Pathophysiology-Heparin-Induced Thrombocytopenias]] date: 2023-01-09 00:33
+- [[Pathophysiology-gastroesophageal reflux disease]] date: 2023-01-09 00:33
+- [[Pathophysiology-diabetic ketoacidosis]] date: 2023-01-09 00:33
+- [[Pathophysiology-constrictive pericarditis]] date: 2023-01-09 00:33
+- [[Pathophysiology-Acetaminophen hepatotoxicity]] date: 2023-01-09 00:33
+- [[Pathophysiology of hypertrophic cardiomyopathy]] date: 2023-01-09 00:33
+- [[Pathophysiology of diverticulitis]] date: 2023-01-09 00:33
+- [[Pathophysiology of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:33
+- [[pathophysiology gastroesophageal reflux disease]] date: 2023-01-09 00:33
+- [[Pathophysiology and microbiology of fever and neutropenia]] date: 2023-01-09 00:33
+- [[Pathophysiology  risk factors -aortic aneurysms]] date: 2023-01-09 00:33
+- [[Pathology pathogenesis esophageal cancer]] date: 2023-01-09 00:33
+- [[Pathologic-Q-waves]] date: 2023-01-09 00:33
+- [[Pathogenesis-chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
+- [[Pathogenesis-acute pancreatitis]] date: 2023-01-09 00:33
+- [[pathogenesis of vasculitides]] date: 2023-01-09 00:33
+- [[Pathogenesis etiology-chronic pancreatitis]] date: 2023-01-09 00:33
+- [[Pathogenesis epidemiology-clostridioides difficile infection]] date: 2023-01-09 00:33
+- [[PART 1 The Profession of Medicine]] date: 2023-01-09 00:33
+- [[Paroxysmal nocturnal hemoglobinuria]] date: 2023-01-09 00:33
+- [[paresthesia and dysesthesia]] date: 2023-01-09 00:33
+- [[Parathyroid MIBI Scan]] date: 2023-01-09 00:33
+- [[parapneumonic effusions]] date: 2023-01-09 00:33
+- [[Paraneoplastic syndromes]] date: 2023-01-09 00:33
+- [[Papillary thyroid cancer]] date: 2023-01-09 00:33
+- [[pancreatic tumors]] date: 2023-01-09 00:33
+- [[Pancoast’s syndrome]] date: 2023-01-09 00:33
+- [[pain and palliative care]] date: 2023-01-09 00:33
+- [[Packed red blood cells]] date: 2023-01-09 00:33
+- [[Pacemaker Complications]] date: 2023-01-09 00:33
+- [[Pacemaker Code]] date: 2023-01-09 00:33
+- [[oxygenation]] date: 2023-01-09 00:33
+- [[Oxygen for chronic obstructive pulmonary disease]] date: 2023-01-09 00:33
+- [[Overview-potassium homeostasis]] date: 2023-01-09 00:33
+- [[Overview-immunotherapy and cellular therapy]] date: 2023-01-09 00:33
+- [[Overflow proteinuria]] date: 2023-01-09 00:33
+- [[Outpatient screening and treatment goals-diabetes mellitus]] date: 2023-01-09 00:33
+- [[Other Post MI Complications]] date: 2023-01-09 00:33
+- [[other names for vasculitides]] date: 2023-01-09 00:33
+- [[Other measures of COPDAE]] date: 2023-01-09 00:33
+- [[Other diagnostic studies-syncope]] date: 2023-01-09 00:33
+- [[Other Complication-cirrhosis]] date: 2023-01-09 00:33
+- [[Other antimicrobial agents of Drug fever]] date: 2023-01-09 00:33
+- [[Orthostatic proteinuria]] date: 2023-01-09 00:33
+- [[orthopaedic]] date: 2023-01-09 00:33
+- [[Organopho- sphate-toxicology]] date: 2023-01-09 00:33
+- [[Organ dysfunction]] date: 2023-01-09 00:33
+- [[Oral-complications of HIV AIDS]] date: 2023-01-09 00:33
+- [[Oral anticoagulation-atrial fibrillation]] date: 2023-01-09 00:33
+- [[Optimal-medical-therapy-stable ischemic heart disease]] date: 2023-01-09 00:33
+- [[Opioids-toxicology]] date: 2023-01-09 00:33
+- [[Ophthalmologic-complications of HIV AIDS]] date: 2023-01-09 00:33
+- [[OpenAIDemo]] date: 2023-01-09 00:33
+- [[open pressure]] date: 2023-01-09 00:33
+- [[Oncology-related glomerulopathy]] date: 2023-01-09 00:33
+- [[oncologic emergencies]] date: 2023-01-09 00:33
+- [[Ommaya]] date: 2023-01-09 00:33
+- [[old headache]] date: 2023-01-09 00:33
+- [[OI Prophylaxis-HIV AIDS]] date: 2023-01-09 00:33
+- [[Obstructive shock]] date: 2023-01-09 00:33
+- [[Obstructive diseases-disease-specific management of kidney disease ]] date: 2023-01-09 00:33
+- [[NV would have selected]] date: 2023-01-09 00:33
+- [[NSIP nonspecific IP]] date: 2023-01-09 00:33
+- [[normocytic anemias]] date: 2023-01-09 00:33
+- [[Normal hepatic vasculature]] date: 2023-01-09 00:33
+- [[Normal GFR but with ↓ renal K excretion-hyperkalemia]] date: 2023-01-09 00:33
+- [[Nonspecific Low Back Pain]] date: 2023-01-09 00:33
+- [[Nonspecific Low Back Pain-metadata]] date: 2023-01-09 00:33
+- [[Nonspecific Low Back Pain - New Note]] date: 2023-01-09 00:33
+- [[Nonspecific Low Back Pain - Annotations (8122022, 123726 AM)]] date: 2023-01-09 00:33
+- [[Nonspecific Low Back Pain - Annotations (8122022, 123726 AM)-1]] date: 2023-01-09 00:33
+- [[Nonpharmacologic stroke prevent ]] date: 2023-01-09 00:33
+- [[Nonmegaloblastic macrocytic anemias]] date: 2023-01-09 00:33
+- [[Non-tuberculous mycobacterium-bronchiectasis]] date: 2023-01-09 00:33
+- [[nnnnnnnnew note]] date: 2023-01-09 00:33
+- [[New York Heart Association class]] date: 2023-01-09 00:33
+- [[new report]] date: 2023-01-09 00:33
+- [[new note]] date: 2023-01-09 00:33
+- [[neutrophilia]] date: 2023-01-09 00:33
+- [[neutropenia]] date: 2023-01-09 00:33
+- [[Neuromuscular dysphagia]] date: 2023-01-09 00:33
+- [[Neurologic Psychologic-complications of HIV AIDS]] date: 2023-01-09 00:33
+- [[neurologic critical care]] date: 2023-01-09 00:33
+- [[nephrolithiasis]] date: 2023-01-09 00:33
+- [[Neoplasm Etiologies of Classic FUO]] date: 2023-01-09 00:33
+- [[necrotizing soft-tissue infections]] date: 2023-01-09 00:33
+- [[narrow complex]] date: 2023-01-09 00:33
+- [[Names for vasculitides]] date: 2023-01-09 00:33
+- [[myxoma]] date: 2023-01-09 00:33
+- [[Myxedema coma]] date: 2023-01-09 00:33
+- [[myofascial pain syndrome]] date: 2023-01-09 00:33
+- [[Myelophthisic anemia]] date: 2023-01-09 00:33
+- [[my report about irAE]] date: 2023-01-09 00:33
+- [[Mx of ACLS Tachycardia Algorithm]] date: 2023-01-09 00:33
+- [[Multiple Endocrine Neoplasia]] date: 2023-01-09 00:33
+- [[muddy brown casts]] date: 2023-01-09 00:33
+- [[Mount-Sinai-Expert-Guides]] date: 2023-01-09 00:33
+- [[monocytosis]] date: 2023-01-09 00:33
+- [[molecular diagnostics]] date: 2023-01-09 00:33
+- [[Molecular description of lymphoma]] date: 2023-01-09 00:33
+- [[Modification to initial antibiotic regimen based on site-specific evaluation of fever and neutropenia]] date: 2023-01-09 00:33
+- [[model for clinical reasoning]] date: 2023-01-09 00:33
+- [[Modalities-renal replacement and dialysis]] date: 2023-01-09 00:33
+- [[Mixed-disorders]] date: 2023-01-09 00:33
+- [[mitral-valve-prolapse]] date: 2023-01-09 00:33
+- [[mitral-stenosis]] date: 2023-01-09 00:33
+- [[Minimal change disease]] date: 2023-01-09 00:33
+- [[Milk-alkali syndrome]] date: 2023-01-09 00:33
+- [[Migraine with aura]] date: 2023-01-09 00:33
+- [[Microscopic polyangiitis]] date: 2023-01-09 00:33
+- [[microcytic anemias]] date: 2023-01-09 00:33
+- [[Microbiology-skin and soft tissue infections]] date: 2023-01-09 00:33
+- [[Microbiology-necrotizing soft-tissue infections]] date: 2023-01-09 00:33
+- [[Microbiology in Bacterial Meningitis]] date: 2023-01-09 00:33
+- [[Microbiology and severity-diabetic foot infections]] date: 2023-01-09 00:33
+- [[MI in absence of obstructive CAD]] date: 2023-01-09 00:33
+- [[methylprednisolone]] date: 2023-01-09 00:33
+- [[Methotrexate]] date: 2023-01-09 00:33
+- [[Methanol-toxicology]] date: 2023-01-09 00:33
+- [[Mesangial proliferative GN]] date: 2023-01-09 00:33
+- [[Membranous nephropathy]] date: 2023-01-09 00:33
+- [[Membranoproliferative GN]] date: 2023-01-09 00:33
+- [[Megaloblastic anemia]] date: 2023-01-09 00:33
+- [[Medullary thyroid cancer]] date: 2023-01-09 00:33
+- [[Medication causes of abnormal LFTs]] date: 2023-01-09 00:33
+- [[Medical Therapy of Ulcerative Colitis]] date: 2023-01-09 00:33
+- [[Medical Therapy of Crohn’s Disease]] date: 2023-01-09 00:33
+- [[Medical Therapy for IBD]] date: 2023-01-09 00:33
+- [[Mechanisms-Loop diuretics]] date: 2023-01-09 00:33
+- [[mechanisms of hypophosphatemia]] date: 2023-01-09 00:33
+- [[Mechanisms and Etiologies of Platelet Function Abnormalities]] date: 2023-01-09 00:33
+- [[Mechanical-prosthetic-heart-valves]] date: 2023-01-09 00:33
+- [[Mechanical complications]] date: 2023-01-09 00:33
+- [[Measurements-lipid disorders]] date: 2023-01-09 00:33
+- [[Measure Uosm]] date: 2023-01-09 00:33
+- [[Measure plasma osmolality]] date: 2023-01-09 00:33
+- [[Massive transfusion]] date: 2023-01-09 00:33
+- [[MASCC Risk Index]] date: 2023-01-09 00:33
+- [[Markdownify]] date: 2023-01-09 00:33
+- [[Managing migraine in special populations]] date: 2023-01-09 00:33
+- [[Managing complications of Migraine]] date: 2023-01-09 00:33
+- [[Management-solitary pulmonary nodule]] date: 2023-01-09 00:33
+- [[management-inflammatory bowel disease]] date: 2023-01-09 00:33
+- [[Management-acute liver failure]] date: 2023-01-09 00:33
+- [[Management of ICU patient-pulmonary hypertension]] date: 2023-01-09 00:33
+- [[management of Barrett’s esophagitis]] date: 2023-01-09 00:33
+- [[Mallory-Weiss tear]] date: 2023-01-09 00:33
+- [[Malignancy workup-adrenal incidentalomas]] date: 2023-01-09 00:33
+- [[Malabsorption]] date: 2023-01-09 00:33
+- [[Major-risk-factor-modification-stable ischemic heart disease]] date: 2023-01-09 00:33
+- [[macrocytic anemias]] date: 2023-01-09 00:33
+- [[macos config]] date: 2023-01-09 00:33
+- [[lymphocytosis]] date: 2023-01-09 00:33
+- [[Lymphocytic pleocytosis]] date: 2023-01-09 00:33
+- [[lymphadenopathy]] date: 2023-01-09 00:33
+- [[LV failure]] date: 2023-01-09 00:33
+- [[lung transplant]] date: 2023-01-09 00:33
+- [[lumbar puncture after brain imaging]] date: 2023-01-09 00:33
+- [[Low-voltage]] date: 2023-01-09 00:33
+- [[Loop diuretics]] date: 2023-01-09 00:33
+- [[Long-term follow-up of Migraine]] date: 2023-01-09 00:33
+- [[Localization of MI]] date: 2023-01-09 00:33
+- [[Lithium-toxicology]] date: 2023-01-09 00:33
+- [[lipid disorders]] date: 2023-01-09 00:33
+- [[Likelihood of ACS  Circ 2007 116 e148  Circ 1994 90 1  613 22 ]] date: 2023-01-09 00:33
+- [[Lidocaine]] date: 2023-01-09 00:33
+- [[levamisole]] date: 2023-01-09 00:33
+- [[Leuko-reduced blood products]] date: 2023-01-09 00:33
+- [[leptomeningeal disease]] date: 2023-01-09 00:33
+- [[Lennox Gastaut Syndrome]] date: 2023-01-09 00:33
+- [[Left-ventricular-hypertrophy]] date: 2023-01-09 00:33
+- [[Late renal dysfxn]] date: 2023-01-09 00:33
+- [[laryngoscopy and confirmation of placement]] date: 2023-01-09 00:33
+- [[Lactic acidosis]] date: 2023-01-09 00:33
+- [[Laboratory Findings in Calcium Disorders]] date: 2023-01-09 00:33
+- [[King’s College Criteria for Liver Transplantation consideration]] date: 2023-01-09 00:33
+- [[Kidney transplantation]] date: 2023-01-09 00:33
+- [[kidney disease]] date: 2023-01-09 00:33
+- [[KEYNOTE-181]] date: 2023-01-09 00:33
+- [[ketamine]] date: 2023-01-09 00:33
+- [[Kawasaki disease]] date: 2023-01-09 00:33
+- [[K-sparing diuretics]] date: 2023-01-09 00:33
+- [[jupyter]] date: 2023-01-09 00:33
+- [[JAMA review of hyponatremia]] date: 2023-01-09 00:33
+- [[Ivabradine]] date: 2023-01-09 00:33
+- [[IV immune globulin]] date: 2023-01-09 00:33
+- [[IV Drugs for Hypertensive Crises]] date: 2023-01-09 00:33
+- [[Isopropanol-toxicology]] date: 2023-01-09 00:33
+- [[Isolated proteinuria]] date: 2023-01-09 00:33
+- [[Ischemic hepatitis]] date: 2023-01-09 00:33
+- [[ischemic colitis]] date: 2023-01-09 00:33
+- [[irregular of narrow complex]] date: 2023-01-09 00:33
+- [[Irradiated blood products]] date: 2023-01-09 00:33
+- [[Iron-supplementation]] date: 2023-01-09 00:33
+- [[Iron deficiency]] date: 2023-01-09 00:33
+- [[irAE]] date: 2023-01-09 00:33
+- [[ipratropium]] date: 2023-01-09 00:33
+- [[Ipratropium of COPDAE]] date: 2023-01-09 00:33
+- [[IPF idiopathic pulm fibrosis]] date: 2023-01-09 00:33
+- [[Intrinsic acute kidney injury etiology]] date: 2023-01-09 00:33
+- [[Intracardiac pressures PA catheter and tailored therapy]] date: 2023-01-09 00:33
+- [[interpretation of serum calcium]] date: 2023-01-09 00:33
+- [[Insulin Preparations]] date: 2023-01-09 00:33
+- [[Initial workup-bronchiectasis]] date: 2023-01-09 00:33
+- [[Initial treatment-clostridioides difficile infection ]] date: 2023-01-09 00:33
+- [[Initial treatment details of asthma]] date: 2023-01-09 00:33
+- [[Initial evaluation-solitary pulmonary nodule]] date: 2023-01-09 00:33
+- [[Initial evaluation-management-inflammatory bowel disease]] date: 2023-01-09 00:33
+- [[Initial evaluation of change in mental status]] date: 2023-01-09 00:33
+- [[Initial evaluation  diagnostic studies-acute aortic syndromes]] date: 2023-01-09 00:33
+- [[Initial antibiotic therapy of fever and neutropenia]] date: 2023-01-09 00:33
+- [[Inherited Hypercoagulable States]] date: 2023-01-09 00:33
+- [[Inherited Disorders of Connective Tissue]] date: 2023-01-09 00:33
+- [[Ingestions-caused-metabolic-acidosis]] date: 2023-01-09 00:33
+- [[infxns in immunosuppressed hosts]] date: 2023-01-09 00:33
+- [[inflammatory bowel disease]] date: 2023-01-09 00:33
+- [[infections of the nervous system]] date: 2023-01-09 00:33
+- [[Indications PA catheter and tailored therapy]] date: 2023-01-09 00:33
+- [[indications of thoracentesis]] date: 2023-01-09 00:33
+- [[Indications for urgent dialysis]] date: 2023-01-09 00:33
+- [[Indications for surgery-bacterial endocarditis]] date: 2023-01-09 00:33
+- [[Indications for Permanent Pacing]] date: 2023-01-09 00:33
+- [[incidence of vasculitides]] date: 2023-01-09 00:33
+- [[Impaired cell-mediated immunity]] date: 2023-01-09 00:33
+- [[Immunotherapies-asthma]] date: 2023-01-09 00:33
+- [[Immunosuppression-Kidney transplantation]] date: 2023-01-09 00:33
+- [[IMI complications]] date: 2023-01-09 00:33
+- [[Imaging-Diagnosis-osteomyelitis]] date: 2023-01-09 00:33
+- [[Imaging studies of acute pancreatitis]] date: 2023-01-09 00:33
+- [[ICU-level care-asthma-EXACERBATION]] date: 2023-01-09 00:33
+- [[ICD]] date: 2023-01-09 00:33
+- [[Ibutilide]] date: 2023-01-09 00:33
+- [[Hypovolemic-hypotonic-hyponatremia]] date: 2023-01-09 00:33
+- [[Hypovolemic shock]] date: 2023-01-09 00:33
+- [[hypotension]] date: 2023-01-09 00:33
+- [[Hypophosphatemia - Approach to the Patient]] date: 2023-01-09 00:33
+- [[Hypoparathyroidism]] date: 2023-01-09 00:33
+- [[hypoglycemia]] date: 2023-01-09 00:33
+- [[hypoactive delirium]] date: 2023-01-09 00:33
+- [[hypertrophic pulm osteoarthropathy]] date: 2023-01-09 00:33
+- [[hyperthyroidism]] date: 2023-01-09 00:33
+- [[hypertensive crises]] date: 2023-01-09 00:33
+- [[Hypersplenism]] date: 2023-01-09 00:33
+- [[Hyperprolactinemia]] date: 2023-01-09 00:33
+- [[hyperpituitary syndromes]] date: 2023-01-09 00:33
+- [[hyperparathyroidism]] date: 2023-01-09 00:33
+- [[hyperosmolar hyperglycemic state]] date: 2023-01-09 00:33
+- [[hypernatremia]] date: 2023-01-09 00:33
+- [[hyperkalemia]] date: 2023-01-09 00:33
+- [[hypercoagulable states]] date: 2023-01-09 00:33
+- [[hyperactive delirium]] date: 2023-01-09 00:33
+- [[Hydralazine---nitrates]] date: 2023-01-09 00:33
+- [[hyaline casts]] date: 2023-01-09 00:33
+- [[Humoral immune dysfunction]] date: 2023-01-09 00:33
+- [[how the human body breathes]] date: 2023-01-09 00:33
+- [[How does this thing work?]] date: 2023-01-09 00:33
+- [[Horner’s syndrome]] date: 2023-01-09 00:33
+- [[Home]] date: 2023-01-09 00:33
+- [[HIV AIDS]] date: 2023-01-09 00:33
+- [[History heart failure]] date: 2023-01-09 00:33
+- [[History and physical exam-interstitial lung disease]] date: 2023-01-09 00:33
+- [[Histoplasmosis]] date: 2023-01-09 00:33
+- [[High-risk features-syncope]] date: 2023-01-09 00:33
+- [[herpes zoster]] date: 2023-01-09 00:33
+- [[herpes simplex virus infection]] date: 2023-01-09 00:33
+- [[HER2]] date: 2023-01-09 00:33
+- [[hepatitis]] date: 2023-01-09 00:33
+- [[Hepatitis E]] date: 2023-01-09 00:33
+- [[Hepatitis D]] date: 2023-01-09 00:33
+- [[Hepatitis C]] date: 2023-01-09 00:33
+- [[hepatitis C virus Treatment indications]] date: 2023-01-09 00:33
+- [[hepatitis C virus Monitoring on Rx]] date: 2023-01-09 00:33
+- [[hepatitis C virus extrahepatic syndromes]] date: 2023-01-09 00:33
+- [[hepatitis C virus acute infxn]] date: 2023-01-09 00:33
+- [[Hepatitis B]] date: 2023-01-09 00:33
+- [[hepatitis B virus Rx duration]] date: 2023-01-09 00:33
+- [[Hepatitis A]] date: 2023-01-09 00:33
+- [[hepatic vascular disease]] date: 2023-01-09 00:33
+- [[Hepatic hydrothorax]] date: 2023-01-09 00:33
+- [[Heparin-Induced Thrombocytopenias]] date: 2023-01-09 00:33
+- [[Hemothroax]] date: 2023-01-09 00:33
+- [[Hemophilias]] date: 2023-01-09 00:33
+- [[hemolytic anemias]] date: 2023-01-09 00:33
+- [[Hemodynamic-Monitoring]] date: 2023-01-09 00:33
+- [[Hemochromatosis & iron overload syndromes]] date: 2023-01-09 00:33
+- [[hematuria]] date: 2023-01-09 00:33
+- [[Hematologic oncologic-complications of HIV AIDS]] date: 2023-01-09 00:33
+- [[hectic fever]] date: 2023-01-09 00:33
+- [[Heart failure with preserved EF]] date: 2023-01-09 00:33
+- [[head injury]] date: 2023-01-09 00:33
+- [[Growth hormone deficiency]] date: 2023-01-09 00:33
+- [[Graves’ disease]] date: 2023-01-09 00:33
+- [[Granulomatosis with polyangiitis]] date: 2023-01-09 00:33
+- [[Granulocytopenia or neutropenia]] date: 2023-01-09 00:33
+- [[Grading-of-Mitral-Stenosis]] date: 2023-01-09 00:33
+- [[Glucose-6-phosphate dehydrogenase]] date: 2023-01-09 00:33
+- [[glucose water osmolarity]] date: 2023-01-09 00:33
+- [[Glucose of cerebrospinal fluid]] date: 2023-01-09 00:33
+- [[glomerulonephritis]] date: 2023-01-09 00:33
+- [[Glomerular proteinuria]] date: 2023-01-09 00:33
+- [[glomerular disease]] date: 2023-01-09 00:33
+- [[Glasgow-Blatchford]] date: 2023-01-09 00:33
+- [[Giant cell arteritis]] date: 2023-01-09 00:33
+- [[GI prophylaxis if taking ASA NSAID peptic ulcer disease.md]] date: 2023-01-09 00:33
+- [[GI prophylaxis if taking ASA NSAID peptic ulcer disease ]] date: 2023-01-09 00:33
+- [[GI prophylaxis if taking ASA and nonsteroidal anti-inflam drug]] date: 2023-01-09 00:33
+- [[Genital Lesions]] date: 2023-01-09 00:33
+- [[Genital Discharge]] date: 2023-01-09 00:33
+- [[Genetics of Diagnostic and staging evaluation of lung cancer]] date: 2023-01-09 00:33
+- [[General-renal replacement and dialysis]] date: 2023-01-09 00:33
+- [[General considerations-diuresis]] date: 2023-01-09 00:33
+- [[general approach to treatment of breast cancer]] date: 2023-01-09 00:33
+- [[Gardening]] date: 2023-01-09 00:33
+- [[Fungal diagnostics]] date: 2023-01-09 00:33
+- [[Fresh H2O soft tissue infections]] date: 2023-01-09 00:33
+- [[Fresh frozen plasma]] date: 2023-01-09 00:33
+- [[Follow-up, treatment response and failure of Migraine]] date: 2023-01-09 00:33
+- [[Follow-up-aortic aneurysms]] date: 2023-01-09 00:33
+- [[Follicular thyroid cancer]] date: 2023-01-09 00:33
+- [[Folate deficiency]] date: 2023-01-09 00:33
+- [[Focused history of chest pain]] date: 2023-01-09 00:33
+- [[Focal segmental glomerulosclerosis]] date: 2023-01-09 00:33
+- [[Fluid Resuscitation]] date: 2023-01-09 00:33
+- [[Flecainide]] date: 2023-01-09 00:33
+- [[First-line or upfront therapy for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:33
+- [[Fibromuscular dysplasia]] date: 2023-01-09 00:33
+- [[Fever workup in patient with HIV AIDS]] date: 2023-01-09 00:33
+- [[fever syndromes]] date: 2023-01-09 00:33
+- [[fever of unknown origin]] date: 2023-01-09 00:33
+- [[fever in oncology - duty note]] date: 2023-01-09 00:33
+- [[fever in a returned traveler]] date: 2023-01-09 00:33
+- [[fever and neutropenia]] date: 2023-01-09 00:33
+- [[Febrile nonhemolytic]] date: 2023-01-09 00:33
+- [[Fanconi’s syndrome]] date: 2023-01-09 00:33
+- [[Family history of migraine]] date: 2023-01-09 00:33
+- [[Familial Mediterranean fever]] date: 2023-01-09 00:33
+- [[factitious fever]] date: 2023-01-09 00:33
+- [[Factitious disorder]] date: 2023-01-09 00:33
+- [[Exudates]] date: 2023-01-09 00:33
+- [[Extrapulmonary TB]] date: 2023-01-09 00:33
+- [[Exposure-interstitial lung disease]] date: 2023-01-09 00:33
+- [[excursion]] date: 2023-01-09 00:33
+- [[Excruciatingly Useful Shortcuts]] date: 2023-01-09 00:33
+- [[Evolution of Necrotizing Fasciitis or Myonecrosis]] date: 2023-01-09 00:33
+- [[Evaluation-asthma-EXACERBATION]] date: 2023-01-09 00:33
+- [[Evaluation of vasculitis]] date: 2023-01-09 00:33
+- [[Evaluation of Suspected HIT]] date: 2023-01-09 00:33
+- [[Evaluation in patients without diabetes- but have hypoglycemia]] date: 2023-01-09 00:33
+- [[Evaluation for the presence of heart failure]] date: 2023-01-09 00:33
+- [[Evaluation for the potential causes of heart failure]] date: 2023-01-09 00:33
+- [[Euvolemic-hypotonic-hyponatremia]] date: 2023-01-09 00:33
+- [[Etiology-pericardial tamponade]] date: 2023-01-09 00:33
+- [[Etiology-osteomyelitis]] date: 2023-01-09 00:33
+- [[Etiology-mitral-stenosis]] date: 2023-01-09 00:33
+- [[Etiology-mitral-regurgitation]] date: 2023-01-09 00:33
+- [[Etiology-epidural abscess]] date: 2023-01-09 00:33
+- [[Etiology-constrictive pericarditis]] date: 2023-01-09 00:33
+- [[Etiology-aortic-stenosis]] date: 2023-01-09 00:33
+- [[Etiology-aortic-regurgitation]] date: 2023-01-09 00:33
+- [[Etiology-acute liver failure]] date: 2023-01-09 00:33
+- [[Etiologies-syncope]] date: 2023-01-09 00:33
+- [[Etiologies-solitary pulmonary nodule]] date: 2023-01-09 00:33
+- [[Etiologies-pulmonary hypertension]] date: 2023-01-09 00:33
+- [[Etiologies-pancytopenia]] date: 2023-01-09 00:33
+- [[Etiologies-of-AG-Metabolic-Acidosis]] date: 2023-01-09 00:33
+- [[Etiologies-hypoglycemia]] date: 2023-01-09 00:33
+- [[Etiologies-hyperthyroidism]] date: 2023-01-09 00:33
+- [[Etiologies-hypertension]] date: 2023-01-09 00:33
+- [[Etiologies-encephalitis]] date: 2023-01-09 00:33
+- [[Etiologies-aseptic meningitis]] date: 2023-01-09 00:32
+- [[Etiologies-Aplastic anemia]] date: 2023-01-09 00:32
+- [[Etiologies-adrenal insufficiency]] date: 2023-01-09 00:32
+- [[Etiologies-acute pancreatitis]] date: 2023-01-09 00:32
+- [[Etiologies of Proteinuria]] date: 2023-01-09 00:32
+- [[Etiologies of Non-AG Metabolic Acidosis]] date: 2023-01-09 00:32
+- [[Etiologies of Hypocalcemia]] date: 2023-01-09 00:32
+- [[Etiologies of Hypercalcemia]] date: 2023-01-09 00:32
+- [[Etiologies of High elevated PaCO2]] date: 2023-01-09 00:32
+- [[Etiologies of Hematuria]] date: 2023-01-09 00:32
+- [[Etiologies of Constipation]] date: 2023-01-09 00:32
+- [[Etiologies of Classic FUO]] date: 2023-01-09 00:32
+- [[Etiologies of and approach to dysphagia]] date: 2023-01-09 00:32
+- [[Etiologies of Acute Pericarditis]] date: 2023-01-09 00:32
+- [[Etiologies and Diagnosis of Acute Kidney Injury ]] date: 2023-01-09 00:32
+- [[Ethylene glycol-toxicology]] date: 2023-01-09 00:32
+- [[Erythema nodosum]] date: 2023-01-09 00:32
+- [[Erythema multiforme]] date: 2023-01-09 00:32
+- [[ER PR]] date: 2023-01-09 00:32
+- [[equipment of airway-management]] date: 2023-01-09 00:32
+- [[epidural abscess]] date: 2023-01-09 00:32
+- [[Epidemiology-tuberculosis]] date: 2023-01-09 00:32
+- [[Epidemiology-HIV AIDS]] date: 2023-01-09 00:32
+- [[Epidemiology-aortic aneurysms]] date: 2023-01-09 00:32
+- [[Epidemiology of breast cancer]] date: 2023-01-09 00:32
+- [[Epidemiology and risk factors-lung cancer]] date: 2023-01-09 00:32
+- [[Epidemiology and etiologies-atrial fibrillation]] date: 2023-01-09 00:32
+- [[Epidemiology  pathogenesis-cholelithiasis]] date: 2023-01-09 00:32
+- [[Eosinophilic gran with polyangiitis]] date: 2023-01-09 00:32
+- [[Eosinophilic esophagitis]] date: 2023-01-09 00:32
+- [[eosinophilia]] date: 2023-01-09 00:32
+- [[Entecavir or tenofovir]] date: 2023-01-09 00:32
+- [[Endovascular repair EVAR-aortic aneurysms]] date: 2023-01-09 00:32
+- [[Endotracheal intubation of COPDAE]] date: 2023-01-09 00:32
+- [[endocrine-Secondary Causes of Hypertension]] date: 2023-01-09 00:32
+- [[Endocrine metabolic]] date: 2023-01-09 00:32
+- [[Endocarditis Prophylaxis]] date: 2023-01-09 00:32
+- [[encephalitis]] date: 2023-01-09 00:32
+- [[Empiric treatment-aseptic meningitis]] date: 2023-01-09 00:32
+- [[Empiric Treatment of Bacterial Meningitis]] date: 2023-01-09 00:32
+- [[empiric replacement fluids can be used for fluid losses]] date: 2023-01-09 00:32
+- [[Electrolyte-abnormalities]] date: 2023-01-09 00:32
+- [[EGFR ex20 insertion]] date: 2023-01-09 00:32
+- [[Efficacy concerns PA catheter and tailored therapy]] date: 2023-01-09 00:32
+- [[Effect of IV fluids-treatment-of-hyponatremia]] date: 2023-01-09 00:32
+- [[Effect of 1 L infusion in 70-kg male]] date: 2023-01-09 00:32
+- [[Education and patient centricity]] date: 2023-01-09 00:32
+- [[Echocardiogram for Constrictive vs Restrictive Pericarditis]] date: 2023-01-09 00:32
+- [[ECG-in-young-athletes]] date: 2023-01-09 00:32
+- [[Eaton-Lambert]] date: 2023-01-09 00:32
+- [[Early intravenous administration of glucocorticoids in central nervous system infection]] date: 2023-01-09 00:32
+- [[dysnatremias]] date: 2023-01-09 00:32
+- [[dysmotility and nutrition]] date: 2023-01-09 00:32
+- [[Dyslipidemias]] date: 2023-01-09 00:32
+- [[Dx-Wilson disease]] date: 2023-01-09 00:32
+- [[Dx studies of Granulomatosis with polyangiitis]] date: 2023-01-09 00:32
+- [[Dx studies of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:32
+- [[Dx of Hemochromatosis]] date: 2023-01-09 00:32
+- [[Duration of therapy of fever and neutropenia]] date: 2023-01-09 00:32
+- [[drugs routinely used for intrathecal application]] date: 2023-01-09 00:32
+- [[Drugs and toxins that cause acute liver failure]] date: 2023-01-09 00:32
+- [[Drug-induced hemolytic anemia]] date: 2023-01-09 00:32
+- [[Drug Treatment-lipid disorders]] date: 2023-01-09 00:32
+- [[Drug Therapy of Pulseless Arrest]] date: 2023-01-09 00:32
+- [[Drug fever]] date: 2023-01-09 00:32
+- [[Dronedarone]] date: 2023-01-09 00:32
+- [[dotfile]] date: 2023-01-09 00:32
+- [[Dog bite]] date: 2023-01-09 00:32
+- [[Dofetilide]] date: 2023-01-09 00:32
+- [[diverticulosis]] date: 2023-01-09 00:32
+- [[diverticulitis]] date: 2023-01-09 00:32
+- [[Diverticular bleed]] date: 2023-01-09 00:32
+- [[diuresis]] date: 2023-01-09 00:32
+- [[Distributive shock]] date: 2023-01-09 00:32
+- [[Distinguihing Characteristics of Vascuiti Subtypes]] date: 2023-01-09 00:32
+- [[Disposition-anaphylaxis]] date: 2023-01-09 00:32
+- [[Disposition of patients after initial treatment of asthma exacerbation]] date: 2023-01-09 00:32
+- [[disorders of the colon]] date: 2023-01-09 00:32
+- [[Disorders of Peristalsis]] date: 2023-01-09 00:32
+- [[disorders of leukocytes]] date: 2023-01-09 00:32
+- [[Disorders of EGJ Outflow]] date: 2023-01-09 00:32
+- [[disease-specific management of kidney disease]] date: 2023-01-09 00:32
+- [[disease-specific management of kidney disease 2]] date: 2023-01-09 00:32
+- [[Disease state specific regimens-diuresis]] date: 2023-01-09 00:32
+- [[DIP desquamative IP]] date: 2023-01-09 00:32
+- [[diltiazem]] date: 2023-01-09 00:32
+- [[DILATED-CARDIOMYOPATHY]] date: 2023-01-09 00:32
+- [[Digoxin]] date: 2023-01-09 00:32
+- [[Digoxin-toxicology]] date: 2023-01-09 00:32
+- [[differential diagnosis]] date: 2023-01-09 00:32
+- [[Differential Diagnosis of Dyspnea]] date: 2023-01-09 00:32
+- [[Differential Diagnosis of Delirium]] date: 2023-01-09 00:32
+- [[Differential Diagnosis of Cellulitis]] date: 2023-01-09 00:32
+- [[Diagnostics for active TB]] date: 2023-01-09 00:32
+- [[Diagnostic-studies-workup-pulmonary hypertension]] date: 2023-01-09 00:32
+- [[Diagnostic-studies-mitral-regurgitation]] date: 2023-01-09 00:32
+- [[Diagnostic-studies-aortic-stenosis]] date: 2023-01-09 00:32
+- [[Diagnostic-studies-aortic-regurgitation]] date: 2023-01-09 00:32
+- [[Diagnostic workup-hemoptysis]] date: 2023-01-09 00:32
+- [[Diagnostic studies-pneumonia]] date: 2023-01-09 00:32
+- [[Diagnostic studies-pleural effusion]] date: 2023-01-09 00:32
+- [[Diagnostic studies-pheochromocytoma and paraganglioma]] date: 2023-01-09 00:32
+- [[Diagnostic studies-pericarditis and pericardial effusion]] date: 2023-01-09 00:32
+- [[Diagnostic studies-pericardial tamponade]] date: 2023-01-09 00:32
+- [[Diagnostic studies-interstitial lung disease]] date: 2023-01-09 00:32
+- [[Diagnostic studies-hypercalcemia]] date: 2023-01-09 00:32
+- [[Diagnostic studies-encephalitis]] date: 2023-01-09 00:32
+- [[Diagnostic studies-diabetic ketoacidosis]] date: 2023-01-09 00:32
+- [[Diagnostic studies-constrictive pericarditis]] date: 2023-01-09 00:32
+- [[Diagnostic studies-chronic pancreatitis ]] date: 2023-01-09 00:32
+- [[Diagnostic studies-chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[Diagnostic studies-cholelithiasis]] date: 2023-01-09 00:32
+- [[Diagnostic studies-aortic aneurysms]] date: 2023-01-09 00:32
+- [[Diagnostic studies-acute pancreatitis]] date: 2023-01-09 00:32
+- [[Diagnostic studies-acute mesenteric ischemia]] date: 2023-01-09 00:32
+- [[Diagnostic studies peptic ulcer disease ]] date: 2023-01-09 00:32
+- [[Diagnostic studies of thoracentesis]] date: 2023-01-09 00:32
+- [[Diagnostic studies of solitary pulmonary nodule]] date: 2023-01-09 00:32
+- [[diagnostic studies of peptic ulcer disease]] date: 2023-01-09 00:32
+- [[Diagnostic studies of PE]] date: 2023-01-09 00:32
+- [[Diagnostic studies of hypertrophic cardiomyopathy]] date: 2023-01-09 00:32
+- [[diagnostic process]] date: 2023-01-09 00:32
+- [[Diagnostic evaluation-hypopituitary syndromes]] date: 2023-01-09 00:32
+- [[Diagnostic evaluation-hemolytic anemias]] date: 2023-01-09 00:32
+- [[Diagnostic evaluation-anemia]] date: 2023-01-09 00:32
+- [[Diagnostic evaluation of hypercoagulable states]] date: 2023-01-09 00:32
+- [[Diagnostic evaluation of fever and neutropenia]] date: 2023-01-09 00:32
+- [[Diagnostic evaluation of breast cancer]] date: 2023-01-09 00:32
+- [[Diagnostic clues that favor VT]] date: 2023-01-09 00:32
+- [[Diagnostic approach-fever syndromes]] date: 2023-01-09 00:32
+- [[Diagnostic and staging evaluation of lung cancer]] date: 2023-01-09 00:32
+- [[Diagnosis-ulcerative colitis]] date: 2023-01-09 00:32
+- [[Diagnosis-skin and soft tissue infections]] date: 2023-01-09 00:32
+- [[Diagnosis-sexually transmitted infections]] date: 2023-01-09 00:32
+- [[Diagnosis-osteomyelitis]] date: 2023-01-09 00:32
+- [[Diagnosis-necrotizing soft-tissue infections]] date: 2023-01-09 00:32
+- [[Diagnosis-hyperaldosteronism]] date: 2023-01-09 00:32
+- [[Diagnosis-Glucose-6-phosphate dehydrogenase]] date: 2023-01-09 00:32
+- [[Diagnosis-crohn’s disease]] date: 2023-01-09 00:32
+- [[Diagnosis-clostridioides difficile infection]] date: 2023-01-09 00:32
+- [[Diagnosis-bacterial endocarditis]] date: 2023-01-09 00:32
+- [[Diagnosis-aseptic meningitis]] date: 2023-01-09 00:32
+- [[Diagnosis-anaphylaxis]] date: 2023-01-09 00:32
+- [[Diagnosis of Thrombotic microangiopathies]] date: 2023-01-09 00:32
+- [[Diagnosis of SVT Type]] date: 2023-01-09 00:32
+- [[Diagnosis of heparin-induced thrombocytopenia]] date: 2023-01-09 00:32
+- [[diagnosis of Giant cell arteritis]] date: 2023-01-09 00:32
+- [[Diagnosis gastroesophageal reflux disease]] date: 2023-01-09 00:32
+- [[Diagnosis gastroesophageal reflux disease ]] date: 2023-01-09 00:32
+- [[diabetic ketoacidosis]] date: 2023-01-09 00:32
+- [[diabetic foot infections]] date: 2023-01-09 00:32
+- [[Device infection]] date: 2023-01-09 00:32
+- [[demo]] date: 2023-01-09 00:32
+- [[delta-delta]] date: 2023-01-09 00:32
+- [[Delayed hemolytic]] date: 2023-01-09 00:32
+- [[Definitions-tuberculosis]] date: 2023-01-09 00:32
+- [[Definitions-skin and soft tissue infections]] date: 2023-01-09 00:32
+- [[Definitions-aortic aneurysms]] date: 2023-01-09 00:32
+- [[Definitions-acute aortic syndromes]] date: 2023-01-09 00:32
+- [[Definitions-acid-base disturbances]] date: 2023-01-09 00:32
+- [[Definitions heart failure]] date: 2023-01-09 00:32
+- [[Definition, precipitants, pathophysiology-hyperosmolar hyperglycemic state]] date: 2023-01-09 00:32
+- [[Definition-syncope]] date: 2023-01-09 00:32
+- [[Definition-necrotizing soft-tissue infections]] date: 2023-01-09 00:32
+- [[Definition-glomerulonephritis]] date: 2023-01-09 00:32
+- [[Definition-Antiphospholipid syndrome]] date: 2023-01-09 00:32
+- [[Definition-acute liver failure]] date: 2023-01-09 00:32
+- [[Definition of fever and neutropenia]] date: 2023-01-09 00:32
+- [[Definition of Constipation]] date: 2023-01-09 00:32
+- [[Definition etiologies peptic ulcer disease ]] date: 2023-01-09 00:32
+- [[Definition Clinical Manifestations-HIV AIDS]] date: 2023-01-09 00:32
+- [[Definition and pathophysiology-hemoptysis]] date: 2023-01-09 00:32
+- [[Definition and pathophysiology-cystic fibrosis]] date: 2023-01-09 00:32
+- [[Definition and pathophysiology-anaphylaxis]] date: 2023-01-09 00:32
+- [[definition and etiologies of peptic ulcer disease]] date: 2023-01-09 00:32
+- [[Definition and epidemiology-chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[Definition and epidemiology-bronchiectasis]] date: 2023-01-09 00:32
+- [[Definition and clinical manifestations of Migraine]] date: 2023-01-09 00:32
+- [[Definition and causes-acute mesenteric ischemia]] date: 2023-01-09 00:32
+- [[Decreased GFR-hyperkalemia]] date: 2023-01-09 00:32
+- [[deafferentation pain]] date: 2023-01-09 00:32
+- [[Ddx-of-dominant-R-wave-in-V1-or-V2]] date: 2023-01-09 00:32
+- [[Ddx  causes of myocardial ischemia infarction other than atherosclerotic plaque rupture ]] date: 2023-01-09 00:32
+- [[ddMVAC]] date: 2023-01-09 00:32
+- [[Dako 28-8]] date: 2023-01-09 00:32
+- [[Cytomegalovirus]] date: 2023-01-09 00:32
+- [[cystic fibrosis]] date: 2023-01-09 00:32
+- [[cynosis]] date: 2023-01-09 00:32
+- [[Cyclic vomiting syndrome]] date: 2023-01-09 00:32
+- [[Cyanide-toxicology]] date: 2023-01-09 00:32
+- [[CXR of Diagnostic studies-chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[Cutaneous-complications of HIV AIDS]] date: 2023-01-09 00:32
+- [[cutaneous leukocytoclastic angiitis]] date: 2023-01-09 00:32
+- [[Cutaneous arteritis]] date: 2023-01-09 00:32
+- [[CSF leak]] date: 2023-01-09 00:32
+- [[Cryptococcus]] date: 2023-01-09 00:32
+- [[Cryptococcus neoformans]] date: 2023-01-09 00:32
+- [[Cryoprecipitate]] date: 2023-01-09 00:32
+- [[Cryoglobulinemic vasculitis]] date: 2023-01-09 00:32
+- [[crohn’s disease]] date: 2023-01-09 00:32
+- [[CRC screening]] date: 2023-01-09 00:32
+- [[CPS-22C3]] date: 2023-01-09 00:32
+- [[COVID-19 associated AKI]] date: 2023-01-09 00:32
+- [[Corticosteroids for chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[Correction of overanticoagulation]] date: 2023-01-09 00:32
+- [[Coronary-angiography-for-SIHD]] date: 2023-01-09 00:32
+- [[Coronary angiography]] date: 2023-01-09 00:32
+- [[COPD Exacerbation Treatment]] date: 2023-01-09 00:32
+- [[COP cryptogenic organizing PNA]] date: 2023-01-09 00:32
+- [[Controller medications]] date: 2023-01-09 00:32
+- [[Control of Mineral Homeostasis by Parathyroid Hormone and the Calcium-Sensing Receptor]] date: 2023-01-09 00:32
+- [[Contrast-induced acute kidney injury]] date: 2023-01-09 00:32
+- [[Contraindications to Fibrinolysis]] date: 2023-01-09 00:32
+- [[Context sensitive half time]] date: 2023-01-09 00:32
+- [[Contact]] date: 2023-01-09 00:32
+- [[constrictive pericarditis]] date: 2023-01-09 00:32
+- [[consider the potential harms]] date: 2023-01-09 00:32
+- [[Consider Advanced Airway]] date: 2023-01-09 00:32
+- [[Consequences-of-Severe-Acid-Base-Disturbances]] date: 2023-01-09 00:32
+- [[Connective tissue disease as Etiologies of Classic FUO]] date: 2023-01-09 00:32
+- [[Confusion and Delirium]] date: 2023-01-09 00:32
+- [[config]] date: 2023-01-09 00:32
+- [[computed tomogram in central nervous system infection]] date: 2023-01-09 00:32
+- [[Complications-ulcerative colitis]] date: 2023-01-09 00:32
+- [[Complications-prosthetic-heart-valves]] date: 2023-01-09 00:32
+- [[Complications-diabetes mellitus]] date: 2023-01-09 00:32
+- [[Complications-crohn’s disease]] date: 2023-01-09 00:32
+- [[Complications-cholelithiasis]] date: 2023-01-09 00:32
+- [[Complications-aortic aneurysms]] date: 2023-01-09 00:32
+- [[Complications-acute pancreatitis]] date: 2023-01-09 00:32
+- [[Complications-acute aortic syndromes]] date: 2023-01-09 00:32
+- [[Complications PA catheter and tailored therapy]] date: 2023-01-09 00:32
+- [[complications of HIV AIDS]] date: 2023-01-09 00:32
+- [[complications of bacterial meningitis]] date: 2023-01-09 00:32
+- [[Complications gastroesophageal reflux disease ]] date: 2023-01-09 00:32
+- [[Complicated vs uncomplicated parapneumonic]] date: 2023-01-09 00:32
+- [[Compensation-for-Acid-Base-Disorders]] date: 2023-01-09 00:32
+- [[Comparison of bronchodilator responsiveness in asthma and chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[Commonly drug-induced Acute interstitial nephritis]] date: 2023-01-09 00:32
+- [[Common Pacing Modes]] date: 2023-01-09 00:32
+- [[Common Etiologies of SVT]] date: 2023-01-09 00:32
+- [[Common Diagnostic Tests in Thyroid Disorders]] date: 2023-01-09 00:32
+- [[Common biases in clinical reasoning]] date: 2023-01-09 00:32
+- [[colonoscopy for LGIB]] date: 2023-01-09 00:32
+- [[Collagen vascular diseases]] date: 2023-01-09 00:32
+- [[Coccidioidomycosis]] date: 2023-01-09 00:32
+- [[Coagulation factor inhibitors]] date: 2023-01-09 00:32
+- [[coagulation cascade and sites of action for anticoagulants]] date: 2023-01-09 00:32
+- [[CMV-negative]] date: 2023-01-09 00:32
+- [[Cluster headache]] date: 2023-01-09 00:32
+- [[clostridioides difficile infection]] date: 2023-01-09 00:32
+- [[Clopidogrel]] date: 2023-01-09 00:32
+- [[Clinical-manifestations-mitral-regurgitation]] date: 2023-01-09 00:32
+- [[Clinical-manifestations-aortic-stenosis]] date: 2023-01-09 00:32
+- [[Clinical-manifestations-aortic-regurgitation]] date: 2023-01-09 00:32
+- [[clinical research methods]] date: 2023-01-09 00:32
+- [[Clinical manifestations-ulcerative colitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-Screening for latent TB]] date: 2023-01-09 00:32
+- [[Clinical manifestations-pheochromocytoma and paraganglioma]] date: 2023-01-09 00:32
+- [[Clinical manifestations-pericarditis and pericardial effusion]] date: 2023-01-09 00:32
+- [[Clinical manifestations-pericardial tamponade]] date: 2023-01-09 00:32
+- [[Clinical manifestations-osteomyelitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-nephrolithiasis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-necrotizing soft-tissue infections]] date: 2023-01-09 00:32
+- [[Clinical manifestations-mitral-stenosis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-hypokalemia]] date: 2023-01-09 00:32
+- [[Clinical manifestations-hypocalcemia]] date: 2023-01-09 00:32
+- [[Clinical manifestations-hyperkalemia]] date: 2023-01-09 00:32
+- [[Clinical manifestations-hypercalcemia]] date: 2023-01-09 00:32
+- [[Clinical manifestations-hyperaldosteronism]] date: 2023-01-09 00:32
+- [[Clinical manifestations-diabetic ketoacidosis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-Cushing’s Syndrome]] date: 2023-01-09 00:32
+- [[Clinical manifestations-crohn’s disease]] date: 2023-01-09 00:32
+- [[Clinical manifestations-clostridioides difficile infection]] date: 2023-01-09 00:32
+- [[Clinical manifestations-cirrhosis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-chronic pancreatitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[Clinical manifestations-cholelithiasis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-Candida species]] date: 2023-01-09 00:32
+- [[clinical manifestations-anemia]] date: 2023-01-09 00:32
+- [[Clinical manifestations-adrenal insufficiency]] date: 2023-01-09 00:32
+- [[Clinical manifestations-acute pancreatitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations-acute mesenteric ischemia]] date: 2023-01-09 00:32
+- [[Clinical manifestations-acute liver failure]] date: 2023-01-09 00:32
+- [[Clinical manifestations peptic ulcer disease ]] date: 2023-01-09 00:32
+- [[Clinical Manifestations of Sarcoidosis]] date: 2023-01-09 00:32
+- [[Clinical manifestations of Polyarteritis nodosa]] date: 2023-01-09 00:32
+- [[clinical manifestations of peptic ulcer disease]] date: 2023-01-09 00:32
+- [[Clinical manifestations of lung cancer]] date: 2023-01-09 00:32
+- [[Clinical manifestations of IgA vasculitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations of Granulomatosis with polyangiitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations of Giant cell arteritis]] date: 2023-01-09 00:32
+- [[Clinical manifestations of Eosinophilic gran with polyangiitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations of Cryoglobulinemic vasculitis]] date: 2023-01-09 00:32
+- [[Clinical manifestations of breast cancer]] date: 2023-01-09 00:32
+- [[Clinical manifestations of acute coronary syndromes]] date: 2023-01-09 00:32
+- [[Clinical manifestations gastroesophageal reflux disease]] date: 2023-01-09 00:32
+- [[Clinical manifestations complications-herpes zoster]] date: 2023-01-09 00:32
+- [[Clinical Manifestations and Physical Exam-acute aortic syndromes]] date: 2023-01-09 00:32
+- [[Clinical manifestations  dx studies-hyperosmolar hyperglycemic state]] date: 2023-01-09 00:32
+- [[Clinical manifestation-bacterial endocarditis]] date: 2023-01-09 00:32
+- [[Clinical features-cystic fibrosis]] date: 2023-01-09 00:32
+- [[clinical characteristics of bleeding disorders]] date: 2023-01-09 00:32
+- [[clinical case of epidural abscess]] date: 2023-01-09 00:32
+- [[Classification-atrial fibrillation]] date: 2023-01-09 00:32
+- [[Classification-acute aortic syndromes]] date: 2023-01-09 00:32
+- [[Classification of Pain]] date: 2023-01-09 00:32
+- [[Classification criteria of Behçet’s syndrome]] date: 2023-01-09 00:32
+- [[Classic-Eponymous-Signs-in-Chronic-AR]] date: 2023-01-09 00:32
+- [[Classic tachycardias of WPW accessory pathways]] date: 2023-01-09 00:32
+- [[classes of hemorrhagic shock]] date: 2023-01-09 00:32
+- [[Chvostek sign]] date: 2023-01-09 00:32
+- [[Chronic treatment-nephrolithiasis]] date: 2023-01-09 00:32
+- [[Chronic treatment-chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[chronic pancreatitis]] date: 2023-01-09 00:32
+- [[Chronic or refractory for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:32
+- [[chronic obstructive pulmonary disease]] date: 2023-01-09 00:32
+- [[Chronic mild-to-moderate elevation in ALT AST ]] date: 2023-01-09 00:32
+- [[Chronic migraine]] date: 2023-01-09 00:32
+- [[chronic mesenteric ischemia]] date: 2023-01-09 00:32
+- [[cholelithiasis]] date: 2023-01-09 00:32
+- [[chest radiograph]] date: 2023-01-09 00:32
+- [[chemo side effects]] date: 2023-01-09 00:32
+- [[CHECKLIST AND LONG TERM POST ACS MANAGEMENT]] date: 2023-01-09 00:32
+- [[Characteristics of Pleural Fluid]] date: 2023-01-09 00:32
+- [[CHA2DS2-VASc]] date: 2023-01-09 00:32
+- [[cerebrospinal fluid lab results]] date: 2023-01-09 00:32
+- [[Cerebral edema-Management-acute liver failure]] date: 2023-01-09 00:32
+- [[Central vein stenosis]] date: 2023-01-09 00:32
+- [[Central hypothyroidism]] date: 2023-01-09 00:32
+- [[Central hypogonadism]] date: 2023-01-09 00:32
+- [[Central diabetes insipidus]] date: 2023-01-09 00:32
+- [[Cellulitis Treatment]] date: 2023-01-09 00:32
+- [[Cell count of cerebrospinal fluid]] date: 2023-01-09 00:32
+- [[Celiac disease]] date: 2023-01-09 00:32
+- [[Causes of Shock Classified by Mechanism and Hemodynamics]] date: 2023-01-09 00:32
+- [[Causes of low Mg]] date: 2023-01-09 00:32
+- [[Causes of Hemolytic Anemia by Mechanism]] date: 2023-01-09 00:32
+- [[Categories-diabetes mellitus]] date: 2023-01-09 00:32
+- [[Cat bite]] date: 2023-01-09 00:32
+- [[Cardioversion]] date: 2023-01-09 00:32
+- [[cardioversion of ACLS Tachycardia Algorithm]] date: 2023-01-09 00:32
+- [[Cardiovascular-complications of HIV AIDS]] date: 2023-01-09 00:32
+- [[Cardiorenal syndrome]] date: 2023-01-09 00:32
+- [[Cardiogenic shock]] date: 2023-01-09 00:32
+- [[Cardiac-resynch-therapy]] date: 2023-01-09 00:32
+- [[cardiac rhythm management devices]] date: 2023-01-09 00:32
+- [[Cardiac output PA catheter and tailored therapy]] date: 2023-01-09 00:32
+- [[Cardiac conditions-Endocarditis Prophylaxis]] date: 2023-01-09 00:32
+- [[Carbon monoxide-toxicology]] date: 2023-01-09 00:32
+- [[CAR-T-Toxicity]] date: 2023-01-09 00:32
+- [[CAPT-resistant GNB]] date: 2023-01-09 00:32
+- [[Cangrelor]] date: 2023-01-09 00:32
+- [[Candida species]] date: 2023-01-09 00:32
+- [[cancer survivorship]] date: 2023-01-09 00:32
+- [[Cancer screening of inflammatory bowel disease]] date: 2023-01-09 00:32
+- [[cancer pharmacology]] date: 2023-01-09 00:32
+- [[cancer complications]] date: 2023-01-09 00:32
+- [[cancer biology]] date: 2023-01-09 00:32
+- [[Calcium channel blockers-toxicology]] date: 2023-01-09 00:32
+- [[Calcitriol]] date: 2023-01-09 00:32
+- [[Calciphylaxis]] date: 2023-01-09 00:32
+- [[C5-9 deficiency]] date: 2023-01-09 00:32
+- [[buy mac]] date: 2023-01-09 00:32
+- [[Bundle-Branch-Blocks]] date: 2023-01-09 00:32
+- [[Bronchodilators]] date: 2023-01-09 00:32
+- [[bronchiectasis]] date: 2023-01-09 00:32
+- [[Broad categories-interstitial lung disease]] date: 2023-01-09 00:32
+- [[bradycardias av block and av dissociation]] date: 2023-01-09 00:32
+- [[BP control in chronic kidney disease]] date: 2023-01-09 00:32
+- [[Bleeding Treatment for idiopathic thrombocytopenic purpura]] date: 2023-01-09 00:32
+- [[Blastomycosis]] date: 2023-01-09 00:32
+- [[Bioprosthetic]] date: 2023-01-09 00:32
+- [[Biologics]] date: 2023-01-09 00:32
+- [[Beta blockers-toxicology]] date: 2023-01-09 00:32
+- [[Benzodiazepines-toxicology]] date: 2023-01-09 00:32
+- [[Bell’s palsy]] date: 2023-01-09 00:32
+- [[Behçet’s syndrome]] date: 2023-01-09 00:32
+- [[begins]] date: 2023-01-09 00:32
+- [[basophilia]] date: 2023-01-09 00:32
+- [[bag and mask ventilation]] date: 2023-01-09 00:32
+- [[Bacterial peritonitis]] date: 2023-01-09 00:32
+- [[Background of vasculitis]] date: 2023-01-09 00:32
+- [[Axis-deviation]] date: 2023-01-09 00:32
+- [[AV dissociation]] date: 2023-01-09 00:32
+- [[AV Block]] date: 2023-01-09 00:32
+- [[Autoimmune Polyglandular Syndromes]] date: 2023-01-09 00:32
+- [[autoimmune pancreatitis]] date: 2023-01-09 00:32
+- [[Autoimmune hemolytic anemia]] date: 2023-01-09 00:32
+- [[aura]] date: 2023-01-09 00:32
+- [[Atypical ANCA patterns]] date: 2023-01-09 00:32
+- [[ATTRACTION-3]] date: 2023-01-09 00:32
+- [[Atrial-Abnormality]] date: 2023-01-09 00:32
+- [[asymptomatic glomerular hematuria]] date: 2023-01-09 00:32
+- [[Asthma Stepwise Therapy]] date: 2023-01-09 00:32
+- [[Asthma plus syndromes]] date: 2023-01-09 00:32
+- [[Aspirin]] date: 2023-01-09 00:32
+- [[Aspergillus flavus]] date: 2023-01-09 00:32
+- [[Aspergillosis]] date: 2023-01-09 00:32
+- [[aseptic meningitis]] date: 2023-01-09 00:32
+- [[arrhythmias]] date: 2023-01-09 00:32
+- [[Arrhythmias post MI]] date: 2023-01-09 00:32
+- [[Approach to TSH levels]] date: 2023-01-09 00:32
+- [[Approach to treatment-of-hyponatremia]] date: 2023-01-09 00:32
+- [[Approach to syncope-syncope]] date: 2023-01-09 00:32
+- [[Approach to previously established HIV positive Pt]] date: 2023-01-09 00:32
+- [[Approach to polyuria]] date: 2023-01-09 00:32
+- [[Approach to oxygenation, hypoxemia, and hypoxemic respiratory failure]] date: 2023-01-09 00:32
+- [[Approach to newly diagnosed HIV positive Pt]] date: 2023-01-09 00:32
+- [[Approach to microcytic anemias]] date: 2023-01-09 00:32
+- [[Approach to metabolic acidosis]] date: 2023-01-09 00:32
+- [[Approach to hypokalemia]] date: 2023-01-09 00:32
+- [[Approach to hypernatremia]] date: 2023-01-09 00:32
+- [[Approach to glomerulonephritis based on immunofluorescence pattern]] date: 2023-01-09 00:32
+- [[Approach to Diuresis ]] date: 2023-01-09 00:32
+- [[Approach to anemia and common causes]] date: 2023-01-09 00:32
+- [[Approach to acute AF]] date: 2023-01-09 00:32
+- [[approach to abnormal hemostasis]] date: 2023-01-09 00:32
+- [[Appearance of cerebrospinal fluid]] date: 2023-01-09 00:32
+- [[Aplastic anemia]] date: 2023-01-09 00:32
+- [[aortic aneurysms]] date: 2023-01-09 00:32
+- [[Antituberculous Treatment Regimens]] date: 2023-01-09 00:32
+- [[Antituberculous Medications]] date: 2023-01-09 00:32
+- [[Antiplatelet Therapy]] date: 2023-01-09 00:32
+- [[Antiplatelet Therapy of STEMI]] date: 2023-01-09 00:32
+- [[Antiphospholipid antibodies]] date: 2023-01-09 00:32
+- [[antimetabolites]] date: 2023-01-09 00:32
+- [[Anticoagulation-Treatment of Chronic HF with Reduced EF]] date: 2023-01-09 00:32
+- [[Anticoagulation  antiplatelet therapy-prosthetic-heart-valves]] date: 2023-01-09 00:32
+- [[Anticoagulant Therapy]] date: 2023-01-09 00:32
+- [[Anticoagulant in chronic kidney disease]] date: 2023-01-09 00:32
+- [[antibiotics]] date: 2023-01-09 00:32
+- [[Antibiotics-sepsis and shock]] date: 2023-01-09 00:32
+- [[Antibiotics of COPDAE]] date: 2023-01-09 00:32
+- [[Anti-IL5]] date: 2023-01-09 00:32
+- [[Anti-GBM Disease]] date: 2023-01-09 00:32
+- [[Anti Depressant KFSYSCC]] date: 2023-01-09 00:32
+- [[Anorectal disorders]] date: 2023-01-09 00:32
+- [[anion gap]] date: 2023-01-09 00:32
+- [[Angioedema]] date: 2023-01-09 00:32
+- [[Anemias of other chronic disorders]] date: 2023-01-09 00:32
+- [[Anemia in chronic kidney disease]] date: 2023-01-09 00:32
+- [[ANCA positive Vasculitis]] date: 2023-01-09 00:32
+- [[Anaplastic thyroid cancer]] date: 2023-01-09 00:32
+- [[Amiodarone]] date: 2023-01-09 00:32
+- [[amiodarone and thyroid disease]] date: 2023-01-09 00:32
+- [[Allergic Transfusion reactions]] date: 2023-01-09 00:32
+- [[Aldosterone-antagonists]] date: 2023-01-09 00:32
+- [[alcohol withdrawal]] date: 2023-01-09 00:32
+- [[Albuterol of COPDAE]] date: 2023-01-09 00:32
 - [[aflatoxin]] date: 2023-01-09 00:32
-- [[ACLS Bradycardia Algorithm]] date: 2023-01-09 00:32
-- [[acute bacterial meningitis]] date: 2023-01-09 00:32
-- [[Additional pleural fluid studies]] date: 2023-01-09 00:32
-- [[Acute bacterial skin and skin structure infections]] date: 2023-01-09 00:32
-- [[Acute interstitial nephritis]] date: 2023-01-09 00:32
-- [[Acute treatment-nephrolithiasis]] date: 2023-01-09 00:32
 - [[adrenal incidentalomas]] date: 2023-01-09 00:32
-- [[acute pancreatitis]] date: 2023-01-09 00:32
-- [[Acute treatment of Migraine]] date: 2023-01-09 00:32
-- [[Ablation-atrial fibrillation]] date: 2023-01-09 00:32
-- [[Acetaminophen-toxicology]] date: 2023-01-09 00:32
 - [[Adrenal crisis in adrenal insufficiency]] date: 2023-01-09 00:32
-- [[about line]] date: 2023-01-09 00:32
-- [[Acute severe elevation in ALT AST]] date: 2023-01-09 00:32
-- [[寶益兒多種維他命]] date: 2023-01-09 00:32
-- [[acute aortic syndromes]] date: 2023-01-09 00:32
-- [[acute liver failure]] date: 2023-01-09 00:32
-- [[ABG-vs-VBG]] date: 2023-01-09 00:32
-- [[Acute mild-to-moderate elevation in ALT AST ]] date: 2023-01-09 00:32
 - [[Adeno or Other in Stage IV NSCLC Treatment]] date: 2023-01-09 00:32
+- [[Additional pleural fluid studies]] date: 2023-01-09 00:32
+- [[Acute treatment-nephrolithiasis]] date: 2023-01-09 00:32
+- [[Acute treatment of Migraine]] date: 2023-01-09 00:32
+- [[Acute Treatment of Hypercalcemia]] date: 2023-01-09 00:32
+- [[Acute severe elevation in ALT AST]] date: 2023-01-09 00:32
+- [[acute pancreatitis]] date: 2023-01-09 00:32
+- [[Acute mild-to-moderate elevation in ALT AST ]] date: 2023-01-09 00:32
 - [[acute mesenteric ischemia]] date: 2023-01-09 00:32
-- [[2018 ACC AHA Cholesterol Guidelines]] date: 2023-01-09 00:32
+- [[acute liver failure]] date: 2023-01-09 00:32
+- [[Acute Kidney Injury in Patients with Liver Disease | American Society of Nephrology]] date: 2023-01-09 00:32
+- [[Acute interstitial nephritis]] date: 2023-01-09 00:32
 - [[Acute hemolytic]] date: 2023-01-09 00:32
+- [[Acute bacterial skin and skin structure infections]] date: 2023-01-09 00:32
+- [[acute bacterial meningitis]] date: 2023-01-09 00:32
+- [[acute aortic syndromes]] date: 2023-01-09 00:32
+- [[Acute Anti Ischemic and Analgesic Treatment]] date: 2023-01-09 00:32
+- [[ACLS Bradycardia Algorithm]] date: 2023-01-09 00:32
+- [[acid-base disturbances]] date: 2023-01-09 00:32
+- [[Acetaminophen-toxicology]] date: 2023-01-09 00:32
+- [[Acetaminophen hepatotoxicity]] date: 2023-01-09 00:32
 - [[ACC AHA Classification for Office-Based BP]] date: 2023-01-09 00:32
+- [[about line]] date: 2023-01-09 00:32
+- [[Ablation-atrial fibrillation]] date: 2023-01-09 00:32
+- [[ABG-vs-VBG]] date: 2023-01-09 00:32
+- [[寶益兒多種維他命]] date: 2023-01-09 00:32
+- [[2018 ACC AHA Cholesterol Guidelines]] date: 2023-01-09 00:32
 - [[5-y survival of lung cancer]] date: 2023-01-09 00:32

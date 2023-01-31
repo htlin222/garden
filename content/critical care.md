@@ -10,6 +10,8 @@ enableToc: false
 
 # critical care #🚧 施工中
 
+[[intensive care unit onboarding]] 
+
 ## Resident 360
 * [[sepsis and shock]]
 * [[respiratory failure]]
