@@ -7,6 +7,8 @@ enableToc: false
 
 ## TODAY
 
+- [[shell scripts]] date: 2023-02-01 03:25
+- [[command line interface]] date: 2023-02-01 03:24
 - [[digest markdown by python]] date: 2023-02-01 03:15
 - [[project and idea of python]] date: 2023-02-01 03:15
 - [[python]] date: 2023-02-01 03:14
@@ -21,6 +23,7 @@ enableToc: false
 - [[progress note in icu]] date: 2023-02-01 03:01
 - [[intensive care unit onboarding]] date: 2023-02-01 02:55
 - [[critical care]] date: 2023-02-01 02:54
+
 ## YESTERDAY
 
 - [[Clinical Syndromes: Health Care-Associated Infections]] date: 2023-01-31 19:14
@@ -193,6 +196,7 @@ enableToc: false
 - [[The Profession of Medicine]] date: 2023-01-31 01:03
 - [[The Practice of Medicine]] date: 2023-01-31 01:02
 - [[Ai相關]] date: 2023-01-31 00:11
+
 ## PREVIOUS
 
 - [[如何打造一座知識花園]] date: 2023-01-30 22:57
@@ -275,7 +279,6 @@ enableToc: false
 - [[open-source]] date: 2023-01-28 21:25
 - [[zotero]] date: 2023-01-28 21:25
 - [[neovim]] date: 2023-01-28 21:25
-- [[command line interface]] date: 2023-01-28 21:25
 - [[lua]] date: 2023-01-28 21:25
 - [[erythromycin 250 mg]] date: 2023-01-28 21:25
 - [[transjugular intrahepatic portosystemic shunt]] date: 2023-01-28 21:25
@@ -293,7 +296,6 @@ enableToc: false
 - [[Definition-cirrhosis]] date: 2023-01-28 21:25
 - [[Barrett’s esophagitis]] date: 2023-01-28 21:25
 - [[Approach to thrombocytopenia]] date: 2023-01-28 21:25
-- [[shell scripts]] date: 2023-01-28 21:24
 - [[Pathogenesis of ascites and related complications of cirrhosis]] date: 2023-01-27 01:40
 - [[Pathophysiology-ascites]] date: 2023-01-27 01:40
 - [[IgA vasculitis]] date: 2023-01-27 01:37

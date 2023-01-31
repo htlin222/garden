@@ -1,6 +1,6 @@
 ---
 title: Go
-slug: 'go'
+slug: "go"
 date: "2023-01-30"
 enableToc: false
 tags:
