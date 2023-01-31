@@ -1,5 +1,5 @@
 ---
-title: Viral Diseases: General Considerations
+title: Viral Diseases General Considerations
 slug: 'viral-diseases-general-considerations'
 date: "2023-01-31"
 enableToc: false

@@ -4,7 +4,11 @@ title: Budd-Chiari syndrome
 
 # Budd-Chiari syndrome
 
- (World J Hepatol 2016;8:691)
+(World J Hepatol 2016;8:691)
+
+> 詳見[Redefining Budd-Chiari syndrome: A systematic review.](https://www.ncbi.nlm.nih.gov/pubmed/27326316)
+
+* [[introduction of Budd-Chiari syndrome]]
 
 * Hepatic outflow obstruction 2/2 occlusion of hepatic vein(s) or IVC → sinusoidal congestion and portal HTN. Can be 1° (eg, thrombosis) or 2° (eg, extravascular compression).
 
@@ -12,6 +16,6 @@ title: Budd-Chiari syndrome
 
 * Symptoms: hepatomegaly, RUQ pain, [[ascites]], dilated venous collaterals, acute liver failure
 
-* Dx: ± ↑ AST, ALT & Aϕ; Doppler U/S of hepatic veins (85% Se & Sp); CT (I+) or MRI/MRV → vein occlusion or ↑ caudate lobe (separate venous drainage); hepatic venography gold standard w/ “spider- web” pattern + assess venous pressure; biopsy only if unclear
+* [[diagnostic test of Budd-Chiari syndrome]]: 
 
 * Treatment: Rx underlying condition, anticoag (LMWH → warfarin); consider thrombolysis if acute; angioplasty & stent if short stenosis; consider TIPS or DIPS (U/S-guided direct intrahepatic portosystemic shunt) (if other methods fail to treat sx of portal HTN); liver transplant if ALF or failed other options

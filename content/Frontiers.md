@@ -18,7 +18,7 @@ tags:
 *   Chapter 483:  [[The Role of Epigenetics in Disease and Treatment]]
 *   Chapter 484:  [[Applications of Stem Cell Biology in Clinical Medicine]]
 *   Chapter 485:  [[The Role of Circadian Biology in Health and Disease]]
-*   Chapter 486:  [[Network Medicine: Systems Biology in Health and Disease]]
+*   Chapter 486:  [[Network Medicine Systems Biology in Health and Disease]]
 *   Chapter 487:  [[Emerging Neurotherapeutic Technologies]]
 *   Chapter 488:  [[Machine Learning and Augmented Intelligence in Clinical Medicine]]
 *   Chapter 489:  [[Metabolomics]]

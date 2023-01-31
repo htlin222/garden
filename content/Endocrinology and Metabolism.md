@@ -49,9 +49,9 @@ tags:
 
 *   Chapter 401:  [[Pathobiology of Obesity]]
 *   Chapter 402:  [[Evaluation and Management of Obesity]]
-*   Chapter 404:  [[Diabetes Mellitus: Management and Therapies]]
-*   Chapter 403:  [[Diabetes Mellitus: Diagnosis, Classification, and Pathophysiology]]
-*   Chapter 405:  [[Diabetes Mellitus: Complications]]
+*   Chapter 404:  [[Diabetes Mellitus Management and Therapies]]
+*   Chapter 403:  [[Diabetes Mellitus Diagnosis, Classification, and Pathophysiology]]
+*   Chapter 405:  [[Diabetes Mellitus Complications]]
 *   Chapter 406:  [[Hypoglycemia]]
 *   Chapter 407:  [[Disorders of Lipoprotein Metabolism]]
 *   Chapter 408:  [[The Metabolic Syndrome]]

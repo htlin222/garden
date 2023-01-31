@@ -6,3 +6,9 @@ title: biliary tract disease
 * [[cholecystitis]]
 * [[choledocholithiasis]]
 * [[cholangitis]]
+
+### Backlink：
+
+- [[Disorders of the Gastrointestinal System]]
+- [[Etiologies-cirrhosis]]
+- [[gastroenterology]]

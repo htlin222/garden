@@ -1,5 +1,5 @@
 ---
-title: Clinical Syndromes: Community-Acquired Infections
+title: Clinical Syndromes Community-Acquired Infections
 slug: 'clinical-syndromes-community-acquired-infections'
 date: "2023-01-31"
 enableToc: false

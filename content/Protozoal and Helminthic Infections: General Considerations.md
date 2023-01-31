@@ -1,5 +1,5 @@
 ---
-title: Protozoal and Helminthic Infections: General Considerations
+title: Protozoal and Helminthic Infections General Considerations
 slug: 'protozoal-and-helminthic-infections-general-considerations'
 date: "2023-01-31"
 enableToc: false

@@ -11,6 +11,6 @@ title: Wilson disease
 
 * Extrahepatic s/s: neuro ψ disease, parkinsonism, movement disorder (hepatolenticular disease), Kayser-Fleischer rings (⊕ in 99% w/ neuro ψ but in <50% w/ hepatic disease), Coombs ⊖ hemolytic anemia, renal disease
 
-* [[Dx-Wilson disease]]: 
+* [[Dx-Wilson disease]]:
 
-* [[Treatment-Wilson disease]]: 
+* [[Treatment-Wilson disease]]:

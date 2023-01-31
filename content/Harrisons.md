@@ -1,5 +1,5 @@
 ---
-title: Harrison's Principles of Internal Medicine, 21e | AccessPharmacy
+title: Harrisons
 date: "2023-01-31"
 enableToc: false
 ---

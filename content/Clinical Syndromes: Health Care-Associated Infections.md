@@ -1,5 +1,5 @@
 ---
-title: Clinical Syndromes: Health Care-Associated Infections
+title: Clinical Syndromes Health Care-Associated Infections
 slug: 'clinical-syndromes-health-care-associated-infections'
 date: "2023-01-31"
 enableToc: false

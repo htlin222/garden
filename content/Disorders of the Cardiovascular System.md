@@ -23,7 +23,7 @@ tags:
 
 *   Chapter 239:  [[Physical Examination of the Cardiovascular System]]
 *   Chapter 240:  [[Electrocardiography]]
-*   Chapter 241:  [[Noninvasive Cardiac Imaging: Echocardiography, Nuclear Cardiology, and Magnetic Resonance/Computed Tomography Imaging]]
+*   Chapter 241:  [[Noninvasive Cardiac Imaging: Echocardiography, Nuclear Cardiology, and Magnetic Resonance Computed Tomography Imaging]]
 *   Chapter 242:  [[Diagnostic Cardiac Catheterization and Coronary Angiography]]
 
 ### Section 3: [[Disorders of Rhythm]]

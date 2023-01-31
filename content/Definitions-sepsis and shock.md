@@ -18,7 +18,7 @@ title: Definitions-sepsis and shock
 * hypotension requiring pressors for MAP ≥65 and lactate >2 despite adequate fluid resuscitation
 	* 有sepsis而且需要用到升壓劑
 
-## Sequential Organ Failure Assessment (SOFA):
+## Sequential Organ Failure Assessment ([[SOFA]]):
 ↑ points for worsening organ dysfxn:
 * respiration (↓ P:F ratio);
 * coag (↓ plt);

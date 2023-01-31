@@ -21,7 +21,7 @@ enableToc: false
 ### CHIEF COMPLAINT
 
 
-**PATIENT** 
+**PATIENT**
 
 Mr. T is a 66-year-old man who arrives at the emergency department with bloody stools and dizziness. His symptoms started 2 hours ago.
 
@@ -480,7 +480,7 @@ Mr. T remained clinically euvolemic and his Hb stabilized around 10.0 g/dL. He r
 ### CHIEF COMPLAINT
 
 
-**PATIENT** 
+**PATIENT**
 
 Mr. M is a 39-year-old man who arrives at the emergency department after vomiting blood. He reports waking the morning of admission with an “upset stomach.” He initially attributed this to a hangover. After about an hour he vomited “a gallon of blood” with no other stomach contents. Almost immediately afterward, he had a second episode of hematemesis and called 911.
 
@@ -729,7 +729,7 @@ Mr. M’s emergent endoscopy was indicated by the severity of the bleeding. His 
 ### CHIEF COMPLAINT
 
 
-**PATIENT** 
+**PATIENT**
 
 Ms. S is a 35-year-old woman who comes to the outpatient clinic for an initial visit. She is well and is without complaints. On review of systems, she notes that she occasionally passes bright red blood per rectum. This has happened about 4 times over the past 5 years. It is never associated with pain. She sometimes sees the blood on the toilet paper and sometimes in the bowl.
 

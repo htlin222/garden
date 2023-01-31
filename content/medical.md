@@ -53,5 +53,5 @@ enableToc: false
 *   paper note: [[journals/index.md]]
 *   一些書的筆記: [[books/index]]
 *   inbox: [[inbox/inbox]]
-* [[Harrisons]]
+*   [[Harrisons]]
  
