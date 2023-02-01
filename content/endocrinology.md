@@ -1,6 +1,7 @@
 ---
 title: endocrinology
 ---
+
 # endocrinology
 * [[pituitary disorders]]
 * [[thyroid disorders]]
@@ -9,16 +10,12 @@ title: endocrinology
 * [[diabetes mellitus]]
 * [[lipid disorders]]
 * [[phosphate disorders]]
-
-## Resident 360 topics
-* Diabetes
-* [[inpatient diabetes management]]
 * [[osteoporosis]]
 * [[obesity]]
-* Male Hypogonadism
-* Transgender Health
-[[falls and fracture prevention]] (Geriatrics)
-[[polycystic ovary syndrome]] (PCOS), Menopause (Women's Health)
+* [[male hypogonadism]]
+* transgender health
+* [[falls and fracture prevention]] (Geriatrics)
+* [[polycystic ovary syndrome]] (PCOS), Menopause (Women's Health)
 
 * [[endocrinology anatomy and physiology]]
 * [[reproductive endocrinology]]

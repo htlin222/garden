@@ -10,3 +10,10 @@ title: Measurements-lipid disorders
 * PEx clues: tendon xanthomas (eg, Achilles), imply LDL >300 mg/dL; eruptive xanthomas on extensor surfaces imply TG >1500 mg/dL; xanthelasma (yellowish streaks on eyelids)
 * Metabolic syndrome (≥3 of following): waist ≥40″ (♂) or ≥35″ (♀); TG ≥150 mg/dL; HDL<40 (♂) or <50 mg/dL (♀); BP ≥130/85 mmHg; fasting glc ≥100 mg/dL (Circ 2009;120:1640)
 * Lp(a) = LDL particle + apo(a); concentration genetically determined; a/w CAD & AS
+*
+
+## Timing of assessments
+* ASCVD risk evaluations and discussions should begin at **20 years** of age or at first encounter with the health care system beyond 20 years of age.
+* ASCVD risk should be reassessed every **four to six** years in patients whose identified 10-year ASCVD risk is low (<5 percent) or borderline (5 to 7.4 percent) and more frequently for patients whose identified 10-year ASCVD risk is intermediate (7.5 to 19.9 percent), or following the identification of a new risk factor.
+* The optimal time interval for reassessing risk in patients with intermediate 10-year ASCVD risk is uncertain.
+* However, once a person reaches a threshold for lifestyle or pharmacologic intervention, the emphasis going forward should be placed on optimization of risk factors for that individual.

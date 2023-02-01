@@ -12,10 +12,6 @@ enableToc: false
 
 ## reproductive endocrinology
 
-
-
-
-
 **FIGURE 5.5: Hypothalamic–pituitary–gonadal axis.** Shown is the hypothalamic–pituitary–gonadal axis, which regulates the production of the sex hormones estradiol and testosterone. Green arrows indicate stimulatory actions, and red lines indicate inhibitory actions. Abbreviations: GnRH, gonadotropin-releasing hormone; LH, luteinizing hormone; FSH, follicle-stimulating hormone; PRL, prolactin.
 
 [[Females]]

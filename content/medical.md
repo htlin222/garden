@@ -21,8 +21,8 @@ enableToc: false
 ## 內科的其他知識 🤔
 
 *   [[clinical reasoning]] 💡
-*   [[Practical Skills for Learners]]
 *   [[critical care]] 😭
+*   [[Practical Skills for Learners]]
 *   [[neurology]] 🧠
 *   [[ambulatory]] 🚶
 *   [[ACLS]] 😵

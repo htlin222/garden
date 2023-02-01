@@ -5,6 +5,8 @@ title: Etiologies of Hypercalcemia
 
 ## [[hyperparathyroidism]] (HPT)
 * (NEJM 2018;379:1050; Lancet 2018;391:168)
+> 詳見[Primary Hyperparathyroidism.](https://www.ncbi.nlm.nih.gov/pubmed/30207907)
+
 * 1°: adenoma (85%), hyperplasia (15–20%; spont. vs. MEN1/2A), carcinoma (<1%), meds (Lithium → ↑ PTH)
 * 3°: after long-standing 2° hyperparathyroidism (as in renal failure) → autonomous nodule develops, requires surgery
 * [[Secondary hyperPTH]]
