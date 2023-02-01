@@ -9,6 +9,6 @@ title: Clinical manifestations-acute pancreatitis
 
 * N/V (90%), abd tenderness/guarding, ↓ bowel sounds, jaundice if biliary obstruction
 
-* Ddx: acute cholecystitis, perforated viscus, SBO, mesenteric ischemia, IMI, AAA leak, distal aortic dissection, ruptured ectopic pregnancy
+* Ddx: acute cholecystitis, [[perforated viscus]], [[SBO]], [[mesenteric ischemia]], IMI, AAA leak, distal aortic dissection, ruptured ectopic pregnancy
 
 * Early phase (<1 wk): possible SIRS ± organ failure; late (>1 wk): local complications (qv)

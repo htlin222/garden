@@ -7,6 +7,26 @@ date: '2023-01-25'
 
 [[approach to abdominal pain]]
 
+* [[Leading Hypothesis: Appendicitis]]
+* [[Leading Hypothesis: Biliary Colic]]
+* [[Alternative Diagnosis: PUD]]
+* [[Alternative Diagnosis: Acute Pancreatitis (see below)]]
+* [[Leading Hypothesis: Choledocholithiasis & Ascending Cholangitis]]
+* [[Alternative Diagnosis: Acute Hepatitis]]
+* [[Alternative Diagnosis: Acute Cholecystitis]]
+* [[Alternative Diagnosis: Acute Pancreatitis]]
+* [[Alternative Diagnosis: Chronic Pancreatitis]]
+* [[Leading Hypothesis: Large Bowel Obstruction (LBO)]]
+* [[Alternative Diagnosis: SBO]]
+* [[Alternative Diagnosis: Ischemic Bowel Secondary to Acute Mesenteric Ischemia or Ischemic Colitis]]
+* [[1. Acute Mesenteric Ischemia]]
+* [[2. Ischemic Colitis]]
+* [[Leading Hypothesis: AAA]]
+* [[Alternative Diagnosis: Nephrolithiasis]]
+* [[Irritable Bowel Syndrome (IBS)]]
+* [[Alternative Diagnosis: Diverticulitis]]
+* [[Chronic Mesenteric Ischemia]]
+
 ### Backlink：
 
 - [[Acetaminophen hepatotoxicity]]

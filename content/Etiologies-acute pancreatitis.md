@@ -3,15 +3,22 @@ title: Etiologies-acute pancreatitis
 ---
 # Etiologies-acute pancreatitis
 
- (JAMA 2021;325:382)
+(JAMA 2021;325:382)
+> 詳見[Acute Pancreatitis: A Review.](https://www.ncbi.nlm.nih.gov/pubmed/33496779)
 
-* Gallstones (40%): ♀ >♂; usually due to small stones (<5 mm) or microlithiasis/sludge
+1. Gallstones (40%): 
+> ♀ >♂; usually due to small stones (<5 mm) or microlithiasis/sludge
 
-* Alcohol (30%): ♂ >♀; 4–5 drinks/day over ≥5 yrs; usually chronic w/ acute flares
+2. Alcohol (30%): 
+> ♂ >♀; 4–5 drinks/day over ≥5 yrs; usually chronic w/ acute flares
 
-* Metabolic: hypertrig. (2–5%; TG >1000; type I & V familial hyperlipemia); hyperCa
+3. Metabolic: 
+> hypertrig. (2–5%; TG >1000; type I & V [[familial hyperlipemia]]); 
+> [[hypercalcemia]]
 
-* Drugs (<5%): 5-ASA, 6-MP/AZA, ACEI, cytosine, didanosine, dapsone, estrogen, furosemide, isoniazid, MNZ, pentamidine, statins, sulfa, thiazides, tetracycline, valproate
+---
+
+* [[drugs as etiologies of acute pancreatitis]] (<5%): 5-ASA, 6-MP/AZA, ACEI, cytosine, didanosine, dapsone, estrogen, furosemide, isoniazid, MNZ, pentamidine, statins, sulfa, thiazides, tetracycline, valproate
 
 * Anatomic: divisum, annular pancreas, duodenal duplication cysts, Sphincter of Oddi dysfxn
 
