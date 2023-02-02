@@ -1,5 +1,5 @@
 ---
-title:Diagnosis of autoimmune pancreatitis
+title: "Diagnosis of autoimmune pancreatitis"
 date: "2023-02-02"
 enableToc: false
 ---

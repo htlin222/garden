@@ -1,11 +1,11 @@
 ---
-title:Clinical manifestations of autoimmune pancreatitis
+title: "Clinical manifestations of autoimmune pancreatitis"
 date: "2023-02-02"
 enableToc: false
 ---
 
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[autoimmune pancreatitis]]
 
 # Clinical manifestations of autoimmune pancreatitis
