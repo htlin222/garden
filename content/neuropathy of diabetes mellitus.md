@@ -5,16 +5,8 @@ date: "2023-02-03"
 enableToc: false
 ---
 
-# neuropathy of diabetes mellitus
-
---- 
-title:neuropathy of diabetes mellitus
-date: "2023-02-03"
-enableToc: false
---- 
-
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[Complications- diabetes mellitus]]
 
 # neuropathy of diabetes mellitus
@@ -30,12 +22,12 @@ mononeuropathy: sudden-onset peripheral or CN deficit (footdrop, CN III >VI >IV)
 ## Explain by ChatGPT
 
 
-- Neuropathy of diabetes mellitus is a condition in which the peripheral and autonomic nervous systems are damaged. 
-- Symptoms of peripheral neuropathy include symmetric distal sensory loss, **paresthesias**, and motor loss. 
-- Symptoms of **[[autonomic neuropathy]]** 
-- Mononeuropathy is a sudden- onset peripheral or central nervous system deficit. 
-- Atherosclerosis is a condition in which the arteries become narrowed and hardened. This can lead to heart attacks, strokes, and other problems. 
-- Infections that can occur in people with diabetes include urinary tract infections, osteomyelitis of the foot, candidiasis, mucormycosis, and necrotizing external otitis. 
+- Neuropathy of diabetes mellitus is a condition in which the peripheral and autonomic nervous systems are damaged.
+- Symptoms of peripheral neuropathy include symmetric distal sensory loss, **paresthesias**, and motor loss.
+- Symptoms of **[[autonomic neuropathy]]**
+- Mononeuropathy is a sudden- onset peripheral or central nervous system deficit.
+- Atherosclerosis is a condition in which the arteries become narrowed and hardened. This can lead to heart attacks, strokes, and other problems.
+- Infections that can occur in people with diabetes include urinary tract infections, osteomyelitis of the foot, candidiasis, mucormycosis, and necrotizing external otitis.
 - Dermatologic problems that can occur in people with diabetes include necrobiosis lipoidica diabeticorum, lipodystrophy, and acanthosis nigricans.
 
 ## 窩的英文不太好
