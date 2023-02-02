@@ -16,15 +16,15 @@ See “[[cirrhosis]]”
 
 * Start [[octreotide]] pending EGD if suspect varices: **Rx for 2–5 d**
 
-* Abx: **20% cirrhotics** p/w GIB have infxn, & ~50% develop infxn during hospitalization; 
- 
+* Abx: **20% cirrhotics** p/w GIB have infxn, & ~50% develop infxn during hospitalization;
+
 > [!warning] ppx antibiotics w/ IV
 >
 > CTX, cipro, or levoflox × 7 d
 
 ## Nonpharmacologic
 
-## * Esophageal varices: 
+## * Esophageal varices:
 endoscopic band ligation (>90% success). Covered esophageal stent placement or balloon tamponade if refractory as bridge to TIPS (consider early espec. if [[Child-Pugh score]] C).
 
 * Gastric varices: arteriography w/ coiling, or if available, endoscopic injection of cyanoacrylate (glue). If refractory: TIPS or [[balloon-retrograde transvenous obliteration]] (BRTO).
