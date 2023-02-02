@@ -1,11 +1,11 @@
 ---
-title:Indications of Fecal Microbiota Transplantation
+title: "Indications of Fecal Microbiota Transplantation"
 date: "2023-02-02"
 enableToc: false
 ---
 
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[fecal microbiota transplantation]]
 
 # Indications of Fecal Microbiota Transplantation
@@ -31,8 +31,8 @@ date: "2023-02-02"
 enableToc: false
 ---
 
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[fecal microbiota transplantation]]
 
 # Indications of Fecal Microbiota Transplantation

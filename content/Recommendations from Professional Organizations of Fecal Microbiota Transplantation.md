@@ -1,20 +1,20 @@
 ---
-title:Recommendations from Professional Organizations of Fecal Microbiota Transplantation
+title: "Recommendations from Professional Organizations of Fecal Microbiota Transplantation"
 date: "2023-02-02"
 enableToc: false
 ---
 
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[fecal microbiota transplantation]]
 
 # Recommendations from Professional Organizations of Fecal Microbiota Transplantation
 
 *   Infectious Diseases Society of America/Society for Healthcare Epidemiology of America (IDSA/SHEA)
 *   fecal microbiota transplantation (FMT) recommended in adult patients with ≥ 2 recurrences of *Clostridioides (Clostridium) difficile* infection (CDI) who have failed appropriate antibiotic treatments
-*   consider FMT in pediatric patients with recurrent CDI after standard antibiotic treatments 
+*   consider FMT in pediatric patients with recurrent CDI after standard antibiotic treatments
 *   Reference - [Clin Infect Dis 2018 Mar 19;66(7):e1][10][full-text][11], [Clin Infect Dis 2021 Sep 7;73(5):e1029][12]
- 
+
 European Society of Clinical Microbiology and Infectious Diseases (ESCMID) recommendations on use of fecal microbiota transplantation (FMT) in management of *Clostridioides difficile* infection (CDI) in adults
     *   consider fecal microbiota transplantation (FMT) in patients with severe complicated CDI that have deteriorated despite CDI antibiotic treatment and surgery is not feasible, with decisions made case-by-case by multidisciplinary team ([ESCMID Weak recommendation, Very low-quality evidence][13])
     *   consider FMT after standard-of-care antibiotic pre-treatment in patients with multiple recurrence( [ESCMID Weak recommendation, Moderate-quality evidence][14])
@@ -59,8 +59,8 @@ date: "2023-02-02"
 enableToc: false
 ---
 
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[fecal microbiota transplantation]]
 
 # Recommendations from Professional Organizations of Fecal Microbiota Transplantation
