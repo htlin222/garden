@@ -1,11 +1,11 @@
 ---
-title:Evaluation of Intestinal Pseudo-obstruction
+title: "Evaluation of Intestinal Pseudo-obstruction"
 date: "2023-02-02"
 enableToc: false
 ---
 
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[Intestinal Pseudo-obstruction]]
 
 # Evaluation of Intestinal Pseudo-obstruction

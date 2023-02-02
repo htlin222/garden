@@ -1,5 +1,5 @@
 ---
-title:Background of Intestinal Pseudo-obstruction
+title: "Background of Intestinal Pseudo-obstruction"
 date: "2023-02-02"
 enableToc: false
 ---
