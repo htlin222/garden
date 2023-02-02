@@ -9,5 +9,4 @@ enableToc: false
 
 # fluoroquinolones
 
-
- have been associated with an increased risk for prolonged QTc intervals, tendinitis and tendon rupture, aortic dissections, seizures, peripheral neuropathy, and Clostridioides difficile infections, compared to other antibiotics
+have been associated with an **increased risk** for prolonged QTc intervals, **tendinitis and tendon rupture**, **aortic dissections**, seizures, peripheral neuropathy, and **Clostridioides difficile infections**, compared to other antibiotics

@@ -14,8 +14,11 @@ tags:
 # bacterial inflammatory acute diarrhea
 
 ### [[Campylobacter]]
+
 ### [[salmonella]] (nontyphoidal)
+
 ### [[Shigella]]
+
 ### E. coli (O157:H7 & inv/hemorrhagic non-O157:H7)
 * Undercooked beef, unpasteurized milk, raw produce; PTP.
 * O157 & non-O157 sp. (40%) produce Shiga toxin → HUS

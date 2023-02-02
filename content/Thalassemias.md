@@ -7,19 +7,10 @@ title: Thalassemias
 
 * ↓ synthesis of α- or β-globin chains of Hb → ≠ subunits → destruction of RBCs and erythroid precursors; ∴ anemia from hemolysis and ineffective erythropoiesis
 
-* α-thalassemia (NEJM 2014;371:1908): deletions in α-globin gene complex (nl 4 α genes), seen w/ Southeast Asian, Mediterranean, African, Middle East ancestry
+* [[α-thalassemia]] 
 
-3 α → silent carrier; 2 α → α-thal minor = mild anemia, α-thal-1 (--/αα, milder) or
 
-α-thal-2 (-α/-α); 1 α → HbH (β4) disease = severe anemia, hemolysis, and splenomegaly
-
-0 α genes → Hb Barts (γ4) = intrauterine hypoxia and hydrops fetalis
-
-* β-thalassemia: mutations in β-globin gene → absent or ↓ gene product seen w/ Mediterranean (espec. Greek or Italian), African, or Asian ancestry
-
-1 mutated β gene → thal minor (or trait) = mild anemia (no transfusions)
-
-2 mutated β genes → thal intermedia (occasional transfusions) or thal major (= Cooley’s anemia; transfusion dependent) depending on severity of mutations
+* [[β-thalassemia]]
 
 * Special clinical manifestations: chipmunk facies, pathologic fractures, hepatosplenomegaly (due to extramedullary hematopoiesis), high-output CHF, bilirubin gallstones, Fe overload
 
