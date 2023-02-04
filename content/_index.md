@@ -4,7 +4,7 @@ title: "🦎 的知識花園 🌱"
 
 # 歡迎來到 🦎 的知識花園
 
-![🏞️](https://i.imgur.com/MZF1ltQ.jpg)
+![🏞️](https://i.imgur.com/ebQ9vAT.jpg)
 
 > “Gardens … lie between farmland and wilderness … The garden is farmland that delights the senses, designed for delight rather than commodity.” – [Gardens](https://www.eastgate.com/garden/Gardens.html)
 
