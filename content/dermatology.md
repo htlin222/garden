@@ -1,7 +1,7 @@
 ---
 title: dermatology
 ---
-[[index]]
+[花園大門口](_index.md)
 * Keratinocyte Carcinomas (Squamous- and Basal-Cell Carcinomas)
 * Melanoma
 * Acne and Rosacea

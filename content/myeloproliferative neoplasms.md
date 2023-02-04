@@ -1,7 +1,7 @@
 ---
 title: myeloproliferative neoplasms
 ---
-[[index]]
+[花園大門口](_index.md)
 
 [[overview of myeloproliferative neoplasms]]
 

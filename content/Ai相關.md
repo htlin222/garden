@@ -9,12 +9,14 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[index]]
+> 🌱 來自: [花園大門口](_index.md)
 
 # Ai相關
 
-[All your video needs in one place | Clipchamp](https://clipchamp.com/en/)
-[Image Background Remover | Remove Bg from Image for Free](https://removal.ai/)
-[Rytr - Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/)
+* [[ChatGPT]]
 
-[[ChatGPT]]
+## 推薦好工具
+
+* [All your video needs in one place | Clipchamp](https://clipchamp.com/en/)
+* [Image Background Remover | Remove Bg from Image for Free](https://removal.ai/)
+* [Rytr - Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/)

@@ -1,5 +1,5 @@
 ---
 title: palliative care
 ---
-[[index]]
+[花園大門口](_index.md)
 
