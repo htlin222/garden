@@ -16,9 +16,9 @@ For pure **lactic acidosis Δ/Δ 1.6** b/c of slow lactate clearance
 > HCO3 身為防守方(buffer system)，應該會有五成到十成的戰損率
 > 也就是說：增加10的A/G，HCO3應該會少5到10 a.k.a delta delta 1 to 2
 >> 如果不到五成，沒有預期的少、表示得到了增援
->>> 即得到了多的鹼，即代謝鹼中毒 Δ/Δ > 2  a.k.a 1/0.4>2
+>> 即得到了多的鹼，即代謝鹼中毒 Δ/Δ > 2  a.k.a 1/0.4>2
 >> 如果損失超過100%，表示有逃兵
->>> 即有另一個non-A/G 代謝酸=流失鹼 a.k.a. Δ/Δ<1
+>> 即有另一個non-A/G 代謝酸=流失鹼 a.k.a. Δ/Δ<1
 
 > [!tldr] TLDR
 >

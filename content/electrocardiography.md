@@ -7,7 +7,7 @@ alias: EKG
 
 ![🏞️](https://i.imgur.com/JmeIbRh.png)
 
-c
+
 * [[Approach-electrocardiography]] (a systematic approach is vital)
 * [[Axis-deviation]]
 * [[Bundle-Branch-Blocks]] 

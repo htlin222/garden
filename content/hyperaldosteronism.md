@@ -7,7 +7,8 @@ title: hyperaldosteronism
 * [[Clinical manifestations-hyperaldosteronism]]
 * [[Diagnosis-hyperaldosteronism]]
 * [[Treatment-hyperaldosteronism]]
-
+* [[Aldosterone and Treatment-Resistant Hypertension]]
+* 
 ### Backlink：
 
 - [[adrenal disorders]]

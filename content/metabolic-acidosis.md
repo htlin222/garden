@@ -9,12 +9,12 @@ CPS [[Metabolic Acidosis: Overview]]
 
 * ✓ [[anion gap]] 
 
-## [[Etiologies-of-AG-Metabolic-Acidosis]]
-## [[Workup-for-AG-metabolic-acidosis]] (AJKD 2021;78:A16)
-## [[Ingestions-caused-metabolic-acidosis]] 
-## [[Etiologies of Non-AG Metabolic Acidosis]]
-## [[Workup for non-AG metabolic acidosis]]
-## [[Renal tubular acidoses]] 
+* [[Etiologies-of-AG-Metabolic-Acidosis]]
+* [[Workup-for-AG-metabolic-acidosis]] (AJKD 2021;78:A16)
+* [[Ingestions-caused-metabolic-acidosis]] 
+* [[Etiologies of Non-AG Metabolic Acidosis]]
+* [[Workup for non-AG metabolic acidosis]]
+* [[Renal tubular acidoses]] 
 
 Figure 4-2 [[Approach to metabolic acidosis]]
 

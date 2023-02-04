@@ -3,8 +3,8 @@ title: diabetic ketoacidosis
 ---
 # diabetic ketoacidosis
 
-[[Precipitants-diabetic ketoacidosis]] (the I’s)
-[[Pathophysiology-diabetic ketoacidosis]]
-[[Clinical manifestations-diabetic ketoacidosis]]
-[[Diagnostic studies-diabetic ketoacidosis]]
-[[Treatment of DKA]]
+1. [[Precipitants-diabetic ketoacidosis]] (the I’s)
+2. [[Pathophysiology-diabetic ketoacidosis]]
+3. [[Clinical manifestations-diabetic ketoacidosis]]
+4. [[Diagnostic studies-diabetic ketoacidosis]]
+5. [[Treatment of DKA]]

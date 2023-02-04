@@ -11,6 +11,8 @@ title: Workup-acid-base disturbances
 
 ## Alternative approaches
 > Base excess/deficit (NEJM 2018;378:1419)
+> 參考➡️ [Diagnostic use of base excess in acid–base disorders](https://www.nejm.org/doi/full/10.1056/NEJMra1711860)
+[[Diagnostic Use of Base Excess in Acid–Base Disorders]]
 > Strong ion difference or “Stewart Method” (NEJM 2014;371:1821)
 
 ## [[Mixed-disorders]] (more than one primary disorder at the same time)
