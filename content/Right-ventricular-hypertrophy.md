@@ -1,7 +1,16 @@
 ---
 title: Right-ventricular-hypertrophy
 ---
+
 # Right-ventricular-hypertrophy
+
+(Circ 2009;119:e251; JACC 2014;63:672)
+
+> 參考➡️ [AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part V: electrocardiogram changes associated with cardiac …](https://www.ahajournals.org/doi/abs/10.1161/circulationaha.108.191097)
+
+> 參考➡️ [Validity of the surface electrocardiogram criteria for right ventricular hypertrophy: the MESA-RV Study (Multi-Ethnic Study of Atherosclerosis-Right Ventricle)](https://www.jacc.org/doi/abs/10.1016/j.jacc.2013.08.1633)
+
+
 
 * Etiologies: cor pulmonale, congenital (tetralogy of Fallot, TGA, PS, ASD, VSD), MS, TR
 

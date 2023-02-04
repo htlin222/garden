@@ -13,5 +13,3 @@ title: Pain
 *   Chapter 15:  [[Abdominal Pain]]
 *   Chapter 16:  [[Headache]]
 *   Chapter 17:  [[Back and Neck Pain]]
-* 
-tst

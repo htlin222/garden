@@ -3,6 +3,12 @@ title: ST-elevation
 ---
 # ST-elevation
 
+(NEJM 2003;349:2128; Circ 2009;119:e241 & e262)
+
+> 參考➡️ [AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part IV: the ST segment, T and U waves, and the QT interval: a …](https://www.ahajournals.org/doi/abs/10.1161/circulationaha.108.191096)
+
+> 參考➡️ [ST-segment elevation in conditions other than acute myocardial infarction](https://www.nejm.org/doi/full/10.1056/nejmra022580)
+
 * Acute MI: upward convexity STE (ie, a “frown”) ± TWI (or prior MI w/ persistent STE)
 
 * Coronary spasm: Prinzmetal’s angina; transient STE in a coronary distribution

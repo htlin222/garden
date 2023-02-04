@@ -1,7 +1,13 @@
 ---
 title: Left-ventricular-hypertrophy
 ---
+
+
 # Left-ventricular-hypertrophy
+
+(Circ 2009;119:e251)
+
+> 參考➡️ [AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part V: electrocardiogram changes associated with cardiac …](https://www.ahajournals.org/doi/abs/10.1161/circulationaha.108.191097)
 
 * Etiologies: HTN, AS/AI, HCM, coarctation of aorta
 

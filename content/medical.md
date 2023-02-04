@@ -43,3 +43,4 @@ enableToc: false
 *   inbox: [[inbox/inbox]]
 *   [[Harrisons]]
 *	[[resident360]]
+*  [【醫學筆記】內科學習資源：內科 guideline 及 網路資源篇 - 陳漎銨醫師的臨醫生活學習誌](https://drcta.com/internalguideline/)

@@ -3,6 +3,10 @@ title: Bundle-Branch-Blocks
 ---
 # Bundle-Branch-Blocks
 
+(Circ 2009;119:e235)
+
+> 參考➡️ [AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a scientific …](https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.108.191095)
+
 ## Normal
 ![V1,V6](https://i.imgur.com/93o0KE6.png)
 Initial depol. left to right across septum (r in V1 & q in V6; nb, absent in LBBB) followed by LV & RV free wall, with LV dominating (nb, RV depol. later and visible in RBBB).
