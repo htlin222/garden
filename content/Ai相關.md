@@ -9,7 +9,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[index]]
+> 🌱 來自: [花園大門口](https://www.physician.tw/)
 
 # Ai相關
 

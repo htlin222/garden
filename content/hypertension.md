@@ -1,7 +1,7 @@
 ---
 title: hypertension
 ---
-[[index]]
+[花園大門口](https://www.physician.tw/)
 ## [[ACC AHA Classification for Office-Based BP]]
 
 ## Epidemiology

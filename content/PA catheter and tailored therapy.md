@@ -1,7 +1,7 @@
 ---
 title: PA catheter and tailored therapy
 ---
-[[index]]
+[花園大門口](https://www.physician.tw/)
 ## Rationale
 [[Rationale PA catheter and tailored therapy]]
 ## Indication

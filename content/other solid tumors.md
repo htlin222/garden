@@ -1,7 +1,7 @@
 ---
 title: other solid tumors
 ---
-[[index]]
+[花園大門口](https://www.physician.tw/)
 * [[hepatocellular carcinoma]] (HCC)
 * [[urothelial carcinoma]]
     [[ddMVAC]]]
