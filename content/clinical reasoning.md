@@ -18,3 +18,8 @@ title: clinical reasoning
 7. [[Alterations in Renal and Urinary Tract Function]]
 8. [[Alterations in the Skin]]
 9. [[Hematologic Alterations]]
+10. 
+
+
+## from [[clinical problem solvers]]
+

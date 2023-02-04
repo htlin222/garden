@@ -4,6 +4,7 @@ title: Urine Dipstick
 # Urine Dipstick
 
 ## [[Specific gravity of Urine Dipstick]]
+
 ## [[pH of Urine Dipstick]]
 * Range: 4.5–8.5; useful in evaluation of stones, RTAs, infection (urease UTI)
 
@@ -16,7 +17,7 @@ title: Urine Dipstick
 * False ⊖: vit C
 
 ## WBC
-* Suggests inflammation (UTI, interstitial nephritis, GN)
+* Suggests inflammation (UTI, **interstitial** nephritis, GN)
 
 ## Ketones
 * Detects acetoacetate (ie, ketoacidosis) but not β-hydroxybutyrate
@@ -25,7 +26,7 @@ title: Urine Dipstick
 * Lysed PMNs. Se 80% for UTI. FN: proteinuria, glycosuria FP: ↓ pH or SG
 
 ## Nitrite
-* Suggests presence of nitrate reductase ⊕ bacteria (most enteric GNRs)
+* Suggests presence of **[[nitrate reductase]] ⊕ bacteria** (most enteric GNRs)
 
 ## Bilirubin
 * ↑ in biliary or hepatic disease

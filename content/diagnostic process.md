@@ -9,3 +9,4 @@ title: diagnostic process
 * [[consider the potential harms]]
 [[the threshold model]]:
 likelihood ratio nomogram
+[[sensitivity and specificity]]
