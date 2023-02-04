@@ -6,7 +6,7 @@ enableToc: false
 
 > [!info]
 >
-> 🌱 來自: [花園大門口](_index.md)
+> 🌱 來自: [[index]]
 
 # mac的一些好用軟體
 

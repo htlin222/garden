@@ -1,5 +1,5 @@
 ---
-title: "Urinalysis interpretation"
+title: urinalysis interpretation
 slug: "urinalysis-interpretation"
 date: "2023-02-04"
 enableToc: false

@@ -23,3 +23,9 @@ tags:
 	* 出血部位不在腎絲球
 	* 而在腎小管或與結石或下泌尿道疾病有關
 
+
+### Backlink：
+
+- [[Definition-glomerulonephritis]]
+- [[Intrinsic acute kidney injury etiology]]
+- [[Urinalysis interpretation]]

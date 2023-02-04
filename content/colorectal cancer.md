@@ -3,7 +3,7 @@ title: colorectal cancer
 ---
 # colorectal cancer
 # colon cancer
-[花園大門口](_index.md)
+[[index]]
 
 [[Role of Circulating Tumor DNA in Guiding Adjuvant Therapy in Colon Cancer]]
 

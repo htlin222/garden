@@ -3,7 +3,7 @@ title: breast cancer
 ---
 
 # breast cancer
-[花園大門口](_index.md)
+[[index]]
 
 * [[Epidemiology of breast cancer]]
 * [[Clinical manifestations of breast cancer]]

@@ -5,6 +5,8 @@ title: metabolic-acidosis
 
 ## Initial workup (NEJM 2014;371:1434)
 
+CPS [[Metabolic Acidosis: Overview]]
+
 * ✓ [[anion gap]] 
 
 ## [[Etiologies-of-AG-Metabolic-Acidosis]]

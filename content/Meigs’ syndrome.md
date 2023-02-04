@@ -6,7 +6,7 @@ enableToc: false
 
 > [!info]
 >
-> 🌱 來自: [花園大門口](_index.md)
+> 🌱 來自: [[index]]
 
 # Meigs’ syndrome #🚧 施工中
 
