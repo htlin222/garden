@@ -12,6 +12,29 @@ enableToc: false
 
 ## 今天
 
+- [[Participation in clinical trials of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:47
+- [[Lung transplantation of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:47
+- [[Agents without benefit of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:46
+- [[Antifibrotic therapy of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:46
+- [[Supportive care of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:46
+- [[Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:46
+- [[Idiopathic interstitial pneumonias (IIPs)]] date: 2023-02-07 01:34
+- [[Primary Regimens of Pneumocystis pneumonia, PJP, Adult]] date: 2023-02-07 01:26
+- [[Patients at risk PJP, Adult]] date: 2023-02-07 01:26
+- [[Clinical Setting of Pneumocystis pneumonia, PJP, Adult]] date: 2023-02-07 01:26
+- [[Pneumocystis pneumonia, PJP, Adult]] date: 2023-02-07 01:26
+- [[Comments of Pneumocystis pneumonia, PJP, Adult]] date: 2023-02-07 01:22
+- [[Alternative Regimens of Pneumocystis pneumonia, PJP, Adult]] date: 2023-02-07 01:22
+- [[Etiologies of Pneumocystis pneumonia, PJP, Adult]] date: 2023-02-07 01:22
+- [[pathogen]] date: 2023-02-07 01:22
+- [[Comments of Neutropenia-Febrile-High-Risk]] date: 2023-02-07 01:16
+- [[Alternative Regimens of Neutropenia-Febrile-High-Risk]] date: 2023-02-07 01:16
+- [[Primary Regimens of Neutropenia-Febrile-High-Risk]] date: 2023-02-07 01:16
+- [[Etiologies of Neutropenia-Febrile-High-Risk]] date: 2023-02-07 01:16
+- [[Clinical Setting of Neutropenia-Febrile-High-Risk]] date: 2023-02-07 01:16
+- [[Neutropenia-Febrile-High-Risk]] date: 2023-02-07 01:16
+- [[fever and neutropenia]] date: 2023-02-07 01:16
+- [[serum calcium]] date: 2023-02-07 01:06
 - [[Taita no5]] date: 2023-02-07 01:04
 - [花園大門口](https://www.physician.tw/) date: 2023-02-07 00:55
 - [[medical]] date: 2023-02-07 00:30
@@ -20,7 +43,6 @@ enableToc: false
 
 - [[markdown garden]] date: 2023-02-06 23:44
 - [[如何打造一座知識花園]] date: 2023-02-06 23:44
-- [[serum calcium]] date: 2023-02-06 23:41
 - [[hypocalcemia]] date: 2023-02-06 23:24
 - [[Lactated Ringer's]] date: 2023-02-06 23:21
 - [[replenishers and regulators of water and electrolytes]] date: 2023-02-06 23:15
@@ -36,7 +58,6 @@ enableToc: false
 - [[pleural effusion]] date: 2023-02-05 09:21
 - [[interstitial lung disease]] date: 2023-02-05 09:20
 - [[Pulmonary infiltrates with eosinophilia (PIE)]] date: 2023-02-05 09:19
-- [[Idiopathic interstitial pneumonias (IIPs)]] date: 2023-02-05 09:08
 - [[Type of Idiopathic interstitial pneumonias (IIPs)]] date: 2023-02-05 09:01
 - [[Absent a Misdiagnosis, What Causes Treatment-Resistant Hypertension?]] date: 2023-02-05 01:26
 - [[How Is Treatment-Resistant Hypertension Defined?]] date: 2023-02-05 01:26

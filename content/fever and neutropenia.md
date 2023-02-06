@@ -16,3 +16,4 @@ title: fever and neutropenia
 - [[Initial antibiotic therapy of fever and neutropenia]]
 - [[Modification to initial antibiotic regimen based on site-specific evaluation of fever and neutropenia]]
 - [[Duration of therapy of fever and neutropenia]]
+- 熱病：[[Neutropenia-Febrile-High-Risk]]

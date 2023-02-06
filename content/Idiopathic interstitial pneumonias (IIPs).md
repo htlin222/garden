@@ -19,6 +19,7 @@ title: Idiopathic interstitial pneumonias  IIPs
 ## medications
 * **pirfenidone** (anti**fibrotic**)
 * **nintedanib** (tyrosine kinase inhib mediating fibrogenic growth factors)
+* uptodate: [[Treatment of idiopathic pulmonary fibrosis]]
 
 > ↓ rate of FVC decline (Lancet 2021;398:1450)
 > 參考➡️ [Treatment of fibrotic interstitial lung disease: current approaches and future directions](https://www.sciencedirect.com/science/article/pii/S0140673621018262)
@@ -41,5 +42,5 @@ Idiopathic interstitial pneumonias (IIPs) are a type of ILD of unknown cause. Th
 * 特發性間質性肺炎 (IIP) 是一種原因不明的 ILD。它們通過放射學、組織學和臨床特徵來診斷。 IPF 的治療是給患者補充氧氣、肺復健、GERD 治療、PHT 篩查和轉診肺移植。
 * 用於特發性間質性肺炎的藥物是抗纖維化藥物 **吡非尼酮** 和介導纖維化生長因子的酪氨酸激酶抑製劑 **您他的您**。
 * 類固醇可用於急性加重，但尚無 RCT 數據。
-* 類固醇用於其他 IIP，例如 NSIP（尤其是細胞類型）和 COP。 
+* 類固醇用於其他 IIP，例如 NSIP（尤其是細胞類型）和 COP。
 * AIP 和 DIP/RB-ILD 可能有一些益處，但對於這些患者，他們應該戒菸。
