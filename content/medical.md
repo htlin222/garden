@@ -4,7 +4,7 @@ date: "2023-01-18"
 enableToc: false
 ---
 
-![🏞️](https://i.imgur.com/QqGaJCw.jpg)
+![🏞️](https://i.imgur.com/OBaKBoA.jpg)
 
 # 歡迎來到🦎的Medical Wiki
 
@@ -22,7 +22,7 @@ enableToc: false
 
 *   [[clinical reasoning]] 💡
 *   [[critical care]] 😭
-*   [[Practical Skills for Learners]]
+*   [[practical skills for learners]]
 *   [[neurology]] 🧠
 *   [[ambulatory]] 🚶
 *   [[ACLS]] 😵
@@ -44,3 +44,4 @@ enableToc: false
 *   [[Harrisons]]
 *	[[resident360]]
 *  [【醫學筆記】內科學習資源：內科 guideline 及 網路資源篇 - 陳漎銨醫師的臨醫生活學習誌](https://drcta.com/internalguideline/)
+*  最近的筆記：[[recent]]

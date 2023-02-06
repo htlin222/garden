@@ -16,6 +16,7 @@ title: nephrology
 * [[urinalysis]]
 * [[nephrolithiasis]]
 
+## [[resident360]]
 * Acute Kidney Injury (AKI)
 [[chronic kidney disease]] (CKD) and [[end-stage kidney disease]] (ESKD)
 * [[Glomerular Diseases]]
@@ -23,8 +24,8 @@ title: nephrology
 [[Kidney]] Transplant Immunosuppression
 Kidney Stones
 
-Additional topics are covered in the following rotation guides:
-
+## Additional topics are covered in the following rotation guides:
+* [[replenishers and regulators of water and electrolytes]]
 ---
 
 Acid/Base Disorders (Critical Care)
