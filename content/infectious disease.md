@@ -32,4 +32,11 @@ enableToc: false
 * [[infectious diseases key medications & interventions]]
 * [[infectious diseases key clinical trials & publications]]
 
+> [!info]
+>
+> 🌱來自: [[Pocket Oncology]]
 
+# INFECTIOUS DISEASE
+* The High-Risk Oncology Patient
+* Infections in the Transplant Host
+* COVID-19 and Cancer

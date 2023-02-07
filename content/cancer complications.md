@@ -1,6 +1,9 @@
 ---
-title: cancer complications
+title: "cancer complications"
+date: "2023-02-08"
+enableToc: false
 ---
+
 # cancer complications
 
 
@@ -13,3 +16,14 @@ title: cancer complications
 * Venous Thromboembolism (VTE) in Malignancy
 * Malignant Bowel Obstruction (MBO)
 * Treatment Toxicities
+
+> [!info]
+>
+> 🌱來自: [[Pocket Oncology]]
+
+# CANCER COMPLICATIONS
+Tumor Lysis Syndrome
+Metabolic Emergencies
+SVC Syndrome
+Spinal Cord Compression
+Tips for On-Call Fellows

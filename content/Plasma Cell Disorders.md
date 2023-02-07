@@ -146,3 +146,17 @@ A framework for plasma cell disorders:
 
 •   Treatment: Treat underlying plasma cell disorder. Consider autologous stem cell transplant.
 
+---
+title: "PLASMA CELL DISORDERS"
+date: "2023-02-08"
+enableToc: false
+---
+
+> [!info] 
+> 
+> 🌱來自: [[Pocket Oncology]]
+
+# PLASMA CELL DISORDERS
+MGUS and Multiple Myeloma (MM)
+Waldenström Macroglobulinemia
+Amyloidosis

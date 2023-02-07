@@ -7,3 +7,7 @@ title: other solid tumors
     [[ddMVAC]]]
 * [[esophageal cancer]]
 * [[renal-cell-carcinoma]]
+* [[skin cancers and sarcomas]]
+* [[head and neck malignancies]]
+* [[endocrine malignancies]]
+* [[gynecologic malignancies]]

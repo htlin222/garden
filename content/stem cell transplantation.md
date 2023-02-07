@@ -13,3 +13,11 @@ tags:
 
 # stem cell transplantation
 
+
+> [!info]
+>
+> 🌱來自: [[Pocket Oncology]]
+
+# STEM CELL TRANSPLANTATION
+Autologous Stem Cell Transplantation
+Allogeneic Stem Cell Transplantation

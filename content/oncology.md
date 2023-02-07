@@ -12,36 +12,50 @@ title: oncology
 ## [[hematology]]
 
 > [[NCCN guideline]]
+> [[inpatient oncology]]
+
+## Pocket medicine
+
+* [[thoracic malignancies]]
+* [[prostate cancer]]
+* [[gastrointestinal malignancies]]
+* [[chemo side effects]]
+* [[inpatient oncology]]
+* [[cancer complications]]
+* [[pain and palliative care]]
+* [[immunotherapy and cellular therapy]]
+* [[oncologic emergencies]]
 
 ## Pocket Oncology
+* [[general oncology]]
+* [[clinical research methods]]
+* [[radiation oncology]]
+* [[principles of surgery and interventional oncology]]
+* [[cancer biology]]
+* [[molecular diagnostics]]
+* [[cancer immunology]]
+* [[cancer genetics]]
+* [[cancer pharmacology]]
+* [[cancer complications]]
+* [[palliative and supportive care]]
+* [[cancer survivorship and fertility preservation]]
+* [[infectious disease]]
 
-*   [[general oncology]]
-*   [[inpatient oncology]]
-*   [[clinical research methods]]
-*   [[radiation oncology]]
-*   [[cancer biology]]
-*   [[molecular diagnostics]]
-*   [[cancer immunology]]
-*   [[cancer genetics]]
-*   [[cancer pharmacology]]
-*   [[chemo side effects]]
-*   [[cancer complications]]
-*   [[pain and palliative care]]
-*   [[cancer survivorship]]
-*   [[infectious disease]]
-*   [[immunotherapy and cellular therapy]]
-*   [[oncologic emergencies.md]]
+## solid
+* [[cancer of unknown primary]] (cup)
+* [[genitourinary malignancies]]
+* [[thoracic malignancies]]
+* [[other solid tumors]]
+* [[breast cancer]]
+* [[neurological oncology]]
+* [[pediatric cancers]]
 
-## Solid Tumor
+## [[resident360]]
 
-*   [[genitourinary malignancies]]
-*   [[thoracic malignancies]]
-*   [[lung cancer]]
-*   [[gastrointestinal malignancies]]
-*   [[skin cancers and sarcomas]]
-*   [[head and neck malignancies]]
-*   [[endocrine malignancies]]
-*   [[gynecologic malignancies]]
-*   [[breast cancer]]
-*   [[neurologic oncology]]
-*   [[cancer of unknown primary]]
+Neutropenic Fever
+Superior Vena Cava (SVC) Syndrome
+Symptom Management
+Metastatic Spinal Cord Compression & Brain Metastases
+Venous Thromboembolism (VTE) in Malignancy
+Malignant Bowel Obstruction (MBO)
+Treatment Toxicities

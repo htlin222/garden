@@ -17,3 +17,9 @@ Surgical and nonsurgical options may be appropriate depending on the depth of tu
 [[Pathology pathogenesis esophageal cancer]]
 [[metastatic esophageal cancer]]
 
+* [[Epidemiology of esophageal cancer]]
+* [[Screening of esophageal cancer]]
+* [[Clinical manifestations of esophageal cancer]]
+* [[Diagnosis and staging of esophageal cancer]]
+* [[Treatment of esophageal cancer]]
+
