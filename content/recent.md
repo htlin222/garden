@@ -1,5 +1,5 @@
 ---
-title: "🦎在花園最近的足跡"
+title: "最近的足跡"
 date: "2023-02-07"
 enableToc: false
 ---
