@@ -12,6 +12,7 @@ enableToc: false
 
 ## 今天
 
+- [[Diagnostic studies-adrenal insufficiency]] date: 2023-02-07 19:39
 - [[Participation in clinical trials of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:47
 - [[Lung transplantation of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:47
 - [[Agents without benefit of Treatment of idiopathic pulmonary fibrosis]] date: 2023-02-07 01:46
