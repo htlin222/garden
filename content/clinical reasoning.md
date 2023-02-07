@@ -23,3 +23,4 @@ title: clinical reasoning
 
 ## from [[clinical problem solvers]]
 
+## [[idea on medical practice]]

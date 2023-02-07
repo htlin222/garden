@@ -20,8 +20,8 @@ enableToc: false
 
 ## 內科的其他知識 🤔
 
-*   [[clinical reasoning]] 💡
 *   [[critical care]] 😭
+*   [[clinical reasoning]] 💡
 *   [[practical skills for learners]]
 *   [[neurology]] 🧠
 *   [[ambulatory]] 🚶
