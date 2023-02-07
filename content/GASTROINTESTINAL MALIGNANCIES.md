@@ -4,8 +4,8 @@ date: "2023-02-08"
 enableToc: false
 ---
 
-> [!info] 
-> 
+> [!info]
+>
 > 🌱來自: [[Pocket Oncology]]
 
 # GASTROINTESTINAL MALIGNANCIES
