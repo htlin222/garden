@@ -12,6 +12,10 @@ enableToc: true
 
 ## 今天
 
+- [[Serologic and virologic tests]]
+	- date: 2023-02-08 21:28
+- [[hepatitis]]
+	- date: 2023-02-08 21:08
 - [[oncologic emergencies]]
 	- date: 2023-02-08 01:46
 - [[immunotherapy and cellular therapy]]

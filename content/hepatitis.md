@@ -11,12 +11,11 @@ title: hepatitis
 * [[Hepatitis E]]
 * Other viruses (human pegivirus, CMV, EBV, HSV, VZV)
  
-## [[autoimmune hepatitis (AIH)]]
+[[autoimmune hepatitis (AIH)]]
+[[Alcohol-associated hepatitis]]
 
-## [[Alcohol-associated hepatitis]]
+[[Acetaminophen hepatotoxicity]]
 
-## [[Acetaminophen hepatotoxicity]]
+[[Ischemic hepatitis]]
 
-## [[Ischemic hepatitis]]
-
-## [[Nonalcoholic fatty liver disease (NAFLD)]]
+[[Nonalcoholic fatty liver disease (NAFLD)]]

@@ -7,16 +7,16 @@ title: Serologic and virologic tests
 
 * Precore mutant: HBeAg not made, but anti-HBe can develop due to x-reactivity w/ HBcAg; a/w ↑ HBV DNA
 
-HBsAg: appears before sx; used to screen blood donors; persists >6 mo = chronic HBV
+* HBsAg: appears before sx; used to screen blood donors; persists >6 mo = chronic HBV
 
-HBeAg: evidence of viral replication and ↑ infectivity
+* HBeAg: evidence of viral replication and ↑ infectivity
 
-IgM anti-HBc: 1st Ab to appear; indicates acute infection window period = HBsAg becomes ⊖, anti-HBs not yet ⊕, anti-HBc only clue to infxn
+* IgM anti-HBc: 1st Ab to appear; indicates acute infection window period = HBsAg becomes ⊖, anti-HBs not yet ⊕, anti-HBc only clue to infxn
 
-IgG anti-HBc: indicates previous (HBsAg ⊖) or ongoing (HBsAg ⊕) HBV infection
+* IgG anti-HBc: indicates previous (HBsAg ⊖) or ongoing (HBsAg ⊕) HBV infection
 
-anti-HBe: indicates waning viral replication, ↓ infectivity
+* anti-HBe: indicates waning viral replication, ↓ infectivity
 
-anti-HBs: indicates resolution of acute disease & immunity (sole marker after vaccination)
+* anti-HBs: indicates resolution of acute disease & immunity (sole marker after vaccination)
 
-HBV DNA: presence in serum correlates w/ active viral replication in liver
+* HBV DNA: presence in serum correlates w/ active viral replication in liver
