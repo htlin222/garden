@@ -10,3 +10,6 @@ title: Clinical manifestations-clostridioides difficile infection
 * Pseudomembranous colitis: above sx + pseudomembranes + bowel wall thickening
 
 * Fulminant colitis (2–3%): toxic megacolon (colonic atony/absence of BMs, colon dilatation ≥6 cm on KUB, systemic toxicity) and/or bowel perforation
+ 
+* [[Clostridioides difficile - sanford guide]]
+* [[Zar score]]
