@@ -1,6 +1,6 @@
 ---
 title: "recent"
-date: "2023-02-16"
+date: "2023-02-17"
 enableToc: true
 ---
 
@@ -11,6 +11,15 @@ enableToc: true
 # 最近編輯的檔案
 
 ## 今天
+
+- [[selected cognitive biases contributing to diagnostic errors]]
+	- date: 2023-02-17 01:16
+- [[clinical reasoning]]
+	- date: 2023-02-17 01:11
+- [[National Academy of Medicine Recommendations for Improving Diagnosis in Health Care]]
+	- date: 2023-02-17 01:09
+
+## 昨天
 
 - [[Etiologies-of-Metabolic-Alkalosis]]
 	- date: 2023-02-16 18:15
@@ -73,7 +82,7 @@ enableToc: true
 - [[Amivantamab]]
 	- date: 2023-02-16 00:05
 
-## 昨天
+## 前天
 
 - [[NSCLC Treatment]]
 	- date: 2023-02-15 23:56
@@ -97,20 +106,3 @@ enableToc: true
 	- date: 2023-02-15 22:59
 - [[Central diabetes insipidus]]
 	- date: 2023-02-15 22:58
-
-## 前天
-
-- [[hypertension]]
-	- date: 2023-02-14 13:44
-- [[Treatment-hypertension]]
-	- date: 2023-02-14 13:44
-- [[Epidemiology of hypertension]]
-	- date: 2023-02-14 13:43
-- [[noninvasive evaluation of CAD]]
-	- date: 2023-02-14 13:43
-- [[Myocardial viability]]
-	- date: 2023-02-14 13:43
-- [[Coronary CT angiography]]
-	- date: 2023-02-14 13:43
-- [[Coronary artery calcium (CAC) score]]
-	- date: 2023-02-14 13:43

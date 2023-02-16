@@ -8,6 +8,9 @@ title: clinical reasoning
 ## [[symptom to diagnosis]] 
 ## [[Physical Exam Secret]]
 
+* [[National Academy of Medicine Recommendations for Improving Diagnosis in Health Care]]
+* [[selected cognitive biases contributing to diagnostic errors]]
+
 ## cardinal manifestations
 1. [[Pain]]
 2. [[Alterations in Body Temperature]]
