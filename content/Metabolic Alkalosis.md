@@ -10,6 +10,8 @@ enableToc: false
 
 # Metabolic Alkalosis #🚧 施工中
 
+> [[Metabolic Alkalosis A Brief Pathophysiologic Review]]
+
 ### Metabolic Alkalosis
 
 **↑ pH, ↑ HCO 3– (Immediate respiratory compensation = Hypoventilation: ↑PaCO2)**

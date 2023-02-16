@@ -4,7 +4,7 @@ title: Treatment-hypertension
 # Treatment-hypertension
 
 * Every ↓ 5 mmHg → ~10% ↓ ischemic heart disease, stroke, and HF (Lancet 2021;397:1625)
-* Lifestyle modifications (each may ↓ SBP ~5 mmHg)
+* Lifestyle modifications as Treatment-hypertension (each may ↓ SBP ~5 mmHg)
 weight loss: goal BMI 18.5–24.9; aerobic exercise: 90–150 min exercise/wk
 diet: rich in fruits & vegetables, low in saturated & total fat (DASH, NEJM 2001;344:3)
 limit Na: ideally ≤1.5 g/d or ↓ 1 g/d; ↑ K intake / use salt substitute (NEJM 2021;385:1067)

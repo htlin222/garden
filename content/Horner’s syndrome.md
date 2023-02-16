@@ -22,4 +22,15 @@ title: Horner’s syndrome
 * Sunken appearance of the affected eye
 * Little or no sweating (anhidrosis) on the affected side of the face
 
-**anhidrosis::no sweating**
+**anhidrosis:no sweating**
+
+
+## Explain by ChatGPT
+
+**anisocoria:notable difference in pupil size between the two eyes**
+**miosis:persistently small pupil**
+
+## 窩的英文不太好
+
+**瞳孔大小不等：兩隻眼睛瞳孔大小有顯著差異**
+**瞳孔縮小：瞳孔持續變小**

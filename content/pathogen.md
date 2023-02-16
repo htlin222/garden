@@ -7,3 +7,4 @@ title: pathogen
 * [[CAPT-resistant GNB]]
 * [[HACEK]]
 * [[Pneumocystis pneumonia, PJP, Adult]]
+* [[clostridioides difficile infection]]

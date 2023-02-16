@@ -25,3 +25,5 @@ Non-aldo ([[Cushing syndrome]], [[Liddle syndrome]], exogenous mineralocorticoid
 Normotensive
 Severe hypokalemia (K<2); exogenous alkali load (w/ AKI or ↓ vol)
 [[Bartter’s syndrome]] (loop-like); [[Gitelman’s syndrome]] (thiazide-like)
+
+[[summary of metabolic alkalosis]]

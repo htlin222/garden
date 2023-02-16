@@ -7,6 +7,7 @@ title: Recommended Chronic Therapy by HF Stage
 * Implantable PA pressure sensor in sx Pts: ~19–37% ↓ risk of hosp (Lancet 2016;387:453 & 2021;398:991)
 
 ## Stage (not NYHA Class) Therapy
+
 ### A
 At risk for HF (eg, HTN); but asx & w/o struct. dis.
 Rx HTN, lipids, DM; stop smoking, EtOH; ↑ exercise
@@ -30,3 +31,12 @@ If preserved EF: ? ARNI; ? aldo antag; SGLT2i
 Refractory HF requiring specialized interventions
 All measures for stages A–C. Consider IV inotropes, VAD, transplant, end-of-life care (4-y mortality >50%)
 
+
+
+## Explain by ChatGPT
+
+˜ 50%)
+
+## 窩的英文不太好
+
+~ 50%)

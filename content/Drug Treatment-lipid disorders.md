@@ -1,15 +1,14 @@
 ---
 title: Drug Treatment-lipid disorders
+slug: "drug-treatment-lipid-disorders"
 ---
+
 # Drug Treatment-lipid disorders
 
 Drug ↓ LDL ↓ TG
 Side Effects/Comments
 
-## Statins 30–60% **10–25%**
-↑ ALT in 0.5–3%; ✓ before starting and then prn
-Myalgias <10%, rhabdo <0.1%, dose-dependent
-↑ risk of DM; screen if risk factors (ATVB 2019;39:e38)
+## [[statins]] 30–60% **10–25%**
 
 ## Ezetimibe ~24% —
 

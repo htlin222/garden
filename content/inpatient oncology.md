@@ -15,11 +15,11 @@ title: inpatient oncology
 ## [[Cancer stage]]
 
 ## Associated prognostic genetic mutations
-* Germline mutations can be associated with higher risk for cancer (e.g., BRCA1 and BRCA2 gene mutations associated with breast and ovarian cancer)
-* Somatic mutations can affect prognosis or treatment (e.g., epidermal growth factor receptor [EGFR] and anaplastic lymphoma kinase [ALK] gene mutations associated with non–small-cell lung cancer)
+* **Germline mutations** can be associated with higher risk for cancer (e.g., BRCA1 and BRCA2 gene mutations associated with breast and ovarian cancer)
+* Somatic mutations can affect prognosis or treatment (e.g., [[epidermal growth factor receptor]] [EGFR] and [[anaplastic lymphoma kinase]] [ALK] gene mutations associated with non–small-cell lung cancer)
 
 ## Disease course and aim of treatment
-* Establish goal of current cancer treatment: curative or palliative (to prolong life and avoid symptoms or complications associated with the malignancy)
+* Establish **goal of current cancer treatment**: curative or palliative (to prolong life and avoid symptoms or complications associated with the malignancy)
 
 * Review treatment to date (timing and other details):
 

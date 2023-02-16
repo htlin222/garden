@@ -11,4 +11,3 @@ title: sexually transmitted infections
 [[Genital Discharge]]
 [[Diagnosis-sexually transmitted infections]]
 [[Treatment-sexually transmitted infections]]
-

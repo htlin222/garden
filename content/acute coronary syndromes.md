@@ -6,6 +6,8 @@ title: acute coronary syndromes
 [[STEMI]] (Circ 2013;127:529; EHJ 2018;39:119)
 [[CHECKLIST AND LONG TERM POST ACS MANAGEMENT]]
 
+[[diagram of acute coronary syndromes]]
+
 ## Spectrum of Acute Coronary Syndromes
 | Dx                  | UA                                                              | NSTEMI        | STEMI           |
 |---------------------|-----------------------------------------------------------------|---------------|-----------------|
