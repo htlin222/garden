@@ -3,6 +3,7 @@ title: endocrinology
 ---
 
 # endocrinology
+> Part 12: [[Endocrinology and Metabolism]]
 * [[pituitary disorders]]
 * [[thyroid disorders]]
 * [[adrenal disorders]]

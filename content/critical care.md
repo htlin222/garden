@@ -10,7 +10,8 @@ enableToc: false
 
 # critical care #🚧 施工中
 
-[[intensive care unit onboarding]] 
+* Part 8: [[Critical Care Medicine]]
+* [[intensive care unit onboarding]] 
 
 ## Resident 360
 * [[sepsis and shock]]

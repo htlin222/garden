@@ -9,6 +9,7 @@ title: gastroenterology
 
 # gastroenterology
 
+> Part 10: [[Disorders of the Gastrointestinal System]]
 * [[esophageal and gastric disorders]]
 * [[gastrointestinal bleeding]]
 * [[diarrhea]]

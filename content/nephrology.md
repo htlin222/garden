@@ -8,6 +8,9 @@ title: nephrology
 > 腎臟內病，苦難多。
 
 # nephrology
+
+> Part 9: [[Disorders of the Kidney and Urinary Tract]]
+
 * [[acid-base disturbances]]
 * [[sodium and water homeostasis]]
 * [[potassium homeostasis]]
