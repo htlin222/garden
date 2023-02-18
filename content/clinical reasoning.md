@@ -10,6 +10,7 @@ title: clinical reasoning
 
 * [[National Academy of Medicine Recommendations for Improving Diagnosis in Health Care]]
 * [[selected cognitive biases contributing to diagnostic errors]]
+* [[Conceptualizing Diagnosis and Diagnosis Improvement]]
 
 ## cardinal manifestations
 1. [[Pain]]
