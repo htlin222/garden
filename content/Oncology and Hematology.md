@@ -13,8 +13,3 @@ tags:
 
 # Oncology and Hematology
 
-### Section 1: [[Neoplastic Disorders]]
-
-### Section 2: [[Hematopoietic Disorders]]
-
-### Section 3: [[Disorders of Hemostasis]]

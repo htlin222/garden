@@ -9,7 +9,11 @@ title: hematology
 > 血液不濟，體內缺乏，
 > 病症多端，需高明。
 
-[[oncology]]
+qv [[oncology]]
+
+1. Section 2: [[Hematopoietic Disorders]]
+2. Section 3: [[Disorders of Hemostasis]]
+
 * [[anemia]]
 * [[disorders of hemostasis]]
 * [[platelet disorders]]
