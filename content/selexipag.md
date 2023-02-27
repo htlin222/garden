@@ -1,6 +1,0 @@
----
-title: selexipag
----
-# selexipag
-
-k

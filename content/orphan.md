@@ -1,3 +1,0 @@
-[[mother]]
-[[sister]]
-[[brother]]
