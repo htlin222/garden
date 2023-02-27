@@ -47,7 +47,6 @@
   {{ $content := .Content }}
   {{$scripts := (slice "js/darkmode.js" "js/util.js")}}
   {{$content = replace $content "language-mermaid" "mermaid" }}
-  {{safeHTML $content}}
   {{range $scripts}}
   {{$scriptname := .}}
   {{ $s := resources.Get $scriptname | resources.ExecuteAsTemplate $scriptname . | resources.Fingerprint "md5" | resources.Minify }}
