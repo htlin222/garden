@@ -283,6 +283,10 @@ code {
   padding: 0.15em 0.3em;
   border-radius: 5px;
   background: var(--lightgray);
+  text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
 @keyframes fadeIn {

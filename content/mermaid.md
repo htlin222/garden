@@ -18,7 +18,7 @@ tags:
 When using code fences syntax for mermaid code blocks, you’ll notice that Hugo turns this into <code class="language-mermaid">...</code>. Turns out it’s possible to tell mermaid which classes to look for when searching for graph definitions.
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
