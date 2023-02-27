@@ -4,14 +4,16 @@ date: "2023-02-27"
 enableToc: true
 ---
 
-> [!info]
->
+> [!info] 
+> 
 > 🌱來自: [花園大門口](https://www.physician.tw/)
 
 # 最近編輯的檔案
 
 ## 今天
 
+- [[Type of Idiopathic interstitial pneumonias (IIPs)]]
+	- date: 2023-02-27 20:44
 - [[COP cryptogenic organizing PNA]]
 	- date: 2023-02-27 19:50
 - [[NSIP nonspecific IP]]
