@@ -7,6 +7,7 @@ enableToc: false
 > [!info]
 > 🌱 來自: [[calcium disorders]]
 
-# Calcium homeostasis in normal humans
+# [[Calcium]] homeostasis in normal humans
 
 Figure: ![🏞️](https://i.imgur.com/YmQ8WXA.png)
+* [[Calcium Homeostasis]]

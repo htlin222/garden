@@ -9,4 +9,4 @@ title: Definitions-and-clinical-manifestations
 * [[Ventilator-associated pneumonia]] (VAP): pneumonia acquired ≥48 hrs after intubation
 * Lung empyema: accumulation of pus in pleural space
 * Lung abscess: parenchymal necrosis with confined cavitation
-* Aspiration pneumonitis: acute lung injury after inhalation of gastric contents without infection, though bacterial infection can occur within 24–72 hrs of injury
+* [[Aspiration pneumonitis]]: acute lung injury after inhalation of gastric contents without infection, though bacterial infection can occur within 24–72 hrs of injury

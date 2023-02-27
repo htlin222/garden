@@ -12,6 +12,7 @@ tags:
 > 🌱 來自: [[lipid disorders]]
 
 # muscle adverse event terminology
+[[management of statin myopathy]]
 
 - Statin-associated muscle symptoms (SAMS): Muscle symptoms reported during statin therapy but not necessarily caused by the statin
 - Myalgia: Muscle pain or aches

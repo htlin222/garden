@@ -13,6 +13,8 @@ tags:
 
 # selected cognitive biases contributing to diagnostic errors
 
+[[diagnostic error]]
+
 1. Premature closure: accepting a diagnosis before it has been fully verified
 
 2. Anchoring: tendency to fixate on a specific symptom or piece of information early in the diagnostic process with subsequent failure to appropriately adjust

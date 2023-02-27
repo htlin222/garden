@@ -3,6 +3,8 @@ title: Serum parathyroid hormone  PTH  concentrations in hypercalcemia and hypoc
 ---
 # Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia
 
+> raise plasma calcium via bone **resorption** and renal calcium **reabsorption**
+
 ![Figure from uptodate](https://i.imgur.com/51vHn4h.gif)
 
 - ⭐Serum parathyroid hormone (PTH) concentrations in hypercalcemia and hypocalcemia ⭐

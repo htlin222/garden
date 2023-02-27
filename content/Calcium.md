@@ -8,11 +8,9 @@ enableToc: false
 >
 > 🌱 來自: [[Huppert's Notes]]
 
-# Calcium #🚧 施工中
+# Calcium
 
-### Calcium
-
-##### Calcium regulation (Ca**2\+** 8.5–10.5 mg/dL)
+## Calcium regulation (Ca**2\+** 8.5–10.5 mg/dL)
 
 •   Physiology: Most calcium is bound to albumin; free ionized calcium is the physiologic active form under control of PTH
 

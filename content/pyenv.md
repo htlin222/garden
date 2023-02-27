@@ -1,5 +1,9 @@
 ---
 title: pyenv
+tags:
+- test2
+tags:
+- test
 ---
 /Users/htlin/.pyenv/versions/neovim2/bin/python
 

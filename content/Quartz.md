@@ -10,4 +10,6 @@ enableToc: false
 
 # Quartz #🚧 施工中
 
-[🪴 Quartz 3.](https://quartz.jzhao.xyz/)
+[🪴 Quartz](https://quartz.jzhao.xyz/)
+
+[[open graph]]

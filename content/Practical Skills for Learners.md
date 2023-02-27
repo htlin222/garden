@@ -21,3 +21,4 @@ enableToc: false
 * [[How to Do Daily Presentations and Notes]]
 * [[Discharge Checklist]]
 
+* [[sos Checklist]]

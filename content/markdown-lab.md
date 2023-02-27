@@ -13,4 +13,5 @@ tags:
 
 # markdown-lab
 
-[[remark]]
+* [[remark]]
+* [[mermaid]]

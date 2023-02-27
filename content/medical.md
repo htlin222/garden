@@ -2,6 +2,8 @@
 title: medical
 date: "2023-01-18"
 enableToc: false
+tags:
+- station
 ---
 
 ![🏞️](https://i.imgur.com/OBaKBoA.jpg)

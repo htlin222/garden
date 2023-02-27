@@ -6,6 +6,9 @@ title: 2018 ACC AHA Cholesterol Guidelines
 
 [ASCVD Risk Estimator +][1]
 
+* [[primary prevention of clinical ASCVD in patients at increased risk but who have not had a vascular event]]
+* [[secondary prevention of clinical ascvd in patients with preexisting occlusive vascular disease]]
+ 
 Figure: ![🏞️][2]
 
 ## Population Recommendation

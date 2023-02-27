@@ -23,7 +23,7 @@ or PaCO2 = 0.7 (HCO3–24) + 40 ± 2 or HCO3 + 15
 (also, ↓ pH = 0.008 × ΔPaCO2)
 
 ## Chronic respiratory acidosis
-↑ HCO3 = 0.35 × ΔPaCO2
+↑ HCO3 = 0.35 × ΔPaCO2 = 每增十上升三到四
 (also, ↓ pH = 0.003 × ΔPaCO2)
 
 ## Acute respiratory alkalosis

@@ -30,6 +30,7 @@ slug: 'pulmonology'
 * [[sepsis and shock]]
 * [[toxicology]]
 * [[lung transplant]]
+* [[cough]]
 
 
 * [[pulmonology anatomy and physiology]]
