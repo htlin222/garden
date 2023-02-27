@@ -1,7 +1,108 @@
 <!doctype html><html lang=zh-tw><head><meta charset=utf-8><meta name=description content="前言 如果之前沒有跟python打過交道，想在mac上安裝python時，首先就會面對到：我是誰？我在哪裡的問題，因為mac本身自帶一個python3，如果在終端機裡執行的話，也是可以print(&#34;hellow world&#34;)，接著，我們可能就會想開心地利用系統的pip來安裝需要的套件，然後這樣做是很危險的，因此pip時不時會提醒你要不要更新pip，但mac系統中其實有很多套件，可能需要比較低版本的python才能執行，更新可能造成不可逆的崩潰，因此，另外下載一個python來安裝是很重要的。
 接下來就會面對另一個問題：要載哪個版本？最直覺得做法就是到 Python.org下載最新的版本，打開後下一步下一步安裝完成。另外也可以brew install python3來安裝。同時也會有人建議用anaconda來安裝一些必要的套件。到最後，我們的電腦裡就會充斥著各種版本的python，大概像下面這張圖一樣： 這時就容易會出現問題，常常我們建立了某個.py檔，在某些情況下可以正常import某些package，但當我們用其他軟體打開時，如jupyter lab、pycharm時，又會發現某些pip沒安裝到的套件。這樣我們的開發/學習環境變得很不固定，或是會重覆在不同地方安裝了相同的套件。
 要解決這個問題，首先要學會兩組常用得指令：
- 在終端機中執行：  1  which python3    或在python中跑這組程式碼：  1 2  import sys print(&#34;User Current Version:-&#34;, sys."><meta property="og:title" content><meta property="og:description" content><meta property="og:type" content="website"><meta property="og:url" content><meta property="og:image" content="https://og-ph6wrfvo1-htlin222.vercel.app/api/blog?templateTitle=在Mac中運作Python的正確方法"><title>在Mac中運作Python的正確方法</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://www.physician.tw//icon.png><link href=https://www.physician.tw/styles.547fb332ce56cdc523146ba5ede80d7f.min.css rel=stylesheet><link href=https://www.physician.tw/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://www.physician.tw/js/darkmode.dfadb738e747a87e78c7144d7267f1bc.min.js></script>
+ 在終端機中執行：  1  which python3    或在python中跑這組程式碼：  1 2  import sys print(&#34;User Current Version:-&#34;, sys."><meta property="og:title" content><meta property="og:description" content><meta property="og:type" content="website"><meta property="og:url" content><meta property="og:image" content="https://og-ph6wrfvo1-htlin222.vercel.app/api/blog?templateTitle=在Mac中運作Python的正確方法"><title>在Mac中運作Python的正確方法</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://www.physician.tw//icon.png><link href=https://www.physician.tw/styles.547fb332ce56cdc523146ba5ede80d7f.min.css rel=stylesheet><link href=https://www.physician.tw/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><h2 id=前言>前言</h2><p>如果之前沒有跟python打過交道，想在mac上安裝python時，首先就會面對到：我是誰？我在哪裡的問題，因為mac本身自帶一個python3，如果在終端機裡執行的話，也是可以<code>print("hellow world")</code>，接著，我們可能就會想開心地利用系統的pip來安裝需要的套件，然後這樣做是很危險的，因此pip時不時會提醒你要不要更新pip，但mac系統中其實有很多套件，可能需要比較低版本的python才能執行，更新可能造成不可逆的崩潰，因此，另外下載一個python來安裝是很重要的。</p><p>接下來就會面對另一個問題：要載哪個版本？最直覺得做法就是到
+<a href=https://www.python.org/downloads/ rel=noopener>Python.org</a>下載最新的版本，打開後下一步下一步安裝完成。另外也可以<code>brew install python3</code>來安裝。同時也會有人建議用anaconda來安裝一些必要的套件。到最後，我們的電腦裡就會充斥著各種版本的python，大概像下面這張圖一樣：
+<img src=https://imgs.xkcd.com/comics/python_environment.png width=auto alt="python_environment.png (492×487)"></p><p>這時就容易會出現問題，常常我們建立了某個.py檔，在某些情況下可以正常import某些package，但當我們用其他軟體打開時，如jupyter lab、pycharm時，又會發現某些pip沒安裝到的套件。這樣我們的開發/學習環境變得很不固定，或是會重覆在不同地方安裝了相同的套件。</p><p>要解決這個問題，首先要學會兩組常用得指令：</p><ul><li>在終端機中執行：</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>which python3
+</span></span></code></pre></td></tr></table></div></div><ul><li>或在python中跑這組程式碼：</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=kn>import</span> <span class=nn>sys</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=s2>&#34;User Current Version:-&#34;</span><span class=p>,</span> <span class=n>sys</span><span class=o>.</span><span class=n>version</span><span class=p>)</span>
+</span></span></code></pre></td></tr></table></div></div><ul><li>這兩個方法都可以告訴我們目前的python環境a.k.a.我是誰、我在哪裡。</li></ul><blockquote><p>有時，我們只想寫一段小程式，並不需要anaconda的那一堆程式，這個時候開速搭建一個虛擬環境，為這個環境建立專用的python執行檔、及專用的pip3，我們就可以輕量化自己的開發環境，下面介紹pyenv - python的虛擬環境管理方法。</p></blockquote><hr><h2 id=方法>方法</h2><h3 id=安裝pyenv-跟virtualenv>安裝pyenv 跟virtualenv</h3><ul><li>如果還沒安裝homebrew請參考
+<a href=https://htlin.site/posts/homebrew-basic rel=noopener>用Homebrew來安裝需要的App跟套件</a></li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>brew install pyenv
+</span></span><span class=line><span class=cl>brew install virtualenv
+</span></span></code></pre></td></tr></table></div></div><h3 id=建立你的環境>建立你的環境</h3><ul><li>安裝所需要的python版本，如3.10.5</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>pyenv install 3.10.5
+</span></span></code></pre></td></tr></table></div></div><ul><li>將安裝好的python版本指定到我們自行命名的環境中</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>pyenv virtualenv 3.10.5 <span class=s2>&#34;YOUR_PROJECT&#34;</span>
+</span></span></code></pre></td></tr></table></div></div><ul><li>建一個資料夾，並進入</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>mkdir <span class=s2>&#34;YOUR_PROJECT&#34;</span>
+</span></span><span class=line><span class=cl><span class=nb>cd</span> <span class=s2>&#34;YOUR_PROJECT&#34;</span>
+</span></span></code></pre></td></tr></table></div></div><ul><li>將這個資料夾指定成我們剛剛命名的開發環境</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>pyenv local &#34;YOUR_PROJECT&#34;
+</span></span></code></pre></td></tr></table></div></div><ul><li>啟動開發環境</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>pyenv activate &#34;YOUR_PROJECT&#34;
+</span></span></code></pre></td></tr></table></div></div><h3 id=如何在環境中使用jupyter-labnotebook>如何在環境中使用jupyter lab/notebook</h3><p>如果你之前有用任何方法安裝過jupyter相關的套件，輸入<code>jupyter notebook</code>啟動jupyter時，會發現目前的python是ipykernal，並不是我們指定環境下的python，而且還會被自動安裝了很多套件，因此需要用pip的方式重新安裝jupyter，並將目前環境的python指定為python的kernel。</p><ul><li>首先在開發環境中安裝一些常用的套件</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1># 先更新pip本身，確保是最新版</span>
+</span></span><span class=line><span class=cl>pip install --upgrade pip
+</span></span><span class=line><span class=cl><span class=c1># 安裝主角jupyter</span>
+</span></span><span class=line><span class=cl>pip install pandas jupyter notebook matplotlib seaborn
+</span></span><span class=line><span class=cl><span class=c1># 最後安裝ipykernal</span>
+</span></span><span class=line><span class=cl>pip install ipykernal
+</span></span></code></pre></td></tr></table></div></div><ul><li>將環境的kernel指定為jupyter的kernel</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>python -m ipykernel install --user --name $(pyenv version-name) --display-name &#34;Python: $(pyenv version-name)&#34;
+</span></span></code></pre></td></tr></table></div></div><ul><li>這個時候，我們運行<code>jupyter lab</code>，就可以看到新增notebook時，就有我們環境的kernel</li></ul><h3 id=tldr直接將上面提到的指令打包成zsh的function>TL;DR，直接將上面提到的指令打包成zsh的function</h3><ul><li>在<code>~/.zshrc</code>裡加入以下行：</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=k>function</span> pyenv-new<span class=o>()</span> <span class=o>{</span>
+</span></span><span class=line><span class=cl>  pyenv virtualenv <span class=nv>$1</span> <span class=s2>&#34;</span><span class=nv>$2</span><span class=s2>&#34;</span>
+</span></span><span class=line><span class=cl>  mkdir ~/<span class=nv>$2</span>
+</span></span><span class=line><span class=cl>  <span class=nb>cd</span> ~/<span class=nv>$2</span>
+</span></span><span class=line><span class=cl>  pyenv <span class=nb>local</span> <span class=nv>$2</span>
+</span></span><span class=line><span class=cl>  pyenv activate <span class=nv>$2</span>
+</span></span><span class=line><span class=cl><span class=o>}</span>
+</span></span><span class=line><span class=cl><span class=k>function</span> pyenv-jupyter<span class=o>(){</span>
+</span></span><span class=line><span class=cl>  pip install --upgrade pip
+</span></span><span class=line><span class=cl>  pip install pandas jupyter notebook
+</span></span><span class=line><span class=cl><span class=o>}</span>
+</span></span><span class=line><span class=cl><span class=k>function</span> pyenv-kernel<span class=o>()</span> <span class=o>{</span>
+</span></span><span class=line><span class=cl>  python -m ipykernel install --user --name <span class=k>$(</span>pyenv version-name<span class=k>)</span> --display-name <span class=s2>&#34;Python: </span><span class=k>$(</span>pyenv version-name<span class=k>)</span><span class=s2>&#34;</span>
+</span></span><span class=line><span class=cl><span class=o>}</span>
+</span></span></code></pre></td></tr></table></div></div><ul><li>存檔後執行以程式碼來載入我們的變更</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=nb>source</span> ~/.zshrc
+</span></span></code></pre></td></tr></table></div></div><hr><h2 id=結果>結果</h2><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=c1># 創建一個環境</span>
+</span></span><span class=line><span class=cl>pyenv-new 3.10.5 <span class=s2>&#34;PROJECT_NAME&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1># 安裝Jupyter相關的套件</span>
+</span></span><span class=line><span class=cl>pyenv-jupyter
+</span></span><span class=line><span class=cl><span class=c1># 安裝ipykernel</span>
+</span></span><span class=line><span class=cl>pip3 install ipykernel
+</span></span><span class=line><span class=cl><span class=c1># 以目前環境的python為名創建一個kernel</span>
+</span></span><span class=line><span class=cl>pyenv-kernel
+</span></span><span class=line><span class=cl><span class=c1># 開啟jupyter lab</span>
+</span></span><span class=line><span class=cl>jupyter lab
+</span></span></code></pre></td></tr></table></div></div><hr><h2 id=討論>討論</h2><p>在初學python時，我是傻傻地裝了anaconda整組，它下載了很多套件，但當我寫好了一些scripts，想在系統裡執行時，卻常常在import module時出錯，因此還要花很多時間跟環境變數奮鬥。但
+開始用pyenv管理後，我想調用不同版本的python，只要輸入<code>$HOME/.pyenv/versions/YOUR_PYENV_NAME/bin/python</code>即可，例如我可以在automator裡建立一個快速動作：
+<a href=https://bit.ly/3K9630K rel=noopener>自動縮網址</a>，用快速鍵來觸發它。他需要用<code>pyperclip</code>、<code>bitlyshortener</code>這兩個套件，我只需要建立一個automator專屬的環境：</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl>pyenv-new 3.10.5 automator
+</span></span><span class=line><span class=cl>pip install pyperclip bitlyshortener
+</span></span><span class=line><span class=cl><span class=c1># 新增一個檔檔，貼入程式碼</span>
+</span></span><span class=line><span class=cl>touch ~/automator/bitly.py
+</span></span></code></pre></td></tr></table></div></div><ul><li>如下圖輸入</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-shell data-lang=shell><span class=line><span class=cl><span class=nv>$HOME</span>/.pyenv/versions/YOUR_PYENV_NAME/bin/python <span class=nv>$HOME</span>/automator/bitly.py
+</span></span></code></pre></td></tr></table></div></div><p><img src=https://i.imgur.com/XF57xPc.png width=auto alt=image_22-08-22_16_02_39></p><ul><li>再把服務指定給某組快速鍵，就可以拿來縮網址了</li></ul><blockquote><p>有用再來分享怎麼用python串bitly api來縮網址</p></blockquote><hr><h2 id=reference>Reference</h2><p><a href=https://towardsdatascience.com/jupyter-notebooks-i-getting-started-with-jupyter-notebooks-f529449797d2 rel=noopener>Using Jupyter Notebook in Virtual Environments for Python Data Science Projects | by Christine Egan | Towards Data Science</a></p><script src=https://www.physician.tw/js/darkmode.dfadb738e747a87e78c7144d7267f1bc.min.js></script>
 <script src=https://www.physician.tw/js/util.6f22941e242efae60fd84e7c32e874fa.min.js></script>
 <link rel=preload href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css as=style onload='this.onload=null,this.rel="stylesheet"' integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
 <script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
@@ -12,7 +113,7 @@
 <script defer src=https://www.physician.tw/js/code-title.ce4a43f09239a9efb48fee342e8ef2df.min.js></script>
 <script defer src=https://www.physician.tw/js/clipboard.2913da76d3cb21c5deaa4bae7da38c9f.min.js></script>
 <script defer src=https://www.physician.tw/js/callouts.7723cac461d613d118ee8bb8216b9838.min.js></script>
-<script>const SEARCH_ENABLED=!1,LATEX_ENABLED=!0,PRODUCTION=!0,BASE_URL="https://www.physician.tw/",fetchData=Promise.all([fetch("https://www.physician.tw/indices/linkIndex.5b4c9dd99ff4fb24fb2576c319a806af.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://www.physician.tw/indices/contentIndex.95478c4150e22805182666a7f827a4e6.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts(),initPopover("https://www.physician.tw",!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!1;drawGraph("https://www.physician.tw",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2})}var i=document.getElementsByClassName("mermaid");i.length>0&&import("https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs").then(e=>{e.default.init()})},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
+<script>const SEARCH_ENABLED=!1,LATEX_ENABLED=!0,PRODUCTION=!0,BASE_URL="https://www.physician.tw/",fetchData=Promise.all([fetch("https://www.physician.tw/indices/linkIndex.5b4c9dd99ff4fb24fb2576c319a806af.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://www.physician.tw/indices/contentIndex.1e93c2fded5076d97afa0b5286ba0597.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts(),initPopover("https://www.physician.tw",!0);const o=document.getElementById("footer");if(o){const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=s&&!1;drawGraph("https://www.physician.tw",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2})}var i=document.getElementsByClassName("mermaid");i.length>0&&import("https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs").then(e=>{e.default.init()})},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
     import { attachSPARouting } from "https:\/\/www.physician.tw\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
     attachSPARouting(init, render)
   </script></head><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=搜尋 placeholder="請輸入像是：hypertension 之類的來看沒有沒什麼有趣的🎳"><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
