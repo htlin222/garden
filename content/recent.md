@@ -1,6 +1,6 @@
 ---
 title: "recent"
-date: "2023-02-27"
+date: "2023-02-28"
 enableToc: true
 ---
 
@@ -10,8 +10,10 @@ enableToc: true
 
 # 最近編輯的檔案
 
-## 今天
+## 昨天
 
+- [[mermaid]]
+	- date: 2023-02-27 23:45
 - [[Type of Idiopathic interstitial pneumonias (IIPs)]]
 	- date: 2023-02-27 20:44
 - [[COP cryptogenic organizing PNA]]
@@ -21,8 +23,6 @@ enableToc: true
 - [[程式語言]]
 	- date: 2023-02-27 19:47
 - [[markdown-lab]]
-	- date: 2023-02-27 19:46
-- [[mermaid]]
 	- date: 2023-02-27 19:46
 - [[Early Rhythm-Control Therapy in Patients with Atrial Fibrillation]]
 	- date: 2023-02-27 00:24
@@ -99,22 +99,7 @@ enableToc: true
 - [[Pathology pathogenesis esophageal cancer]]
 	- date: 2023-02-27 00:19
 
-## 昨天
+## 前天
 
 - [[pH of Urine Dipstick]]
 	- date: 2023-02-26 20:53
-
-## 前天
-
-- [[Nonspecific Low Back Pain-metadata]]
-	- date: 2023-02-25 23:59
-- [[mechanisms of hypophosphatemia]]
-	- date: 2023-02-25 23:59
-- [[Shock]]
-	- date: 2023-02-25 23:59
-- [[Rate Control-atrial fibrillation-1]]
-	- date: 2023-02-25 23:58
-- [[approach to the patient with neutrophilia]]
-	- date: 2023-02-25 04:06
-- [[Vimwiki設定]]
-	- date: 2023-02-25 01:21
