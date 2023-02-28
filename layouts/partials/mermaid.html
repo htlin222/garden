@@ -1,9 +1,3 @@
-{{ if .Params.mermaid }}
-<script
-  src="https://cdn.jsdelivr.net/npm/mermaid@8.8.2/dist/mermaid.min.js"
-  integrity="sha256-KqisLh8jVMBRjpNkOhH5W9VWs+F6x6vQksLqxs7+x9A="
-  crossorigin="anonymous"
-></script>
 <script>
   // Replace mermaid pre.code to div
   Array.from(document.getElementsByClassName("language-mermaid")).forEach(
@@ -12,11 +6,17 @@
     }
   );
 </script>
-<style>
-  /* Set svg to center */
-  .mermaid svg {
-    display: block;
-    margin: auto;
-  }
-</style>
-{{ end }}
+
+<script
+  type="application/javascript"
+  src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
+></script>
+
+<script>
+  var config = {
+    startOnLoad: true,
+    theme:'{{ if site.Params.mermaid.theme }}{{ site.Params.mermaid.theme }}{{ else }}dark{{ end }}',
+    align:'{{ if site.Params.mermaid.align }}{{ site.Params.mermaid.align }}{{ else }}center{{ end }}',
+  };
+  mermaid.initialize(config);
+</script>

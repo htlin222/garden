@@ -53,7 +53,9 @@
   {{end}}
   {{partial "katex.html" .}}
 
-  <!-- {{partial "mermaid.html" .}} -->
+  {{ if (.Params.mermaid) }}
+  {{ partial "mermaid.html" }}
+  {{ end }}
 
   <script async src="https://unpkg.com/@floating-ui/core@0.7.3"></script>
   <script async src="https://unpkg.com/@floating-ui/dom@0.5.4"></script>
@@ -150,21 +152,6 @@
         }
       {{end}}
 
-      {{if $data.enableMermaid | default $.Site.Data.config.enableMermaid}}
-        var els = document.getElementsByClassName("mermaid");
-        if (els.length > 0) {
-          import('https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs').then(
-            (obj) => {
-              // init forces mermaid to render mermaid markdown without waiting
-              // for DOMContentLoaded event
-				obj.default.init({
-					securityLevel: 'loose',
-					theme: 'dark',
-				});
-            }
-          )
-        }
-      {{end}}
     }
 
     const init = (doc = document) => {

@@ -2,7 +2,7 @@
 title: "mermaid"
 slug: "mermaid"
 date: "2023-02-27"
-enableMermaid : true
+mermaid : true
 tags:
 - building
 ---
