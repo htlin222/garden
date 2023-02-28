@@ -12,6 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
+mermaid: true
 GitHubLink: https://github.com/htlin222/garden/tree/hugo/content
 search:
   enableSemanticSearch: false
