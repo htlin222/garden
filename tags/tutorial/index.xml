@@ -1,5 +1,151 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tutorial on</title><link>https://www.physician.tw/tags/tutorial/</link><description>Recent content in tutorial on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sat, 25 Sep 2021 07:08:44 +0000</lastBuildDate><atom:link href="https://www.physician.tw/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>CVC放置筆記</title><link>https://www.physician.tw/blog/CVC-insertion-note/</link><pubDate>Sat, 25 Sep 2021 07:08:44 +0000</pubDate><guid>https://www.physician.tw/blog/CVC-insertion-note/</guid><description>如何打CVC ? CVC insertion note tags: tutorials Prepare 一邊想著操作順序，一邊把東西排好： 三對針筒、三項前菜(Guide wire、Cut、Dilator)、導管、 三個固定(clamp、Suture、Tegaderm)
-5cc空針for local(接25號針頭) 10cc空針for blind try(接23號針頭)，也可以兩隻，一隻來rinse 紗布(不要搞得像NEJM示影片的命案現場)，多的血都打在紗布上 Suture Kit Tegaderm (丟個兩片，有一片可以拿來當成把超音波變無菌的小法寶) CVC kit 裡面有的東西： 18號粗針接5cc的藍色 syringe (有屁眼)</description></item><item><title>markdown自動產生投影片，以hackmd為例</title><link>https://www.physician.tw/blog/medical-chart/</link><pubDate>Wed, 25 Nov 2020 06:41:58 +0000</pubDate><guid>https://www.physician.tw/blog/medical-chart/</guid><description>最近老胡啟動了大哈讀書計畫，要花兩年的時間把整本3000多頁的大磚塊唸完。痛點在於每次做簡報很煩，要把教科書的內容變成投影片，會有很多機械式的剪貼跟排版。做到讓人覺得厭世。因此想研究如何在有限時間內用最快的速度做簡報(此方法也適用報paper)。 在這樣的背景下，只要能把重點條列式地呈現出來就可以。第二順位就是要快。通常美編不重要，字不要太小就好。以下是摸索出的解決方法。主要使用hackmd的簡報功能。
-先把要的內容一次全部貼到hackmd裡 段落變成條列式，自動分行加list：大致把每句話當成是一個重點，以全文搜尋Shift-Ctrl-R (Win) / Shift-Cmd-Option-F (Mac) 「. 」(句號加一個空格，如果單搜句號會搜到一些小數點)，取代為「. \n * 」(句號+一個空格+一個反斜線+n+一個空格+一個米字號+一個空格)；「\n」是markdown的換行；「* 」是項目符號 原來是 sentence1. sentence2. sentence3. 操作後就變： sentence1.</description></item><item><title>Seminar必備！NEJM 風Google 簡報範本，2020年新版</title><link>https://www.physician.tw/blog/nejm-slides/</link><pubDate>Wed, 25 Nov 2020 05:24:19 +0000</pubDate><guid>https://www.physician.tw/blog/nejm-slides/</guid><description>Seminar必備！NEJM 風Google 簡報範本，2020年16:9新版 複製方法： 先點我進到Google slide Background 網路上流竄著各式各樣的簡報素材，有各種簡報大師們在開班授課，彷彿會學會了簡報設計，就可以報出棒棒的簡報。然後花了一堆生命在研究配色、排版、字體，卻不知道觀眾(如我)其實不是很care這些，觀眾只care你講的東西，新不新？對不對？我覺得設計簡報可以是專業，但不是每個人都要會的專業，這個本意是拿來輔助溝通的工具，就應該多快好省處理完。
-在醫院裡看過各種各樣的簡報，有些人套用PowerPoint內建的一些花花綠綠的範本，字體亂七八糟，又小到看不見；也有是白底黑字大，簡單卻字字精華，聽完後考試都考100百分了。做簡報真的不用太美工，好簡報只要能有以下幾點就好：
-該對齊的對齊 字大一點 - 24pt以上 如果有條列，加個動畫吧，一點接著一點出現 全半形不要亂用 不要有錯字e.g.把Seminar拼成Seminer, Sminiararaiaiari 圖大一點，最好放到滿 重點記得強調(看你要是框起來、弄粗、還是放大) 要放頁碼、出處 不要放自己不懂的東西在slide上，一定被電 按下面的時間來分配進度</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tutorial on</title><link>https://www.physician.tw/tags/tutorial/</link><description>Recent content in tutorial on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>1izard@duck.com (Hsieh-Ting Lin)</managingEditor><webMaster>1izard@duck.com (Hsieh-Ting Lin)</webMaster><copyright>2022 Justin James All rights reserved</copyright><lastBuildDate>Sat, 25 Sep 2021 07:08:44 +0000</lastBuildDate><atom:link href="https://www.physician.tw/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>CVC放置筆記</title><link>https://www.physician.tw/blog/CVC-insertion-note/</link><pubDate>Sat, 25 Sep 2021 07:08:44 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/CVC-insertion-note/</guid><description>&lt;h1 id="如何打cvc--cvc-insertion-note">如何打CVC ? CVC insertion note&lt;/h1>
+&lt;h6 id="tags-tutorials">tags: &lt;code>tutorials&lt;/code>&lt;/h6>
+&lt;h2 id="prepare">Prepare&lt;/h2>
+&lt;p>一邊想著操作順序，一邊把東西排好：
+三對針筒、三項前菜(Guide wire、Cut、Dilator)、導管、
+三個固定(clamp、Suture、Tegaderm)&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>5cc空針for local(接25號針頭)&lt;/li>
+&lt;li>10cc空針for blind try(接23號針頭)，也可以兩隻，一隻來rinse&lt;/li>
+&lt;li>紗布(不要搞得像NEJM示影片的命案現場)，多的血都打在紗布上&lt;/li>
+&lt;li>Suture Kit&lt;/li>
+&lt;li>Tegaderm (丟個兩片，有一片可以拿來當成把超音波變無菌的小法寶)&lt;/li>
+&lt;/ol>
+&lt;h4 id="cvc-kit-裡面有的東西">CVC kit 裡面有的東西：&lt;/h4>
+&lt;ol start="3">
+&lt;li>
+&lt;p>18號粗針接5cc的藍色 syringe (有屁眼)&lt;/p>
+&lt;ol>
+&lt;li>小技巧：套軟針(sheath)，這樣pun到時，送軟針，syringe跟硬針直接一起退&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Guidewire：&lt;/p>
+&lt;ol>
+&lt;li>一格為十公分&lt;/li>
+&lt;li>記得送入到兩格，即20cm左右&lt;/li>
+&lt;li>有Syringe的話要自己加10cm，送到3格&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>鋼針/刀片，在送dilator時切開皮膚用，記得鋼針要選針頭有斜面的&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dilator&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Catheter：記得所有頭都先rinse，除了棕頭，即之後guide會出來的頭，以外，其他的都先clump起來，但蓋子可以不用蓋，因為你最後還是要反抽確認&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>clamp一對 (蝴蝶、豆豆)&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;img src="https://i.imgur.com/LgqBeC3.jpg" width="auto" alt="" />
+Roberts and Hedges’ Clinical Procedures in Emergency Medicine and Acute Care&lt;/p>
+&lt;h2 id="insertion">Insertion&lt;/h2>
+&lt;h3 id="在未消毒下可以先用echo看一下">在未消毒下可以先用Echo看一下&lt;/h3>
+&lt;h3 id="穿衣第一次消毒鋪單消毒">穿衣、第一次消毒、鋪單、消毒&lt;/h3>
+&lt;h3 id="把所有東西擺開來">把所有東西擺開來&lt;/h3>
+&lt;ol>
+&lt;li>先拆suture包，要個4-0 Nylon，把線先夾好，把所有剪刀、鑷子上的塑膠套都先扒光。把彎盆獨立拿出來，請nurse在裡面加一堆normal saline，放在一個順手好抽水的位置&lt;/li>
+&lt;li>抽Local、抽Normal Saline&lt;/li>
+&lt;li>拿CVC kit裡的小東西，按你要操作順序揹擺好，再拿大的東西e.g.guidewire、長針、CVC，不然先拿大東西小東西勾到就會亂滾GG&lt;/li>
+&lt;li>Rinse一下管路&lt;/li>
+&lt;li>請nurse把Echo傘套丟進來，請他把探頭給你，你用傘套接住，慢慢擼套子(?)，讓nurse把套子拉走，沾無菌jelly&lt;/li>
+&lt;/ol>
+&lt;h3 id="開始放">開始放&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Echo看一下IJV走向，水平垂直兩個view，其實如果有Echo guide 不一定要小針試，確定的話大針直接上了，進針時negative pressure&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img src="https://i.imgur.com/UOecq13.png" width="auto" alt="" />&lt;/li>
+&lt;li>
+&lt;img src="https://i.imgur.com/dnAjVXF.png" width="auto" alt="" />&lt;/li>
+&lt;li>看一下表皮到vein妌垂直多遠，也是就入針點到porbe水平多遠 (大概2~3公分)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>如果是blind try的話，中了，大針再跟上從同一個入針點進入，退小針&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>怎樣打比較準：CV line insertion under the angles 102.15 ± 6.80 degrees in the axial plane, 36.21 ± 3.12 in the sagittal plane and 40.49 ± 5.09 head rotation yield satisfactory results.
+&lt;em>意思應該是站在病人的頭的左上側Axial 102±6度往右下打，讓他頭左轉40±5度，用大概Sagittal 35度往下&lt;/em>
+因為ICA在內側，站右打很容易往左偏，就會打到動脈
+&lt;img src="https://i.imgur.com/RcokSwb.png" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/diCAYiA.png" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/XX6hQX7.jpg" width="auto" alt="" />
+&lt;em>Barzegari, Hassan, et al. &amp;ldquo;Proper angle of sono-guided central venous line insertion.&amp;rdquo; Emergency 4.3 (2016): 155.&lt;/em>
+McGee, David C., and Michael K. Gould. &amp;ldquo;Preventing complications of central venous catheterization.&amp;rdquo; New England journal of medicine 348.12 (2003): 1123-1133.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>人的站位也很重要，可以幾乎跟床垂直站，因為人緊張時手會一直彎
+&lt;img src="https://i.imgur.com/lkYMG7G.jpg" width="auto" alt="" />&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>大針上後，接下來的事情就很簡單了，該退軟針的退，送guidewire到20~30公分，也是「█ █」跟「█ █ █」之間&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h1 id="six-step-approach-to-ultrasound-guided-central-venous-catheter-placement">Six-step approach to ultrasound-guided central venous catheter placement&lt;/h1>
+&lt;p>
+&lt;img src="https://i.imgur.com/5yF3P8H.png" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/mgmIMov.png" width="auto" alt="" />
+* Saugel et al. Critical Care (2017) 21:225&lt;/p>
+&lt;h1 id="procedure-note">Procedure Note&lt;/h1>
+&lt;h4 id="indication-hemodynamic-monitoringintravenous-access">Indication: Hemodynamic monitoring/Intravenous access&lt;/h4>
+&lt;p>The patient was placed in a dependent position appropriate for central line placement based on the vein to be cannulated. The patient’s &lt;em>&lt;strong>right/left neck was prepped and draped in sterile fashion. 1% Lidocaine was used to anesthetize the surrounding skin area. A triple lumen 9-French Cordis catheter was introduced into the the&lt;/strong>&lt;/em> subclavian/internal jugular/common femoral vein using the Seldinger technique ___and under ultrasound guidance. The catheter was threaded smoothly over the guide wire and appropriate blood return was obtained. Each lumen of the catheter was evacuated of air and flushed with sterile saline. The catheter was then sutured in place to the skin and a sterile dressing applied. Perfusion to the extremity distal to the point of catheter insertion was checked and found to be adequate.&lt;/p>
+&lt;p>Attending___ was present for the entire procedure.&lt;/p>
+&lt;p>Estimated Blood Loss: ____ cc
+The patient tolerated the procedure well and there were no complications.&lt;/p>
+&lt;h1 id="ref">Ref&lt;/h1>
+&lt;p>
+&lt;a href="https://proceduralist.org/cvc-cannulation/" rel="noopener">https://proceduralist.org/cvc-cannulation/&lt;/a>&lt;/p></description></item><item><title>markdown自動產生投影片，以hackmd為例</title><link>https://www.physician.tw/blog/medical-chart/</link><pubDate>Wed, 25 Nov 2020 06:41:58 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/medical-chart/</guid><description>&lt;p>最近老胡啟動了大哈讀書計畫，要花兩年的時間把整本3000多頁的大磚塊唸完。痛點在於每次做簡報很煩，要把教科書的內容變成投影片，會有很多機械式的剪貼跟排版。做到讓人覺得厭世。因此想研究如何在有限時間內用最快的速度做簡報(此方法也適用報paper)。
+在這樣的背景下，只要能把重點條列式地呈現出來就可以。第二順位就是要快。通常美編不重要，字不要太小就好。以下是摸索出的解決方法。主要使用hackmd的簡報功能。&lt;/p>
+&lt;ol>
+&lt;li>先把要的內容一次全部貼到hackmd裡&lt;/li>
+&lt;li>段落變成條列式，自動分行加list：大致把每句話當成是一個重點，以全文搜尋Shift-Ctrl-R (Win) / Shift-Cmd-Option-F (Mac) 「. 」(句號加一個空格，如果單搜句號會搜到一些小數點)，取代為「. \n * 」(句號+一個空格+一個反斜線+n+一個空格+一個米字號+一個空格)；「\n」是markdown的換行；「* 」是項目符號
+原來是 sentence1. sentence2. sentence3. 操作後就變：
+sentence1.&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>sentence2.&lt;/li>
+&lt;li>sentence3.&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>其他部分依照官網說明做成簡報：https://hackmd.io/s/how-to-create-slide-deck-tw
+我的建議是投影片標題用h3 即###
+用&amp;mdash;分頁&lt;/li>
+&lt;li>貼圖片：Win+Shift+S(windows系統) / shift+ctrl+cmd+4 (Mac) 局部截圖然後直接貼上就可以傳到圖床去&lt;/li>
+&lt;li>Final touch：用 ==文字==把要的重點標起來、修文字；另外我會適度加一點emoji；用上面提到的取代功能把所有的is/are/can be 變成👉
+emoji 參考list
+ikatyang/emoji-cheat-sheet: A markdown version emoji cheat sheet (github.com)
+#結論：
+實測大概一個單元一個小時內就可以變成一分完整的簡報，大哈一章大概8頁；step (1)+(2)5分鐘；step(3)10分鐘；step(4)5分鐘；step (5)比較花時間，要消化內容，大約30分鐘&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;img src="https://i.imgur.com/Dqe2k33_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/73RAMSy_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />&lt;/p></description></item><item><title>Seminar必備！NEJM 風Google 簡報範本，2020年新版</title><link>https://www.physician.tw/blog/nejm-slides/</link><pubDate>Wed, 25 Nov 2020 05:24:19 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/nejm-slides/</guid><description>&lt;h1 id="seminar必備nejm-風google-簡報範本2020年169新版">Seminar必備！NEJM 風Google 簡報範本，2020年16:9新版&lt;/h1>
+&lt;p>
+&lt;img src="https://i.imgur.com/7ao1XI5.png" width="auto" alt="" />&lt;/p>
+&lt;h2 id="複製方法">複製方法：&lt;/h2>
+&lt;p>
+&lt;a href="https://docs.google.com/presentation/d/1VvV4z7gW3BvG6KmsVq2Mzh0uVYsgoR5S9OOcgkAXbA8/edit?usp=sharing" rel="noopener">先點我進到Google slide&lt;/a>
+&lt;img src="https://i.imgur.com/DAYLsvn_d.webp?maxwidth=760&amp;amp;fidelity=grand" width="auto" alt="" />&lt;/p>
+&lt;h2 id="background">Background&lt;/h2>
+&lt;p>網路上流竄著各式各樣的簡報素材，有各種簡報大師們在開班授課，彷彿會學會了簡報設計，就可以報出棒棒的簡報。然後花了一堆生命在研究配色、排版、字體，卻不知道觀眾(如我)其實不是很care這些，觀眾只care你講的東西，新不新？對不對？我覺得設計簡報可以是專業，但不是每個人都要會的專業，這個本意是拿來輔助溝通的工具，就應該多快好省處理完。&lt;/p>
+&lt;p>在醫院裡看過各種各樣的簡報，有些人套用PowerPoint內建的一些花花綠綠的範本，字體亂七八糟，又小到看不見；也有是白底黑字大，簡單卻字字精華，聽完後考試都考100百分了。做簡報真的不用太美工，好簡報只要能有以下幾點就好：&lt;/p>
+&lt;ul>
+&lt;li>該對齊的對齊&lt;/li>
+&lt;li>字大一點 - 24pt以上&lt;/li>
+&lt;li>如果有條列，加個動畫吧，一點接著一點出現&lt;/li>
+&lt;li>全半形不要亂用&lt;/li>
+&lt;li>不要有錯字e.g.把Seminar拼成Seminer, Sminiararaiaiari&lt;/li>
+&lt;li>圖大一點，最好放到滿&lt;/li>
+&lt;li>重點記得強調(看你要是框起來、弄粗、還是放大)&lt;/li>
+&lt;li>要放頁碼、出處&lt;/li>
+&lt;li>不要放自己不懂的東西在slide上，一定被電&lt;/li>
+&lt;li>按下面的時間來分配進度&lt;/li>
+&lt;/ul></description></item></channel></rss>

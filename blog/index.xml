@@ -1,26 +1,1403 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on</title><link>https://www.physician.tw/blog/</link><description>Recent content in Blogs on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.physician.tw/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>happy</title><link>https://www.physician.tw/blog/happy/</link><pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate><guid>https://www.physician.tw/blog/happy/</guid><description> [!info]
-🌱 來自: [[index]]
-happy</description></item><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>一個指令自動生成投影片(.PPTX檔) 最近因為常常要準備投影片上課，這種投影片主就是從教科書弄內容出來，標題加條列式為主，並不需要許多太複雜的排版，但在弄排版就很花時間(怒怒)。雖然有很多markdown自動變成投影片播放的功能，但就不能套用自己常用的樣式風格，也不容易交換檔案。發現 What? Slides? From Markdown? | by Peter Conrad | Medium介紹了用pandoc轉檔的方式，因此去看了官方文檔整理如下。
-TL;DR 首先要下載pandoc Pandoc - Installing pandoc 我們要準備好markdown檔案(.md)，跟範本檔案(.pptx)，放在同一個資料，cd到資料夾下後輸入以下指令： 1 pandoc 來源檔.</description></item><item><title>醫學簡報必備JAMA風格模版</title><link>https://www.physician.tw/blog/JAMA-Template/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://www.physician.tw/blog/JAMA-Template/</guid><description> TL;DR 下載連結 檔案→建立副本→整份簡報 Have a nice day</description></item><item><title>如何使用Obsidian_to_Anki</title><link>https://www.physician.tw/blog/Obsidian-to-Anki/</link><pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate><guid>https://www.physician.tw/blog/Obsidian-to-Anki/</guid><description>背景 很久以前在一些重要考試就會斷斷續續地使用Anki作為快速複習的工具，關於Anki的好，網上已有太多教學。近幾年卡片盒學習法開始成為顯學，Obsidian又是其中最廣為人使用的軟體，而現在的問題是：如何利用外掛的搭配，讓我們隨時隨地可以複習我們在Obsidian中的重點，以下接紹插件：Obsidian_to_Anki
-方法 前提： 本身對於Obsidian跟Anki的使用已經蠻了解的，這篇文給想要結合兩者的人。 AnkiConnect AnkiConnect key: 2055492159 Config 1 2 3 4 5 6 7 8 9 10 11 { &amp;#34;apiKey&amp;#34;: null, &amp;#34;apiLogPath&amp;#34;: null, &amp;#34;webBindAddress&amp;#34;: &amp;#34;127.</description></item><item><title>用Raycast, Pandoc, Zotero實現Cite While You Write</title><link>https://www.physician.tw/blog/raycast-pandoc-zotero-make/</link><pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate><guid>https://www.physician.tw/blog/raycast-pandoc-zotero-make/</guid><description>簡介 Cite While You Write, 簡稱CWYW，顧名思意就是讓我們在寫作時可以即時引用，並且生成引用條目bibliography，如果你是word或open office的使用者，可以很簡單地裝好zotero的外掛即可以開始使用。如果是R語言的使用者，Rstuido也提供完整的寫作環境。但如果是日常習慣以markdown來寫作，想實現CWYW就不是一件簡單的事。
-從兩個層面思考：(1)一個可以直接叫出如同zotero picker視窗的替代軟體，插入citation key，這裡使用Raycast (2)利用pandoc，把bib檔匯入。
-更多內容請見： htlin222/md-bib-make
-前置作業 系統：Mac OS
-需要安裝的項目：
-Zotero Your personal research assistant 1 2 # 可以直接從官網下載安裝檔，或用： brew install --cask zotero Zotero需要安裝的plugin: Better BibTeX for Zotero :: Better BibTeX for Zotero</description></item><item><title>在Mac中運作Python的正確方法</title><link>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</link><pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate><guid>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</guid><description>前言 如果之前沒有跟python打過交道，想在mac上安裝python時，首先就會面對到：我是誰？我在哪裡的問題，因為mac本身自帶一個python3，如果在終端機裡執行的話，也是可以print(&amp;quot;hellow world&amp;quot;)，接著，我們可能就會想開心地利用系統的pip來安裝需要的套件，然後這樣做是很危險的，因此pip時不時會提醒你要不要更新pip，但mac系統中其實有很多套件，可能需要比較低版本的python才能執行，更新可能造成不可逆的崩潰，因此，另外下載一個python來安裝是很重要的。
-接下來就會面對另一個問題：要載哪個版本？最直覺得做法就是到 Python.org下載最新的版本，打開後下一步下一步安裝完成。另外也可以brew install python3來安裝。同時也會有人建議用anaconda來安裝一些必要的套件。到最後，我們的電腦裡就會充斥著各種版本的python，大概像下面這張圖一樣： 這時就容易會出現問題，常常我們建立了某個.py檔，在某些情況下可以正常import某些package，但當我們用其他軟體打開時，如jupyter lab、pycharm時，又會發現某些pip沒安裝到的套件。這樣我們的開發/學習環境變得很不固定，或是會重覆在不同地方安裝了相同的套件。
-要解決這個問題，首先要學會兩組常用得指令：
-在終端機中執行： 1 which python3 或在python中跑這組程式碼： 1 2 import sys print(&amp;#34;User Current Version:-&amp;#34;, sys.</description></item><item><title>用Homebrew來安裝需要的App跟套件</title><link>https://www.physician.tw/blog/homebrew-basic/</link><pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate><guid>https://www.physician.tw/blog/homebrew-basic/</guid><description>安裝xcode-select 如果你是第一次打開可怕的終端機，可能會被提示安裝xcode必要的套件，裝就對了 1 xcode-select --install 安裝homebrew 參考官網： 為 macOS（或 Linux）添上套件管理工具 — Homebrew
-1 /bin/bash -c &amp;#34;$(curl -fsSL https://raw.</description></item><item><title>醫學簡報心法</title><link>https://www.physician.tw/blog/how-to-present-cbd/</link><pubDate>Sun, 03 Jul 2022 17:53:28 +0000</pubDate><guid>https://www.physician.tw/blog/how-to-present-cbd/</guid><description>前言 我覺得醫學簡報最重要的精神，是花最少的時間，讓聽眾覺得你有很用心的在整理，臨床工作繁重，還要值班，花很多時間作報告等於變相要人加班。其實大家沒有很在乎排版、美編、配色、圖表什麼的，字不要太小就好，白底黑字，該強調的強調。反而重要是整體報告的邏輯，口條。臨床報告最常見，當常是case-based discussion、EBM、MM，主要就是從一個手上照顧的病人去延伸一些議題來探討，所以想要分享一下自己作報告的流程，也歡迎大家提出意見跟想法。
-基本架構 首先，最好要有一個模板，每次都用同樣的模板就好，漸漸優化它，同樣標題/內容的版式，就可以再細分：純文字、字配圖、三欄…等等，目標就是點開貼上內容就可用，不要再花時間調字體大小。如果手邊沒有模板可以Google我的名字後面加NEJM，就可以找到我做的模板。在準備病人的病史時，不要花時間當搬運工，直接點開系統邊講邊點就好，做得很美其實大家也不會細看，有的時候自己都懶得唸，觀眾最後都是聽你怎麼講，這部分應該要花最少的時間，我自己大概都用兩三頁投影片就解決，用基本的條列式就好。當然如果這個是一個院級、Grand Round的報告還是要做的認真一點。
-開場到病史細節 在病史細節方面，如果跟這次住院無關、跟這次的主題無關，我都會直接略過不講，太多雜訊只是在浪費彼此的時間，檢驗報告除非系統真的呈現得很醜，或者是需要浪費很多點擊，才需要真正把它貼到投影片上。影像就直接點開系統就好，最好不要花超過半小時處理這些事情。
-討論 接下來就是討論的部分，我覺得這部分大概要占整個報告的¾，當你選擇要用這個病人報告時，應該就有一些想要做的主題，如果只有一個主題會很無聊，所以我通常會找兩三個，第一可能是這個疾病的基本介紹，直接把小麻/ Uptodate 貼過來就好，再配上幾張NEJM的美圖，因為大家其實可以自己去看書，其他Topics盡量找一些診斷、治療的最新進展、或是這個病人的一些不尋常的發現，把這些關鍵詞拿去餵pubmed，過濾一下：時間選三年內、盡量不要找一些Q3以上的野雞期刊。
-如何找到合適的文章 找兩三篇，跟你主題最符合的點開來看，其實就不用在pubmed上面瞎逛了，做報告最浪費時間的部分常常就是在亂搜尋東西。把找到的paper作為核心，我們就叫他核心paper好了：一頁放Abstract，一頁放圖表，接著直接跳到Discussion，一邊讀一邊把它每句話後面的reference點開來，按照他行文的順序，選個10篇做成投影片，看起來就會很有深度跟廣度，講起來又很有邏輯（畢竟已經有辛苦的核心paper作者幫我們整理過一次了）這些paper每一篇，一樣是貼摘要跟美美的圖片，講法就是：「有人在什麼時候做了一個什麼類型的研究，大概收了多少人，比較什麼跟什麼的差別，從這個圖表可以看得出來結論是某某某，套用在我們病人上，可以知道怎樣怎樣。」當然你也可以跟風學一下JAMA最近很常出現的一頁式摘要，就看你的報告時間決定要放幾篇，以我自己的語速，半小時的報告包含簡單的病人介紹，大概再另外找10篇就可以。這些paper也可以把原文的一些重要段落貼幾頁，然後右鍵略過，萬一被問就退出簡報模式來看一下，不要放在註解裡，因為字很小自己報告時會太緊張找不到重點。
-收尾 講完了討論，最後就是Back To Our Patient，一樣條列式，再重新幫大家複習一次病人的病史，把Discussion裡的東西摘要一下。下一頁是Take Home Messages，主要是一些知識點，讓大家可以用在臨床上，例如一些診斷方法、疾病表現、流行病學、治療指引，這樣就可以收工了。</description></item><item><title>我🦎 的ICU patient list</title><link>https://www.physician.tw/blog/iculist/</link><pubDate>Wed, 27 Apr 2022 03:16:54 +0000</pubDate><guid>https://www.physician.tw/blog/iculist/</guid><description>跌跌撞撞過完一個月北榮 ICU course，雖然還是覺得自己很廢，但還是覺得有稍稍掌握了critical care的精神。粗算一下每個病人每班都有大約100件需要知道的事，從呼吸器設定到接下來的動向，10個病人乘起來就有1000件事，而預設的交班單是厚厚一疊紙，要查找也不夠快，查房VS隨口一句：所以病人的ventilator setting如何？直接腦袋打結。因此要如何把這1000件事有效率的整理起來真的很需要一張有大局觀的list。這份list是從上班的第一天開始一路迭代到月底，使用起來還算順手。
-每天接班時先用黑筆寫完，有任何更正、新事項用紅筆寫，寫note時就把紅筆的部分更正上去
-檔案連結 自行複製到自己的goole drive裡
-☑️正面 5️⃣大事項(北榮的習慣)： 🫁 VENTILATION FiO2, VRate, PEEP, PC/VC (or other mode) ABG Weaning (RSBI, Cuff leak) 痰 呼吸相關用藥 e.</description></item><item><title>CVC放置筆記</title><link>https://www.physician.tw/blog/CVC-insertion-note/</link><pubDate>Sat, 25 Sep 2021 07:08:44 +0000</pubDate><guid>https://www.physician.tw/blog/CVC-insertion-note/</guid><description>如何打CVC ? CVC insertion note tags: tutorials Prepare 一邊想著操作順序，一邊把東西排好： 三對針筒、三項前菜(Guide wire、Cut、Dilator)、導管、 三個固定(clamp、Suture、Tegaderm)
-5cc空針for local(接25號針頭) 10cc空針for blind try(接23號針頭)，也可以兩隻，一隻來rinse 紗布(不要搞得像NEJM示影片的命案現場)，多的血都打在紗布上 Suture Kit Tegaderm (丟個兩片，有一片可以拿來當成把超音波變無菌的小法寶) CVC kit 裡面有的東西： 18號粗針接5cc的藍色 syringe (有屁眼)</description></item><item><title>markdown自動產生投影片，以hackmd為例</title><link>https://www.physician.tw/blog/medical-chart/</link><pubDate>Wed, 25 Nov 2020 06:41:58 +0000</pubDate><guid>https://www.physician.tw/blog/medical-chart/</guid><description>最近老胡啟動了大哈讀書計畫，要花兩年的時間把整本3000多頁的大磚塊唸完。痛點在於每次做簡報很煩，要把教科書的內容變成投影片，會有很多機械式的剪貼跟排版。做到讓人覺得厭世。因此想研究如何在有限時間內用最快的速度做簡報(此方法也適用報paper)。 在這樣的背景下，只要能把重點條列式地呈現出來就可以。第二順位就是要快。通常美編不重要，字不要太小就好。以下是摸索出的解決方法。主要使用hackmd的簡報功能。
-先把要的內容一次全部貼到hackmd裡 段落變成條列式，自動分行加list：大致把每句話當成是一個重點，以全文搜尋Shift-Ctrl-R (Win) / Shift-Cmd-Option-F (Mac) 「. 」(句號加一個空格，如果單搜句號會搜到一些小數點)，取代為「. \n * 」(句號+一個空格+一個反斜線+n+一個空格+一個米字號+一個空格)；「\n」是markdown的換行；「* 」是項目符號 原來是 sentence1. sentence2. sentence3. 操作後就變： sentence1.</description></item><item><title>Seminar必備！NEJM 風Google 簡報範本，2020年新版</title><link>https://www.physician.tw/blog/nejm-slides/</link><pubDate>Wed, 25 Nov 2020 05:24:19 +0000</pubDate><guid>https://www.physician.tw/blog/nejm-slides/</guid><description>Seminar必備！NEJM 風Google 簡報範本，2020年16:9新版 複製方法： 先點我進到Google slide Background 網路上流竄著各式各樣的簡報素材，有各種簡報大師們在開班授課，彷彿會學會了簡報設計，就可以報出棒棒的簡報。然後花了一堆生命在研究配色、排版、字體，卻不知道觀眾(如我)其實不是很care這些，觀眾只care你講的東西，新不新？對不對？我覺得設計簡報可以是專業，但不是每個人都要會的專業，這個本意是拿來輔助溝通的工具，就應該多快好省處理完。
-在醫院裡看過各種各樣的簡報，有些人套用PowerPoint內建的一些花花綠綠的範本，字體亂七八糟，又小到看不見；也有是白底黑字大，簡單卻字字精華，聽完後考試都考100百分了。做簡報真的不用太美工，好簡報只要能有以下幾點就好：
-該對齊的對齊 字大一點 - 24pt以上 如果有條列，加個動畫吧，一點接著一點出現 全半形不要亂用 不要有錯字e.g.把Seminar拼成Seminer, Sminiararaiaiari 圖大一點，最好放到滿 重點記得強調(看你要是框起來、弄粗、還是放大) 要放頁碼、出處 不要放自己不懂的東西在slide上，一定被電 按下面的時間來分配進度</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on</title><link>https://www.physician.tw/blog/</link><description>Recent content in Blogs on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>1izard@duck.com (Hsieh-Ting Lin)</managingEditor><webMaster>1izard@duck.com (Hsieh-Ting Lin)</webMaster><copyright>2022 Justin James All rights reserved</copyright><lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.physician.tw/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>happy</title><link>https://www.physician.tw/blog/happy/</link><pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/happy/</guid><description>&lt;blockquote>
+&lt;p>[!info]&lt;/p>
+&lt;p>🌱 來自: [[index]]&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="happy">happy&lt;/h1></description></item><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>&lt;h2 id="一個指令自動生成投影片pptx檔">一個指令自動生成投影片(.PPTX檔)&lt;/h2>
+&lt;p>最近因為常常要準備投影片上課，這種投影片主就是從教科書弄內容出來，標題加條列式為主，並不需要許多太複雜的排版，但在弄排版就很花時間(怒怒)。雖然有很多markdown自動變成投影片播放的功能，但就不能套用自己常用的樣式風格，也不容易交換檔案。發現
+&lt;a href="https://stymied.medium.com/what-slides-from-markdown-5239ed31e7ac" rel="noopener">What? Slides? From Markdown? | by Peter Conrad | Medium&lt;/a>介紹了用pandoc轉檔的方式，因此去看了官方文檔整理如下。&lt;/p>
+&lt;h2 id="tldr">TL;DR&lt;/h2>
+&lt;ul>
+&lt;li>首先要下載pandoc
+&lt;a href="https://pandoc.org/installing.html" rel="noopener">Pandoc - Installing pandoc&lt;/a>&lt;/li>
+&lt;li>我們要準備好markdown檔案(.md)，跟範本檔案(.pptx)，放在同一個資料，cd到資料夾下後輸入以下指令：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pandoc 來源檔.md -o 投影片名.pptx --reference-doc 範本檔.pptx
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>範本檔可以下載我的簡單NEJM風：
+&lt;a href="https://github.com/htlin222/blog/blob/master/static/media/nejm.pptx" rel="noopener">blog/nejm.pptx · htlin222/blog&lt;/a>，載好後打開母片編輯，對照下面的說明。&lt;/p>
+&lt;h2 id="範本檔設計">範本檔設計&lt;/h2>
+&lt;p>打開一個空白的pptx檔案，編輯母片，重新命名每個版面配置，最主要有以下七種(少一個都不行，每個字都要一樣，大小寫也要一樣)
+詳見：
+&lt;a href="https://pandoc.org/MANUAL.html" rel="noopener">Pandoc - Pandoc User’s Guide&lt;/a>&lt;/p>
+&lt;h3 id="title-slide">Title Slide&lt;/h3>
+&lt;p>This layout is used for the initial slide, which is generated and filled from the metadata fields date, author, and title, if they are present.
+意思是在你的mardkwon 文件最前面三行新增以下以&lt;code>%&lt;/code>開頭的內容&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">%title
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">%author
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">%date
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="section-header">Section Header&lt;/h3>
+&lt;p>This layout is used for what pandoc calls “title slides”, i.e. slides which start with a header which is above the slide level in the hierarchy.
+單獨一行的一級標題&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"># Section
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="two-content">Two Content&lt;/h3>
+&lt;p>This layout is used for two-column slides, i.e. slides containing a div with class columns which contains at least two divs with class column.
+只要有以下語法，就可以實現兩欄效果，適合用來圖文搭配，如果要加入圖片的話，也是用markdown圖片的語法&lt;code>![image title](image path)&lt;/code>：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">## 預設都是二級標題開頭
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">:::: {.columns}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">::: {.column}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">左邊
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- Bullet
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- Bullet
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- Bullet
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">:::
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">::: {.column}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">右邊
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- Bullet
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- Bullet
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- Bullet
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">:::
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">::::
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="comparison">Comparison&lt;/h3>
+&lt;p>This layout is used instead of “Two Content” for any two-column slides in which at least one column contains text followed by non-text (e.g. an image or a table).&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">## 預設都是二級標題開頭
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">:::: {.columns}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">::: {.column}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Left
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">![]()
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">:::
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">::: {.column}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Left
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">![]()
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">:::
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">::::
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="content-with-caption">Content with Caption&lt;/h3>
+&lt;p>This layout is used for any non-two-column slides which contain text followed by non-text (e.g. an image or a table).&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">## 預設都是二級標題開頭
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">一些字
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">|表格|表格|
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">|---|---|
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">|內容|內容|
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>或&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">## 預設都是二級標題開頭
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">一些字
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">![圖片]()
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="blank">Blank&lt;/h3>
+&lt;p>This layout is used for any slides which only contain blank content, e.g. a slide containing only speaker notes, or a slide containing only a non-breaking space.
+標題空白成## 然後加上加上註解，註解的寫法是用三個&lt;code>:&lt;/code>後面加上&lt;code>notes&lt;/code>，每頁都可以加上註解，個人會把reference都放在這個區域，到時候再貼上&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">##
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">::: notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">空白頁，到時候要放一張滿版大圖
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">:::
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="title-and-content">Title and Content&lt;/h3>
+&lt;p>This layout is used for all slides which do not match the criteria for another layout.
+所有不符合上面規則的文件都會算成Title and Contnet，也是最常用的&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">## title
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- point
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- point
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- point
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="last-but-not-least">Last but not least&lt;/h2>
+&lt;ul>
+&lt;li>注意所有標題前後都要有空行，不然可能會排版出錯&lt;/li>
+&lt;li>可以新增其他排版嗎？不行，這些是程式設計一開始就規定好的&lt;/li>
+&lt;li>如果你也想要自己創一個模版，記得每一個上面提到的版式都要建(就算你最後沒有用到)，不然會報錯&lt;/li>
+&lt;/ul></description></item><item><title>醫學簡報必備JAMA風格模版</title><link>https://www.physician.tw/blog/JAMA-Template/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/JAMA-Template/</guid><description>&lt;p>
+&lt;img src="https://i.imgur.com/Tu3tC8D.png" width="auto" alt="image_22-09-01_22_09_23" />&lt;/p>
+&lt;h2 id="tldr">TL;DR&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://docs.google.com/presentation/d/1d7NQodzOx5mWpeRQt-loT-obv6HxTEkppiHkdIrf79c/edit?usp=sharing" rel="noopener">下載連結&lt;/a>&lt;/li>
+&lt;li>&lt;code>檔案&lt;/code>→&lt;code>建立副本&lt;/code>→&lt;code>整份簡報&lt;/code>&lt;/li>
+&lt;li>Have a nice day&lt;/li>
+&lt;/ul></description></item><item><title>如何使用Obsidian_to_Anki</title><link>https://www.physician.tw/blog/Obsidian-to-Anki/</link><pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/Obsidian-to-Anki/</guid><description>&lt;h2 id="背景">背景&lt;/h2>
+&lt;p>很久以前在一些重要考試就會斷斷續續地使用Anki作為快速複習的工具，關於Anki的好，網上已有太多教學。近幾年卡片盒學習法開始成為顯學，Obsidian又是其中最廣為人使用的軟體，而現在的問題是：如何利用外掛的搭配，讓我們隨時隨地可以複習我們在Obsidian中的重點，以下接紹插件：Obsidian_to_Anki&lt;/p>
+&lt;h2 id="方法">方法&lt;/h2>
+&lt;h3 id="前提">前提：&lt;/h3>
+&lt;ul>
+&lt;li>本身對於Obsidian跟Anki的使用已經蠻了解的，這篇文給想要結合兩者的人。&lt;/li>
+&lt;/ul>
+&lt;h3 id="ankiconnect">AnkiConnect&lt;/h3>
+&lt;ul>
+&lt;li>AnkiConnect key: &lt;code>2055492159&lt;/code>&lt;/li>
+&lt;li>Config&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-json" data-lang="json">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;apiKey&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">null&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;apiLogPath&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">null&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;webBindAddress&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;127.0.0.1&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;webBindPort&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="mi">8765&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;webCorsOrigin&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;http://localhost&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;webCorsOriginList&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s2">&amp;#34;http://localhost&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s2">&amp;#34;app://obsidian.md&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="obsidian_to_anki">Obsidian_to_Anki&lt;/h3>
+&lt;ul>
+&lt;li>Obsidian_to_Anki Settings: &lt;code>Note type settings&lt;/code>&amp;gt;&lt;code>Basic&lt;/code>&lt;/li>
+&lt;li>貼上下面這段表達式：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">^\- ((?:.+\n)*?)\n*[\t ]+((\- )?.+(?:\n(?:^.{4}(?&amp;lt;!&amp;lt;!--)(?&amp;lt;!\- ..).*))*)(?:\n^$)?
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>Defaults: Deck: &lt;code>Obsidian&lt;/code>&lt;/li>
+&lt;li>Hotkeys: Obsidian_to_Anki: Scan Vault: &lt;code>⌘ ⌃ A&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="結果">結果&lt;/h2>
+&lt;ul>
+&lt;li>只要在製作筆記時以如下格式：&lt;code>- 問題&lt;/code>，然後換行、縮排&lt;code>- 答案&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;img src="https://i.imgur.com/sfh1Pev.png" width="auto" alt="image_22-08-29_14_35_54" />&lt;/p>
+&lt;ul>
+&lt;li>按下設定好的快速鍵: &lt;code>⌘ ⌃ A&lt;/code>&lt;/li>
+&lt;li>如此以來，我們即可以一鍵將大量的筆記轉成一則則可以馬上複習的Anki卡片&lt;/li>
+&lt;/ul></description></item><item><title>用Raycast, Pandoc, Zotero實現Cite While You Write</title><link>https://www.physician.tw/blog/raycast-pandoc-zotero-make/</link><pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/raycast-pandoc-zotero-make/</guid><description>&lt;h2 id="簡介">簡介&lt;/h2>
+&lt;p>Cite While You Write, 簡稱CWYW，顧名思意就是讓我們在寫作時可以即時引用，並且生成引用條目bibliography，如果你是word或open office的使用者，可以很簡單地裝好zotero的外掛即可以開始使用。如果是R語言的使用者，Rstuido也提供完整的寫作環境。但如果是日常習慣以markdown來寫作，想實現CWYW就不是一件簡單的事。&lt;/p>
+&lt;p>從兩個層面思考：(1)一個可以直接叫出如同zotero picker視窗的替代軟體，插入citation key，這裡使用Raycast (2)利用pandoc，把bib檔匯入。&lt;/p>
+&lt;p>更多內容請見：
+&lt;a href="https://github.com/htlin222/md-bib-make" rel="noopener">htlin222/md-bib-make&lt;/a>&lt;/p>
+&lt;h2 id="前置作業">前置作業&lt;/h2>
+&lt;p>系統：Mac OS&lt;/p>
+&lt;p>需要安裝的項目：&lt;/p>
+&lt;h3 id="zotero-your-personal-research-assistanthttpswwwzoteroorg">
+&lt;a href="https://www.zotero.org/" rel="noopener">Zotero Your personal research assistant&lt;/a>&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 可以直接從官網下載安裝檔，或用：&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask zotero
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="zotero需要安裝的plugin">Zotero需要安裝的plugin:&lt;/h4>
+&lt;p>
+&lt;a href="https://retorque.re/zotero-better-bibtex/" rel="noopener">Better BibTeX for Zotero :: Better BibTeX for Zotero&lt;/a>&lt;/p>
+&lt;h3 id="raycasthttpswwwraycastcom">
+&lt;a href="https://www.raycast.com/" rel="noopener">Raycast&lt;/a>&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 可以直接從官網下載安裝檔，或用：&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask raycast
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h4 id="raycast-需要安裝的plugin">Raycast 需要安裝的plugin:&lt;/h4>
+&lt;p>
+&lt;a href="https://www.raycast.com/reckoning-dev/zotero" rel="noopener">reckoning-dev/zotero - Raycast Store&lt;/a>&lt;/p>
+&lt;h3 id="make---gnu-project---free-software-foundationhttpswwwgnuorgsoftwaremake">
+&lt;a href="https://www.gnu.org/software/make/" rel="noopener">Make - GNU Project - Free Software Foundation&lt;/a>&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install make
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="pandoc---about-pandochttpspandocorg">
+&lt;a href="https://pandoc.org/" rel="noopener">Pandoc - About pandoc&lt;/a>&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install pandoc
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="zotero設定以英文版說明">Zotero設定：(以英文版說明)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>prefereces&lt;/code>&amp;gt;&lt;code>Better BibTex&lt;/code>&amp;gt;&lt;code>Citation Keys&lt;/code>&amp;gt;&lt;code>Citation Keys format&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>auth.lower + year+ veryshorttitle.lower&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;img src="https://i.imgur.com/1KIdKxl.png" width="auto" alt="image_22-08-27_16_18_03" />&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>prefereces&lt;/code>&amp;gt;&lt;code>Better BibTex&lt;/code>&amp;gt;&lt;code>Export&lt;/code>&amp;gt;&lt;code>Quick Copy&lt;/code>&amp;gt;&lt;code>Quick Copy Format&lt;/code>&amp;gt;&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Pandoc Citation&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;img src="https://i.imgur.com/zrvgZWz.png" width="auto" alt="image_22-08-27_16_18_27" />&lt;/p>
+&lt;h3 id="刷新所有citation-key">刷新所有citation key&lt;/h3>
+&lt;p>
+&lt;img src="https://i.imgur.com/HK6WEjv.png" width="auto" alt="image_22-08-27_16_17_31" />&lt;/p>
+&lt;h3 id="輸出成兩種格式better-biblatex-better-csl-json">輸出成兩種格式：Better BibLaTex, Better CSL JSON&lt;/h3>
+&lt;p>
+&lt;img src="https://i.imgur.com/PhWIGIn.png" width="auto" alt="image_22-08-27_16_19_14" />&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>File&lt;/code>&amp;gt;&lt;code>Export Library&lt;/code>&amp;gt;&lt;code>Format&lt;/code>&amp;gt;&lt;code>Better BibLaTex&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>在Translator Options 選 Keep updated
+把檔案存成以下路徑:&lt;/p>
+&lt;/blockquote>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">~/Zotero/zotero_main.bib
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>&lt;code>File&lt;/code>&amp;gt;&lt;code>Export Library&lt;/code>&amp;gt;&lt;code>Format&lt;/code>&amp;gt;&lt;code>Better CSL JSON&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>在Translator Options 選 Keep updated
+把檔案存成以下路徑:&lt;/p>
+&lt;/blockquote>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">~/Zotero/zotero_main.json
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="raycast-設定">Raycast 設定&lt;/h2>
+&lt;p>
+&lt;img src="https://i.imgur.com/Toxzuqv.png" width="auto" alt="image_22-08-27_16_20_29" />
+注意：這裡的路徑都要寫完整路徑，不能寫&lt;code>~/&lt;/code>或&lt;code>$HOME&lt;/code>&lt;/p>
+&lt;ul>
+&lt;li>Zotero Path&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">/Users/USER_NAME/Zotero/zotero.sqlite
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>Better BibTex CSL JSON FILE&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"># 剛剛輸出的檔案
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/Users/USER_NAME/Zotero/zotero_main.json
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>CSL format&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>選你要的，例如我選AMA，對本次操作無關。&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>為zotero extension 設定一個快鍵，例如我用&lt;code>ctrl+/&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="如何使用">如何使用&lt;/h2>
+&lt;ul>
+&lt;li>複製這個repo&lt;/li>
+&lt;li>編輯main.md這個檔案&lt;/li>
+&lt;/ul>
+&lt;h3 id="如何加入citation">如何加入citation?&lt;/h3>
+&lt;ul>
+&lt;li>叫出raycast&lt;/li>
+&lt;li>搜尋你要的文章&lt;/li>
+&lt;li>command+K 列出所有選項，選擇&lt;code>Copy BibTex Citation Key&lt;/code>
+&lt;img src="https://i.imgur.com/WkSriZe.png" width="auto" alt="image_22-08-27_16_29_57" />&lt;/li>
+&lt;li>在要加入citation的地方先寫一個&lt;code>@&lt;/code>，然後貼上citation key，最後呈現如 &lt;code>@tesfaye2022articles&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="makefile文件設定">Makefile文件設定：&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 改主檔案的名字：&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">PROJECT&lt;/span>&lt;span class="o">=&lt;/span>main
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 引用格式 ，請把csl檔放在同一目錄下&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">CITATIONSTYLE&lt;/span>&lt;span class="o">=&lt;/span>american-medical-association.csl
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 你的資料庫位置&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">BIBLIO&lt;/span>&lt;span class="o">=&lt;/span>~/Zotero/zotero_main.bib
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="加好你要的citaion後只要在這個目錄下輸入">加好你要的citaion後，只要在這個目錄下，輸入：&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">make
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>輸出畫面應該會是：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">make
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pandoc --from&lt;span class="o">=&lt;/span>markdown -s --bibliography ~/Zotero/zotero_main.bib --citeproc --csl&lt;span class="o">=&lt;/span>american-medical-association.csl --metadata link-citations&lt;span class="o">=&lt;/span>&lt;span class="nb">true&lt;/span> main.md --output&lt;span class="o">=&lt;/span>main_output.docx
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">rm -rf main_output.md
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pandoc --from&lt;span class="o">=&lt;/span>markdown -s --bibliography ~/Zotero/zotero_main.bib --citeproc --csl&lt;span class="o">=&lt;/span>american-medical-association.csl --metadata link-citations&lt;span class="o">=&lt;/span>&lt;span class="nb">true&lt;/span> main.md --to&lt;span class="o">=&lt;/span>gfm --output&lt;span class="o">=&lt;/span>main_output.md
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">完成啦，讚的
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">open .
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>你就會得到 &lt;code>main_output.md&lt;/code>, &lt;code>main_output.docx&lt;/code>這兩個檔案&lt;/p>
+&lt;hr>
+&lt;p>some content&lt;sup>
+&lt;a
+rel="noopener" class="internal-link broken"
+data-src="#ref-epperla2021doublerefractory">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;div id="refs" class="references csl-bib-body">
+&lt;div id="ref-epperla2021doublerefractory" class="csl-entry">
+&lt;p>&lt;span class="csl-left-margin">1. &lt;/span>&lt;span
+class="csl-right-inline">Epperla N, Hamadani M. Double-refractory
+Hodgkin lymphoma: Tackling relapse after brentuximab vedotin and
+checkpoint inhibitors. &lt;em>Hematology&lt;/em>. 2021;2021(1):247-253.
+doi:
+&lt;a href="https://doi.org/10.1182/hematology.2021000256" rel="noopener">10.1182/hematology.2021000256&lt;/a>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;/div></description></item><item><title>在Mac中運作Python的正確方法</title><link>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</link><pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
+&lt;p>如果之前沒有跟python打過交道，想在mac上安裝python時，首先就會面對到：我是誰？我在哪裡的問題，因為mac本身自帶一個python3，如果在終端機裡執行的話，也是可以&lt;code>print(&amp;quot;hellow world&amp;quot;)&lt;/code>，接著，我們可能就會想開心地利用系統的pip來安裝需要的套件，然後這樣做是很危險的，因此pip時不時會提醒你要不要更新pip，但mac系統中其實有很多套件，可能需要比較低版本的python才能執行，更新可能造成不可逆的崩潰，因此，另外下載一個python來安裝是很重要的。&lt;/p>
+&lt;p>接下來就會面對另一個問題：要載哪個版本？最直覺得做法就是到
+&lt;a href="https://www.python.org/downloads/" rel="noopener">Python.org&lt;/a>下載最新的版本，打開後下一步下一步安裝完成。另外也可以&lt;code>brew install python3&lt;/code>來安裝。同時也會有人建議用anaconda來安裝一些必要的套件。到最後，我們的電腦裡就會充斥著各種版本的python，大概像下面這張圖一樣：
+&lt;img src="https://imgs.xkcd.com/comics/python_environment.png" width="auto" alt="python_environment.png (492×487)" />&lt;/p>
+&lt;p>這時就容易會出現問題，常常我們建立了某個.py檔，在某些情況下可以正常import某些package，但當我們用其他軟體打開時，如jupyter lab、pycharm時，又會發現某些pip沒安裝到的套件。這樣我們的開發/學習環境變得很不固定，或是會重覆在不同地方安裝了相同的套件。&lt;/p>
+&lt;p>要解決這個問題，首先要學會兩組常用得指令：&lt;/p>
+&lt;ul>
+&lt;li>在終端機中執行：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">which python3
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>或在python中跑這組程式碼：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">sys&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;User Current Version:-&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">version&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>這兩個方法都可以告訴我們目前的python環境a.k.a.我是誰、我在哪裡。&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>有時，我們只想寫一段小程式，並不需要anaconda的那一堆程式，這個時候開速搭建一個虛擬環境，為這個環境建立專用的python執行檔、及專用的pip3，我們就可以輕量化自己的開發環境，下面介紹pyenv - python的虛擬環境管理方法。&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="方法">方法&lt;/h2>
+&lt;h3 id="安裝pyenv-跟virtualenv">安裝pyenv 跟virtualenv&lt;/h3>
+&lt;ul>
+&lt;li>如果還沒安裝homebrew請參考
+&lt;a href="https://htlin.site/posts/homebrew-basic" rel="noopener">用Homebrew來安裝需要的App跟套件&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install pyenv
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install virtualenv
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="建立你的環境">建立你的環境&lt;/h3>
+&lt;ul>
+&lt;li>安裝所需要的python版本，如3.10.5&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">pyenv install 3.10.5
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>將安裝好的python版本指定到我們自行命名的環境中&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">pyenv virtualenv 3.10.5 &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>建一個資料夾，並進入&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkdir &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>將這個資料夾指定成我們剛剛命名的開發環境&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pyenv local &amp;#34;YOUR_PROJECT&amp;#34;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>啟動開發環境&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pyenv activate &amp;#34;YOUR_PROJECT&amp;#34;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="如何在環境中使用jupyter-labnotebook">如何在環境中使用jupyter lab/notebook&lt;/h3>
+&lt;p>如果你之前有用任何方法安裝過jupyter相關的套件，輸入&lt;code>jupyter notebook&lt;/code>啟動jupyter時，會發現目前的python是ipykernal，並不是我們指定環境下的python，而且還會被自動安裝了很多套件，因此需要用pip的方式重新安裝jupyter，並將目前環境的python指定為python的kernel。&lt;/p>
+&lt;ul>
+&lt;li>首先在開發環境中安裝一些常用的套件&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 先更新pip本身，確保是最新版&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install --upgrade pip
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝主角jupyter&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install pandas jupyter notebook matplotlib seaborn
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 最後安裝ipykernal&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install ipykernal
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>將環境的kernel指定為jupyter的kernel&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">python -m ipykernel install --user --name $(pyenv version-name) --display-name &amp;#34;Python: $(pyenv version-name)&amp;#34;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>這個時候，我們運行&lt;code>jupyter lab&lt;/code>，就可以看到新增notebook時，就有我們環境的kernel&lt;/li>
+&lt;/ul>
+&lt;h3 id="tldr直接將上面提到的指令打包成zsh的function">TL;DR，直接將上面提到的指令打包成zsh的function&lt;/h3>
+&lt;ul>
+&lt;li>在&lt;code>~/.zshrc&lt;/code>裡加入以下行：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="k">function&lt;/span> pyenv-new&lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> pyenv virtualenv &lt;span class="nv">$1&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$2&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> mkdir ~/&lt;span class="nv">$2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">cd&lt;/span> ~/&lt;span class="nv">$2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> pyenv &lt;span class="nb">local&lt;/span> &lt;span class="nv">$2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> pyenv activate &lt;span class="nv">$2&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">function&lt;/span> pyenv-jupyter&lt;span class="o">(){&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> pip install --upgrade pip
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> pip install pandas jupyter notebook
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">function&lt;/span> pyenv-kernel&lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> python -m ipykernel install --user --name &lt;span class="k">$(&lt;/span>pyenv version-name&lt;span class="k">)&lt;/span> --display-name &lt;span class="s2">&amp;#34;Python: &lt;/span>&lt;span class="k">$(&lt;/span>pyenv version-name&lt;span class="k">)&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>存檔後執行以程式碼來載入我們的變更&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">source&lt;/span> ~/.zshrc
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;hr>
+&lt;h2 id="結果">結果&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 創建一個環境&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv-new 3.10.5 &lt;span class="s2">&amp;#34;PROJECT_NAME&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝Jupyter相關的套件&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv-jupyter
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝ipykernel&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip3 install ipykernel
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 以目前環境的python為名創建一個kernel&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv-kernel
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 開啟jupyter lab&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">jupyter lab
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;hr>
+&lt;h2 id="討論">討論&lt;/h2>
+&lt;p>在初學python時，我是傻傻地裝了anaconda整組，它下載了很多套件，但當我寫好了一些scripts，想在系統裡執行時，卻常常在import module時出錯，因此還要花很多時間跟環境變數奮鬥。但
+開始用pyenv管理後，我想調用不同版本的python，只要輸入&lt;code>$HOME/.pyenv/versions/YOUR_PYENV_NAME/bin/python&lt;/code>即可，例如我可以在automator裡建立一個快速動作：
+&lt;a href="https://bit.ly/3K9630K" rel="noopener">自動縮網址&lt;/a>，用快速鍵來觸發它。他需要用&lt;code>pyperclip&lt;/code>、&lt;code>bitlyshortener&lt;/code>這兩個套件，我只需要建立一個automator專屬的環境：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">pyenv-new 3.10.5 automator
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install pyperclip bitlyshortener
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 新增一個檔檔，貼入程式碼&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">touch ~/automator/bitly.py
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>如下圖輸入&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="nv">$HOME&lt;/span>/.pyenv/versions/YOUR_PYENV_NAME/bin/python &lt;span class="nv">$HOME&lt;/span>/automator/bitly.py
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>
+&lt;img src="https://i.imgur.com/XF57xPc.png" width="auto" alt="image_22-08-22_16_02_39" />&lt;/p>
+&lt;ul>
+&lt;li>再把服務指定給某組快速鍵，就可以拿來縮網址了&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>有用再來分享怎麼用python串bitly api來縮網址&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;p>
+&lt;a href="https://towardsdatascience.com/jupyter-notebooks-i-getting-started-with-jupyter-notebooks-f529449797d2" rel="noopener">Using Jupyter Notebook in Virtual Environments for Python Data Science Projects | by Christine Egan | Towards Data Science&lt;/a>&lt;/p></description></item><item><title>用Homebrew來安裝需要的App跟套件</title><link>https://www.physician.tw/blog/homebrew-basic/</link><pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/homebrew-basic/</guid><description>&lt;h2 id="安裝xcode-select">安裝xcode-select&lt;/h2>
+&lt;ul>
+&lt;li>如果你是第一次打開可怕的終端機，可能會被提示安裝xcode必要的套件，裝就對了&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">xcode-select --install
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="安裝homebrew">安裝homebrew&lt;/h2>
+&lt;p>參考官網：
+&lt;a href="https://brew.sh/index_zh-tw" rel="noopener">為 macOS（或 Linux）添上套件管理工具 — Homebrew&lt;/a>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">/bin/bash -c &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="k">$(&lt;/span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh&lt;span class="k">)&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="把homebrew加入path">把homebrew加入path&lt;/h2>
+&lt;ul>
+&lt;li>安裝完後，注意一下最後要把brew加進PATH裡，不知道PATH是什麼沒關係，看一下安裝程式碼的最後，應該會出現一段如下的說明，要你執行兩段程式碼，一段是以echo開頭的，一段是eval開頭。總之就是把這兩行分別執行(不要直接貼我的，有可能出錯)&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Add Homebrew to your PATH in $HOME/.zprofile:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">echo&lt;/span> &lt;span class="s1">&amp;#39;eval &amp;#34;$(/opt/homebrew/bin/brew shellenv)&amp;#34;&amp;#39;&lt;/span> &amp;gt;&amp;gt; &lt;span class="nv">$HOME&lt;/span>/.zprofile
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 注意intel跟M1 homebrew 的安裝位置可能不一樣&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">eval&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="k">$(&lt;/span>/opt/homebrew/bin/brew shellenv&lt;span class="k">)&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>最後檢查一下：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew doctor
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="安裝必要套件如git-cask之類的東西總之就是一些能讓homebrew順利跑起來的東西">安裝必要套件，如git, cask之類的東西(總之就是一些能讓homebrew順利跑起來的東西)&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install wget
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="在homebrew裡有分為formula跟cask其中cask選項可以讓我安裝一些圖像化app">在homebrew裡有分為formula跟cask，其中，cask選項可以讓我安裝一些圖像化App&lt;/h2>
+&lt;ul>
+&lt;li>安裝的基本指令如下：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;App Name&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>像是Adobe&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install --cask adobe-creative-cloud
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>個人常用的軟體像是Edge, Obsidian, Google Drive, Dropbox, Zotero, Steam, Messenger, Telegram, iTerm, VSCode, Rstudio, Libreoffice，通通可以用cask指令來裝&lt;/li>
+&lt;li>想知道自己常用的軟體能不能從homebrew安裝，可以參考：
+&lt;a href="https://formulae.brew.sh/cask/" rel="noopener">homebrew-cask — Homebrew Formulae&lt;/a>&lt;/li>
+&lt;li>或來下面這個repo裡探索一下：
+&lt;a href="https://github.com/serhii-londar/open-source-mac-os-apps" rel="noopener">serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="從homebrew安裝開源字體">從homebrew安裝開源字體&lt;/h2>
+&lt;p>常看到許多免費開源的字體，例如
+&lt;a href="https://techshiba.com/free-font/" rel="noopener">2021開源免費字體下載懶人包 | 柴魚Shiba&lt;/a>，其實大部分都有被收錄在
+&lt;a href="https://github.com/Homebrew/homebrew-cask-fonts" rel="noopener">Homebrew/homebrew-cask-fonts&lt;/a>這個集合裡。&lt;/p>
+&lt;h3 id="只需要先執行一次下面的指令加入資料庫">只需要先執行一次下面的指令(加入資料庫)：&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew tap homebrew/cask-fonts
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="接著就用下面的指令安裝所有字體了">接著就用下面的指令安裝所有字體了&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install --cask font-noto-sans-cjk-tc
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>
+&lt;a href="https://github.com/Homebrew/homebrew-cask-fonts/find/master" rel="noopener">在這裡搜尋需要的字體，需要知道英文&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="推薦一些中文常見字型">推薦一些中文常見字型&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 源流明體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-genryumin&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 源石黑體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-gensekigothic&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 源樣黑體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-genyogothic&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 源柔黑體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-genjyuugothic&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 源泉圓體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-gensenrounded&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 源雲明體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-genwanmin&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 源樣明體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-genyomin&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># jf-粉圓&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-jf-open-huninn&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># KOSUGI圓體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-kosugi-maru&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Google Noto Emoji&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-noto-emoji&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 思源黑 繁中&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-noto-sans-cjk-tc&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 思源宋體&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask &lt;span class="s2">&amp;#34;font-noto-serif-cjk&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="安裝app-store-的app">安裝App Store 的App&lt;/h2>
+&lt;ul>
+&lt;li>當你已習慣用brew時，就會出現連打開App Store都懶的症狀，這時就要使用mas：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install mas
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>有了mas之後，在browser裡打開任一個想下載的App，發現網址裡有一段以id開始的代碼，例如keynote的如下：&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>
+&lt;a href="https://apps.apple.com/us/app/keynote/id409183694?mt=12" rel="noopener">https://apps.apple.com/us/app/keynote/id409183694?mt=12&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>它的id 就是409183694&lt;/li>
+&lt;li>回到終端，輸入以下的指令：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mas install &lt;span class="m">409183694&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>Keynote就會開始下載了！&lt;/li>
+&lt;/ul>
+&lt;h2 id="安裝一些常用的驅動">安裝一些常用的驅動&lt;/h2>
+&lt;ul>
+&lt;li>跟安裝字體的邏輯一樣，要先加入drivers庫：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew tap homebrew/cask-drivers
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>接著就可以安裝你要的驅動了，如果不知道驅動的名字，可以在
+&lt;a href="https://github.com/Homebrew/homebrew-cask-drivers/tree/master/Casks" rel="noopener">這裡&lt;/a>查詢&lt;/li>
+&lt;li>這裡提供幾個常用的，就看個人需求下載&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># logi滑鼠的驅動&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install logitech-options
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Xbox 360手把驅動&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install xbox360-controller-driver-unofficial
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Kyocera 印表機驅動&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install kyocera-printer-drivers
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="備份所有用brew安裝的軟體">備份所有用brew安裝的軟體&lt;/h2>
+&lt;ul>
+&lt;li>當我們想換電腦時，會想知道我們的舊電腦裝了哪些軟體，想把它們打包成一個文件，最好之後可以一鍵下載&lt;/li>
+&lt;li>輪入下面的指令：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew bundle dump --describe --force --file&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;~/Desktop/Brewfile&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># &amp;#34;~/Desktop/Brewifle&amp;#34; 可以改成你想要的位置跟檔名 e.g. ~/Downloads/myBrewPackages&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>就會在桌面產生一個叫Brewfile的文字檔，把這個檔案存好，你也可以
+&lt;a href="https://github.com/htlin222/dotfiles/blob/main/Brewfile" rel="noopener">參考我的Brewifle&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="到另一台新電腦時只要照著上面安裝好brew後把上面提到的brewfile放在桌面接著執行">到另一台新電腦時，只要照著上面安裝好brew後，把上面提到的Brewfile放在桌面，接著執行：&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew bundle --file&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;~/Desktop/Brewfile&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>登登，一切就會自動安裝了&lt;/p>
+&lt;h2 id="清理用不到的安裝檔">清理用不到的安裝檔&lt;/h2>
+&lt;ul>
+&lt;li>其實brew做的事，也是去載下一個dmg檔然後把它打開拉進應用程式資料夾，而這些dmg檔會被保存在一個系統的角落，當我們安裝的軟體多起來的時候，就會很佔空間，因此要定期執行一下：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 先用dry run選項乾跑一下，並不會真的執行，讓你先看一下有哪些檔案要被刪掉&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew cleanup --dry-run
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 確定沒問題時，再執行&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew cleanup --prune&lt;span class="o">=&lt;/span>all
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 清除掉快系統快取檔案&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">rm -rf &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="k">$(&lt;/span>brew --cache&lt;span class="k">)&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>如此一來就可以省下一些空間了：&lt;/li>
+&lt;/ul>
+&lt;h2 id="把某些軟體從homebrew的清單中刪除">把某些軟體從homebrew的清單中刪除。&lt;/h2>
+&lt;ul>
+&lt;li>所有從homebrew安裝的軟體，都會被homebrew追踨，在產生Brewfile時，就會被列進去，例如我們上面提到的字體，但有時候我們在新電腦不一定要安裝這這麼多字體，我們可以考慮直接讓homebrew不用追踨它們。&lt;/li>
+&lt;li>很可惜，homebrew本身並沒有提供這樣的選項，所以我們要移動到以下這個資料夾：&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 如果你的mac是intel晶片：&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> /usr/local/Caskroom
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 如果你的mac是Apple Silicon：&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> /opt/homebrew/Caskroom
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;ul>
+&lt;li>接著執行&lt;code>ls&lt;/code>列出所有資料夾，&lt;code>rm -d &amp;quot;app name&amp;quot;&lt;/code>就可以刪除軟體資訊的資料夾，但軟體本身並不會被刪除。&lt;/li>
+&lt;/ul>
+&lt;h2 id="解除安裝某個軟體">解除安裝某個軟體&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew uninstall &lt;span class="s2">&amp;#34;app name&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="如果你之前已經安裝過某個軟體然後想改用brew-的方式重裝一次">如果你之前已經安裝過某個軟體，然後想改用brew 的方式重裝一次&lt;/h2>
+&lt;ul>
+&lt;li>加上&amp;ndash;force的選項就可以了&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install --cask --force &lt;span class="s2">&amp;#34;App Name&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>醫學簡報心法</title><link>https://www.physician.tw/blog/how-to-present-cbd/</link><pubDate>Sun, 03 Jul 2022 17:53:28 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/how-to-present-cbd/</guid><description>&lt;h1 id="前言">前言&lt;/h1>
+&lt;p>我覺得醫學簡報最重要的精神，是花最少的時間，讓聽眾覺得你有很用心的在整理，臨床工作繁重，還要值班，花很多時間作報告等於變相要人加班。其實大家沒有很在乎排版、美編、配色、圖表什麼的，字不要太小就好，白底黑字，該強調的強調。反而重要是整體報告的邏輯，口條。臨床報告最常見，當常是case-based discussion、EBM、MM，主要就是從一個手上照顧的病人去延伸一些議題來探討，所以想要分享一下自己作報告的流程，也歡迎大家提出意見跟想法。&lt;/p>
+&lt;h2 id="基本架構">基本架構&lt;/h2>
+&lt;p>首先，最好要有一個模板，每次都用同樣的模板就好，漸漸優化它，同樣標題/內容的版式，就可以再細分：純文字、字配圖、三欄…等等，目標就是點開貼上內容就可用，不要再花時間調字體大小。如果手邊沒有模板可以Google我的名字後面加NEJM，就可以找到我做的模板。在準備病人的病史時，不要花時間當搬運工，直接點開系統邊講邊點就好，做得很美其實大家也不會細看，有的時候自己都懶得唸，觀眾最後都是聽你怎麼講，這部分應該要花最少的時間，我自己大概都用兩三頁投影片就解決，用基本的條列式就好。當然如果這個是一個院級、Grand Round的報告還是要做的認真一點。&lt;/p>
+&lt;h2 id="開場到病史細節">開場到病史細節&lt;/h2>
+&lt;p>在病史細節方面，如果跟這次住院無關、跟這次的主題無關，我都會直接略過不講，太多雜訊只是在浪費彼此的時間，檢驗報告除非系統真的呈現得很醜，或者是需要浪費很多點擊，才需要真正把它貼到投影片上。影像就直接點開系統就好，最好不要花超過半小時處理這些事情。&lt;/p>
+&lt;h2 id="討論">討論&lt;/h2>
+&lt;p>接下來就是討論的部分，我覺得這部分大概要占整個報告的¾，當你選擇要用這個病人報告時，應該就有一些想要做的主題，如果只有一個主題會很無聊，所以我通常會找兩三個，第一可能是這個疾病的基本介紹，直接把小麻/ Uptodate 貼過來就好，再配上幾張NEJM的美圖，因為大家其實可以自己去看書，其他Topics盡量找一些診斷、治療的最新進展、或是這個病人的一些不尋常的發現，把這些關鍵詞拿去餵pubmed，過濾一下：時間選三年內、盡量不要找一些Q3以上的野雞期刊。&lt;/p>
+&lt;h2 id="如何找到合適的文章">如何找到合適的文章&lt;/h2>
+&lt;p>找兩三篇，跟你主題最符合的點開來看，其實就不用在pubmed上面瞎逛了，做報告最浪費時間的部分常常就是在亂搜尋東西。把找到的paper作為核心，我們就叫他核心paper好了：一頁放Abstract，一頁放圖表，接著直接跳到Discussion，一邊讀一邊把它每句話後面的reference點開來，按照他行文的順序，選個10篇做成投影片，看起來就會很有深度跟廣度，講起來又很有邏輯（畢竟已經有辛苦的核心paper作者幫我們整理過一次了）這些paper每一篇，一樣是貼摘要跟美美的圖片，講法就是：「有人在什麼時候做了一個什麼類型的研究，大概收了多少人，比較什麼跟什麼的差別，從這個圖表可以看得出來結論是某某某，套用在我們病人上，可以知道怎樣怎樣。」當然你也可以跟風學一下JAMA最近很常出現的一頁式摘要，就看你的報告時間決定要放幾篇，以我自己的語速，半小時的報告包含簡單的病人介紹，大概再另外找10篇就可以。這些paper也可以把原文的一些重要段落貼幾頁，然後右鍵略過，萬一被問就退出簡報模式來看一下，不要放在註解裡，因為字很小自己報告時會太緊張找不到重點。&lt;/p>
+&lt;h2 id="收尾">收尾&lt;/h2>
+&lt;p>講完了討論，最後就是Back To Our Patient，一樣條列式，再重新幫大家複習一次病人的病史，把Discussion裡的東西摘要一下。下一頁是Take Home Messages，主要是一些知識點，讓大家可以用在臨床上，例如一些診斷方法、疾病表現、流行病學、治療指引，這樣就可以收工了。&lt;/p>
+&lt;h2 id="問答">問答&lt;/h2>
+&lt;p>最後一頁Q &amp;amp; A，最好自己先想兩三個問題放上去，發語詞就是：「我在作報告的時候有遇到這個問題，不知道老師在臨床上面有沒有什麼經驗。」&lt;/p>
+&lt;h2 id="其他">其他&lt;/h2>
+&lt;p>在時間分配上，病人的部分大概用半小時整理好、查資料花一小時、開始整理再花兩小時，查資料方面，一定要裝Google Scholar外掛、easy pubmed外掛，前者可以產生固定格式的引用、後者可以顯示這篇paper是Q1~Q4以及壞壞sci-hub連結￼。用Google Slide、用bit.ly縮短網址、權限開任何人可以編輯，這樣任何一台電腦都可以馬上做，也不用登入帳號，零碎時間就可以完成很多事情。&lt;/p></description></item><item><title>我🦎 的ICU patient list</title><link>https://www.physician.tw/blog/iculist/</link><pubDate>Wed, 27 Apr 2022 03:16:54 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/iculist/</guid><description>&lt;p>跌跌撞撞過完一個月北榮 ICU course，雖然還是覺得自己很廢，但還是覺得有稍稍掌握了critical care的精神。粗算一下每個病人每班都有大約100件需要知道的事，從呼吸器設定到接下來的動向，10個病人乘起來就有1000件事，而預設的交班單是厚厚一疊紙，要查找也不夠快，查房VS隨口一句：所以病人的ventilator setting如何？直接腦袋打結。因此要如何把這1000件事有效率的整理起來真的很需要一張有大局觀的list。這份list是從上班的第一天開始一路迭代到月底，使用起來還算順手。&lt;/p>
+&lt;p>每天接班時先用黑筆寫完，有任何更正、新事項用紅筆寫，寫note時就把紅筆的部分更正上去&lt;/p>
+&lt;p>
+&lt;img src="https://i.imgur.com/Vrogrpe.jpg" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/AG7sxOf.jpg" width="auto" alt="" />
+&lt;a href="https://bit.ly/iculist" rel="noopener">檔案連結&lt;/a> 自行複製到自己的goole drive裡&lt;/p>
+&lt;h1 id="正面">☑️正面&lt;/h1>
+&lt;h2 id="5大事項北榮的習慣">5️⃣大事項(北榮的習慣)：&lt;/h2>
+&lt;h3 id="-ventilation">🫁 VENTILATION&lt;/h3>
+&lt;ul>
+&lt;li>FiO2, VRate, PEEP, PC/VC (or other mode)&lt;/li>
+&lt;li>ABG&lt;/li>
+&lt;li>Weaning (RSBI, Cuff leak)&lt;/li>
+&lt;li>痰&lt;/li>
+&lt;li>呼吸相關用藥 e.g. SABA, SAMA, epinephrine inhalation&lt;/li>
+&lt;/ul>
+&lt;h3 id="circuation">🫀CIRCUATION&lt;/h3>
+&lt;ul>
+&lt;li>MAP, pulse&lt;/li>
+&lt;li>升壓藥、泡法(e.g. Levophed 4v or 2v in D5W 250)、滴數&lt;/li>
+&lt;li>ECMO (VV/VA): FdO2, Gas flow, Pump speed, aPTT&lt;/li>
+&lt;li>SVV, cardioechogram, CVP, EKG&lt;/li>
+&lt;/ul>
+&lt;h3 id="-infection">🦠 INFECTION/&lt;/h3>
+&lt;ul>
+&lt;li>Culture, Susceptibility testing, Viral PCR&lt;/li>
+&lt;li>Abx, date, dose,&lt;/li>
+&lt;li>Last fever&lt;/li>
+&lt;li>WBC/CRP/PCT&lt;/li>
+&lt;li>Body fluid cell count&lt;/li>
+&lt;li>HBV/HCV&lt;/li>
+&lt;/ul>
+&lt;h3 id="-sedation-neurology">🧠 SEDATION (Neurology)&lt;/h3>
+&lt;ul>
+&lt;li>Dormicum, Propofol, Fentanyl, Nimbex&lt;/li>
+&lt;li>GCS&lt;/li>
+&lt;li>Puiple, Reflex&lt;/li>
+&lt;/ul>
+&lt;h3 id="-nutrition">🍔 NUTRITION&lt;/h3>
+&lt;ul>
+&lt;li>目前diet&lt;/li>
+&lt;li>NPO 原因，IVF?&lt;/li>
+&lt;li>Ca, Mg, P&lt;/li>
+&lt;li>Liver (AST, ALT, T.bili, …)&lt;/li>
+&lt;/ul>
+&lt;h3 id="6--renal應該要算第六個">6️⃣ 🚽 Renal應該要算第六個…&lt;/h3>
+&lt;ul>
+&lt;li>Urine, I/O, drainage&lt;/li>
+&lt;li>IBW, dry weight&lt;/li>
+&lt;li>RRT(HD, SLEDD, CVVH, CVVHDF): flow rate&lt;/li>
+&lt;li>Lasix?&lt;/li>
+&lt;li>Na/K&lt;/li>
+&lt;/ul>
+&lt;h3 id="-active">💥 ACTIVE&lt;/h3>
+&lt;ul>
+&lt;li>Primary diagnosis&lt;/li>
+&lt;li>Background and progress&lt;/li>
+&lt;li>Issues over the last 24 hours&lt;/li>
+&lt;li>重要用藥 e.g. steroid, Eltroxin, DDAVP, DAPT, NOAC, antineoplastic agents, GCSF…&lt;/li>
+&lt;/ul>
+&lt;h1 id="反面">☑️反面&lt;/h1>
+&lt;h3 id="待辦急">📌待辦(急)&lt;/h3>
+&lt;ul>
+&lt;li>VS/會診醫師下的order&lt;/li>
+&lt;li>STAT的藥&lt;/li>
+&lt;li>Procedure&lt;/li>
+&lt;/ul>
+&lt;h3 id="待辦不急">📍待辦(不急)&lt;/h3>
+&lt;ul>
+&lt;li>Renew order&lt;/li>
+&lt;li>寫note&lt;/li>
+&lt;li>追報告&lt;/li>
+&lt;/ul>
+&lt;h3 id="會診聯絡">☎️會診、聯絡&lt;/h3>
+&lt;ul>
+&lt;li>會診也算是急待辦事項，越早越好&lt;/li>
+&lt;li>聯絡家屬包括病解、DNR、同意書、自費、氣切&lt;/li>
+&lt;/ul>
+&lt;h3 id="-影像">📸 影像&lt;/h3>
+&lt;ul>
+&lt;li>POCUS findings (Pleural effusion, CBD dilated, Ascites, IVC diameter)&lt;/li>
+&lt;li>Radiology report&lt;/li>
+&lt;li>CXR自己簡單畫一下，跟昨天比是進步退步？
+🩸血球/凝血，要不要輸血？目標？
+🧪最近的Lab (esp. Lactate, Albumin, NH4+)，要不要校正
+📋血單 (特別注意TPN, ECMO, QW blood draw)&lt;/li>
+&lt;/ul>
+&lt;h1 id="tips-自己發展一套符號系統">🧐Tips: 自己發展一套符號系統&lt;/h1>
+&lt;ul>
+&lt;li>#診斷、Active problem&lt;/li>
+&lt;li>@於某時間，正在什麼治療上&lt;/li>
+&lt;li>□ 放在每個待辦前，完成後在上面打 ☑️&lt;/li>
+&lt;li>Δ 取delta 義，表示titrate, taper, switch e.g. ΔMTP→15.6mg&lt;/li>
+&lt;li>$ 自費&lt;/li>
+&lt;li>? 疑似、要問的事、不確定，也可以在後面寫個 (Y/N)&lt;/li>
+&lt;li>要追的事項後面放一對，( )，結果填入&lt;/li>
+&lt;li>速記Lab可以參考laboratory fishbone&lt;/li>
+&lt;li>抗生素縮寫可以拿antibiotics abbreviation list關鍵字餵狗&lt;/li>
+&lt;li>其他縮寫參考小麻&lt;/li>
+&lt;/ul></description></item><item><title>CVC放置筆記</title><link>https://www.physician.tw/blog/CVC-insertion-note/</link><pubDate>Sat, 25 Sep 2021 07:08:44 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/CVC-insertion-note/</guid><description>&lt;h1 id="如何打cvc--cvc-insertion-note">如何打CVC ? CVC insertion note&lt;/h1>
+&lt;h6 id="tags-tutorials">tags: &lt;code>tutorials&lt;/code>&lt;/h6>
+&lt;h2 id="prepare">Prepare&lt;/h2>
+&lt;p>一邊想著操作順序，一邊把東西排好：
+三對針筒、三項前菜(Guide wire、Cut、Dilator)、導管、
+三個固定(clamp、Suture、Tegaderm)&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>5cc空針for local(接25號針頭)&lt;/li>
+&lt;li>10cc空針for blind try(接23號針頭)，也可以兩隻，一隻來rinse&lt;/li>
+&lt;li>紗布(不要搞得像NEJM示影片的命案現場)，多的血都打在紗布上&lt;/li>
+&lt;li>Suture Kit&lt;/li>
+&lt;li>Tegaderm (丟個兩片，有一片可以拿來當成把超音波變無菌的小法寶)&lt;/li>
+&lt;/ol>
+&lt;h4 id="cvc-kit-裡面有的東西">CVC kit 裡面有的東西：&lt;/h4>
+&lt;ol start="3">
+&lt;li>
+&lt;p>18號粗針接5cc的藍色 syringe (有屁眼)&lt;/p>
+&lt;ol>
+&lt;li>小技巧：套軟針(sheath)，這樣pun到時，送軟針，syringe跟硬針直接一起退&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Guidewire：&lt;/p>
+&lt;ol>
+&lt;li>一格為十公分&lt;/li>
+&lt;li>記得送入到兩格，即20cm左右&lt;/li>
+&lt;li>有Syringe的話要自己加10cm，送到3格&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>鋼針/刀片，在送dilator時切開皮膚用，記得鋼針要選針頭有斜面的&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dilator&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Catheter：記得所有頭都先rinse，除了棕頭，即之後guide會出來的頭，以外，其他的都先clump起來，但蓋子可以不用蓋，因為你最後還是要反抽確認&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>clamp一對 (蝴蝶、豆豆)&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;img src="https://i.imgur.com/LgqBeC3.jpg" width="auto" alt="" />
+Roberts and Hedges’ Clinical Procedures in Emergency Medicine and Acute Care&lt;/p>
+&lt;h2 id="insertion">Insertion&lt;/h2>
+&lt;h3 id="在未消毒下可以先用echo看一下">在未消毒下可以先用Echo看一下&lt;/h3>
+&lt;h3 id="穿衣第一次消毒鋪單消毒">穿衣、第一次消毒、鋪單、消毒&lt;/h3>
+&lt;h3 id="把所有東西擺開來">把所有東西擺開來&lt;/h3>
+&lt;ol>
+&lt;li>先拆suture包，要個4-0 Nylon，把線先夾好，把所有剪刀、鑷子上的塑膠套都先扒光。把彎盆獨立拿出來，請nurse在裡面加一堆normal saline，放在一個順手好抽水的位置&lt;/li>
+&lt;li>抽Local、抽Normal Saline&lt;/li>
+&lt;li>拿CVC kit裡的小東西，按你要操作順序揹擺好，再拿大的東西e.g.guidewire、長針、CVC，不然先拿大東西小東西勾到就會亂滾GG&lt;/li>
+&lt;li>Rinse一下管路&lt;/li>
+&lt;li>請nurse把Echo傘套丟進來，請他把探頭給你，你用傘套接住，慢慢擼套子(?)，讓nurse把套子拉走，沾無菌jelly&lt;/li>
+&lt;/ol>
+&lt;h3 id="開始放">開始放&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Echo看一下IJV走向，水平垂直兩個view，其實如果有Echo guide 不一定要小針試，確定的話大針直接上了，進針時negative pressure&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;img src="https://i.imgur.com/UOecq13.png" width="auto" alt="" />&lt;/li>
+&lt;li>
+&lt;img src="https://i.imgur.com/dnAjVXF.png" width="auto" alt="" />&lt;/li>
+&lt;li>看一下表皮到vein妌垂直多遠，也是就入針點到porbe水平多遠 (大概2~3公分)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>如果是blind try的話，中了，大針再跟上從同一個入針點進入，退小針&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>怎樣打比較準：CV line insertion under the angles 102.15 ± 6.80 degrees in the axial plane, 36.21 ± 3.12 in the sagittal plane and 40.49 ± 5.09 head rotation yield satisfactory results.
+&lt;em>意思應該是站在病人的頭的左上側Axial 102±6度往右下打，讓他頭左轉40±5度，用大概Sagittal 35度往下&lt;/em>
+因為ICA在內側，站右打很容易往左偏，就會打到動脈
+&lt;img src="https://i.imgur.com/RcokSwb.png" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/diCAYiA.png" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/XX6hQX7.jpg" width="auto" alt="" />
+&lt;em>Barzegari, Hassan, et al. &amp;ldquo;Proper angle of sono-guided central venous line insertion.&amp;rdquo; Emergency 4.3 (2016): 155.&lt;/em>
+McGee, David C., and Michael K. Gould. &amp;ldquo;Preventing complications of central venous catheterization.&amp;rdquo; New England journal of medicine 348.12 (2003): 1123-1133.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>人的站位也很重要，可以幾乎跟床垂直站，因為人緊張時手會一直彎
+&lt;img src="https://i.imgur.com/lkYMG7G.jpg" width="auto" alt="" />&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>大針上後，接下來的事情就很簡單了，該退軟針的退，送guidewire到20~30公分，也是「█ █」跟「█ █ █」之間&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h1 id="six-step-approach-to-ultrasound-guided-central-venous-catheter-placement">Six-step approach to ultrasound-guided central venous catheter placement&lt;/h1>
+&lt;p>
+&lt;img src="https://i.imgur.com/5yF3P8H.png" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/mgmIMov.png" width="auto" alt="" />
+* Saugel et al. Critical Care (2017) 21:225&lt;/p>
+&lt;h1 id="procedure-note">Procedure Note&lt;/h1>
+&lt;h4 id="indication-hemodynamic-monitoringintravenous-access">Indication: Hemodynamic monitoring/Intravenous access&lt;/h4>
+&lt;p>The patient was placed in a dependent position appropriate for central line placement based on the vein to be cannulated. The patient’s &lt;em>&lt;strong>right/left neck was prepped and draped in sterile fashion. 1% Lidocaine was used to anesthetize the surrounding skin area. A triple lumen 9-French Cordis catheter was introduced into the the&lt;/strong>&lt;/em> subclavian/internal jugular/common femoral vein using the Seldinger technique ___and under ultrasound guidance. The catheter was threaded smoothly over the guide wire and appropriate blood return was obtained. Each lumen of the catheter was evacuated of air and flushed with sterile saline. The catheter was then sutured in place to the skin and a sterile dressing applied. Perfusion to the extremity distal to the point of catheter insertion was checked and found to be adequate.&lt;/p>
+&lt;p>Attending___ was present for the entire procedure.&lt;/p>
+&lt;p>Estimated Blood Loss: ____ cc
+The patient tolerated the procedure well and there were no complications.&lt;/p>
+&lt;h1 id="ref">Ref&lt;/h1>
+&lt;p>
+&lt;a href="https://proceduralist.org/cvc-cannulation/" rel="noopener">https://proceduralist.org/cvc-cannulation/&lt;/a>&lt;/p></description></item><item><title>markdown自動產生投影片，以hackmd為例</title><link>https://www.physician.tw/blog/medical-chart/</link><pubDate>Wed, 25 Nov 2020 06:41:58 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/medical-chart/</guid><description>&lt;p>最近老胡啟動了大哈讀書計畫，要花兩年的時間把整本3000多頁的大磚塊唸完。痛點在於每次做簡報很煩，要把教科書的內容變成投影片，會有很多機械式的剪貼跟排版。做到讓人覺得厭世。因此想研究如何在有限時間內用最快的速度做簡報(此方法也適用報paper)。
+在這樣的背景下，只要能把重點條列式地呈現出來就可以。第二順位就是要快。通常美編不重要，字不要太小就好。以下是摸索出的解決方法。主要使用hackmd的簡報功能。&lt;/p>
+&lt;ol>
+&lt;li>先把要的內容一次全部貼到hackmd裡&lt;/li>
+&lt;li>段落變成條列式，自動分行加list：大致把每句話當成是一個重點，以全文搜尋Shift-Ctrl-R (Win) / Shift-Cmd-Option-F (Mac) 「. 」(句號加一個空格，如果單搜句號會搜到一些小數點)，取代為「. \n * 」(句號+一個空格+一個反斜線+n+一個空格+一個米字號+一個空格)；「\n」是markdown的換行；「* 」是項目符號
+原來是 sentence1. sentence2. sentence3. 操作後就變：
+sentence1.&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>sentence2.&lt;/li>
+&lt;li>sentence3.&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>其他部分依照官網說明做成簡報：https://hackmd.io/s/how-to-create-slide-deck-tw
+我的建議是投影片標題用h3 即###
+用&amp;mdash;分頁&lt;/li>
+&lt;li>貼圖片：Win+Shift+S(windows系統) / shift+ctrl+cmd+4 (Mac) 局部截圖然後直接貼上就可以傳到圖床去&lt;/li>
+&lt;li>Final touch：用 ==文字==把要的重點標起來、修文字；另外我會適度加一點emoji；用上面提到的取代功能把所有的is/are/can be 變成👉
+emoji 參考list
+ikatyang/emoji-cheat-sheet: A markdown version emoji cheat sheet (github.com)
+#結論：
+實測大概一個單元一個小時內就可以變成一分完整的簡報，大哈一章大概8頁；step (1)+(2)5分鐘；step(3)10分鐘；step(4)5分鐘；step (5)比較花時間，要消化內容，大約30分鐘&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;img src="https://i.imgur.com/Dqe2k33_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/73RAMSy_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />&lt;/p></description></item><item><title>Seminar必備！NEJM 風Google 簡報範本，2020年新版</title><link>https://www.physician.tw/blog/nejm-slides/</link><pubDate>Wed, 25 Nov 2020 05:24:19 +0000</pubDate><author>1izard@duck.com (Hsieh-Ting Lin)</author><guid>https://www.physician.tw/blog/nejm-slides/</guid><description>&lt;h1 id="seminar必備nejm-風google-簡報範本2020年169新版">Seminar必備！NEJM 風Google 簡報範本，2020年16:9新版&lt;/h1>
+&lt;p>
+&lt;img src="https://i.imgur.com/7ao1XI5.png" width="auto" alt="" />&lt;/p>
+&lt;h2 id="複製方法">複製方法：&lt;/h2>
+&lt;p>
+&lt;a href="https://docs.google.com/presentation/d/1VvV4z7gW3BvG6KmsVq2Mzh0uVYsgoR5S9OOcgkAXbA8/edit?usp=sharing" rel="noopener">先點我進到Google slide&lt;/a>
+&lt;img src="https://i.imgur.com/DAYLsvn_d.webp?maxwidth=760&amp;amp;fidelity=grand" width="auto" alt="" />&lt;/p>
+&lt;h2 id="background">Background&lt;/h2>
+&lt;p>網路上流竄著各式各樣的簡報素材，有各種簡報大師們在開班授課，彷彿會學會了簡報設計，就可以報出棒棒的簡報。然後花了一堆生命在研究配色、排版、字體，卻不知道觀眾(如我)其實不是很care這些，觀眾只care你講的東西，新不新？對不對？我覺得設計簡報可以是專業，但不是每個人都要會的專業，這個本意是拿來輔助溝通的工具，就應該多快好省處理完。&lt;/p>
+&lt;p>在醫院裡看過各種各樣的簡報，有些人套用PowerPoint內建的一些花花綠綠的範本，字體亂七八糟，又小到看不見；也有是白底黑字大，簡單卻字字精華，聽完後考試都考100百分了。做簡報真的不用太美工，好簡報只要能有以下幾點就好：&lt;/p>
+&lt;ul>
+&lt;li>該對齊的對齊&lt;/li>
+&lt;li>字大一點 - 24pt以上&lt;/li>
+&lt;li>如果有條列，加個動畫吧，一點接著一點出現&lt;/li>
+&lt;li>全半形不要亂用&lt;/li>
+&lt;li>不要有錯字e.g.把Seminar拼成Seminer, Sminiararaiaiari&lt;/li>
+&lt;li>圖大一點，最好放到滿&lt;/li>
+&lt;li>重點記得強調(看你要是框起來、弄粗、還是放大)&lt;/li>
+&lt;li>要放頁碼、出處&lt;/li>
+&lt;li>不要放自己不懂的東西在slide上，一定被電&lt;/li>
+&lt;li>按下面的時間來分配進度&lt;/li>
+&lt;/ul></description></item></channel></rss>
