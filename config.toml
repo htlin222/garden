@@ -1,0 +1,42 @@
+baseURL = "https://www.physician.tw/"
+# baseURL = "https://htlin222.github.io/garden/"
+languageCode = "zh-tw"
+defaultContentLanguage = 'zh-tw'
+relativeURLs = false
+disablePathToLower = true
+ignoreFiles = [
+    "/content/templates/*",
+    "/content/private/*",
+]
+summaryLength = 20
+paginate = 10
+enableGitInfo = true
+disqusShortname = 'physician'
+
+copyright = "Hsieh-Ting All rights reserved"
+
+[Author]
+    name = "林協霆醫師 Hsieh-Ting Lin M.D."
+    email = "1izard@duck.com"
+
+[markup]
+    [markup.tableOfContents]
+        endLevel = 3
+        ordered = true
+        startLevel = 2
+    [markup.highlight]
+        noClasses = false
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = true
+        hl_Lines = ""
+        lineAnchors = ""
+        lineNoStart = 1
+        lineNos = true
+        lineNumbersInTable = true
+        style = "dracula"
+    [frontmatter]
+        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        publishDate = ["publishDate", "date"]
+    [markup.goldmark.renderer]
+        unsafe = true

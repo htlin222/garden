@@ -1,0 +1,33 @@
+name: Hsieh-Ting Lin
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: true
+enableMermaid: true
+mermaid: true
+GitHubLink: https://github.com/htlin222/garden/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description: "蜥蜴的知識花園"
+page_title: "蜥蜴花園🪴"
+links:
+  - link_name: Facebook
+    link: https://www.facebook.com/htlin.lizard
+  - link_name: Twitter
+    link: https://twitter.com/htlin222
+  - link_name: GitHub
+    link: https://github.com/htlin222
+  - link_name: Blog
+    link: https://htlin.site
+  - link_name: Medium
+    link: https://htlin222.medium.com
