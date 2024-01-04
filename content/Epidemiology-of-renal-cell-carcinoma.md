@@ -1,7 +1,6 @@
 ---
-title: "renal-cell-carcinoma"
-slug: "renal-cell-carcinoma"
-date: "2024-01-03"
+title: "Epidemiology-of-renal-cell-carcinoma"
+date: "2024-01-03 11:11:04"
 enableToc: false
 tags:
   - building
@@ -9,9 +8,19 @@ tags:
 
 > [!info]
 >
-> 🌱 來自：[[genitourinary malignancies]]
+> 🌱來自：[[renal-cell-carcinoma]]
 
-# renal-cell-carcinoma
+# Epidemiology-of-renal-cell-carcinoma
+
+- ∼76,000 new cases & ∼13,800 deaths in the United States estimated in 2021 (SEER.cancer.gov, 2021)
+- Median age at dx 64 y. More prevalent in men
+- RFs:
+  - Tobacco,
+  - obesity,
+  - hypertension.
+- Familial forms account for ∼5% of cases (see below)
+
+### Siblings
 
 - [[Epidemiology-of-renal-cell-carcinoma]]
 - [[Histology and molecular biology-of-renal-cell-carcinoma]]

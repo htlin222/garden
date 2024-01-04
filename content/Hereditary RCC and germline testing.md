@@ -1,5 +1,5 @@
 ---
-title: "mTOR inhibitors"
+title: "Hereditary RCC and germline testing"
 date: "2024-01-03 11:09:23"
 enableToc: false
 tags:
@@ -10,12 +10,10 @@ tags:
 >
 > 🌱來自: [[renal-cell-carcinoma]]
 
-# mTOR inhibitors
+# Hereditary RCC and germline testing
 
-\*\*1° endpoint(s) listed below include PFS, OS at interim analysis Class S/E: Stomatitis, fatigue, rash, edema, pneumonitis, hyperglycemia, hyperlipidemia, ↓ WBC, ↓ PLT
-
-Everolimus (Lancet 2008;372:449) vs. placebo: PFS: 4 mos vs. 1.9 mos (HR: 0.30, P <0.0001)
-Temsirolimus (NEJM 2007;356:2271) vs. IFNα: OS: 10.9 mos vs. 7.3 mos (HR: 0.73, P = 0.008)
+There are several RCC-assoc genetic CA syn incl. VHL, HLRCC (FH gene), BAP1 tumor predisposition syn, Birt-Hogg-Dubé (FLCN gene), among others
+Consider any of the following for Hereditary RCC gene panel testing & CA Genetics referral:
 
 ### Siblings
 

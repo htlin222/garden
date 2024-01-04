@@ -1,7 +1,6 @@
 ---
-title: "renal-cell-carcinoma"
-slug: "renal-cell-carcinoma"
-date: "2024-01-03"
+title: "Clinical presentation-of-renal-cell-carcinoma"
+date: "2024-01-03 11:11:04"
 enableToc: false
 tags:
   - building
@@ -9,9 +8,18 @@ tags:
 
 > [!info]
 >
-> 🌱 來自：[[genitourinary malignancies]]
+> 🌱來自：[[renal-cell-carcinoma]]
 
-# renal-cell-carcinoma
+# Clinical presentation-of-renal-cell-carcinoma
+
+- Mostly asx & incidental on imaging
+  - (minority will present w/ flank pain, hematuria, pyrexia, cachexia, fatigue)
+- At presentation:
+  - 65% localized dz,
+  - 16% locally advanced,
+  - 16% met
+
+### Siblings
 
 - [[Epidemiology-of-renal-cell-carcinoma]]
 - [[Histology and molecular biology-of-renal-cell-carcinoma]]

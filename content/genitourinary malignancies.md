@@ -18,9 +18,6 @@ Germ Cell Tumors
 Penile Cancer
 
 * [[prostate cancer]]
-* [[prostate cancer]]
-
-* [[renal-cell-carcinoma]]
 * [[urothelial carcinoma]]
+* [[renal-cell-carcinoma]]
 
-* [[ddMVAC]]]

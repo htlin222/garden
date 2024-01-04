@@ -8,9 +8,10 @@ enableToc: false
 >
 > 🌱 來自: [[蜥蜴與VIM]]
 
-# neovim #🚧 施工中
+# neovim
 
-[[lua]]
+- [[lua]]
+- [[my neovim config.md|my neovim config]] 🖖
 
 ## lsp 的問題
 - [Avoiding LSP formatting conflicts · jose-elias-alvarez/null-ls.nvim Wiki](https://github.com/jose-elias-alvarez/null-ls.nvim/wiki/Avoiding-LSP-formatting-conflicts)

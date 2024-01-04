@@ -25,7 +25,7 @@ tags:
    □ PD-L1 Clone [[Vantana SP142]]
    適應症: 非小細胞肺癌第二、三線用藥, 泌尿道上皮癌
    藥物: Atezolizumab (TECENTRIQ®)
-   □ PD-L1 Clone [[Dako 22C3]](需外送)
+   □ PD-L1 Clone [[Dako 22C3]] (需外送)
    適應症:泌尿道上皮癌, 頭頸部鱗狀細胞癌, 胃癌
    藥物: Pembrolizumab (KEYTRUDA®)
    □ PD-L1 Clone [[Dako 28-8]](需外送)

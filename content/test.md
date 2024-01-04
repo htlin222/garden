@@ -9,8 +9,11 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[test content]]
+> 🌱 來自：[[test content]]
 
 # wow testmy tilte
 
 The sed command you provided is designed to remove text between square
+
+1. happy
+1. dow
