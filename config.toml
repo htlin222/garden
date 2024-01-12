@@ -40,3 +40,14 @@ copyright = "Hsieh-Ting All rights reserved"
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
+
+[outputs]
+    page = ["html", "rss"]
+    home = ["html", "rss"]
+    section = ["html","rss"]
+    taxonomyTerm = ["html", "rss"]
+    taxonomy = ["html", "rss"]
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
