@@ -1,0 +1,50 @@
+digraph {
+  graph[                                 // 1. Define the graph
+      label = "Playground";              //
+      splines = ortho;                   //
+      rankdir = "LR";                    //
+      compound = true;                   // Note: TD for top to down
+      nodesep = 0.2;                     // Note: distance in x
+      ranksep = 0.5;                     // Note: distance in y
+      labelloc = t;                      // or t for down, labeljust = l
+      fontname = "Inter-SemiBoldItalic"; //
+      fontsize = "20pt";                 //
+  ];
+  // copyright[                       //
+  //     shape = none,                //
+  //     color = "#2d696a";           // a.k.a. stroke-color
+  //     fontsize = "10pt",           //
+  //     fontname = "Arial";          //
+  //     label = "Ⓒ Hsieh-Ting Lin"]; // copyright message
+  // //
+  node[ // 2. Define the default node
+        // shape=record, color = "#2d696a";
+        // width = 2,
+      shape = none,       //
+      penwidth = 1.0,     //
+      fontsize = "18pt",  //
+      fontname = "Arial"; //
+  ];
+  edge[               // 3. Define the default edge
+      color = black;  //
+      penwidth = 0.5; // a.k.a. stroke-width
+  ];
+  g1a[               //
+      label = "g1a"; //
+      group = "g1";  //
+  ];
+  g1b[               //
+      label = "g1b"; //
+      group = "g1";  //
+  ];
+  g1c[               //
+      label = "g1c"; //
+                     // group = "g2";
+  ];
+
+  g1a->{g1b g2b}; //
+  g1b->g1c;
+  g2b->g2c;
+  // 6. Set Rank
+  // 999. Other style:
+}

@@ -26,6 +26,13 @@ qv [[oncology]]
 - [[myelodysplastic syndromes]] MDS 🌸
 - [[myeloproliferative neoplasms]] MPN 😭
 - [[leukemia]] 🍹
+  - [[myelodysplastic syndromes.md|MDS]]
+  - [[acute myelogenous leukemia.md|acute myelogenous leukemia]]
+  - [[acute lymphoblastic leukemia.md|ALL]]
+  - [[chronic myelogenous leukemia.md|CML]]
+  - [[chronic lymphocytic leukemia.md|CLL or SLL]]
+- [[AML]]
+- [[plasma cell leukemia]]
 - [[lymphoma and CLL]] 🍋
 - [[plasma cell dyscrasias]] 🦀
 - [[hematopoietic stem cell transplantation]] 🪴
@@ -47,7 +54,7 @@ qv [[oncology]]
 - [[Peripheral Smear Findings]]
   - [[Evaluation of a Peripheral Blood Smear]]
 
-## Pediatric 
+## Pediatric
 
 - [[chronic granulomatous disease.md|chronic granulomatous disease]]
 

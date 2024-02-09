@@ -1,13 +1,13 @@
 ---
 title: lymphoma and CLL
 alias: lymphoma
-date: "2023-01-22"
+date: "2024-01-26"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[hematology]]
+> 🌱 來自：[[hematology]]
 
 # lymphoma
 
@@ -22,7 +22,10 @@ enableToc: false
   - [[mantle cell lymphoma]]
   - [[diffuse large B-cell lymphoma]]
   - [[burkitt lymphoma]]
-  - [[peripheral T cell lymphoma]]
-  - [[cutaneous T cell lymphoma]]
-  - [[primary CNS lymphoma]]
+
+## T cell lymphoma
+
+- [[peripheral T cell lymphoma]]
+- [[cutaneous T cell lymphoma]]
+- [[primary CNS lymphoma]]
 - [[small lymphocytic lymphoma]]

@@ -1,7 +1,7 @@
 ---
 title: "BCA_dx"
 slug: "bcadx"
-date: "2023-10-13"
+date: "2024-02-04"
 enableToc: false
 tags:
   - building
@@ -9,7 +9,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[Chart template-of-breast cancer]]
+> 🌱 來自：[[Chart template-of-breast cancer]]
 
 # BCA_dx
 

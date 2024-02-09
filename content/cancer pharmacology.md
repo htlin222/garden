@@ -15,15 +15,9 @@ enableToc: false
 - [[Antibody Drug Conjugates]]
 - [[Monoclonal Antibodies]]
 
-## Chemotherapy
+## chemotherapy
+[[chemotherapy.md|chemotherapy]] 
 
-- [[Antimetabolites]]
-- [[Alkylating Agents]]
-- [[Antimicrotubular Agents]]
-- [[Antitumor Antibiotics]]
-- [[Topoisomerase Inhibitors]]
-- [[Immunomodulators]] and
-  - [[Epigenetic Modifiers]]
 
 ## Target therapy
 

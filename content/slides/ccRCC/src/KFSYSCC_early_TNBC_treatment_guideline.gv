@@ -1,0 +1,64 @@
+digraph {
+  compound = true;
+  graph[
+      // splines=ortho,
+      nodesep = 1; rankdir = "LR";
+      // fontname="Arial",
+      fontname = "FiraSans-SemiBoldItalic";
+      labelloc = "b"; fontsize = "24pt";
+  ];
+  node[                                     //
+      color = "#2d696a"; fillcolor = white; // ___
+      penwidth = 1.5; fontsize = "18pt";    //
+      shape = record;
+      // fontname="FiraSans-Regular"
+      fontname = "Arial";
+      style = "filled";
+  ];
+  edge[color = black, penwidth = 2];
+  subgraph cluster_example {
+    labelloc = "t"; //  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+    color = white;
+    fontsize = "34pt";
+    fontcolor = "#2d696a";
+    label = "Neoadjuvant";
+    AC[label = "AC|Pembrolizumab * 4"];
+    Taxotere_CDDP[label = "Taxotere/CDDP|Pembrolizumab * 4", group = "2"];
+    carboplatin[label = "carboplatin and paclitaxol | Pembrolizumab * 4",
+                group = "3"];
+    followbyAC[label = "AC | Pembrolizumab * 4";]; //
+    carboplatin->followbyAC;
+    // ___
+  }; // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+  //
+  PCR[label = "PCR", group = "3"];
+  nonPCR[label = "non-PCR"];
+  //
+  Capecitabine_x8[label = "Capecitabine * 8"];
+  Pembrolizumab_x9[label = "Pembrolizumab * 9", group = "3"];
+  {
+    rank = same;
+    AC carboplatin;
+  };
+
+  node[                                             //
+      color = white; fillcolor = "#2d696a:#6c9a77"; //
+      fontcolor = "#ffffff"];
+  Surgery[label = "Surgery"];
+  checkBRCA1[label = "check BRCA1"];
+  olaparib[                             //
+      shape = none;                     // `record`, `underline`
+      label = "olaparib\l (OlympiA)\l"; //
+                                        // group = "group";
+  ];
+  no_further_treatment[               //
+      label = "No further Treatment"; //
+      group = "4",
+  ];
+  followbyAC->Surgery PCR
+      ->no_further_treatment
+          //
+          AC->Taxotere_CDDP->Surgery->PCR->Pembrolizumab_x9;
+  Surgery->nonPCR->{Capecitabine_x8 checkBRCA1};
+  checkBRCA1->olaparib
+}

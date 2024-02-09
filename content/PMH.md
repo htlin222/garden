@@ -2,7 +2,7 @@
 title: "PMH"
 slug: "pmh"
 prefix: "PMH"
-date: "2023-10-09"
+date: "2024-02-04"
 description: "過去病史，由其對於乳癌病人超級重要，需要填一大堆重要的 → 表格！！！"
 enableToc: false
 tags:
@@ -11,7 +11,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[how to write a history and physical]]
+> 🌱 來自：[[how to write a history and physical]]
 > see also [[prechemo_TNBC]]
 
 # PMH
@@ -22,21 +22,21 @@ tags:
 - Obstetric/Gynecologic:
   - G<>P<>AA<>SA
   - Age at first pregnancy:
-  - Age at first menarche:  < 14 >
+  - Age at first menarche: < 14 >
   - LMP: < YYYY-MM-DD >
   - <> days per cycle, <> days with < moderate > amount
-  - *or postmeopause at age <>
+  - \*or postmeopause at age <>
   - HRT: < for contraception, for postmeopausal symtpom >
   - breast feeding: < one month >
 - Past surgical history:
   - NIL
   - < disease > - < operation > - in < hosptial > - in age <>
-- Allergy: NKDA <  >
+- Allergy: NKDA < >
 - Concurrent medication/supplement/herb:
   - NIL
   - <>
 - Personal/Social history:
-  - Smoking history:  < denied > < pack per year >,  < from age __to__ >
+  - Smoking history: < denied > < pack per year >, < from age **to** >
   - Alcohol consumption: < calculate: Beer, 5%(250ml)/1unit >
   - Betel nuts: denied
   - Recreational drug: < cannabis, amphetamine, etc. >

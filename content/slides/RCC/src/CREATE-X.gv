@@ -1,0 +1,104 @@
+digraph {
+  compound=true;
+  graph [
+    // splines=ortho,
+    nodesep=1
+    rankdir="LR"
+    // fontname="Arial",
+    fontname="Inter-Bold"
+    // label="TITLE" //TODO: ___
+    labelloc = "b"
+    fontsize="24pt"
+  ]
+  node[
+    color="#2d696a",
+    penwidth=1.5,
+    fontsize="18pt",
+    shape=record,
+    fontname="Inter-Medium",
+    // fontname="Arial",
+    ]
+  edge[color=black, penwidth=2]
+  background[
+      color="white",
+      fontsize="20pt",
+      //TODO: Stratification ___
+      label="Stratification by
+      \nER status, age, neoadjuvant,
+      \nchemotherapy,
+      \n &nbsp;use of 5-FU, institution, node status"
+      ]
+  pupulation [
+      fillcolor="#eeffff",
+      style="filled",
+      // TODO: Population ___
+      label="stage I-IIIB HER2- BC
+      | aged 20-74 yrs of age
+      | (non-pCR, N+) after neoadjuvant
+      | ECOG PS 0/1
+      | &nbsp; no previous oral fluoropyrimidines &nbsp;
+      | (N = 910)"
+      ]
+  method [
+      shape=circle,
+      fillcolor="#2d696a",
+      penwidth=5,
+      color = "#6c9a77",
+      fontcolor="#ffffff",
+      style="filled",
+      fontsize="14pt",
+      // TODO: Randomize ___
+      label="🎲\n1:1"
+      ]
+  subgraph cluster_armA {
+    label="Intervention Arm"
+    labelloc = "t"
+    color=white
+    fontcolor="#2d696a"
+    node[
+      width=4.5,
+      color=white,
+      fillcolor="#2d696a:#6c9a77",
+      style="filled",
+      fontcolor="#ffffff",
+    ]
+    // TODO: Intervention arm ___
+    intervention[label="
+        💊 Capecitabine
+      | 2500 mg/m2/day PO Days 1-14
+      | Q3W 8 cycles
+      | Hormonal therapy if ER/PgR+
+      " ]
+  }
+  subgraph cluster_armB {
+    label="Control Arm"
+    labelloc = "t"
+    color=white
+    fontcolor="#2d696a"
+    node[
+      width=4.5,
+      color="#2d696a:#6c9a77",
+      fillcolor=white,
+      style="filled",
+      fontcolor="#2d696a:#6c9a77",
+      ]
+    // TODO: Control Arm ___
+    control[label="
+          Placebo
+        | Hormonal therapy if ER/PgR+
+        | No further therapy if ER/PgR-
+        " ]
+  }
+  pupulation -> method
+  method -> intervention [ltail=cluster_armA lhead=cluster_armA];
+  method -> control [ltail=cluster_armB lhead=cluster_armB];
+  title[
+      color="white",
+      fontcolor="#2d696a:#6c9a77",
+      fontsize="30pt",
+      label="CREATE-X"
+      fontname="Inter-Black"
+      // label="TITLE" //TODO: ___
+      ]
+
+}

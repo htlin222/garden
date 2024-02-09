@@ -1,23 +1,33 @@
 ---
 title: "Brentuximab"
 slug: "brentuximab"
-date: "2023-06-04"
+date: "2024-01-23"
 enableToc: false
 tags:
-- building
+  - building
 ---
 
 > [!info]
 >
-> 🌱 來自: [[Refractory_relapsed Hodgkin lymphoma]]
+> 🌱 來自：[[Refractory_relapsed Hodgkin lymphoma]]
 
 # Brentuximab
 
 Brentuximab vedotin (BV)
 Neurotoxicity, [[pancreatitis]] (rare), progressive multifocal leukoencephalopathy (rare)
 
-* For relapse after autologous HCT (if BV was not previously administered), relapse after two prior multi-agent chemotherapy regimens, consolidation after partial response to systemic chemotherapy
-* Targeted chemotherapy (monomethyl auristatin E linked to [[CD30]] monoclonal antibody)
+- Mechanism:
+  - Binds CD30
+- Dosing:
+  - 1.8 mg/kg every 3 wks, adjust dose for tx-related tox
+- PK/PD: T1/2 ∼5 d
+- AEs:
+  - Peripheral neuropathy (DLT), pancytopenia, URI
+- DDI:
+  - CYP3A4 inhibitors/inducers (↑/↓ conc. of brentuximab)
+
+- For relapse after autologous HCT (if BV was not previously administered), relapse after two prior multi-agent chemotherapy regimens, consolidation after partial response to systemic chemotherapy
+- Targeted chemotherapy (monomethyl auristatin E linked to [[CD30]] monoclonal antibody)
 
 ---
 

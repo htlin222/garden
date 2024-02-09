@@ -1,7 +1,8 @@
 ---
 title: "prechemo_TNBC"
 slug: "prechemotnbc"
-date: "2023-10-10"
+date: "2024-02-04"
+prefix: "prechemo_TNBC"
 enableToc: false
 tags:
   - building
@@ -9,7 +10,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[Chart template-of-breast cancer]]
+> 🌱 來自：[[Chart template-of-breast cancer]]
 
 # prechemo_TNBC
 
@@ -25,7 +26,7 @@ tags:
   - Doxorubicin 60 mg/m2, Cyclophosphamide 600 mg/m2
   - Pembrolizumab 200 mg (out-of-pocket expense $65,226NTD x 2 vial x 4 = 521,808)
 - Cycle 5-8 (Cycled every 3 weeks)
-  - Docetaxel* 60 mg/m2
+  - Docetaxel\* 60 mg/m2
   - Pembrolizumab 200 mg (out-of-pocket expense $65,226NTD x 2 vial x 4 = 521,808)
 - then proceed to surgery
 - post-op XRT if indicated

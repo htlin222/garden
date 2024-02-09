@@ -1,7 +1,7 @@
 ---
 title: "renal-cell-carcinoma"
 slug: "renal-cell-carcinoma"
-date: "2024-01-03"
+date: "2024-01-22"
 enableToc: false
 tags:
   - building
@@ -26,3 +26,4 @@ tags:
 - [[Immunotherapies-of-renal-cell-carcinoma]]
 - [[mTOR inhibitors-of-renal-cell-carcinoma]]
 - [[Non-clear cell histology-of-renal-cell-carcinoma]]
+

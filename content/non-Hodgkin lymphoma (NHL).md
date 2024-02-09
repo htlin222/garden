@@ -1,13 +1,13 @@
 ---
 title: non-Hodgkin lymphoma (NHL)
 alias: NHL
-date: "2023-01-22"
+date: "2024-01-23"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[lymphoma and CLL]]
+> 🌱 來自：[[lymphoma and CLL]]
 
 # non-Hodgkin lymphoma (NHL)
 

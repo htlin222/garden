@@ -1,7 +1,7 @@
 ---
 title: "durvalumab"
 slug: "durvalumab"
-date: "2023-07-23"
+date: "2024-01-23"
 enableToc: false
 tags:
   - building
@@ -9,17 +9,34 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[Pathologic stage IIIA (N2) to IIIB disease of NSCLC Treatment]]
+> 🌱 來自：[[Pathologic stage IIIA (N2) to IIIB disease of NSCLC Treatment]]
 
 # durvalumab
 
+- Mechanism: Binds to PDL-1
+- Dosing: 10 mg/kg every 2 wks
+- PK/PD: T1/2 ∼18 d
+- AEs:
+  - Immune-mediated tox,
+  - infusion rxn,
+  - skin rash,
+  - metabolic abnormalities,
+  - hypothyroidism,
+  - diarrhea,
+  - lymphocytopenia,
+  - ↑ liver enzymes,
+  - fatigue,
+  - cough
+- DDI: No known pathways of metabolism, avoid corticosteroids since it may diminish the therapeutic effect of immune checkpoint inhibitors
+- Clinical pearls: Tx immune-related tox w/ steroids (prednisone 1-2 mg/kg/d)
+
 ## 作用機轉
 
-Durvalumab 是: 屬於 PD-L1 免疫檢查點抑制劑
+Durvalumab 是：屬於 PD-L1 免疫檢查點抑制劑
 
-- T 淋巴細胞 (T 細胞) 上有許多免疫檢查點，有些 是: 促進它們活化就像踩油門，有些反而 是: 抑制它們就像踩煞車，其中 PD-1 是: 屬於抑制性免疫檢查點。
+- T 淋巴細胞  (T 細胞)  上有許多免疫檢查點，有些 是：促進它們活化就像踩油門，有些反而 是：抑制它們就像踩煞車，其中 PD-1 是：屬於抑制性免疫檢查點。
 
-此外，當 T 細胞靠近癌細胞時，癌細胞時常會出現 PD-L1 配體，當 PD-L1 和 PD-1 結合後會導致 T 細胞無法發揮功能，而 PD-L1 免疫檢查點抑制劑則可抑制 PD-1 和 PD-L1 結合，也就 是: 拿掉煞車，重新喚醒 T 細胞發揮其抗癌作用。
+此外，當 T 細胞靠近癌細胞時，癌細胞時常會出現 PD-L1 配體，當 PD-L1 和 PD-1 結合後會導致 T 細胞 ✖ 無法發揮功能，而 PD-L1 免疫檢查點抑制劑則可抑制 PD-1 和 PD-L1 結合，也就 是：拿掉煞車，重新喚醒 T 細胞發揮其抗癌作用。
 
 ## 適應症
 

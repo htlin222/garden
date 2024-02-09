@@ -28,3 +28,9 @@ enableToc: false
 - [[pathology of hodgkin lymphoma (HL)]]
 - [[WHO Histologic Classification of Classical HL]]
 - [[treatment of hodgkin lymphoma (HL)]]
+
+
+## Hallmark Study Recently
+SWOG S1826, a randomized study of nivolumab(N)-AVD versus brentuximab vedotin(BV)-AVD in advanced stage (AS) classic Hodgkin lymphoma (HL). Journal of Clinical Oncology. Published 2023. Accessed January 21, 2024. https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.17_suppl.LBA4
+‌
+- [[swog s1826.md|SWOG S1826]]

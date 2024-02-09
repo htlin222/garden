@@ -8,11 +8,20 @@ tags:
 
 > [!info]
 >
-> 🌱來自: [[renal-cell-carcinoma]]
+> 🌱來自：[[renal-cell-carcinoma]]
 
 # mTOR inhibitors-of-renal-cell-carcinoma
 
-\*\*1° endpoint(s) listed below include PFS, OS at interim analysis Class S/E: Stomatitis, fatigue, rash, edema, pneumonitis, hyperglycemia, hyperlipidemia, ↓ WBC, ↓ PLT
+- 1° endpoint(s) listed below include PFS,
+- OS at interim analysis Class S/E: Stomatitis,
+- fatigue,
+- rash,
+- edema,
+- pneumonitis,
+- hyperglycemia,
+- hyperlipidemia,
+- ↓ WBC,
+- ↓ PLT
 
 Everolimus (Lancet 2008;372:449) vs. placebo: PFS: 4 mos vs. 1.9 mos (HR: 0.30, P <0.0001)
 Temsirolimus (NEJM 2007;356:2271) vs. IFNα: OS: 10.9 mos vs. 7.3 mos (HR: 0.73, P = 0.008)
@@ -32,4 +41,3 @@ Temsirolimus (NEJM 2007;356:2271) vs. IFNα: OS: 10.9 mos vs. 7.3 mos (HR: 0.73,
 - [[Immunotherapies-of-renal-cell-carcinoma]]
 - [[mTOR inhibitors-of-renal-cell-carcinoma]]
 - [[Non-clear cell histology-of-renal-cell-carcinoma]]
-

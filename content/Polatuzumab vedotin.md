@@ -1,7 +1,7 @@
 ---
 title: "Polatuzumab vedotin"
 slug: "polatuzumab-appealed"
-date: "2023-11-20"
+date: "2024-01-23"
 enableToc: false
 tags:
   - building
@@ -9,11 +9,15 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[Antibody Drug Conjugates]]
+> 🌱 來自：[[Antibody Drug Conjugates]]
 
 # Polatuzumab vedotin
 
-- Mechanism: Anti-CD79b humanized IgG1; after binding, releases antimicrotubule agent MMAE, producing cell cycle arrest & apoptosis
+- Mechanism:
+  - Anti-CD79b humanized IgG1;
+  - after binding,
+    - releases antimicrotubule agent MMAE,
+    - producing cell cycle arrest & apoptosis
 - Approved indication: [[Diffuse large B-cell lymphoma]]
 - Dosing:
   - 1.8 mg/kg IV every 21 d;

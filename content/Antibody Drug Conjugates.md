@@ -1,7 +1,7 @@
 ---
 title: "Antibody Drug Conjugates"
 slug: "antibody-drug-conjugates"
-date: "2023-11-19"
+date: "2024-01-23"
 enableToc: false
 tags:
   - building
@@ -9,7 +9,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[cancer pharmacology]]
+> 🌱 來自：[[cancer pharmacology]]
 
 # Antibody Drug Conjugates
 
@@ -23,11 +23,11 @@ tags:
 | Sacituzumab govitecan-hziy      | Trop-2   | Irinotecan derivative SN-38    |
 | Tagraxofusp-erzs                | CD123    | Diphtheria toxin               |
 
-## List 
+## List
 
-- [[Ado-trastuzumab emtansine]] (Kadcyla)
+- [[Ado-trastuzumab emtansine]] (Kadcyla) a.k.a TDM1
 - [[Enfortumab vedotin]]-ejfv (Padcev)
-- Fam-[[trastuzumab deruxtecan]]-nxki (Enhertu)
+- Fam-[[trastuzumab deruxtecan]]-nxki (Enhertu) T-DXD
 - [[Moxetumomab pasudotox]]-tdfk (Lumoxiti)
 - [[Polatuzumab vedotin]]-piiq
 - [[Sacituzumab govitecan]]

@@ -17,7 +17,7 @@ title: pancytopenia
 ---
 
 * [[Aplastic anemia]] (stem cell failure)
-* [[myelodysplastic syndrome]]
+* [[myelodysplastic syndromes]]
 * [[Paroxysmal nocturnal hemoglobinuria]] (PNH)
 * [[Myelophthisic anemia]]
 

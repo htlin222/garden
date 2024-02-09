@@ -1,0 +1,49 @@
+digraph {
+  compound=true;
+  graph [
+    // splines=ortho,
+    nodesep=1
+    rankdir="LR"
+    // fontname="Arial",
+    fontname="FiraSans-SemiBoldItalic"
+    // label="CALGB 9344" //TODO: ___
+    labelloc = "b"
+    fontsize="24pt"
+  ]
+  node[
+    color="#2d696a",
+    penwidth=1.5,
+    fontsize="18pt",
+    shape=record,
+    // fontname="FiraSans-Regular"
+    fontname="Arial",
+    ]
+  edge[color=black, penwidth=4]
+
+    // Define nodes
+    start [label="N=3,170 | Node Positive | Stratification: \nPremenopausal\n & Postmenopausal"];
+    group1 [label="A60\nC x 4"];
+    group2 [label="A75\nC x 4"];
+    group3 [label="A90\nC x 4"];
+    group1P [label="P x 4"];
+    group2P [label="P x 4"];
+    // highlight this
+
+    group3_noP[
+      color=white,
+      fillcolor="#2d696a:#6c9a77",
+      style="filled",
+      fontcolor="#ffffff",
+      label="No P"
+    ]
+
+    // Define edges
+    start -> group1
+    start -> group2;
+    start -> group3;
+    group1 -> group1P;
+    group2 -> group2P;
+    group3 -> group3_noP;
+
+    // edge [fontname="Helvetica", fontsize=10];
+}

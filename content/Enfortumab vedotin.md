@@ -1,7 +1,7 @@
 ---
 title: "Enfortumab vedotin"
 slug: "enfortumab-vedotin"
-date: "2023-11-20"
+date: "2024-01-23"
 enableToc: false
 tags:
   - building
@@ -9,7 +9,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[Antibody Drug Conjugates]]
+> 🌱 來自：[[Antibody Drug Conjugates]]
 
 # Enfortumab vedotin
 
@@ -44,3 +44,7 @@ tags:
 
 - Prophylactic artificial tears suggested;
 - median 3.8 mos to grade ≥2 neuropathy, 1.9 mos to ocular disorders
+
+## Tirals
+
+1. Powles T, Valderrama BP, Gupta S, et al. LBA6 EV-302/KEYNOTE-A39: Open-label, randomized phase III study of enfortumab vedotin in combination with pembrolizumab (EV+P) vs chemotherapy (Chemo) in previously untreated locally advanced metastatic urothelial carcinoma (la/mUC). Annals of Oncology. 2023;34:S1340-S1340. doi:<https://doi.org/10.1016/j.annonc.2023.10.106>

@@ -15,6 +15,7 @@ enableToc: false
 ## FLT3-ITD/TKD mutation
 
 - 7+3+ [[midostaurin]] 👉 ❌ FLT3
+- [[flt3.md|FLT3]]
 
 ## Core-binding factor
 

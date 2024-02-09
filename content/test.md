@@ -1,10 +1,11 @@
 ---
-title: "mytest"
+title: "new"
 date: "2023-09-24 02:06:00"
 enableToc: false
 tags:
   - building
   - tts
+  - blog_post
 ---
 
 > [!info]
@@ -33,4 +34,8 @@ The sed command you provided is designed to [[remove text between square.md|remo
 
 ## test
 
+about
+about
+about
+about
 about

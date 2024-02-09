@@ -10,6 +10,8 @@ alias: onco
 > 體內異物，病苗滋長，
 > 腫瘤內病，苦難多
 
+[[asco.md|ASCO]]
+
 ## Quick Link
 
 - [[hematology]]
@@ -46,9 +48,6 @@ alias: onco
 - [[other solid tumors]]
 - [[neurological oncology]]
 - [[pediatric cancers]]
-
-## BSC
-
 - [[pain and palliative care]]
 - [[infectious disease]]
 

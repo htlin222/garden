@@ -1,0 +1,66 @@
+digraph {
+  compound = true;
+  graph[ //
+      nodesep = 0.2;
+      rankdir = "LR";
+      labelloc = "b";    //
+      fontsize = "24pt"; //
+      // fontname = "Inter-Bold"
+      fontname = "Arial Black",
+      // label = "TITLE ___";
+  ];
+  node[color = "#2d696a"; penwidth = 1.5; fontsize = "18pt"; shape = record;
+       fontname = "Arial"; // fontname="Inter-Medium"
+  ];
+  edge[color = black; penwidth = 2];
+  // background[                             //
+  //     color = "white"; fontsize = "20pt"; //
+  //     label = "Stratification by ___
+  //     \nnodal status, tumor size,
+  //     \ncarboplatin schedule "
+  // ];
+  {population[          //
+      shape = "record", // group = "group_1",
+      fillcolor = "#eefffaff", style = "filled",
+      label = "<f0> newly diagnosed/ recurrent stage IV clear-cell RCC | no prior systemic therapy for advanced disease | (N = 861) "]};
+  // {Exclusion[           //
+  //     shape = "record", // group = "group_1",
+  //     fillcolor = "#eefaff", style = "filled",
+  //     label = "<f0> ___ primary stage I-IIA/B TNBC | aged ≥18 yr | T1cN1-2 or T2-4N0-2 TNBC | ECOG PS 0/1 | available for PD-L1 testing | (N = 1174) "]};
+  method[shape = circle; fillcolor = "#2d696a"; penwidth = 5; color = "#6c9a77";
+         fontcolor = "#ffffff"; style = "filled"; fontsize = "14pt"; // ___
+         label = "🎲\n1:1";                                          // ___
+  ];
+  subgraph cluster_armA {
+    label = "Intervention Arm N= 432";
+    labelloc = "t";
+    color = white;
+    fontcolor = "#2d696a";
+    node[color = white; fillcolor = "#2d696a:#6c9a77"; style = "filled";
+         fontcolor = "#ffffff";
+    ];
+    {intervention_1[      // ___
+        shape = "record", // group = "group_1",
+        label = " <f0> Pembrolizumab 200 mg Q3W for up to 35 cycles | Axitinib 5 mg PO BID"]};
+    // surgery1[label = "Surgery"]; // ___
+    // intervention->surgery1;
+  }
+  subgraph cluster_armB {
+    label = "Control Arm N= 429";
+    labelloc = "t";
+    color = white;
+    fontcolor = "#2d696a";
+    node[color = "#2d696a:#6c9a77", fillcolor = white, style = "filled",
+         fontcolor = "#2d696a:#6c9a77",
+    ];
+    {control_1[           // ___
+        shape = "record", // group = "1",
+        label = " <f0> Sunitinib 50 mg PO QD wks of each 6-wk cycle "]};
+    // surgery2[label = "Surgery"]; // ___
+    // control->surgery2;
+  };
+  { population } -> method;
+  // Exclusion->method[dir = back];
+  method->intervention_1[ltail = cluster_armA lhead = cluster_armA];
+  method->control_1[ltail = cluster_armB lhead = cluster_armB]; // ___
+}

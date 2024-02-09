@@ -1,23 +1,16 @@
 ---
 title: small lymphocytic lymphoma
 alias: SLL
-date: "2023-01-22"
+date: "2024-01-21"
 enableToc: false
 ---
 
 > [!info]
 >
-> 🌱 來自: [[leukemia]]
+> 🌱 來自：[[leukemia]]
 
 # small lymphocytic lymphoma
 
-- [[Definition of small lymphocytic lymphoma|Def]]
-- [[Epidemiology and risk factors of small lymphocytic lymphoma]]
-- [[Clinical manifestations of chronic lymphocytic leukemia]]
-- [[Diagnostic evaluation of small lymphocytic lymphoma]]
-  - [[Genetics of chronic lymphocytic leukemia]]
-- [[chronic lymphocytic leukemia staging and prognosis]]
-- [[Treatment of small lymphocytic lymphoma]]
+## Phase 3 multinational, randomized, double-blind study is designed to compare the efficacy and safety of the combination of ibrutinib and venetoclax vs. ibrutinib and placebo in subjects with MCL
 
-- [[SLL]]
-- [[CLL]]
+1. Clinicaltrials.gov. Published 2024. Accessed January 21, 2024. <https://clinicaltrials.gov/study/NCT03112174>

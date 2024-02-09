@@ -1,0 +1,90 @@
+digraph {
+  compound = true;
+  graph[nodesep = 1; rankdir = "LR"; labelloc = "b"; color = black;
+        fontsize = "18pt"; //
+                           // splines = ortho; //
+        // fontname = "Inter-Bold"; //
+        fontname = "Arial Black";
+        lp = 5;
+      // labeljust = l;
+      // label = "CheckMate 214"; // ___
+      ];
+  node[color = "#2d696a"; penwidth = 1.5; fontsize = "18pt"; shape = record;
+       fontname = "Arial"; // fontname="Inter-Medium"
+  ];
+  edge[color = black; penwidth = 2];
+  // background[                             //
+  //     color = "white"; fontsize = "20pt"; //
+  //     label = "Stratification by
+  //     \nnodal status, tumor size,
+  //     \ncarboplatin schedule "
+  // ];
+  {
+    population[ // ___
+      shape = "record", // group = "group_1",
+      fillcolor="#eefffaff", style="filled",
+      label= // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+        " <f0> RCC w/ clear-cell component
+        | Advanced or Metastatic
+        | KPS of at least 70%
+        | (N = 1390)
+    "] // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+  };
+  method[shape = circle; fillcolor = "#2d696a"; penwidth = 5; color = "#6c9a77";
+         fontcolor = "#ffffff"; style = "filled"; fontsize = "14pt"; // ___
+         label = "🎲\n1:1";                                          // ___
+  ];
+  subgraph cluster_armA {
+    label = "Intervention Arm N=550";
+    labelloc = "t";
+    color = white;
+    // fontcolor = "#2d696a";
+    node[color = white; fillcolor = "#2d696a:#6c9a77"; style = "filled";
+         fontcolor = "#ffffff";
+    ];
+    { intervention[ // ___
+        shape = "record", // group = "group_1",
+        label= // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+          " <f0> Nivolumab 3 mg/kg + Ipilimumab 1 mg/kg
+          | {every 3 weeks | 4 doses}
+      "] // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+    };
+    { intervention_2[ // ___
+        shape = "record", // group = "group_1",
+        label= // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+          " <f0> Nivolumab 3 mg/kg
+          | {every 2 weeks | until PD, Toxicity}
+      "] // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+    };
+    intervention->intervention_2;
+    // Nivolumab 3 mg/kg combined with Ipilimumab 1 mg/kg solutions
+    // intravenously every 3 weeks for 4 doses then Nivolumab 3 mg/kg solutions
+    // intravenously every 2 weeks until documented disease progression,
+    // discontinuation due to toxicity, withdrawal of consent or the study ends
+  }
+  subgraph cluster_armB {
+    label = "Control Arm N=546";
+    labelloc = "t";
+    color = white;
+    // fontcolor = "#2d696a";
+    node[color = "#2d696a:#6c9a77", fillcolor = white, style = "filled",
+         fontcolor = "#2d696a:#6c9a77",
+    ];
+    { control[ // ___
+        shape = "record", // group = "1",
+        label= // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+          " <f0> Sunitinib 50 mg
+          | { <f1> once daily for 4 weeks | <f2> then 2 weeks off }
+      "] // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+    };
+    {control_2[       // ___
+        shape = none, // group = "1",
+        label =       //
+        "until documented PD, \ndiscontinuation due to toxicity"]};
+    // surgery2[label = "Surgery"];
+    control->control_2;
+  };
+  population->method method
+      ->intervention[ltail = cluster_armA lhead = cluster_armA];
+  method->control[ltail = cluster_armB lhead = cluster_armB];
+}

@@ -51,3 +51,5 @@ tags:
 ## Publication
 
 Lin HT, Huang CJ. The Use of High-Flow Nasal Oxygen in Cancer Patients. Resuscitation & Intensive Care Med. 2023;8:37-42
+
+## 結緣品
