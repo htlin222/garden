@@ -7,9 +7,13 @@ enableToc: true
 > get back to [[index]]
 # 最近編輯的檔案
 
+## 今天
+
+- 2024-03-06 02:20 [[Duty note of hypokalemia]]
+- 2024-03-06 02:20 [[recent]]
+
 ## 更久以前
 
-- 2024-03-04 18:48 [[recent]]
 - 2024-03-04 18:48 [[pancreatic cancer]]
 - 2024-03-04 00:09 [[colorectal cancer]]
 - 2024-03-04 00:09 [[CRC]]

@@ -1,17 +1,15 @@
 ---
-bibliography: /Users/mac/Zotero/zotero_main.bib
-csl: /Users/mac/Zotero/styles/american-medical-association.csl
 date: 2023-06-08
 enableToc: false
 slug: surface-anatomy-of-bone-marrow-aspiration-and-biopsy
 tags:
-- building
+  - building
 title: surface anatomy of Bone marrow aspiration and biopsy
 ---
 
 > [!info]
 >
-> 🌱 來自: [[Bone marrow aspiration and biopsy]]
+> 🌱 來自：[[Bone marrow aspiration and biopsy]]
 
 # surface anatomy of Bone marrow aspiration and biopsy
 
@@ -22,6 +20,7 @@ title: surface anatomy of Bone marrow aspiration and biopsy
 ![Photograph of hand and finger placement with superimposed pelvic anatomy demonstrating appropriate localization of posterior superior iliac spine surface anatomy.](https://i.imgur.com/5MSuZZ2.png)
 
 ## Proper
+
 use of the lateral approach should obviate many of the complications
 reported in the literature.<sup>1</sup>
 
@@ -29,9 +28,9 @@ reported in the literature.<sup>1</sup>
 
 ![double 💧💧](https://i.imgur.com/W0Y8wgm.png)
 
-![朝下對準AIIS](https://i.imgur.com/z9Qtn4q.png)
+![朝下對準 AIIS](https://i.imgur.com/z9Qtn4q.png)
 
-![往外側40度](https://i.imgur.com/QUrrHwt.png)
+![往外側 40 度](https://i.imgur.com/QUrrHwt.png)
 
 <div id="refs" class="references csl-bib-body">
 
@@ -40,7 +39,7 @@ reported in the literature.<sup>1</sup>
 <span class="csl-left-margin">1. </span><span
 class="csl-right-inline">Konda B, Pathak S, Edwin I, et al. Safe and
 successful bone marrow biopsy: An anatomical and <span
-class="nocase">CT-based</span> cadaver study. *Am J Hematol*.
+class="nocase">CT-based</span> cadaver study. _Am J Hematol_.
 2014;89(10):943-946.
 doi:[10.1002/ajh.23790](https://doi.org/10.1002/ajh.23790)</span>
 
