@@ -1,43 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蜥蜴的知識花園 on</title><link>https://www.physician.tw/</link><description>Recent content in 蜥蜴的知識花園 on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</managingEditor><webMaster>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</webMaster><copyright>Hsieh-Ting All rights reserved</copyright><atom:link href="https://www.physician.tw/rss.xml" rel="self" type="application/rss+xml"/><item><title>open graph</title><link>https://www.physician.tw/blog/open-graph/</link><pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/open-graph/</guid><description>&lt;blockquote>
-&lt;p>[!info]&lt;/p>
-&lt;p>🌱 來自: [[Quartz]]&lt;/p>
-&lt;/blockquote>
-&lt;h1 id="open-graph">open graph&lt;/h1>
-&lt;h2 id="什麼是open-graph">什麼是Open Graph？&lt;/h2>
-&lt;p>Open Graph是一個由Facebook創建的協議，旨在讓網站管理員更好地控制他們的內容在社交媒體平台上的顯示方式。它允許網站管理員指定網頁的元數據，包括標題、描述、圖片等，以便在Facebook、Twitter和其他社交媒體平台上分享時更好地展示。&lt;/p>
-&lt;p>Open Graph的核心是元標籤（meta tags），它們在網頁的頭部指定網頁的元數據。在Open Graph中，這些標籤的屬性定義了該網頁的內容，例如標題、描述、縮略圖等。當用戶分享該網頁時，社交媒體平台將使用這些標籤來決定如何呈現該網頁的內容。&lt;/p>
-&lt;h2 id="可以體驗一下在網址列貼上">可以體驗一下，在網址列貼上&lt;/h2>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">https://og-ph6wrfvo1-htlin222.vercel.app/api/blog?templateTitle=什麼是OpenGraph
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>應該就會得到一張：
-&lt;img src="https://i.imgur.com/KWu12j0.png" width="auto" alt="🏞️" />&lt;/p>
-&lt;h2 id="教學">教學&lt;/h2>
-&lt;ul>
-&lt;li>Fork
-&lt;a href="https://github.com/htlin222/og" rel="noopener">htlin222/og: 🍇 Open Graph Generator made using @vercel/og for personal use&lt;/a>&lt;/li>
-&lt;li>然後
-&lt;a href="https://vercel.com/new" rel="noopener">New Project – Vercel&lt;/a>&lt;/li>
-&lt;li>選擇你的專案後Deploy&lt;/li>
-&lt;li>應該就可以得到 &lt;code>og-username.vercel.app&lt;/code>這個網址，選擇&lt;code>Link Builder&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://i.imgur.com/5ilHiO9.png" width="auto" alt="🏞️" />&lt;/p>
-&lt;ul>
-&lt;li>注意右下角的那個網址&lt;code>https://og-xxxxxx-username.vercel.app/api/blog?templateTitle=你的標題在這裡&amp;amp;theme=dark&lt;/code>，就是他了&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;img src="https://i.imgur.com/RTubJ8t.png" width="auto" alt="🏞️" />&lt;/p></description></item><item><title>happy</title><link>https://www.physician.tw/blog/happy/</link><pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/happy/</guid><description>&lt;blockquote>
-&lt;p>[!info]&lt;/p>
-&lt;p>🌱 來自: [[index]]&lt;/p>
-&lt;/blockquote>
-&lt;h1 id="happy">happy&lt;/h1>
-&lt;p>[[birthday]]&lt;/p></description></item><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>&lt;h2 id="一個指令自動生成投影片pptx檔">一個指令自動生成投影片(.PPTX檔)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蜥蜴的知識花園 on</title><link>https://www.physician.tw/</link><description>Recent content in 蜥蜴的知識花園 on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</managingEditor><webMaster>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</webMaster><copyright>Hsieh-Ting All rights reserved</copyright><atom:link href="https://www.physician.tw/rss.xml" rel="self" type="application/rss+xml"/><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>&lt;h2 id="一個指令自動生成投影片pptx檔">一個指令自動生成投影片(.PPTX檔)&lt;/h2>
 &lt;p>最近因為常常要準備投影片上課，這種投影片主就是從教科書弄內容出來，標題加條列式為主，並不需要許多太複雜的排版，但在弄排版就很花時間(怒怒)。雖然有很多markdown自動變成投影片播放的功能，但就不能套用自己常用的樣式風格，也不容易交換檔案。發現
 &lt;a href="https://stymied.medium.com/what-slides-from-markdown-5239ed31e7ac" rel="noopener">What? Slides? From Markdown? | by Peter Conrad | Medium&lt;/a>介紹了用pandoc轉檔的方式，因此去看了官方文檔整理如下。&lt;/p>
 &lt;h2 id="tldr">TL;DR&lt;/h2>
@@ -339,239 +300,12 @@
 &lt;ul>
 &lt;li>按下設定好的快速鍵: &lt;code>⌘ ⌃ A&lt;/code>&lt;/li>
 &lt;li>如此以來，我們即可以一鍵將大量的筆記轉成一則則可以馬上複習的Anki卡片&lt;/li>
-&lt;/ul></description></item><item><title>用Raycast, Pandoc, Zotero實現Cite While You Write</title><link>https://www.physician.tw/blog/raycast-pandoc-zotero-make/</link><pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/raycast-pandoc-zotero-make/</guid><description>&lt;h2 id="簡介">簡介&lt;/h2>
-&lt;p>Cite While You Write, 簡稱CWYW，顧名思意就是讓我們在寫作時可以即時引用，並且生成引用條目bibliography，如果你是word或open office的使用者，可以很簡單地裝好zotero的外掛即可以開始使用。如果是R語言的使用者，Rstuido也提供完整的寫作環境。但如果是日常習慣以markdown來寫作，想實現CWYW就不是一件簡單的事。&lt;/p>
-&lt;p>從兩個層面思考：(1)一個可以直接叫出如同zotero picker視窗的替代軟體，插入citation key，這裡使用Raycast (2)利用pandoc，把bib檔匯入。&lt;/p>
-&lt;p>更多內容請見：
-&lt;a href="https://github.com/htlin222/md-bib-make" rel="noopener">htlin222/md-bib-make&lt;/a>&lt;/p>
-&lt;h2 id="前置作業">前置作業&lt;/h2>
-&lt;p>系統：Mac OS&lt;/p>
-&lt;p>需要安裝的項目：&lt;/p>
-&lt;h3 id="zotero-your-personal-research-assistanthttpswwwzoteroorg">
-&lt;a href="https://www.zotero.org/" rel="noopener">Zotero Your personal research assistant&lt;/a>&lt;/h3>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 可以直接從官網下載安裝檔，或用：&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask zotero
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h4 id="zotero需要安裝的plugin">Zotero需要安裝的plugin:&lt;/h4>
-&lt;p>
-&lt;a href="https://retorque.re/zotero-better-bibtex/" rel="noopener">Better BibTeX for Zotero :: Better BibTeX for Zotero&lt;/a>&lt;/p>
-&lt;h3 id="raycasthttpswwwraycastcom">
-&lt;a href="https://www.raycast.com/" rel="noopener">Raycast&lt;/a>&lt;/h3>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 可以直接從官網下載安裝檔，或用：&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install --cask raycast
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h4 id="raycast-需要安裝的plugin">Raycast 需要安裝的plugin:&lt;/h4>
-&lt;p>
-&lt;a href="https://www.raycast.com/reckoning-dev/zotero" rel="noopener">reckoning-dev/zotero - Raycast Store&lt;/a>&lt;/p>
-&lt;h3 id="make---gnu-project---free-software-foundationhttpswwwgnuorgsoftwaremake">
-&lt;a href="https://www.gnu.org/software/make/" rel="noopener">Make - GNU Project - Free Software Foundation&lt;/a>&lt;/h3>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install make
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h3 id="pandoc---about-pandochttpspandocorg">
-&lt;a href="https://pandoc.org/" rel="noopener">Pandoc - About pandoc&lt;/a>&lt;/h3>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install pandoc
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="zotero設定以英文版說明">Zotero設定：(以英文版說明)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;code>prefereces&lt;/code>&amp;gt;&lt;code>Better BibTex&lt;/code>&amp;gt;&lt;code>Citation Keys&lt;/code>&amp;gt;&lt;code>Citation Keys format&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>auth.lower + year+ veryshorttitle.lower&lt;/p>
-&lt;/blockquote>
-&lt;p>
-&lt;img src="https://i.imgur.com/1KIdKxl.png" width="auto" alt="image_22-08-27_16_18_03" />&lt;/p>
-&lt;ul>
-&lt;li>&lt;code>prefereces&lt;/code>&amp;gt;&lt;code>Better BibTex&lt;/code>&amp;gt;&lt;code>Export&lt;/code>&amp;gt;&lt;code>Quick Copy&lt;/code>&amp;gt;&lt;code>Quick Copy Format&lt;/code>&amp;gt;&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>Pandoc Citation&lt;/p>
-&lt;/blockquote>
-&lt;p>
-&lt;img src="https://i.imgur.com/zrvgZWz.png" width="auto" alt="image_22-08-27_16_18_27" />&lt;/p>
-&lt;h3 id="刷新所有citation-key">刷新所有citation key&lt;/h3>
-&lt;p>
-&lt;img src="https://i.imgur.com/HK6WEjv.png" width="auto" alt="image_22-08-27_16_17_31" />&lt;/p>
-&lt;h3 id="輸出成兩種格式better-biblatex-better-csl-json">輸出成兩種格式：Better BibLaTex, Better CSL JSON&lt;/h3>
-&lt;p>
-&lt;img src="https://i.imgur.com/PhWIGIn.png" width="auto" alt="image_22-08-27_16_19_14" />&lt;/p>
-&lt;ul>
-&lt;li>&lt;code>File&lt;/code>&amp;gt;&lt;code>Export Library&lt;/code>&amp;gt;&lt;code>Format&lt;/code>&amp;gt;&lt;code>Better BibLaTex&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>在Translator Options 選 Keep updated
-把檔案存成以下路徑:&lt;/p>
-&lt;/blockquote>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">~/Zotero/zotero_main.bib
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;ul>
-&lt;li>&lt;code>File&lt;/code>&amp;gt;&lt;code>Export Library&lt;/code>&amp;gt;&lt;code>Format&lt;/code>&amp;gt;&lt;code>Better CSL JSON&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>在Translator Options 選 Keep updated
-把檔案存成以下路徑:&lt;/p>
-&lt;/blockquote>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">~/Zotero/zotero_main.json
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="raycast-設定">Raycast 設定&lt;/h2>
-&lt;p>
-&lt;img src="https://i.imgur.com/Toxzuqv.png" width="auto" alt="image_22-08-27_16_20_29" />
-注意：這裡的路徑都要寫完整路徑，不能寫&lt;code>~/&lt;/code>或&lt;code>$HOME&lt;/code>&lt;/p>
-&lt;ul>
-&lt;li>Zotero Path&lt;/li>
-&lt;/ul>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">/Users/USER_NAME/Zotero/zotero.sqlite
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;ul>
-&lt;li>Better BibTex CSL JSON FILE&lt;/li>
-&lt;/ul>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"># 剛剛輸出的檔案
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">/Users/USER_NAME/Zotero/zotero_main.json
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;ul>
-&lt;li>CSL format&lt;/li>
-&lt;/ul>
-&lt;blockquote>
-&lt;p>選你要的，例如我選AMA，對本次操作無關。&lt;/p>
-&lt;/blockquote>
-&lt;ul>
-&lt;li>為zotero extension 設定一個快鍵，例如我用&lt;code>ctrl+/&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;h2 id="如何使用">如何使用&lt;/h2>
-&lt;ul>
-&lt;li>複製這個repo&lt;/li>
-&lt;li>編輯main.md這個檔案&lt;/li>
-&lt;/ul>
-&lt;h3 id="如何加入citation">如何加入citation?&lt;/h3>
-&lt;ul>
-&lt;li>叫出raycast&lt;/li>
-&lt;li>搜尋你要的文章&lt;/li>
-&lt;li>command+K 列出所有選項，選擇&lt;code>Copy BibTex Citation Key&lt;/code>
-&lt;img src="https://i.imgur.com/WkSriZe.png" width="auto" alt="image_22-08-27_16_29_57" />&lt;/li>
-&lt;li>在要加入citation的地方先寫一個&lt;code>@&lt;/code>，然後貼上citation key，最後呈現如 &lt;code>@tesfaye2022articles&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;h2 id="makefile文件設定">Makefile文件設定：&lt;/h2>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;span class="lnt">8
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 改主檔案的名字：&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">PROJECT&lt;/span>&lt;span class="o">=&lt;/span>main
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 引用格式 ，請把csl檔放在同一目錄下&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">CITATIONSTYLE&lt;/span>&lt;span class="o">=&lt;/span>american-medical-association.csl
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 你的資料庫位置&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">BIBLIO&lt;/span>&lt;span class="o">=&lt;/span>~/Zotero/zotero_main.bib
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="加好你要的citaion後只要在這個目錄下輸入">加好你要的citaion後，只要在這個目錄下，輸入：&lt;/h2>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">make
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>輸出畫面應該會是：&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">make
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pandoc --from&lt;span class="o">=&lt;/span>markdown -s --bibliography ~/Zotero/zotero_main.bib --citeproc --csl&lt;span class="o">=&lt;/span>american-medical-association.csl --metadata link-citations&lt;span class="o">=&lt;/span>&lt;span class="nb">true&lt;/span> main.md --output&lt;span class="o">=&lt;/span>main_output.docx
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">rm -rf main_output.md
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pandoc --from&lt;span class="o">=&lt;/span>markdown -s --bibliography ~/Zotero/zotero_main.bib --citeproc --csl&lt;span class="o">=&lt;/span>american-medical-association.csl --metadata link-citations&lt;span class="o">=&lt;/span>&lt;span class="nb">true&lt;/span> main.md --to&lt;span class="o">=&lt;/span>gfm --output&lt;span class="o">=&lt;/span>main_output.md
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">完成啦，讚的
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">open .
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>你就會得到 &lt;code>main_output.md&lt;/code>, &lt;code>main_output.docx&lt;/code>這兩個檔案&lt;/p>
-&lt;hr>
-&lt;p>some content&lt;sup>
-&lt;a
-rel="noopener" class="internal-link broken"
-data-src="#ref-epperla2021doublerefractory">1&lt;/a>&lt;/sup>&lt;/p>
-&lt;div id="refs" class="references csl-bib-body">
-&lt;div id="ref-epperla2021doublerefractory" class="csl-entry">
-&lt;p>&lt;span class="csl-left-margin">1. &lt;/span>&lt;span
-class="csl-right-inline">Epperla N, Hamadani M. Double-refractory
-Hodgkin lymphoma: Tackling relapse after brentuximab vedotin and
-checkpoint inhibitors. &lt;em>Hematology&lt;/em>. 2021;2021(1):247-253.
-doi:
-&lt;a href="https://doi.org/10.1182/hematology.2021000256" rel="noopener">10.1182/hematology.2021000256&lt;/a>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;/div></description></item><item><title>在Mac中運作Python的正確方法</title><link>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</link><pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
-&lt;p>如果之前沒有跟python打過交道，想在mac上安裝python時，首先就會面對到：我是誰？我在哪裡的問題，因為mac本身自帶一個python3，如果在終端機裡執行的話，也是可以&lt;code>print(&amp;quot;hellow world&amp;quot;)&lt;/code>，接著，我們可能就會想開心地利用系統的pip來安裝需要的套件，然後這樣做是很危險的，因此pip時不時會提醒你要不要更新pip，但mac系統中其實有很多套件，可能需要比較低版本的python才能執行，更新可能造成不可逆的崩潰，因此，另外下載一個python來安裝是很重要的。&lt;/p>
+&lt;/ul></description></item><item><title>在 Mac 中運作 Python 的正確方法</title><link>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</link><pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pyenv-jupyter-in-macos/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
+&lt;p>如果之前沒有跟 python 打過交道，想在 mac 上安裝 python 時，首先就會面對到：我是誰？我在哪裡的問題，因為 mac 本身自帶一個 python3，如果在終端機裡執行的話，也是可以&lt;code>print(&amp;quot;hellow world&amp;quot;)&lt;/code>，接著，我們可能就會想開心地利用系統的 pip 來安裝需要的套件，然後這樣做是很危險的，因此 pip 時不時會提醒你要不要更新 pip，但 mac 系統中其實有很多套件，可能需要比較低版本的 python 才能執行，更新可能造成不可逆的崩潰，因此，另外下載一個 python 來安裝是很重要的。&lt;/p>
 &lt;p>接下來就會面對另一個問題：要載哪個版本？最直覺得做法就是到
-&lt;a href="https://www.python.org/downloads/" rel="noopener">Python.org&lt;/a>下載最新的版本，打開後下一步下一步安裝完成。另外也可以&lt;code>brew install python3&lt;/code>來安裝。同時也會有人建議用anaconda來安裝一些必要的套件。到最後，我們的電腦裡就會充斥著各種版本的python，大概像下面這張圖一樣：
+&lt;a href="https://www.python.org/downloads/" rel="noopener">Python.org&lt;/a>下載最新的版本，打開後下一步下一步安裝完成。另外也可以&lt;code>brew install python3&lt;/code>來安裝。同時也會有人建議用 anaconda 來安裝一些必要的套件。到最後，我們的電腦裡就會充斥著各種版本的 python，大概像下面這張圖一樣：
 &lt;img src="https://imgs.xkcd.com/comics/python_environment.png" width="auto" alt="python_environment.png (492×487)" />&lt;/p>
-&lt;p>這時就容易會出現問題，常常我們建立了某個.py檔，在某些情況下可以正常import某些package，但當我們用其他軟體打開時，如jupyter lab、pycharm時，又會發現某些pip沒安裝到的套件。這樣我們的開發/學習環境變得很不固定，或是會重覆在不同地方安裝了相同的套件。&lt;/p>
+&lt;p>這時就容易會出現問題，常常我們建立了某個.py 檔，在某些情況下可以正常 import 某些 package，但當我們用其他軟體打開時，如 jupyter lab、pycharm 時，又會發現某些 pip 沒安裝到的套件。這樣我們的開發/學習環境變得很不固定，或是會重覆在不同地方安裝了相同的套件。&lt;/p>
 &lt;p>要解決這個問題，首先要學會兩組常用得指令：&lt;/p>
 &lt;ul>
 &lt;li>在終端機中執行：&lt;/li>
@@ -581,11 +315,11 @@ doi:
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">which python3
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">which python3
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;ul>
-&lt;li>或在python中跑這組程式碼：&lt;/li>
+&lt;li>或在 python 中跑這組程式碼：&lt;/li>
 &lt;/ul>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
@@ -598,17 +332,18 @@ doi:
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;ul>
-&lt;li>這兩個方法都可以告訴我們目前的python環境a.k.a.我是誰、我在哪裡。&lt;/li>
-&lt;/ul>
+&lt;li>這兩個方法都可以告訴我們目前的 python 環境 a.k.a.我是誰、我在哪裡。
 &lt;blockquote>
-&lt;p>有時，我們只想寫一段小程式，並不需要anaconda的那一堆程式，這個時候開速搭建一個虛擬環境，為這個環境建立專用的python執行檔、及專用的pip3，我們就可以輕量化自己的開發環境，下面介紹pyenv - python的虛擬環境管理方法。&lt;/p>
+&lt;p>有時，我們只想寫一段小程式，並不需要 anaconda 的那一堆程式，這個時候開速搭建一個虛擬環境，為這個環境建立專用的 python 執行檔、及專用的 pip3，我們就可以輕量化自己的開發環境，下面介紹 pyenv - python 的虛擬環境管理方法。&lt;/p>
 &lt;/blockquote>
+&lt;/li>
+&lt;/ul>
 &lt;hr>
 &lt;h2 id="方法">方法&lt;/h2>
-&lt;h3 id="安裝pyenv-跟virtualenv">安裝pyenv 跟virtualenv&lt;/h3>
+&lt;h3 id="安裝-pyenv-跟-virtualenv">安裝 pyenv 跟 virtualenv&lt;/h3>
 &lt;ul>
-&lt;li>如果還沒安裝homebrew請參考
-&lt;a href="https://htlin.site/posts/homebrew-basic" rel="noopener">用Homebrew來安裝需要的App跟套件&lt;/a>&lt;/li>
+&lt;li>如果還沒安裝 homebrew 請參考
+&lt;a href="https://htlin.site/posts/homebrew-basic" rel="noopener">用 Homebrew 來安裝需要的 App 跟套件&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
@@ -616,31 +351,31 @@ doi:
 &lt;/span>&lt;span class="lnt">2
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install pyenv
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">brew install pyenv
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install virtualenv
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h3 id="建立你的環境">建立你的環境&lt;/h3>
 &lt;ul>
-&lt;li>安裝所需要的python版本，如3.10.5&lt;/li>
+&lt;li>安裝所需要的 python 版本，如 3.10.5&lt;/li>
 &lt;/ul>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">pyenv install 3.10.5
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">pyenv install 3.10.5
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;ul>
-&lt;li>將安裝好的python版本指定到我們自行命名的環境中&lt;/li>
+&lt;li>將安裝好的 python 版本指定到我們自行命名的環境中&lt;/li>
 &lt;/ul>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">pyenv virtualenv 3.10.5 &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">pyenv virtualenv 3.10.5 &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;ul>
@@ -652,7 +387,7 @@ doi:
 &lt;/span>&lt;span class="lnt">2
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkdir &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">mkdir &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> &lt;span class="s2">&amp;#34;YOUR_PROJECT&amp;#34;&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
@@ -678,8 +413,8 @@ doi:
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pyenv activate &amp;#34;YOUR_PROJECT&amp;#34;
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;h3 id="如何在環境中使用jupyter-labnotebook">如何在環境中使用jupyter lab/notebook&lt;/h3>
-&lt;p>如果你之前有用任何方法安裝過jupyter相關的套件，輸入&lt;code>jupyter notebook&lt;/code>啟動jupyter時，會發現目前的python是ipykernal，並不是我們指定環境下的python，而且還會被自動安裝了很多套件，因此需要用pip的方式重新安裝jupyter，並將目前環境的python指定為python的kernel。&lt;/p>
+&lt;/div>&lt;h3 id="如何在環境中使用-jupyter-labnotebook">如何在環境中使用 jupyter lab/notebook&lt;/h3>
+&lt;p>如果你之前有用任何方法安裝過 jupyter 相關的套件，輸入&lt;code>jupyter notebook&lt;/code>啟動 jupyter 時，會發現目前的 python 是 ipykernal，並不是我們指定環境下的 python，而且還會被自動安裝了很多套件，因此需要用 pip 的方式重新安裝 jupyter，並將目前環境的 python 指定為 python 的 kernel。&lt;/p>
 &lt;ul>
 &lt;li>首先在開發環境中安裝一些常用的套件&lt;/li>
 &lt;/ul>
@@ -693,16 +428,16 @@ doi:
 &lt;/span>&lt;span class="lnt">6
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 先更新pip本身，確保是最新版&lt;/span>
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 先更新 pip 本身，確保是最新版&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install --upgrade pip
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝主角jupyter&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝主角 jupyter&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install pandas jupyter notebook matplotlib seaborn
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 最後安裝ipykernal&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 最後安裝 ipykernal&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install ipykernal
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;ul>
-&lt;li>將環境的kernel指定為jupyter的kernel&lt;/li>
+&lt;li>將環境的 kernel 指定為 jupyter 的 kernel&lt;/li>
 &lt;/ul>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
@@ -713,9 +448,9 @@ doi:
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;ul>
-&lt;li>這個時候，我們運行&lt;code>jupyter lab&lt;/code>，就可以看到新增notebook時，就有我們環境的kernel&lt;/li>
+&lt;li>這個時候，我們運行&lt;code>jupyter lab&lt;/code>，就可以看到新增 notebook 時，就有我們環境的 kernel&lt;/li>
 &lt;/ul>
-&lt;h3 id="tldr直接將上面提到的指令打包成zsh的function">TL;DR，直接將上面提到的指令打包成zsh的function&lt;/h3>
+&lt;h3 id="tldr直接將上面提到的指令打包成-zsh-的-function">TL;DR，直接將上面提到的指令打包成 zsh 的 function&lt;/h3>
 &lt;ul>
 &lt;li>在&lt;code>~/.zshrc&lt;/code>裡加入以下行：&lt;/li>
 &lt;/ul>
@@ -737,7 +472,7 @@ doi:
 &lt;/span>&lt;span class="lnt">14
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="k">function&lt;/span> pyenv-new&lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="k">function&lt;/span> pyenv-new&lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> pyenv virtualenv &lt;span class="nv">$1&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$2&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> mkdir ~/&lt;span class="nv">$2&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">cd&lt;/span> ~/&lt;span class="nv">$2&lt;/span>
@@ -761,7 +496,7 @@ doi:
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">source&lt;/span> ~/.zshrc
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">source&lt;/span> ~/.zshrc
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;hr>
@@ -780,23 +515,23 @@ doi:
 &lt;/span>&lt;span class="lnt">10
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 創建一個環境&lt;/span>
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 創建一個環境&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv-new 3.10.5 &lt;span class="s2">&amp;#34;PROJECT_NAME&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝Jupyter相關的套件&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝 Jupyter 相關的套件&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv-jupyter
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝ipykernel&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 安裝 ipykernel&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip3 install ipykernel
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 以目前環境的python為名創建一個kernel&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 以目前環境的 python 為名創建一個 kernel&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pyenv-kernel
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 開啟jupyter lab&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 開啟 jupyter lab&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">jupyter lab
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;hr>
 &lt;h2 id="討論">討論&lt;/h2>
-&lt;p>在初學python時，我是傻傻地裝了anaconda整組，它下載了很多套件，但當我寫好了一些scripts，想在系統裡執行時，卻常常在import module時出錯，因此還要花很多時間跟環境變數奮鬥。但
-開始用pyenv管理後，我想調用不同版本的python，只要輸入&lt;code>$HOME/.pyenv/versions/YOUR_PYENV_NAME/bin/python&lt;/code>即可，例如我可以在automator裡建立一個快速動作：
-&lt;a href="https://bit.ly/3K9630K" rel="noopener">自動縮網址&lt;/a>，用快速鍵來觸發它。他需要用&lt;code>pyperclip&lt;/code>、&lt;code>bitlyshortener&lt;/code>這兩個套件，我只需要建立一個automator專屬的環境：&lt;/p>
+&lt;p>在初學 python 時，我是傻傻地裝了 anaconda 整組，它下載了很多套件，但當我寫好了一些 scripts，想在系統裡執行時，卻常常在 import module 時出錯，因此還要花很多時間跟環境變數奮鬥。但
+開始用 pyenv 管理後，我想調用不同版本的 python，只要輸入&lt;code>$HOME/.pyenv/versions/YOUR_PYENV_NAME/bin/python&lt;/code>即可，例如我可以在 automator 裡建立一個快速動作：
+&lt;a href="https://bit.ly/3K9630K" rel="noopener">自動縮網址&lt;/a>，用快速鍵來觸發它。他需要用&lt;code>pyperclip&lt;/code>、&lt;code>bitlyshortener&lt;/code>這兩個套件，我只需要建立一個 automator 專屬的環境：&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
@@ -805,7 +540,7 @@ doi:
 &lt;/span>&lt;span class="lnt">4
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">pyenv-new 3.10.5 automator
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">pyenv-new 3.10.5 automator
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install pyperclip bitlyshortener
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 新增一個檔檔，貼入程式碼&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">touch ~/automator/bitly.py
@@ -819,17 +554,18 @@ doi:
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">&lt;span class="nv">$HOME&lt;/span>/.pyenv/versions/YOUR_PYENV_NAME/bin/python &lt;span class="nv">$HOME&lt;/span>/automator/bitly.py
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="nv">$HOME&lt;/span>/.pyenv/versions/YOUR_PYENV_NAME/bin/python &lt;span class="nv">$HOME&lt;/span>/automator/bitly.py
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>
 &lt;img src="https://i.imgur.com/XF57xPc.png" width="auto" alt="image_22-08-22_16_02_39" />&lt;/p>
 &lt;ul>
-&lt;li>再把服務指定給某組快速鍵，就可以拿來縮網址了&lt;/li>
-&lt;/ul>
+&lt;li>再把服務指定給某組快速鍵，就可以拿來縮網址了
 &lt;blockquote>
-&lt;p>有用再來分享怎麼用python串bitly api來縮網址&lt;/p>
+&lt;p>有用再來分享怎麼用 python 串 bitly api 來縮網址&lt;/p>
 &lt;/blockquote>
+&lt;/li>
+&lt;/ul>
 &lt;hr>
 &lt;h2 id="reference">Reference&lt;/h2>
 &lt;p>
@@ -1437,4 +1173,299 @@ ikatyang/emoji-cheat-sheet: A markdown version emoji cheat sheet (github.com)
 &lt;li>要放頁碼、出處&lt;/li>
 &lt;li>不要放自己不懂的東西在slide上，一定被電&lt;/li>
 &lt;li>按下面的時間來分配進度&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://www.physician.tw/blog/new-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/new-post/</guid><description>&lt;h1 id="new-post">new post&lt;/h1></description></item><item><title/><link>https://www.physician.tw/blog/%E8%87%AA%E5%8B%95%E5%8C%96%E4%BD%88%E7%BD%B2blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/%E8%87%AA%E5%8B%95%E5%8C%96%E4%BD%88%E7%BD%B2blog/</guid><description>&lt;h1 id="自動化佈署blog">自動化佈署blog&lt;/h1></description></item></channel></rss>
+&lt;/ul></description></item><item><title/><link>https://www.physician.tw/blog/README/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/README/</guid><description>&lt;h1 id="heading">&lt;/h1></description></item><item><title>Python 自動化拆分筆記</title><link>https://www.physician.tw/blog/2024-03-06-01-57/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-03-06-01-57/</guid><description>&lt;h1 id="自動化拆分筆記釋放-zettelkasten-筆記法的真正力量">自動化拆分筆記，釋放 Zettelkasten 筆記法的真正力量&lt;/h1>
+&lt;h3 id="背景">背景&lt;/h3>
+&lt;p>在這個資訊爆炸的時代，管理和整理知識變得尤為重要。Zettelkasten 筆記法提倡將知識分割成最小的單位來促進學習和創新。這種方法強調將大量的資訊分解成易於管理和檢索的小部分。然而，當面對一份龐大的 Markdown 文件時，手動將其拆分成多個小單位既耗時又低效。因此，開發一個自動化工具來分割 Markdown 文件變得非常必要，以便更好地遵循 Zettelkasten 的原則。&lt;/p>
+&lt;h3 id="方法">方法&lt;/h3>
+&lt;p>在這裡，我們介紹了一個名為&lt;code>split_by_h2&lt;/code>的 Python 腳本，由 Hsieh-Ting Lin 開發。這個腳本的目的是自動化地將一份 Markdown 文件分割成由二級標題（H2）定義的多個小單位。這個過程大致可以分為以下幾個步驟：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>讀取 Markdown 文件&lt;/strong>：腳本首先讀取指定的 Markdown 文件，並將其內容儲存起來。&lt;/li>
+&lt;li>&lt;strong>處理內容&lt;/strong>：通過正則表達式的應用，腳本刪除特定的段落（例如，與同級標題相關的內容），並根據一級和二級標題分割文件內容。&lt;/li>
+&lt;li>&lt;strong>生成新的 Markdown 文件&lt;/strong>：對於每個二級標題及其相應的內容，腳本創建一個新的 Markdown 文件。每個新文件包括一個 YAML 頭部、來源信息、標題和內容，並在文末添加與其他文件的連接列表，以促進相互之間的聯繫。&lt;/li>
+&lt;li>&lt;strong>更新原文件&lt;/strong>：在原始 Markdown 文件中，腳本更新一級標題下的內容，並在底部添加一個連接到新創建文件的列表，方便跨文件導航。&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt"> 10
+&lt;/span>&lt;span class="lnt"> 11
+&lt;/span>&lt;span class="lnt"> 12
+&lt;/span>&lt;span class="lnt"> 13
+&lt;/span>&lt;span class="lnt"> 14
+&lt;/span>&lt;span class="lnt"> 15
+&lt;/span>&lt;span class="lnt"> 16
+&lt;/span>&lt;span class="lnt"> 17
+&lt;/span>&lt;span class="lnt"> 18
+&lt;/span>&lt;span class="lnt"> 19
+&lt;/span>&lt;span class="lnt"> 20
+&lt;/span>&lt;span class="lnt"> 21
+&lt;/span>&lt;span class="lnt"> 22
+&lt;/span>&lt;span class="lnt"> 23
+&lt;/span>&lt;span class="lnt"> 24
+&lt;/span>&lt;span class="lnt"> 25
+&lt;/span>&lt;span class="lnt"> 26
+&lt;/span>&lt;span class="lnt"> 27
+&lt;/span>&lt;span class="lnt"> 28
+&lt;/span>&lt;span class="lnt"> 29
+&lt;/span>&lt;span class="lnt"> 30
+&lt;/span>&lt;span class="lnt"> 31
+&lt;/span>&lt;span class="lnt"> 32
+&lt;/span>&lt;span class="lnt"> 33
+&lt;/span>&lt;span class="lnt"> 34
+&lt;/span>&lt;span class="lnt"> 35
+&lt;/span>&lt;span class="lnt"> 36
+&lt;/span>&lt;span class="lnt"> 37
+&lt;/span>&lt;span class="lnt"> 38
+&lt;/span>&lt;span class="lnt"> 39
+&lt;/span>&lt;span class="lnt"> 40
+&lt;/span>&lt;span class="lnt"> 41
+&lt;/span>&lt;span class="lnt"> 42
+&lt;/span>&lt;span class="lnt"> 43
+&lt;/span>&lt;span class="lnt"> 44
+&lt;/span>&lt;span class="lnt"> 45
+&lt;/span>&lt;span class="lnt"> 46
+&lt;/span>&lt;span class="lnt"> 47
+&lt;/span>&lt;span class="lnt"> 48
+&lt;/span>&lt;span class="lnt"> 49
+&lt;/span>&lt;span class="lnt"> 50
+&lt;/span>&lt;span class="lnt"> 51
+&lt;/span>&lt;span class="lnt"> 52
+&lt;/span>&lt;span class="lnt"> 53
+&lt;/span>&lt;span class="lnt"> 54
+&lt;/span>&lt;span class="lnt"> 55
+&lt;/span>&lt;span class="lnt"> 56
+&lt;/span>&lt;span class="lnt"> 57
+&lt;/span>&lt;span class="lnt"> 58
+&lt;/span>&lt;span class="lnt"> 59
+&lt;/span>&lt;span class="lnt"> 60
+&lt;/span>&lt;span class="lnt"> 61
+&lt;/span>&lt;span class="lnt"> 62
+&lt;/span>&lt;span class="lnt"> 63
+&lt;/span>&lt;span class="lnt"> 64
+&lt;/span>&lt;span class="lnt"> 65
+&lt;/span>&lt;span class="lnt"> 66
+&lt;/span>&lt;span class="lnt"> 67
+&lt;/span>&lt;span class="lnt"> 68
+&lt;/span>&lt;span class="lnt"> 69
+&lt;/span>&lt;span class="lnt"> 70
+&lt;/span>&lt;span class="lnt"> 71
+&lt;/span>&lt;span class="lnt"> 72
+&lt;/span>&lt;span class="lnt"> 73
+&lt;/span>&lt;span class="lnt"> 74
+&lt;/span>&lt;span class="lnt"> 75
+&lt;/span>&lt;span class="lnt"> 76
+&lt;/span>&lt;span class="lnt"> 77
+&lt;/span>&lt;span class="lnt"> 78
+&lt;/span>&lt;span class="lnt"> 79
+&lt;/span>&lt;span class="lnt"> 80
+&lt;/span>&lt;span class="lnt"> 81
+&lt;/span>&lt;span class="lnt"> 82
+&lt;/span>&lt;span class="lnt"> 83
+&lt;/span>&lt;span class="lnt"> 84
+&lt;/span>&lt;span class="lnt"> 85
+&lt;/span>&lt;span class="lnt"> 86
+&lt;/span>&lt;span class="lnt"> 87
+&lt;/span>&lt;span class="lnt"> 88
+&lt;/span>&lt;span class="lnt"> 89
+&lt;/span>&lt;span class="lnt"> 90
+&lt;/span>&lt;span class="lnt"> 91
+&lt;/span>&lt;span class="lnt"> 92
+&lt;/span>&lt;span class="lnt"> 93
+&lt;/span>&lt;span class="lnt"> 94
+&lt;/span>&lt;span class="lnt"> 95
+&lt;/span>&lt;span class="lnt"> 96
+&lt;/span>&lt;span class="lnt"> 97
+&lt;/span>&lt;span class="lnt"> 98
+&lt;/span>&lt;span class="lnt"> 99
+&lt;/span>&lt;span class="lnt">100
+&lt;/span>&lt;span class="lnt">101
+&lt;/span>&lt;span class="lnt">102
+&lt;/span>&lt;span class="lnt">103
+&lt;/span>&lt;span class="lnt">104
+&lt;/span>&lt;span class="lnt">105
+&lt;/span>&lt;span class="lnt">106
+&lt;/span>&lt;span class="lnt">107
+&lt;/span>&lt;span class="lnt">108
+&lt;/span>&lt;span class="lnt">109
+&lt;/span>&lt;span class="lnt">110
+&lt;/span>&lt;span class="lnt">111
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">os&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">re&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">datetime&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">datetime&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">class&lt;/span> &lt;span class="nc">MarkdownProcessor&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="fm">__init__&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file_path&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">file_path&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">original_filename&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">basename&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;.md&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_read_markdown_file&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_read_markdown_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;r&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_create_new_md_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">yaml_extra&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">current_time&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">datetime&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">now&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strftime&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;%Y-%m-&lt;/span>&lt;span class="si">%d&lt;/span>&lt;span class="s2"> %H:%M:%S&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">yaml_header&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&amp;#34;---
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">title: &amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">date: &amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">current_time&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">enableToc: false
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">tags:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2"> - building
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">---
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">info_block&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&amp;gt; [!info]&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;gt;&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;gt; 🌱來自：[[&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">original_filename&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">]]&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">yaml_header&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">info_block&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;# &lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_search_siblings_to_next_heading&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">pattern&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;### Siblings.*?(?=\n[#]+ |$)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">match&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">search&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">pattern&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">flags&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">group&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="n">match&lt;/span> &lt;span class="k">else&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_delete_siblings_from_text&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">pattern&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;### Siblings.*?(?=\n[#]+ |$)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sub&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">pattern&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">flags&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_get_content_before_first_h2&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">match&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">search&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;##(?!#)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">[:&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">start&lt;/span>&lt;span class="p">()]&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># def _process_markdown_content(self):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># self._delete_siblings_from_text()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># pre_h1_content, h1_and_following_content = self.content.split(&amp;#34;# &amp;#34;, 1)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># h1_title, post_h1_content = h1_and_following_content.split(&amp;#34;\n&amp;#34;, 1)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># between_h1_h2 = self._get_content_before_first_h2()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># level_2_heading_pattern = re.compile(r&amp;#34;## (.+?)\n(.*?)(?=\n## |\Z)&amp;#34;, re.DOTALL)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># level_2_headings = level_2_heading_pattern.findall(post_h1_content)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># return pre_h1_content, h1_title, between_h1_h2, level_2_headings&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_process_markdown_content&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_delete_siblings_from_text&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># 使用正則表達式直接分割和提取所需內容&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">post_h1_content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">split&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;#\s(.+?)\n&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">between_h1_h2&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_get_content_before_first_h2&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># 提取二級標題及其後的內容&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">level_2_headings&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">findall&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;##\s(.+?)\n(.*?)(?=\n## |\Z)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">post_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">between_h1_h2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">level_2_headings&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">save_new_markdown_files&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">between_h1_h2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">level_2_headings&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_process_markdown_content&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">new_md_files&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">heading&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_create_new_md_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">heading&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">level_2_headings&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">wikilink_list&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">join&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">[&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;- [[&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">lower&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39; &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;_&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">.md|&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">]]&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">heading&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">new_md_files&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">filename&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">new_md_files&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">items&lt;/span>&lt;span class="p">():&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">filename&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">lower&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39; &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;_&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">.md&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;w&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">to_write&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">### Siblings&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">wikilink_list&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">to_write&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">main_content_updated&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">pre_h1_content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2"># &lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">h1_title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">between_h1_h2&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">wikilink_list&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_update_original_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">main_content_updated&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_update_original_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;w&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="vm">__name__&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;__main__&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kn">import&lt;/span> &lt;span class="nn">sys&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="nb">len&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Usage: python script.py &amp;lt;input_file&amp;gt;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">exit&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">file_path&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">processor&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">MarkdownProcessor&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">processor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">save_new_markdown_files&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="討論">討論&lt;/h3>
+&lt;p>使用&lt;code>split_by_h2&lt;/code>腳本自動化分割 Markdown 文件具有多方面的好處。首先，它加速了將大文件拆分成 Zettelkasten 方法推薦的小單位的過程，從而節省了大量時間和精力。其次，這種方法增強了資訊的可檢索性和可連接性，使得知識的組織和管理更加高效。最後，自動化工具的使用減少了人為錯誤，確保了分割過程的一致性和準確性。&lt;/p>
+&lt;h3 id="結論">結論&lt;/h3>
+&lt;p>&lt;code>split_by_h2&lt;/code>腳本是一個強大的工具，用於將大型 Markdown 文件自動化地分割成遵循 Zettelkasten 筆記法的小單位。通過簡化分割過程，它不僅提高了知識管理的效率，而且還增強了學習和創新的能力。此腳本對於那些尋求優化他們的筆記和知識管理系統的人來說，是一個有價值的資源。&lt;/p></description></item><item><title>容蜴的 Prompt</title><link>https://www.physician.tw/blog/2024-02-07-20-23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-02-07-20-23/</guid><description>&lt;p>這個 prompt 是一個模板，用來指導撰寫結構化、易於閱讀和理解的解釋或說明性文字。它的用途是幫助作者清晰、有條理地呈現資訊，特別是對於複雜或專業的主題。以下是這個模板的好處和它的具體應用方法：&lt;/p>
+&lt;h3 id="好處">好處&lt;/h3>
+&lt;ol>
+&lt;li>&lt;strong>提升閱讀者的理解度&lt;/strong>：透過明確的問題定義、吸引人的標題、直接的開場白，以及組織良好的重點整理，讓讀者快速抓住文章的主旨。&lt;/li>
+&lt;li>&lt;strong>增加資訊的可存取性&lt;/strong>：條列式的格式讓人更容易找到他們感興趣的部分，並快速獲得想要的資訊。&lt;/li>
+&lt;li>&lt;strong>強化記憶印象&lt;/strong>：有力的開場/導言和精心挑選的標題能夠在讀者腦海中留下深刻印象，增加信息的記憶點。&lt;/li>
+&lt;li>&lt;strong>促進專業詞彙的理解&lt;/strong>：透過重要名詞的解釋及中英對照，幫助讀者瞭解專業術語，特別是對非專業讀者來說非常有用。&lt;/li>
+&lt;/ol>
+&lt;h3 id="應用方法">應用方法&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>問題定義（Q）&lt;/strong>：清晰地提出讀者可能對內容有的疑問，作為文章討論的出發點。&lt;/li>
+&lt;li>&lt;strong>吸引人的標題&lt;/strong>：使用精煉且有力的字詞，在 20 個字以內吸引讀者注意力。&lt;/li>
+&lt;li>&lt;strong>有力的開場/導言&lt;/strong>：以簡短、直接、且有力的語句開始，設定文章的基調，迅速抓住讀者的興趣。&lt;/li>
+&lt;li>&lt;strong>重點整理&lt;/strong>：透過條列式總結主要內容，清楚地呈現文章的核心觀點和資訊。&lt;/li>
+&lt;li>&lt;strong>重要名詞解釋及中英對照&lt;/strong>：對於文章中的專業術語或專有名詞，提供清晰的解釋和中英文對照，確保所有讀者都能理解。&lt;/li>
+&lt;/ul>
+&lt;p>這個模板是一個非常有用的工具，適用於多種情境，從學術寫作到商業報告，甚至是博客和社交媒體發文。它幫助作者以結構化的方式呈現資訊，同時也使讀者更容易理解和記憶所提供的內容。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">解釋、說明文字，以繁體正體中文(zh-tw)，Markdown 格式條列式總結以下文字，對於專有名詞，請保留英文的原文，並依照以下格式
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Q: {一個針對內容所提出的問題，第一行} 🙋
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## {以有力的 20 個字的標題把讀者注意力抓過來，第二行}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">**{有力的開場/導言：直接、簡短、犀利的一句話}**
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## 重點整理：📍
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{根據 input，條列式}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## 重要名詞解釋及中英對照：🔠
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{條列式中英對照}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
