@@ -1,7 +1,8 @@
 ---
 title: "ebc adjuvant"
 slug: "ebc-adjuvant"
-date: "2023-12-12"
+prefix: "A_EBC_ADJ"
+date: "2024-02-29"
 enableToc: false
 tags:
   - building
@@ -9,7 +10,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[clinical pathway-snippets]]
+> 🌱 來自：[[clinical pathway-snippets]]
 
 # `___`(R/L) breast cancer, IDC, s/p `___` (MRM, WE+SLNB, SM+SLNB) on 2023/`___`/`___`, pT2(2cm)SLN0(0/3)M0, NG2, LVI, ER/PR/HER2: 8/8/0, FISH: `___`,Ki-67 % `___`
 

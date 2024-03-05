@@ -1,6 +1,7 @@
 ---
-title: "AMPULLA"
-date: "2023-12-05 09:57:35"
+title: "a_ampulla"
+slug: "ampulla"
+date: "2024-03-01"
 enableToc: false
 tags:
   - building
@@ -8,11 +9,9 @@ tags:
 
 > [!info]
 >
-> 🌱來自：[[snippets]]
+> 🌱 來自：[[snippets from oncologists]]
 
-# AMPULLA
-
-### Ampulla of Vater adenocarcinoma,(W/D), pT3N1(3/15)M0, stage IIB (AJCC 7th), invade duodenal wall and pancreas, negative washing cytology s/p Whipple and feeding jejunostomy on `___`/`___`/`___`, LVI+, perineural invasion -, post op complicated with gastroparesis, UGIB
+## Ampulla of Vater adenocarcinoma,(W/D), pT3N1(3/15)M0, stage IIB (AJCC 7th), invade duodenal wall and pancreas, negative washing cytology s/p Whipple and feeding jejunostomy on `___`/`___`/`___`, LVI+, perineural invasion -, post op complicated with gastroparesis, UGIB
 
 - LNs (3/15 totally): positive for metastasis [3/15 (peri-tumoral LN: 2/5, peripancreatic LN: 1/3, perigastric LN: 0/3, CBD LN: 0/1, SMA LN: 0/1, LN8+9: 0/1, LN12P: 0/1, LN12A: 0/0)] with extracapsular spread.
 - Initial presentation: `___`

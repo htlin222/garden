@@ -10,7 +10,7 @@ tags:
 >
 > 🌱來自: [[snippets]]
 
-# Anal cancer, SqCC, cTxNxM0, dx on `___`/`___`/`___`
+# Anal cancer, SqCC, cT`___`N`___`M`___`, dx on `___`/`___`/`___`
 
 - Initial presentation:
 - Treatment plan: definitive CCRT and longterm observation

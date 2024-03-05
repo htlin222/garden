@@ -17,6 +17,8 @@ back to [[medical]]
 
 [[book list of hematology]]
 
+[[framework_hematology_blood.md|framework_hematology_blood]]
+
 qv [[oncology]]
 
 ## [[leukemias and myelodysplastic syndromes]]
@@ -43,6 +45,7 @@ qv [[oncology]]
 ## [[benign hematology]]
 
 - [[anemia]]
+- [[laboratory hematology.md|laboratory hematology]]
 - [[disorders of hemostasis]]
 - [[platelet disorders]]
 - [[coagulopathies]]

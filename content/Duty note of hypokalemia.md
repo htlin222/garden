@@ -1,9 +1,6 @@
 ---
 title: Duty note of hypokalemia
-date: "2023-01-09"
-tags: [one two three]
+date: "2024-03-06"
 ---
-
-from: [[/Users/htlin/Documents/Medical/hypokalemia]]
 
 # Duty note of hypokalemia
