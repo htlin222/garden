@@ -8,6 +8,7 @@ alias: MDS
 see: [[pancytopenia]]
 
 - [[myelodysplastic syndromes (MDS) overview]]
+- [[diagnosis_and_classification_of_myelodysplastic_syndromes.md|Diagnosis and classification of myelodysplastic syndromes]]
 - [[WHO 2016 Classification Systems for MDS]]
 - [[unique subtypes of MDS]]
 - [[prognosis of myelodysplastic syndromes]]

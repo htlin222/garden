@@ -10,6 +10,6 @@ enableToc: false
 
 # HEAD AND NECK MALIGNANCIES
 
-Head & Neck Squamous Cell Cancer
-Nasopharyngeal Carcinoma
-Salivary Gland Tumors
+[[head_and_neck_squamous_cell_cancer.md|Head and Neck Squamous Cell Cancer]]
+[[nasopharyngeal_carcinoma.md|Nasopharyngeal Carcinoma]]
+[[salivary_gland_tumors.md|Salivary Gland Tumors]]

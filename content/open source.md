@@ -14,3 +14,4 @@ tags:
 # open source
 
 - [Choose an open source license | Choose a License](https://choosealicense.com/)
+- [[quarto.md|quarto]]

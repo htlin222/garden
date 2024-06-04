@@ -26,3 +26,5 @@ tags:
 - [[Heritable Gastrointestinal Neoplasia Syndromes]]
 - [[Metastatic Colon Cancer]]
 - [[ASCO-of-CRC]]
+
+- from [[oncology]]

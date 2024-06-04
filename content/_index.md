@@ -21,6 +21,8 @@ title: "蜥蜴的知識花園"
 
 - 點 👉[[medical]]👈 進入醫學知識庫（裡面比較有在更新）
   - 最近的重點在 [[cancer pharmacology]]
+  - basic science:
+    - [[immunology.md|immunology]]
 - 點 👉[[researcher]]👈 進入研究、統計相關的專區， 不過裡面現在空無一物就了
 - [[fellowship]] 當肥內 / 蜥 R 的一些有的沒有的
 - [[seminar]] 我準備的一些簡報

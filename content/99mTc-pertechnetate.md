@@ -15,3 +15,4 @@ tags:
 
 The primary mechanism of elimination is through the kidney, where the radionuclide is filtered from the blood and excreted in the urine. 99mTc-pertechnetate is also eliminated through the biliary system and intestine, where it is either excreted in the feces or absorbed into the blood and recirculated through the body. The half-life of 99mTc-pertechnetate is approximately 6 hours
 
+[[@2017coagulation]]

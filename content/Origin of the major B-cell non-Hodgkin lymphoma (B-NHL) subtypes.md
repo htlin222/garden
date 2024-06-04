@@ -33,3 +33,6 @@ tags:
 ---
 
 ![CD19,20,22,38分別在哪些細胞上表現](https://i.imgur.com/omAQUYE.png)
+
+
+[[origin_of_mature_b_cell_lymphomas.md|Origin of mature B cell lymphomas]]

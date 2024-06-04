@@ -5,11 +5,10 @@ alias: meta
 
 # endocrinology
 
-> Part 12: [[Endocrinology and Metabolism]]
+> 	Part 12: [[Endocrinology and Metabolism]]
 
 - [[pituitary disorders]]
-- [[thyroid disorders]]
-- [[adrenal disorders]]
+- [[thyroid disorders]] - [[adrenal disorders]]
 - [[calcium disorders]]
 - [[diabetes mellitus]]
 - [[lipid disorders]]
@@ -17,7 +16,7 @@ alias: meta
 - [[osteoporosis]]
 - [[obesity]]
 - [[male hypogonadism]]
-- transgender health
+- [[transgender health]]
 - [[falls and fracture prevention]] (Geriatrics)
 - [[polycystic ovary syndrome]] (PCOS), Menopause (Women's Health)
 - [[Multiple Endocrine Neoplasia]]

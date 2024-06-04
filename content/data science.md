@@ -16,3 +16,4 @@ tags:
 ## Book Reading
 
 [[statistics]]
+[[ai_and_data_scientist_roadmap.md|AI and Data Scientist Roadmap ]]

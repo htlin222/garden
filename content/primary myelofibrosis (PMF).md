@@ -9,7 +9,7 @@ enableToc: false
 > 🌱 來自：[[myeloproliferative neoplasms]]
 
 # primary myelofibrosis (PMF)
-
+- [[myelofibrosis]]
 - [[definition of primary myelofibrosis (PMF)]]
 - [[etiologies of myelofibrosis]]
 - [[clinical manifestations of primary myelofibrosis (PMF)]]

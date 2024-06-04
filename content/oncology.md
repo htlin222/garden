@@ -18,6 +18,7 @@ alias: onco
 - [[inpatient oncology]]
 - [[thoracic malignancies]] a.k.a. lung cancer
 - [[general oncology]]
+    - [[bioinfo]] ✨
 - [[clinical research methods]]
 - [[cancer pharmacology]]
 - [[inpatient oncology]]
@@ -35,7 +36,7 @@ alias: onco
 - [[breast cancer]] 🌟
 - [[thoracic malignancies]]
 - [[gastrointestinal malignancies]]
-  - [[colorectal cancer]] (CRC) 🌟
+  - [[colorectal cancer]] (CRC) 🌟 colon canceer 
 - [[genitourinary malignancies]]
   - [[prostate cancer]] 🌟
 - [[hepatocellular carcinoma]] (HCC)

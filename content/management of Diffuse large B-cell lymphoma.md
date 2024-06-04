@@ -31,3 +31,5 @@ tags:
   - Intrathecal or high-dose MTX Ppx if ↑ risk of CNS relapse (testis involvement, epidural space, primary breast, high risk IPI, double-hit) (JCO 2015;36:3150).
 - Post-Treatment Evaluation:
   - Restage w/ PET after completion of Rx (done 4-6 wks post tx to determine remission).
+
+[[regimen-of-management_of_diffuse_large_b-cell_lymphoma.md|regimen-of-management of Diffuse large B-cell lymphoma]]

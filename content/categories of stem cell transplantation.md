@@ -19,3 +19,6 @@ enableToc: false
 | Risk of graft contam. w/ tumor |              No |                 Yes |
 | Relapse risk (leukemia)     |              Lower |               Higher |
 | Transplant-related mortality|             Higher |               Lower |
+
+- [[autologous_stem_cell_transplantation.md|Autologous Stem Cell Transplantation]]
+- [[allogeneic_stem_cell_transplantation.md|allogeneic stem cell transplantation]]

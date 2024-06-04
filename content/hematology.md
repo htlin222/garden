@@ -2,6 +2,7 @@
 title: hematology
 slug: "hema"
 alias: hema
+tags: index
 ---
 
 lizard

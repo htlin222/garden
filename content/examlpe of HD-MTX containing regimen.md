@@ -13,6 +13,11 @@ tags:
 
 # examlpe of HD-MTX containing regimen
 
+[[hd-mtx_protocol.md|HD-MTX protocol]]
+
+also look at [[r-mpv_wbrt_hd-ac.md|R-MPV_WBRT_HD-AC]]
+
+
 ## Daily IV Fluid
 
 Set up IV line with N/S 500 ml IVF 每日一次 x 4 days for pre-medication, at (time) 12:05

@@ -21,5 +21,6 @@ enableToc: false
 [[spinal cord compression.md|Spinal Cord Compression]]
 Tips for On-Call Fellows
 
-- [[oncology]] 
-- [[Febrile Neutropenia]] 
+- [[oncology]]
+- [[Febrile Neutropenia]]
+- [[Vimwiki 設定]]

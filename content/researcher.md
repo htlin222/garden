@@ -23,3 +23,4 @@ enableToc: false
 * [[R-language]]
 * [[jamovi]]
 * [[AI-First Healthcare]]
+* [[bioinfo.md|bioinfo]]

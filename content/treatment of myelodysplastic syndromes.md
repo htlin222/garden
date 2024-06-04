@@ -10,6 +10,8 @@ enableToc: false
 
 # treatment of myelodysplastic syndromes
 
+must read: [[clinical_decision-making_and_treatment_of_myelodysplastic_syndromes.md|Clinical decision-making and treatment of myelodysplastic syndromes]]
+
 (Am J Hematol 2012;87:692): intensity based on IPSS-R (qv), age, performance status (PS)
 
 - Poor PS, any risk

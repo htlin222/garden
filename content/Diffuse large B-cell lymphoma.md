@@ -29,7 +29,6 @@ A heterogeneous group of neoplasms arising from mature B-cells, characterized pa
 - [[Management Primary Mediastinal BCL (PMBL)]]
 - [[Management Primary Testicular DLBCL]]
 - [[Management Post CR Therapy]]
-
 - [[Relapsed Refractory Disease of Diffuse large B-cell lymphoma]]
 
 ### Backlink

@@ -10,12 +10,9 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[index]]
+> 🌱 來自：[[index]]
 
 # seminar
 
 - [[./slides/list.md|簡報專區]]
 - [[wowwow]]
--
-
-TODO:
