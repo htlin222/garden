@@ -1,4 +1,1332 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蜥蜴的知識花園 on</title><link>https://www.physician.tw/</link><description>Recent content in 蜥蜴的知識花園 on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</managingEditor><webMaster>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</webMaster><copyright>Hsieh-Ting All rights reserved</copyright><atom:link href="https://www.physician.tw/rss.xml" rel="self" type="application/rss+xml"/><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>&lt;h2 id="一個指令自動生成投影片pptx檔">一個指令自動生成投影片(.PPTX檔)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蜥蜴的知識花園 on</title><link>https://www.physician.tw/</link><description>Recent content in 蜥蜴的知識花園 on</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</managingEditor><webMaster>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</webMaster><copyright>Hsieh-Ting All rights reserved</copyright><atom:link href="https://www.physician.tw/rss.xml" rel="self" type="application/rss+xml"/><item><title>Marp - 用 markdown 做簡報的輕量解決方案</title><link>https://www.physician.tw/blog/2024-06-03-15-19/</link><pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-06-03-15-19/</guid><description>&lt;p>用
+&lt;a href="https://marp.app/" rel="noopener">Marp: Markdown Presentation Ecosystem&lt;/a> 在各種大大小小的簡報已經兩年了，每次報完總是有人會問我是用什麼軟體做簡報。想說寫一篇簡單的從入門到放棄文。&lt;/p>
+&lt;h2 id="marp-是什麼">Marp 是什麼？&lt;/h2>
+&lt;p>簡單來說，marp 是 markdown presentation，這個軟體的精神就是用 markdown 的語法來做簡報。他背後的原理是，是用 node.js 把 markdown 變成 html 的網頁。&lt;/p>
+&lt;h2 id="什麼樣的人適合用-marp">什麼樣的人適合用 marp？&lt;/h2>
+&lt;p>了解基本 markdown 語法的人。像是知道怎麼加入圖片、不同層級標題的人。另外 markdown 做簡報也有他的限制，就是不能任意指定元素的位置。例如想要在某個地方放一個方框，要實現這個功能就很困難。&lt;/p>
+&lt;h2 id="marp-怎麼裝">marp 怎麼裝？&lt;/h2>
+&lt;p>最簡單的方法是用 Obsidian 的
+&lt;a href="https://github.com/samuele-cozzi/obsidian-marp-slides" rel="noopener">samuele-cozzi/obsidian-marp-slides&lt;/a> 外掛、或
+&lt;a href="https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" rel="noopener">Marp for VS Code - Visual Studio Marketplace&lt;/a> 的外掛，體驗最流暢。在設定裡面，還可以設定 css 樣式&lt;/p>
+&lt;h2 id="css-樣式">CSS 樣式？&lt;/h2>
+&lt;p>根據前面的提到的原理，我們可以指定各個層級的標題要長怎樣，h1, h2, h3, p, a, strong，都可以用 css 語法來指定。因此如果想要自訂樣式的話，需要會 css 語法。個人是跟 chatGTP 下 prompt: 請幫我寫一段 css 語法，設定 h1 用某字體、大小、padding&lt;/p>
+&lt;h2 id="還有更多奇技淫巧嗎">還有更多奇技淫巧嗎？&lt;/h2>
+&lt;p>進階的玩法，用 Obsidian 或 VSCode 的外掛是無法實現的。要使使用 Marp-cli，在 command line interface。目標是讓不同的 markdown 的語法通以變出不同的花樣，要實現這個，就需要用 javascript 導入不同的 package，關鍵字是 markdown-it，它有不同的套件，例如表格、目錄、引言。例如我可以用 markdown-it-mark 把 &amp;ldquo;==重點==&amp;rdquo; 這樣的語法 變成 html 中的 &lt;mark>重點 &lt;/mark> 再用 css 來指定 mark 要長什麼樣子。也以可用 kroki.io 的外掛來支援 mermaid、graphviz 來畫流程圖。&lt;/p>
+&lt;h2 id="所以用-marp-到底有什麼好處">所以用 marp 到底有什麼好處？&lt;/h2>
+&lt;p>進入語言模型的時代，在請 GPT 幫我們重點整理成條列式、整理成表格之後，就可以直接貼來用。另外，因為都是純文字，所以一個簡報檔都可以很小，搭配 imgur 的外掛，自動把貼上的圖片上傳，可以讓整份簡報就只是一個純文字的 markdown 檔。另外，如果是用 Marp-cli，將簡報輸出成 html，用 browser 來播放時，就可以支援各種瀏覽器外掛，像是為 doi 顯示 impact factor 之類的。&lt;/p>
+&lt;h2 id="什麼情況不建議用-marp">什麼情況不建議用 marp?&lt;/h2>
+&lt;p>複雜的動畫、很多圖片的標示(step123)不適合。markdown 本質上不適合做這些複雜的內容。但換個思路，個人在做簡報時，就會問問自己：這頁簡報有需要弄得那麼複雜嗎？有需要在一張簡報裡塞那麼多東西嗎？拆成多頁，一頁一個標題、一個圖片，會不會讓觀眾更好理解？&lt;/p>
+&lt;h2 id="tldr">TL;DR&lt;/h2>
+&lt;p>Marp 適合只想弄個簡單排版的人、或本身用 markdown 在做筆記，想要把筆記變成簡報。入門簡單但想進階要有寫網頁的基本的 html css javascrpt 知識。願大家看完這篇後會覺得：人生苦短、繼續用 google slide 就好了🫠&lt;/p></description></item><item><title>Illumina FASTQ 格式的序列識別行元素及其描述的整理</title><link>https://www.physician.tw/blog/2024-05-02-13-22/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-05-02-13-22/</guid><description>&lt;h2 id="illumina-fastq-格式的序列識別行元素及其描述的整理">Illumina FASTQ 格式的序列識別行元素及其描述的整理&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>@&amp;lt;instrument&amp;gt;&lt;/code>：讀取識別行的開頭，樂器 ID 或序列 ID。&lt;/li>
+&lt;li>&lt;code>&amp;lt;run num&amp;gt;&lt;/code>：設備上的運行號碼。&lt;/li>
+&lt;li>&lt;code>&amp;lt;flowcell ID&amp;gt;&lt;/code>：流動單元 ID。&lt;/li>
+&lt;li>&lt;code>&amp;lt;lane&amp;gt;&lt;/code>：序列化讀取的車道號碼。&lt;/li>
+&lt;li>&lt;code>&amp;lt;tile&amp;gt;&lt;/code>：序列化讀取的磁磚號碼。&lt;/li>
+&lt;li>&lt;code>&amp;lt;x&amp;gt;&lt;/code>：DNA 集群的 X 座標。&lt;/li>
+&lt;li>&lt;code>&amp;lt;y&amp;gt;&lt;/code>：DNA 集群的 Y 座標。&lt;/li>
+&lt;li>&lt;code>&amp;lt;UMI&amp;gt;&lt;/code>：如果使用了唯一分子標識符（UMI），則此欄位會被使用。&lt;/li>
+&lt;li>&lt;code>&amp;lt;read&amp;gt;&lt;/code>：讀取號碼（單讀取為 1，成對端為 2）。&lt;/li>
+&lt;li>&lt;code>&amp;lt;filtered&amp;gt;&lt;/code>：如果讀取通過過濾則為 Y，未通過則為 N。&lt;/li>
+&lt;li>&lt;code>&amp;lt;control num&amp;gt;&lt;/code>：控制位數為 0（無控制位開啟）或偶數。&lt;/li>
+&lt;li>&lt;code>&amp;lt;index&amp;gt;&lt;/code>：樣本號碼或讀取索引。&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>第一行開始於一個 &amp;lsquo;@&amp;rsquo; 字符，後跟序列的唯一識別碼。&lt;/li>
+&lt;li>第二行包含生物序列（通常是 DNA 序列）。&lt;/li>
+&lt;li>第三行是一個 &amp;lsquo;+&amp;rsquo; 字符，可能後跟與第一行相同的序列識別碼。&lt;/li>
+&lt;li>第四行包含每個序列字符的品質分數，用 ASCII 字符表示。&lt;/li>
+&lt;/ol>
+&lt;p>下面是一個 FASTQ 格式的範例：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">@M00704:227:000000000-A4D1Y:1:1101:15649:1363 1:N:0:1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">CAGTGTGTAGAGGGAAGGAGAGGGTTAGAGGAGCTAGTGTG
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">+
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">CCCFFFFFHHHHHJJJJJJJIJJJJIJJJJIJJJJIJHHHH
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>解釋：&lt;/p>
+&lt;ul>
+&lt;li>第一行是標識行，包含樂器（M00704）、運行號碼（227）、流動單元 ID（000000000-A4D1Y）、車道號（1）、磁磚號（1101）、集群的 X 座標（15649）和 Y 座標（1363），以及其他元數據（如 1:N:0:1，表示讀取編號、過濾狀態、控制編號和索引）。&lt;/li>
+&lt;li>第二行是 DNA 序列。&lt;/li>
+&lt;li>第三行是一個 &amp;lsquo;+&amp;rsquo; 符號。&lt;/li>
+&lt;li>第四行表示相對應第二行中每個基的品質分數。&lt;/li>
+&lt;/ul>
+&lt;h2 id="下載">下載&lt;/h2>
+&lt;p>&lt;code>brew install sratoolkit&lt;/code>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">fasterq-dump --verbose SRR030834
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">cat SRR030834.fastq | echo $((`wc -l`/4))
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>如何使用 Graphviz - 快速上手</title><link>https://www.physician.tw/blog/2024-03-09-11-50/</link><pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-03-09-11-50/</guid><description>&lt;h1 id="graphviz-的一些範例">Graphviz 的一些範例&lt;/h1>
+&lt;h2 id="dotted-edges-etc虛線邊緣等等">Dotted edges etc 虛線邊緣等等&lt;/h2>
+&lt;p>This example uses a edge&amp;rsquo;s attribute &lt;code>style&lt;/code> to draw a dotted edge.
+這個例子使用邊緣的屬性 &lt;code>style&lt;/code> 來繪製虛線邊緣。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> A [shape=diamond]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> B [shape=box]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> C [shape=circle]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> A -&amp;amp;gt; B [style=dashed, color=grey]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> A -&amp;amp;gt; C [color=&amp;#34;black:invis:black&amp;#34;]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> A -&amp;amp;gt; D [penwidth=5, arrowhead=none]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="形式記錄-vs-純文字">形式：記錄 vs. 純文字&lt;/h2>
+&lt;p>If the &lt;code>shape&lt;/code> attribute is set to &lt;code>record&lt;/code>, the text (as controlled with the &lt;code>label&lt;/code> attribute) is layouted in tabular form.
+如果 &lt;code>shape&lt;/code> 屬性設置為 &lt;code>record&lt;/code> ，則文字（由 &lt;code>label&lt;/code> 屬性控制）以表格形式排列。&lt;/p>
+&lt;p>The vertical bar (&lt;code>|&lt;/code>) starts a new row or column.
+垂直欄（ &lt;code>|&lt;/code> ）開始一個新的行或列。&lt;/p>
+&lt;p>The curly braces &lt;code>{ ... }&lt;/code> change (flip) the direction of &lt;code>|&lt;/code>.
+花括號 &lt;code>{ ... }&lt;/code> 可以改變（翻轉） &lt;code>|&lt;/code> 的方向。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [fontname=&amp;#34;Arial&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node_A [shape=record label=&amp;#34;shape=record|{above|middle|below}|right&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node_B [shape=plaintext label=&amp;#34;shape=plaintext|{curly|braces and|bars without}|effect&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="multiple-edges多重邊">Multiple edges 多重邊&lt;/h2>
+&lt;p>Normally, a dependency (an edge) is declared with an arrow: &lt;code>Node1 -&amp;gt; Node2&lt;/code>. Multiple nodes can be listed in curly braces, thus declaring multiple edges in one go.
+通常，依賴關係（邊緣）是用箭頭聲明的： &lt;code>Node1 -&amp;gt; Node2&lt;/code> 。多個節點可以在花括號中列出，從而一次聲明多個邊緣。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> A -&amp;amp;gt; {B, C, D} -&amp;amp;gt; {F}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="left-mid-and-right-aligned-text">Left, mid and right aligned text&lt;/h2>
+&lt;p>左對齊、置中對齊和右對齊的文字&lt;/p>
+&lt;p>&lt;code>\l&lt;/code> makes the &lt;em>preceding&lt;/em> (!) text left aligned, &lt;code>\n&lt;/code> makes it centered and &lt;code>\r&lt;/code> makes it right aligned.
+&lt;code>\l&lt;/code> 使前面的文字靠左對齊， &lt;code>\n&lt;/code> 使其置中， &lt;code>\r&lt;/code> 使其靠右對齊。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph L {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [shape=record fontname=Arial];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> a [label=&amp;#34;one\ltwo three\lfour five six seven\l&amp;#34;]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> b [label=&amp;#34;one\ntwo three\nfour five six seven&amp;#34;]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> c [label=&amp;#34;one\rtwo three\rfour five six seven\r&amp;#34;]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> a -&amp;amp;gt; b -&amp;amp;gt; c
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="giving-the-graph-a-title">Giving the graph a title&lt;/h2>
+&lt;p>給圖表加上標題&lt;/p>
+&lt;p>With the &lt;code>label&lt;/code> attribute, the graph can be given a &lt;em>caption&lt;/em>:
+使用 &lt;code>label&lt;/code> 屬性，可以為圖表新增標題：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label = &amp;#34;The foo, the bar and the baz&amp;#34;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> labelloc = &amp;#34;t&amp;#34;; // place the label at the top (b seems to be default)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [shape=plaintext]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> FOO -&amp;amp;gt; {BAR, BAZ};
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="html-like-labels類似-html-的標籤">HTML like labels 類似 HTML 的標籤&lt;/h2>
+&lt;p>If the text of &lt;code>label&lt;/code> is enclosed in &lt;code>&amp;lt;…&amp;gt;&lt;/code> rather than in &lt;code>&amp;quot;…&amp;quot;&lt;/code>, the text is treated as HTML and rendered as HTML like label.
+如果 &lt;code>label&lt;/code> 的文字被包含在 &lt;code>&amp;lt;…&amp;gt;&lt;/code> 而不是 &lt;code>&amp;quot;…&amp;quot;&lt;/code> 中，則該文字將被視為 HTML 並像標籤一樣呈現為 HTML。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label = &amp;amp;lt;The &amp;amp;lt;font color=&amp;#39;red&amp;#39;&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;foo&amp;amp;lt;/b&amp;amp;gt;&amp;amp;lt;/font&amp;amp;gt;,&amp;amp;lt;br/&amp;amp;gt; the &amp;amp;lt;font point-size=&amp;#39;20&amp;#39;&amp;amp;gt;bar&amp;amp;lt;/font&amp;amp;gt; and&amp;amp;lt;br/&amp;amp;gt; the &amp;amp;lt;i&amp;amp;gt;baz&amp;amp;lt;/i&amp;amp;gt;&amp;amp;gt;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> labelloc = &amp;#34;t&amp;#34;; // place the label at the top (b seems to be default)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [shape=plaintext]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> FOO -&amp;amp;gt; {BAR, BAZ};
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="rank等級排名地位階級">rank 等級、排名、地位、階級&lt;/h2>
+&lt;p>&lt;code>{ rank=same node_1 node_2 … }&lt;/code> specifies that the specified nodes have the same rank, that is, that their distance from the top or left border is equal.
+&lt;code>{ rank=same node_1 node_2 … }&lt;/code> 指定了指定的節點具有相同的等級，也就是它們距離頂部或左邊界的距離相等。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph R {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [shape=record];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> { rank=same rA sA tA }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> { rank=same uB vB wB }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> rA -&amp;amp;gt; sA;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> sA -&amp;amp;gt; vB;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> t -&amp;amp;gt; rA;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> uB -&amp;amp;gt; vB;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> wB -&amp;amp;gt; u;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> wB -&amp;amp;gt; tA;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="subgraph-clusters子圖叢集">Subgraph (clusters) 子圖（叢集）&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph Q {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [shape=record];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_1 [label = &amp;#34;Node 1&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_2 [label = &amp;#34;Node 2&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_3_a [label = &amp;#34;Above Right Node 3&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_3_l [label = &amp;#34;Left of Node 3&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_3 [label = &amp;#34;Node 3&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_3_r [label = &amp;#34;Right of Node 3&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_4 [label = &amp;#34;Node 4&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_3_a -&amp;amp;gt; and_3_r;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_1 -&amp;amp;gt; and_2 -&amp;amp;gt; and_3 -&amp;amp;gt; and_4;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> subgraph cluster_R {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {rank=same and_3_l and_3 and_3_r}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> and_3_l -&amp;amp;gt; and_3 -&amp;amp;gt; and_3_r [color=grey arrowhead=none];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="nested-clusters巢狀式群集">Nested clusters 巢狀式群集&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> subgraph cluster_p {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label = &amp;#34;Parent&amp;#34;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> subgraph cluster_c1 {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label = &amp;#34;Child one&amp;#34;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> a;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> subgraph cluster_gc_1 {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label = &amp;#34;Grand-Child one&amp;#34;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> b;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> subgraph cluster_gc_2 {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label = &amp;#34;Grand-Child two&amp;#34;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> c;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> d;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> subgraph cluster_c2 {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label = &amp;#34;Child two&amp;#34;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> e;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="html-tablehtml-表格">HTML table HTML 表格&lt;/h2>
+&lt;p>HTML tables are produced if the value of the &lt;code>label&lt;/code> attribute is enclosed in &lt;code>&amp;lt;…&amp;gt;&lt;/code> rather than &lt;code>&amp;quot;…&amp;quot;&lt;/code>:
+如果 &lt;code>label&lt;/code> 屬性的值被包含在 &lt;code>&amp;lt;…&amp;gt;&lt;/code> 而不是 &lt;code>&amp;quot;…&amp;quot;&lt;/code> 中，則會產生 HTML 表格：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph H {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> aHtmlTable [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> shape=plaintext
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> color=blue // The color of the border of the table
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#39;1&amp;#39; cellborder=&amp;#39;0&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;col 1&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;foo&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;COL 2&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;bar&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="nested-html-table巢狀的-html-表格">Nested HTML table 巢狀的 HTML 表格&lt;/h2>
+&lt;p>HTML tables can be nested
+HTML 表格可以巢狀&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> tbl [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> shape=plaintext
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#39;0&amp;#39; cellborder=&amp;#39;1&amp;#39; color=&amp;#39;blue&amp;#39; cellspacing=&amp;#39;0&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;foo&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;bar&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;baz&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td cellpadding=&amp;#39;4&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table color=&amp;#39;orange&amp;#39; cellspacing=&amp;#39;0&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;one &amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;two &amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;three&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;four &amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;five &amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;six &amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;seven&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;eight&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;nine &amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/td&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;td colspan=&amp;#39;2&amp;#39; rowspan=&amp;#39;2&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table color=&amp;#39;pink&amp;#39; border=&amp;#39;0&amp;#39; cellborder=&amp;#39;1&amp;#39; cellpadding=&amp;#39;10&amp;#39; cellspacing=&amp;#39;0&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;eins&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;zwei&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td rowspan=&amp;#39;2&amp;#39;&amp;amp;gt;drei&amp;amp;lt;br/&amp;amp;gt;sechs&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;vier&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;fünf&amp;amp;lt;/td&amp;amp;gt; &amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/td&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;abc&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="colors顏色">Colors 顏色&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [shape=plaintext]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> some_node [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#34;0&amp;#34; cellborder=&amp;#34;1&amp;#34; cellspacing=&amp;#34;0&amp;#34;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td bgcolor=&amp;#34;yellow&amp;#34;&amp;amp;gt;Foo&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td bgcolor=&amp;#34;lightblue&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;#0000ff&amp;#34;&amp;amp;gt;Bar&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td bgcolor=&amp;#34;#f0e3ff&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;#ff1020&amp;#34;&amp;amp;gt;Baz&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="rounded-box圓角盒子">Rounded box 圓角盒子&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph H {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> aHtmlTable [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> shape=plaintext
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#39;1&amp;#39; cellborder=&amp;#39;0&amp;#39; style=&amp;#39;rounded&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;col 1&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;foo&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;COL 2&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;bar&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="ports連接埠">Ports 連接埠&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;span class="lnt">33
+&lt;/span>&lt;span class="lnt">34
+&lt;/span>&lt;span class="lnt">35
+&lt;/span>&lt;span class="lnt">36
+&lt;/span>&lt;span class="lnt">37
+&lt;/span>&lt;span class="lnt">38
+&lt;/span>&lt;span class="lnt">39
+&lt;/span>&lt;span class="lnt">40
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph H {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> parent [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> shape=plaintext
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#39;1&amp;#39; cellborder=&amp;#39;1&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td colspan=&amp;#34;3&amp;#34;&amp;amp;gt;The foo, the bar and the baz&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td port=&amp;#39;port_one&amp;#39;&amp;amp;gt;First port&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td port=&amp;#39;port_two&amp;#39;&amp;amp;gt;Second port&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;td port=&amp;#39;port_three&amp;#39;&amp;amp;gt;Third port&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> child_one [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> shape=plaintext
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#39;1&amp;#39; cellborder=&amp;#39;0&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;1&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> child_two [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> shape=plaintext
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#39;1&amp;#39; cellborder=&amp;#39;0&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;2&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> child_three [
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> shape=plaintext
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#39;1&amp;#39; cellborder=&amp;#39;0&amp;#39;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td&amp;amp;gt;3&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> parent:port_one -&amp;amp;gt; child_one;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> parent:port_two -&amp;amp;gt; child_two;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> parent:port_three -&amp;amp;gt; child_three;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="project-dependencies專案相依性">Project Dependencies 專案相依性&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;span class="lnt">33
+&lt;/span>&lt;span class="lnt">34
+&lt;/span>&lt;span class="lnt">35
+&lt;/span>&lt;span class="lnt">36
+&lt;/span>&lt;span class="lnt">37
+&lt;/span>&lt;span class="lnt">38
+&lt;/span>&lt;span class="lnt">39
+&lt;/span>&lt;span class="lnt">40
+&lt;/span>&lt;span class="lnt">41
+&lt;/span>&lt;span class="lnt">42
+&lt;/span>&lt;span class="lnt">43
+&lt;/span>&lt;span class="lnt">44
+&lt;/span>&lt;span class="lnt">45
+&lt;/span>&lt;span class="lnt">46
+&lt;/span>&lt;span class="lnt">47
+&lt;/span>&lt;span class="lnt">48
+&lt;/span>&lt;span class="lnt">49
+&lt;/span>&lt;span class="lnt">50
+&lt;/span>&lt;span class="lnt">51
+&lt;/span>&lt;span class="lnt">52
+&lt;/span>&lt;span class="lnt">53
+&lt;/span>&lt;span class="lnt">54
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">digraph D {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> node [shape=plaintext fontname=&amp;#34;Sans serif&amp;#34; fontsize=&amp;#34;8&amp;#34;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_menu [ label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#34;1&amp;#34; cellborder=&amp;#34;0&amp;#34; cellspacing=&amp;#34;1&amp;#34;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;Task 1&amp;amp;lt;/b&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;Choose Menu&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;darkgreen&amp;#34;&amp;amp;gt;done&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;&amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_ingredients [ label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#34;1&amp;#34; cellborder=&amp;#34;0&amp;#34; cellspacing=&amp;#34;1&amp;#34;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;Task 2&amp;amp;lt;/b&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;Buy ingredients&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;darkgreen&amp;#34;&amp;amp;gt;done&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;&amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_invitation [ label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#34;1&amp;#34; cellborder=&amp;#34;0&amp;#34; cellspacing=&amp;#34;1&amp;#34;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;Task 4&amp;amp;lt;/b&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;Send invitation&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;darkgreen&amp;#34;&amp;amp;gt;done&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;&amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_cook [ label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#34;1&amp;#34; cellborder=&amp;#34;0&amp;#34; cellspacing=&amp;#34;1&amp;#34;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;Task 5&amp;amp;lt;/b&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;Cook&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;red&amp;#34;&amp;amp;gt;todo&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;&amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_table[ label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#34;1&amp;#34; cellborder=&amp;#34;0&amp;#34; cellspacing=&amp;#34;1&amp;#34;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;Task 3&amp;amp;lt;/b&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;Lay table&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;red&amp;#34;&amp;amp;gt;todo&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;&amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_eat[ label=&amp;amp;lt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;table border=&amp;#34;1&amp;#34; cellborder=&amp;#34;0&amp;#34; cellspacing=&amp;#34;1&amp;#34;&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;Task 6&amp;amp;lt;/b&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;Eat&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;tr&amp;amp;gt;&amp;amp;lt;td align=&amp;#34;left&amp;#34;&amp;amp;gt;&amp;amp;lt;font color=&amp;#34;red&amp;#34;&amp;amp;gt;todo&amp;amp;lt;/font&amp;amp;gt;&amp;amp;lt;/td&amp;amp;gt;&amp;amp;lt;/tr&amp;amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;amp;lt;/table&amp;amp;gt;&amp;amp;gt;];
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_menu -&amp;amp;gt; task_ingredients;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_ingredients -&amp;amp;gt; task_cook;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_invitation -&amp;amp;gt; task_cook;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_table -&amp;amp;gt; task_eat;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> task_cook -&amp;amp;gt; task_eat;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>探索 RNA 結構：使用 Nussinov 演算法的動態規劃方法</title><link>https://www.physician.tw/blog/2024-04-22-01-29/</link><pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-04-22-01-29/</guid><description>&lt;h3 id="介紹">介紹&lt;/h3>
+&lt;p>Nussinov 演算法是計算生物學中用於預測 RNA 分子摺疊方式的一種基於動態規劃的核酸結構預測方法。RNA 分子的結構預測對於理解其功能至關重要，因為結構直接影響 RNA 如何與其他分子互動，進而影響細胞內的生化過程。&lt;/p>
+&lt;h3 id="內容">內容&lt;/h3>
+&lt;p>Nussinov 演算法的主要思想是使用一個二維矩陣來儲存序列間可能的配對，這些配對以穩定的雙鍵形式存在。演算法目標是最大化序列中可形成的配對數量，這通常與最穩定的結構相關。&lt;/p>
+&lt;p>動態規劃矩陣是按照特定規則填充的，其中每個矩陣元素表示一段序列的最大配對數。矩陣的填充從簡單的子問題開始，逐步構建複雜的解答。當所有子問題都解決後，最終解可以從矩陣的頂部元素獲取。&lt;/p>
+&lt;h3 id="python-範例">Python 範例&lt;/h3>
+&lt;p>以下是使用 Python 實現 Nussinov 演算法的一個簡單例子：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">nussinov_rna_folding&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">rna_seq&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">n&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">len&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">rna_seq&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">dp&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">[[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">*&lt;/span> &lt;span class="n">n&lt;/span> &lt;span class="k">for&lt;/span> &lt;span class="n">_&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="nb">range&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">n&lt;/span>&lt;span class="p">)]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># 填充動態規劃矩陣&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">length&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="nb">range&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">n&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="nb">range&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">n&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="n">length&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">j&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">length&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">dp&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">max&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">dp&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">dp&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">dp&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">rna_seq&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="n">rna_seq&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="p">]),&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">max&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">dp&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">k&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">dp&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">k&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="k">for&lt;/span> &lt;span class="n">k&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="nb">range&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">j&lt;/span>&lt;span class="p">)))&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">dp&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">n&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 測試範例&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">rna_seq&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;GCGCUCAGU&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Maximum number of matches:&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">nussinov_rna_folding&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">rna_seq&lt;/span>&lt;span class="p">))&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="討論">討論&lt;/h3>
+&lt;p>Nussinov 演算法的一個限制是它僅考慮配對的數量而不考慮配對的種類或實際的生化穩定性，這可能導致預測的結構與實際的生物結構存在差異。此外，這種方法也不考慮 RNA 摺疊中的熵效應，這可能影響摺疊的動力學。&lt;/p>
+&lt;h3 id="結論">結論&lt;/h3>
+&lt;p>雖然 Nussinov 演算法提供了一種計算上相對簡單的方法來預測 RNA 的可能摺疊結構，但它在預測精確度和生物學實際性方面有所限制。為了得到更精確的預測，可能需要更複雜的演算法或結合實驗數據來改進模型。不過，Nussinov 演算法仍然是學習和理解 RNA 結構預測的有力工具。&lt;/p></description></item><item><title>BioInfo 工具箱</title><link>https://www.physician.tw/blog/2024-04-22-00-56/</link><pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-04-22-00-56/</guid><description>&lt;h2 id="bioinfomatics-的工具箱">Bioinfomatics 的工具箱&lt;/h2>
+&lt;p>在當今數據驅動的科學研究中，各種軟件工具和庫發揮著至關重要的作用，它們不僅能夠提高數據處理的效率，還能夠深化我們對於複雜問題的理解。以下是一些廣泛應用於數據科學、生物信息學、統計計算以及機器學習領域的主要工具，每個工具都擁有其獨特的功能和應用範圍。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>名稱&lt;/th>
+&lt;th>網址&lt;/th>
+&lt;th>目的&lt;/th>
+&lt;th>說明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Project Jupyter&lt;/td>
+&lt;td>
+&lt;a href="https://jupyter.org/" rel="noopener">https://jupyter.org/&lt;/a>&lt;/td>
+&lt;td>互動式計算&lt;/td>
+&lt;td>提供互動式的編程和數據可視化環境。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>pandas&lt;/td>
+&lt;td>
+&lt;a href="https://pandas.pydata.org/" rel="noopener">https://pandas.pydata.org/&lt;/a>&lt;/td>
+&lt;td>數據處理&lt;/td>
+&lt;td>用於數據操縱和分析的強大庫，特別擅長處理表格數據。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>NumPy&lt;/td>
+&lt;td>
+&lt;a href="http://www.numpy.org/" rel="noopener">http://www.numpy.org/&lt;/a>&lt;/td>
+&lt;td>數組/矩陣處理&lt;/td>
+&lt;td>提供高效的數組和矩陣運算功能。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SciPy&lt;/td>
+&lt;td>
+&lt;a href="https://www.scipy.org/" rel="noopener">https://www.scipy.org/&lt;/a>&lt;/td>
+&lt;td>科學計算&lt;/td>
+&lt;td>包含多種科學計算工具，如優化、線性代數等。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Biopython&lt;/td>
+&lt;td>
+&lt;a href="https://biopython.org/" rel="noopener">https://biopython.org/&lt;/a>&lt;/td>
+&lt;td>生物信息學庫&lt;/td>
+&lt;td>用於生物計算的 Python 工具集，如序列分析等。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>seaborn&lt;/td>
+&lt;td>
+&lt;a href="http://seaborn.pydata.org/" rel="noopener">http://seaborn.pydata.org/&lt;/a>&lt;/td>
+&lt;td>統計圖表庫&lt;/td>
+&lt;td>基於 matplotlib 的數據可視化庫，專注於統計圖形。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>R&lt;/td>
+&lt;td>
+&lt;a href="https://www.r-project.org/" rel="noopener">https://www.r-project.org/&lt;/a>&lt;/td>
+&lt;td>統計計算語言&lt;/td>
+&lt;td>廣泛用於統計分析和圖形表示的編程語言。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>rpy2&lt;/td>
+&lt;td>
+&lt;a href="https://rpy2.readthedocs.io" rel="noopener">https://rpy2.readthedocs.io&lt;/a>&lt;/td>
+&lt;td>R 介面&lt;/td>
+&lt;td>允許 Python 調用 R 語言環境的工具。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PyVCF&lt;/td>
+&lt;td>
+&lt;a href="https://pyvcf.readthedocs.io" rel="noopener">https://pyvcf.readthedocs.io&lt;/a>&lt;/td>
+&lt;td>VCF 處理&lt;/td>
+&lt;td>解析 VCF 檔案，常用於基因組變異數據處理。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pysam&lt;/td>
+&lt;td>
+&lt;a href="https://github.com/pysam-developers/pysam" rel="noopener">https://github.com/pysam-developers/pysam&lt;/a>&lt;/td>
+&lt;td>SAM/BAM 處理&lt;/td>
+&lt;td>處理 SAM 和 BAM 類型的基因組序列數據檔案。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>HTSeq&lt;/td>
+&lt;td>
+&lt;a href="https://htseq.readthedocs.io" rel="noopener">https://htseq.readthedocs.io&lt;/a>&lt;/td>
+&lt;td>NGS 處理&lt;/td>
+&lt;td>用於高通量序列數據（如 RNA-Seq）的分析。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DendroPY&lt;/td>
+&lt;td>
+&lt;a href="https://dendropy.org/" rel="noopener">https://dendropy.org/&lt;/a>&lt;/td>
+&lt;td>系統發育學&lt;/td>
+&lt;td>提供系統發育分析和模擬的 Python 庫。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PyMol&lt;/td>
+&lt;td>
+&lt;a href="https://pymol.org" rel="noopener">https://pymol.org&lt;/a>&lt;/td>
+&lt;td>分子視覺化&lt;/td>
+&lt;td>強大的分子結構視覺化工具。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>scikit-learn&lt;/td>
+&lt;td>
+&lt;a href="http://scikit-learn.org" rel="noopener">http://scikit-learn.org&lt;/a>&lt;/td>
+&lt;td>機器學習庫&lt;/td>
+&lt;td>提供多種機器學習算法的 Python 模塊，專注於數據挖掘和數據分析。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cython&lt;/td>
+&lt;td>
+&lt;a href="http://cython.org/" rel="noopener">http://cython.org/&lt;/a>&lt;/td>
+&lt;td>高效能&lt;/td>
+&lt;td>允許 Python 代碼轉換為 C 代碼，提高運行速度。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Numba&lt;/td>
+&lt;td>
+&lt;a href="https://numba.pydata.org/" rel="noopener">https://numba.pydata.org/&lt;/a>&lt;/td>
+&lt;td>高效能&lt;/td>
+&lt;td>利用 GPU 加速 Python 代碼的運行。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dask&lt;/td>
+&lt;td>
+&lt;a href="http://dask.pydata.org" rel="noopener">http://dask.pydata.org&lt;/a>&lt;/td>
+&lt;td>並行處理&lt;/td>
+&lt;td>用於並行計算的工具，能夠處理大規模數據集。&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>最長公共子序列（LCS）問題的探討</title><link>https://www.physician.tw/blog/2024-04-22-01-24/</link><pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-04-22-01-24/</guid><description>&lt;h3 id="最長公共子序列lcs問題的探討">最長公共子序列（LCS）問題的探討&lt;/h3>
+&lt;h4 id="什麼是最長公共子序列lcs">什麼是最長公共子序列（LCS）？&lt;/h4>
+&lt;p>最長公共子序列（LCS）問題是在計算機科學中一個廣泛探討的問題，主要是尋找兩個序列共有的最長子序列。不同於最長公共子串問題，子序列不需要在原序列中是連續的，但必須保持原有的順序。這個問題在許多實際應用中都非常重要，如生物資訊學中的 DNA 序列比對、文本編輯器中的差異比對等。&lt;/p>
+&lt;h4 id="例子">例子&lt;/h4>
+&lt;p>考慮兩個序列 &amp;ldquo;ABCDGH&amp;rdquo; 和 &amp;ldquo;AEDFHR&amp;rdquo;。這兩個序列的一個最長公共子序列是 &amp;ldquo;ADH&amp;rdquo;。我們可以看到，雖然這三個字母在兩個序列中不是連續出現，但它們保持了在各自序列中出現的順序。&lt;/p>
+&lt;h4 id="使用-python-來解決-lcs-問題的演算法">使用 Python 來解決 LCS 問題的演算法&lt;/h4>
+&lt;p>為了解決 LCS 問題，我們可以使用動態規劃的方法。以下是一個 Python 實現的示例：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="k">def&lt;/span> &lt;span class="nf">lcs&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">X&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">Y&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">m&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">len&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">X&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">n&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">len&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">Y&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">L&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">[[&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">*&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="n">n&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">for&lt;/span> &lt;span class="n">_&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="nb">range&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">m&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">i&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="nb">range&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">m&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">j&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="nb">range&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">n&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">X&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="n">Y&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">L&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">L&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">L&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nb">max&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">L&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="p">],&lt;/span> &lt;span class="n">L&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">i&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">j&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">])&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">L&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="n">m&lt;/span>&lt;span class="p">][&lt;/span>&lt;span class="n">n&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 範例&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">X&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;ABCDGH&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Y&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;AEDFHR&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;LCS length is&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">lcs&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">X&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">Y&lt;/span>&lt;span class="p">))&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>此代碼首先創建一個二維列表 &lt;code>L&lt;/code>，其中 &lt;code>L[i][j]&lt;/code> 存儲序列 &lt;code>X&lt;/code> 的前 &lt;code>i&lt;/code> 個元素和序列 &lt;code>Y&lt;/code> 的前 &lt;code>j&lt;/code> 個元素的最長公共子序列的長度。通過比較兩個序列的元素並利用先前計算的值，我們可以構建出整個表格，最終 &lt;code>L[m][n]&lt;/code> 將給出整個序列的 LCS 長度。&lt;/p>
+&lt;h4 id="討論">討論&lt;/h4>
+&lt;p>儘管動態規劃解決 LCS 問題非常有效，但其空間和時間複雜度都是 O(mn)，其中 m 和 n 是兩個序列的長度。對於非常長的序列，這可能會導致效率問題。因此，實際應用中可能需要考慮其他優化方法或者使用更先進的算法來降低計算成本。&lt;/p>
+&lt;h4 id="結論">結論&lt;/h4>
+&lt;p>最長公共子序列問題是一個核心的計算機科學問題，對於多種應用場景都非常關鍵。利用動態規劃解決此問題雖然直觀且有效，但在處理大規模數據時需謹慎考慮性能問題。隨著技術的進步，我們期待更多創新的解決方案來應對這一經典問題的挑戰。&lt;/p></description></item><item><title>Python 自動化拆分筆記</title><link>https://www.physician.tw/blog/2024-03-06-01-57/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-03-06-01-57/</guid><description>&lt;h1 id="自動化拆分筆記釋放-zettelkasten-筆記法的真正力量">自動化拆分筆記，釋放 Zettelkasten 筆記法的真正力量&lt;/h1>
+&lt;h3 id="背景">背景&lt;/h3>
+&lt;p>在這個資訊爆炸的時代，管理和整理知識變得尤為重要。Zettelkasten 筆記法提倡將知識分割成最小的單位來促進學習和創新。這種方法強調將大量的資訊分解成易於管理和檢索的小部分。然而，當面對一份龐大的 Markdown 文件時，手動將其拆分成多個小單位既耗時又低效。因此，開發一個自動化工具來分割 Markdown 文件變得非常必要，以便更好地遵循 Zettelkasten 的原則。&lt;/p>
+&lt;h3 id="方法">方法&lt;/h3>
+&lt;p>在這裡，我們介紹了一個名為&lt;code>split_by_h2&lt;/code>的 Python 腳本，由 Hsieh-Ting Lin 開發。這個腳本的目的是自動化地將一份 Markdown 文件分割成由二級標題（H2）定義的多個小單位。這個過程大致可以分為以下幾個步驟：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>讀取 Markdown 文件&lt;/strong>：腳本首先讀取指定的 Markdown 文件，並將其內容儲存起來。&lt;/li>
+&lt;li>&lt;strong>處理內容&lt;/strong>：通過正則表達式的應用，腳本刪除特定的段落（例如，與同級標題相關的內容），並根據一級和二級標題分割文件內容。&lt;/li>
+&lt;li>&lt;strong>生成新的 Markdown 文件&lt;/strong>：對於每個二級標題及其相應的內容，腳本創建一個新的 Markdown 文件。每個新文件包括一個 YAML 頭部、來源信息、標題和內容，並在文末添加與其他文件的連接列表，以促進相互之間的聯繫。&lt;/li>
+&lt;li>&lt;strong>更新原文件&lt;/strong>：在原始 Markdown 文件中，腳本更新一級標題下的內容，並在底部添加一個連接到新創建文件的列表，方便跨文件導航。&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt"> 10
+&lt;/span>&lt;span class="lnt"> 11
+&lt;/span>&lt;span class="lnt"> 12
+&lt;/span>&lt;span class="lnt"> 13
+&lt;/span>&lt;span class="lnt"> 14
+&lt;/span>&lt;span class="lnt"> 15
+&lt;/span>&lt;span class="lnt"> 16
+&lt;/span>&lt;span class="lnt"> 17
+&lt;/span>&lt;span class="lnt"> 18
+&lt;/span>&lt;span class="lnt"> 19
+&lt;/span>&lt;span class="lnt"> 20
+&lt;/span>&lt;span class="lnt"> 21
+&lt;/span>&lt;span class="lnt"> 22
+&lt;/span>&lt;span class="lnt"> 23
+&lt;/span>&lt;span class="lnt"> 24
+&lt;/span>&lt;span class="lnt"> 25
+&lt;/span>&lt;span class="lnt"> 26
+&lt;/span>&lt;span class="lnt"> 27
+&lt;/span>&lt;span class="lnt"> 28
+&lt;/span>&lt;span class="lnt"> 29
+&lt;/span>&lt;span class="lnt"> 30
+&lt;/span>&lt;span class="lnt"> 31
+&lt;/span>&lt;span class="lnt"> 32
+&lt;/span>&lt;span class="lnt"> 33
+&lt;/span>&lt;span class="lnt"> 34
+&lt;/span>&lt;span class="lnt"> 35
+&lt;/span>&lt;span class="lnt"> 36
+&lt;/span>&lt;span class="lnt"> 37
+&lt;/span>&lt;span class="lnt"> 38
+&lt;/span>&lt;span class="lnt"> 39
+&lt;/span>&lt;span class="lnt"> 40
+&lt;/span>&lt;span class="lnt"> 41
+&lt;/span>&lt;span class="lnt"> 42
+&lt;/span>&lt;span class="lnt"> 43
+&lt;/span>&lt;span class="lnt"> 44
+&lt;/span>&lt;span class="lnt"> 45
+&lt;/span>&lt;span class="lnt"> 46
+&lt;/span>&lt;span class="lnt"> 47
+&lt;/span>&lt;span class="lnt"> 48
+&lt;/span>&lt;span class="lnt"> 49
+&lt;/span>&lt;span class="lnt"> 50
+&lt;/span>&lt;span class="lnt"> 51
+&lt;/span>&lt;span class="lnt"> 52
+&lt;/span>&lt;span class="lnt"> 53
+&lt;/span>&lt;span class="lnt"> 54
+&lt;/span>&lt;span class="lnt"> 55
+&lt;/span>&lt;span class="lnt"> 56
+&lt;/span>&lt;span class="lnt"> 57
+&lt;/span>&lt;span class="lnt"> 58
+&lt;/span>&lt;span class="lnt"> 59
+&lt;/span>&lt;span class="lnt"> 60
+&lt;/span>&lt;span class="lnt"> 61
+&lt;/span>&lt;span class="lnt"> 62
+&lt;/span>&lt;span class="lnt"> 63
+&lt;/span>&lt;span class="lnt"> 64
+&lt;/span>&lt;span class="lnt"> 65
+&lt;/span>&lt;span class="lnt"> 66
+&lt;/span>&lt;span class="lnt"> 67
+&lt;/span>&lt;span class="lnt"> 68
+&lt;/span>&lt;span class="lnt"> 69
+&lt;/span>&lt;span class="lnt"> 70
+&lt;/span>&lt;span class="lnt"> 71
+&lt;/span>&lt;span class="lnt"> 72
+&lt;/span>&lt;span class="lnt"> 73
+&lt;/span>&lt;span class="lnt"> 74
+&lt;/span>&lt;span class="lnt"> 75
+&lt;/span>&lt;span class="lnt"> 76
+&lt;/span>&lt;span class="lnt"> 77
+&lt;/span>&lt;span class="lnt"> 78
+&lt;/span>&lt;span class="lnt"> 79
+&lt;/span>&lt;span class="lnt"> 80
+&lt;/span>&lt;span class="lnt"> 81
+&lt;/span>&lt;span class="lnt"> 82
+&lt;/span>&lt;span class="lnt"> 83
+&lt;/span>&lt;span class="lnt"> 84
+&lt;/span>&lt;span class="lnt"> 85
+&lt;/span>&lt;span class="lnt"> 86
+&lt;/span>&lt;span class="lnt"> 87
+&lt;/span>&lt;span class="lnt"> 88
+&lt;/span>&lt;span class="lnt"> 89
+&lt;/span>&lt;span class="lnt"> 90
+&lt;/span>&lt;span class="lnt"> 91
+&lt;/span>&lt;span class="lnt"> 92
+&lt;/span>&lt;span class="lnt"> 93
+&lt;/span>&lt;span class="lnt"> 94
+&lt;/span>&lt;span class="lnt"> 95
+&lt;/span>&lt;span class="lnt"> 96
+&lt;/span>&lt;span class="lnt"> 97
+&lt;/span>&lt;span class="lnt"> 98
+&lt;/span>&lt;span class="lnt"> 99
+&lt;/span>&lt;span class="lnt">100
+&lt;/span>&lt;span class="lnt">101
+&lt;/span>&lt;span class="lnt">102
+&lt;/span>&lt;span class="lnt">103
+&lt;/span>&lt;span class="lnt">104
+&lt;/span>&lt;span class="lnt">105
+&lt;/span>&lt;span class="lnt">106
+&lt;/span>&lt;span class="lnt">107
+&lt;/span>&lt;span class="lnt">108
+&lt;/span>&lt;span class="lnt">109
+&lt;/span>&lt;span class="lnt">110
+&lt;/span>&lt;span class="lnt">111
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">os&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">re&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">datetime&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">datetime&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">class&lt;/span> &lt;span class="nc">MarkdownProcessor&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="fm">__init__&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file_path&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">file_path&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">original_filename&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">basename&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;.md&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_read_markdown_file&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_read_markdown_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;r&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_create_new_md_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">yaml_extra&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">current_time&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">datetime&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">now&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strftime&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;%Y-%m-&lt;/span>&lt;span class="si">%d&lt;/span>&lt;span class="s2"> %H:%M:%S&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">yaml_header&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&amp;#34;---
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">title: &amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">date: &amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">current_time&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">enableToc: false
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">tags:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2"> - building
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">---
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">&amp;#34;&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">info_block&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&amp;gt; [!info]&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;gt;&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;gt; 🌱來自：[[&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">original_filename&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">]]&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">yaml_header&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">info_block&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;# &lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_search_siblings_to_next_heading&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">pattern&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;### Siblings.*?(?=\n[#]+ |$)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">match&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">search&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">pattern&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">flags&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">group&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="n">match&lt;/span> &lt;span class="k">else&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_delete_siblings_from_text&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">pattern&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;### Siblings.*?(?=\n[#]+ |$)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sub&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">pattern&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">flags&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_get_content_before_first_h2&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">match&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">search&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;##(?!#)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">[:&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">start&lt;/span>&lt;span class="p">()]&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># def _process_markdown_content(self):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># self._delete_siblings_from_text()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># pre_h1_content, h1_and_following_content = self.content.split(&amp;#34;# &amp;#34;, 1)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># h1_title, post_h1_content = h1_and_following_content.split(&amp;#34;\n&amp;#34;, 1)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># between_h1_h2 = self._get_content_before_first_h2()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># level_2_heading_pattern = re.compile(r&amp;#34;## (.+?)\n(.*?)(?=\n## |\Z)&amp;#34;, re.DOTALL)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># level_2_headings = level_2_heading_pattern.findall(post_h1_content)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># return pre_h1_content, h1_title, between_h1_h2, level_2_headings&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_process_markdown_content&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_delete_siblings_from_text&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># 使用正則表達式直接分割和提取所需內容&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">post_h1_content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">split&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;#\s(.+?)\n&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">between_h1_h2&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_get_content_before_first_h2&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># 提取二級標題及其後的內容&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">level_2_headings&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">findall&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;##\s(.+?)\n(.*?)(?=\n## |\Z)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">post_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">between_h1_h2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">level_2_headings&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">save_new_markdown_files&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">between_h1_h2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">level_2_headings&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_process_markdown_content&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">new_md_files&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">heading&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_create_new_md_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">heading&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">level_2_headings&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">wikilink_list&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">join&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">[&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;- [[&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">lower&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39; &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;_&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">.md|&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">]]&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">heading&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">new_md_files&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">filename&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">new_md_files&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">items&lt;/span>&lt;span class="p">():&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">filename&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">lower&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39; &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;_&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">.md&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;w&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">to_write&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">### Siblings&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">wikilink_list&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">to_write&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">main_content_updated&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">pre_h1_content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2"># &lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">h1_title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">between_h1_h2&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">wikilink_list&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_update_original_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">main_content_updated&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_update_original_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">):&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;w&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="vm">__name__&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;__main__&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kn">import&lt;/span> &lt;span class="nn">sys&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="nb">len&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Usage: python script.py &amp;lt;input_file&amp;gt;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">exit&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">file_path&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">processor&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">MarkdownProcessor&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">processor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">save_new_markdown_files&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="討論">討論&lt;/h3>
+&lt;p>使用&lt;code>split_by_h2&lt;/code>腳本自動化分割 Markdown 文件具有多方面的好處。首先，它加速了將大文件拆分成 Zettelkasten 方法推薦的小單位的過程，從而節省了大量時間和精力。其次，這種方法增強了資訊的可檢索性和可連接性，使得知識的組織和管理更加高效。最後，自動化工具的使用減少了人為錯誤，確保了分割過程的一致性和準確性。&lt;/p>
+&lt;h3 id="結論">結論&lt;/h3>
+&lt;p>&lt;code>split_by_h2&lt;/code>腳本是一個強大的工具，用於將大型 Markdown 文件自動化地分割成遵循 Zettelkasten 筆記法的小單位。通過簡化分割過程，它不僅提高了知識管理的效率，而且還增強了學習和創新的能力。此腳本對於那些尋求優化他們的筆記和知識管理系統的人來說，是一個有價值的資源。&lt;/p></description></item><item><title>容蜴的 Prompt</title><link>https://www.physician.tw/blog/2024-02-07-20-23/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-02-07-20-23/</guid><description>&lt;p>這個 prompt 是一個模板，用來指導撰寫結構化、易於閱讀和理解的解釋或說明性文字。它的用途是幫助作者清晰、有條理地呈現資訊，特別是對於複雜或專業的主題。以下是這個模板的好處和它的具體應用方法：&lt;/p>
+&lt;h3 id="好處">好處&lt;/h3>
+&lt;ol>
+&lt;li>&lt;strong>提升閱讀者的理解度&lt;/strong>：透過明確的問題定義、吸引人的標題、直接的開場白，以及組織良好的重點整理，讓讀者快速抓住文章的主旨。&lt;/li>
+&lt;li>&lt;strong>增加資訊的可存取性&lt;/strong>：條列式的格式讓人更容易找到他們感興趣的部分，並快速獲得想要的資訊。&lt;/li>
+&lt;li>&lt;strong>強化記憶印象&lt;/strong>：有力的開場/導言和精心挑選的標題能夠在讀者腦海中留下深刻印象，增加信息的記憶點。&lt;/li>
+&lt;li>&lt;strong>促進專業詞彙的理解&lt;/strong>：透過重要名詞的解釋及中英對照，幫助讀者瞭解專業術語，特別是對非專業讀者來說非常有用。&lt;/li>
+&lt;/ol>
+&lt;h3 id="應用方法">應用方法&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>問題定義（Q）&lt;/strong>：清晰地提出讀者可能對內容有的疑問，作為文章討論的出發點。&lt;/li>
+&lt;li>&lt;strong>吸引人的標題&lt;/strong>：使用精煉且有力的字詞，在 20 個字以內吸引讀者注意力。&lt;/li>
+&lt;li>&lt;strong>有力的開場/導言&lt;/strong>：以簡短、直接、且有力的語句開始，設定文章的基調，迅速抓住讀者的興趣。&lt;/li>
+&lt;li>&lt;strong>重點整理&lt;/strong>：透過條列式總結主要內容，清楚地呈現文章的核心觀點和資訊。&lt;/li>
+&lt;li>&lt;strong>重要名詞解釋及中英對照&lt;/strong>：對於文章中的專業術語或專有名詞，提供清晰的解釋和中英文對照，確保所有讀者都能理解。&lt;/li>
+&lt;/ul>
+&lt;p>這個模板是一個非常有用的工具，適用於多種情境，從學術寫作到商業報告，甚至是博客和社交媒體發文。它幫助作者以結構化的方式呈現資訊，同時也使讀者更容易理解和記憶所提供的內容。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">解釋、說明文字，以繁體正體中文(zh-tw)，Markdown 格式條列式總結以下文字，對於專有名詞，請保留英文的原文，並依照以下格式
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Q: {一個針對內容所提出的問題，第一行} 🙋
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## {以有力的 20 個字的標題把讀者注意力抓過來，第二行}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">**{有力的開場/導言：直接、簡短、犀利的一句話}**
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## 重點整理：📍
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{根據 input，條列式}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## 重要名詞解釋及中英對照：🔠
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{條列式中英對照}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>&lt;h2 id="一個指令自動生成投影片pptx檔">一個指令自動生成投影片(.PPTX檔)&lt;/h2>
 &lt;p>最近因為常常要準備投影片上課，這種投影片主就是從教科書弄內容出來，標題加條列式為主，並不需要許多太複雜的排版，但在弄排版就很花時間(怒怒)。雖然有很多markdown自動變成投影片播放的功能，但就不能套用自己常用的樣式風格，也不容易交換檔案。發現
 &lt;a href="https://stymied.medium.com/what-slides-from-markdown-5239ed31e7ac" rel="noopener">What? Slides? From Markdown? | by Peter Conrad | Medium&lt;/a>介紹了用pandoc轉檔的方式，因此去看了官方文檔整理如下。&lt;/p>
 &lt;h2 id="tldr">TL;DR&lt;/h2>
@@ -1124,33 +2452,7 @@ McGee, David C., and Michael K. Gould. &amp;ldquo;Preventing complications of ce
 The patient tolerated the procedure well and there were no complications.&lt;/p>
 &lt;h1 id="ref">Ref&lt;/h1>
 &lt;p>
-&lt;a href="https://proceduralist.org/cvc-cannulation/" rel="noopener">https://proceduralist.org/cvc-cannulation/&lt;/a>&lt;/p></description></item><item><title>markdown自動產生投影片，以hackmd為例</title><link>https://www.physician.tw/blog/medical-chart/</link><pubDate>Wed, 25 Nov 2020 06:41:58 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/medical-chart/</guid><description>&lt;p>最近老胡啟動了大哈讀書計畫，要花兩年的時間把整本3000多頁的大磚塊唸完。痛點在於每次做簡報很煩，要把教科書的內容變成投影片，會有很多機械式的剪貼跟排版。做到讓人覺得厭世。因此想研究如何在有限時間內用最快的速度做簡報(此方法也適用報paper)。
-在這樣的背景下，只要能把重點條列式地呈現出來就可以。第二順位就是要快。通常美編不重要，字不要太小就好。以下是摸索出的解決方法。主要使用hackmd的簡報功能。&lt;/p>
-&lt;ol>
-&lt;li>先把要的內容一次全部貼到hackmd裡&lt;/li>
-&lt;li>段落變成條列式，自動分行加list：大致把每句話當成是一個重點，以全文搜尋Shift-Ctrl-R (Win) / Shift-Cmd-Option-F (Mac) 「. 」(句號加一個空格，如果單搜句號會搜到一些小數點)，取代為「. \n * 」(句號+一個空格+一個反斜線+n+一個空格+一個米字號+一個空格)；「\n」是markdown的換行；「* 」是項目符號
-原來是 sentence1. sentence2. sentence3. 操作後就變：
-sentence1.&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>sentence2.&lt;/li>
-&lt;li>sentence3.&lt;/li>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;ol start="3">
-&lt;li>其他部分依照官網說明做成簡報：https://hackmd.io/s/how-to-create-slide-deck-tw
-我的建議是投影片標題用h3 即###
-用&amp;mdash;分頁&lt;/li>
-&lt;li>貼圖片：Win+Shift+S(windows系統) / shift+ctrl+cmd+4 (Mac) 局部截圖然後直接貼上就可以傳到圖床去&lt;/li>
-&lt;li>Final touch：用 ==文字==把要的重點標起來、修文字；另外我會適度加一點emoji；用上面提到的取代功能把所有的is/are/can be 變成👉
-emoji 參考list
-ikatyang/emoji-cheat-sheet: A markdown version emoji cheat sheet (github.com)
-#結論：
-實測大概一個單元一個小時內就可以變成一分完整的簡報，大哈一章大概8頁；step (1)+(2)5分鐘；step(3)10分鐘；step(4)5分鐘；step (5)比較花時間，要消化內容，大約30分鐘&lt;/li>
-&lt;/ol>
-&lt;p>
-&lt;img src="https://i.imgur.com/Dqe2k33_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />
-&lt;img src="https://i.imgur.com/73RAMSy_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />&lt;/p></description></item><item><title>Seminar必備！NEJM 風Google 簡報範本，2020年新版</title><link>https://www.physician.tw/blog/nejm-slides/</link><pubDate>Wed, 25 Nov 2020 05:24:19 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/nejm-slides/</guid><description>&lt;h1 id="seminar必備nejm-風google-簡報範本2020年169新版">Seminar必備！NEJM 風Google 簡報範本，2020年16:9新版&lt;/h1>
+&lt;a href="https://proceduralist.org/cvc-cannulation/" rel="noopener">https://proceduralist.org/cvc-cannulation/&lt;/a>&lt;/p></description></item><item><title>Seminar必備！NEJM 風Google 簡報範本，2020年新版</title><link>https://www.physician.tw/blog/nejm-slides/</link><pubDate>Wed, 25 Nov 2020 05:24:19 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/nejm-slides/</guid><description>&lt;h1 id="seminar必備nejm-風google-簡報範本2020年169新版">Seminar必備！NEJM 風Google 簡報範本，2020年16:9新版&lt;/h1>
 &lt;p>
 &lt;img src="https://i.imgur.com/7ao1XI5.png" width="auto" alt="" />&lt;/p>
 &lt;h2 id="複製方法">複製方法：&lt;/h2>
@@ -1173,299 +2475,30 @@ ikatyang/emoji-cheat-sheet: A markdown version emoji cheat sheet (github.com)
 &lt;li>要放頁碼、出處&lt;/li>
 &lt;li>不要放自己不懂的東西在slide上，一定被電&lt;/li>
 &lt;li>按下面的時間來分配進度&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://www.physician.tw/blog/README/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/README/</guid><description>&lt;h1 id="heading">&lt;/h1></description></item><item><title>Python 自動化拆分筆記</title><link>https://www.physician.tw/blog/2024-03-06-01-57/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-03-06-01-57/</guid><description>&lt;h1 id="自動化拆分筆記釋放-zettelkasten-筆記法的真正力量">自動化拆分筆記，釋放 Zettelkasten 筆記法的真正力量&lt;/h1>
-&lt;h3 id="背景">背景&lt;/h3>
-&lt;p>在這個資訊爆炸的時代，管理和整理知識變得尤為重要。Zettelkasten 筆記法提倡將知識分割成最小的單位來促進學習和創新。這種方法強調將大量的資訊分解成易於管理和檢索的小部分。然而，當面對一份龐大的 Markdown 文件時，手動將其拆分成多個小單位既耗時又低效。因此，開發一個自動化工具來分割 Markdown 文件變得非常必要，以便更好地遵循 Zettelkasten 的原則。&lt;/p>
-&lt;h3 id="方法">方法&lt;/h3>
-&lt;p>在這裡，我們介紹了一個名為&lt;code>split_by_h2&lt;/code>的 Python 腳本，由 Hsieh-Ting Lin 開發。這個腳本的目的是自動化地將一份 Markdown 文件分割成由二級標題（H2）定義的多個小單位。這個過程大致可以分為以下幾個步驟：&lt;/p>
+&lt;/ul></description></item><item><title>markdown 自動產生投影片，以 hackmd 為例</title><link>https://www.physician.tw/blog/medical-chart/</link><pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/medical-chart/</guid><description>&lt;p>最近老胡啟動了大哈讀書計畫，要花兩年的時間把整本 3000 多頁的大磚塊唸完。痛點在於每次做簡報很煩，要把教科書的內容變成投影片，會有很多機械式的剪貼跟排版。做到讓人覺得厭世。因此想研究如何在有限時間內用最快的速度做簡報（此方法也適用報 paper）。
+在這樣的背景下，只要能把重點條列式地呈現出來就可以。第二順位就是要快。通常美編不重要，字不要太小就好。以下是摸索出的解決方法。主要使用 hackmd 的簡報功能。&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>讀取 Markdown 文件&lt;/strong>：腳本首先讀取指定的 Markdown 文件，並將其內容儲存起來。&lt;/li>
-&lt;li>&lt;strong>處理內容&lt;/strong>：通過正則表達式的應用，腳本刪除特定的段落（例如，與同級標題相關的內容），並根據一級和二級標題分割文件內容。&lt;/li>
-&lt;li>&lt;strong>生成新的 Markdown 文件&lt;/strong>：對於每個二級標題及其相應的內容，腳本創建一個新的 Markdown 文件。每個新文件包括一個 YAML 頭部、來源信息、標題和內容，並在文末添加與其他文件的連接列表，以促進相互之間的聯繫。&lt;/li>
-&lt;li>&lt;strong>更新原文件&lt;/strong>：在原始 Markdown 文件中，腳本更新一級標題下的內容，並在底部添加一個連接到新創建文件的列表，方便跨文件導航。&lt;/li>
+&lt;li>先把要的內容一次全部貼到 hackmd 裡&lt;/li>
+&lt;li>段落變成條列式，自動分行加 list：大致把每句話當成是一個重點，以全文搜尋 Shift-Ctrl-R (Win) / Shift-Cmd-Option-F (Mac) 「. 」（句號加一個空格，如果單搜句號會搜到一些小數點），取代為「. \n &lt;em>」（句號+一個空格+一個反斜線+n+一個空格+一個米字號+一個空格）；「\n」是 markdown 的換行；「&lt;/em> 」是項目符號
+原來是 sentence1. sentence2. sentence3. 操作後就變：
+sentence1.&lt;/li>
 &lt;/ol>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
-&lt;/span>&lt;span class="lnt"> 2
-&lt;/span>&lt;span class="lnt"> 3
-&lt;/span>&lt;span class="lnt"> 4
-&lt;/span>&lt;span class="lnt"> 5
-&lt;/span>&lt;span class="lnt"> 6
-&lt;/span>&lt;span class="lnt"> 7
-&lt;/span>&lt;span class="lnt"> 8
-&lt;/span>&lt;span class="lnt"> 9
-&lt;/span>&lt;span class="lnt"> 10
-&lt;/span>&lt;span class="lnt"> 11
-&lt;/span>&lt;span class="lnt"> 12
-&lt;/span>&lt;span class="lnt"> 13
-&lt;/span>&lt;span class="lnt"> 14
-&lt;/span>&lt;span class="lnt"> 15
-&lt;/span>&lt;span class="lnt"> 16
-&lt;/span>&lt;span class="lnt"> 17
-&lt;/span>&lt;span class="lnt"> 18
-&lt;/span>&lt;span class="lnt"> 19
-&lt;/span>&lt;span class="lnt"> 20
-&lt;/span>&lt;span class="lnt"> 21
-&lt;/span>&lt;span class="lnt"> 22
-&lt;/span>&lt;span class="lnt"> 23
-&lt;/span>&lt;span class="lnt"> 24
-&lt;/span>&lt;span class="lnt"> 25
-&lt;/span>&lt;span class="lnt"> 26
-&lt;/span>&lt;span class="lnt"> 27
-&lt;/span>&lt;span class="lnt"> 28
-&lt;/span>&lt;span class="lnt"> 29
-&lt;/span>&lt;span class="lnt"> 30
-&lt;/span>&lt;span class="lnt"> 31
-&lt;/span>&lt;span class="lnt"> 32
-&lt;/span>&lt;span class="lnt"> 33
-&lt;/span>&lt;span class="lnt"> 34
-&lt;/span>&lt;span class="lnt"> 35
-&lt;/span>&lt;span class="lnt"> 36
-&lt;/span>&lt;span class="lnt"> 37
-&lt;/span>&lt;span class="lnt"> 38
-&lt;/span>&lt;span class="lnt"> 39
-&lt;/span>&lt;span class="lnt"> 40
-&lt;/span>&lt;span class="lnt"> 41
-&lt;/span>&lt;span class="lnt"> 42
-&lt;/span>&lt;span class="lnt"> 43
-&lt;/span>&lt;span class="lnt"> 44
-&lt;/span>&lt;span class="lnt"> 45
-&lt;/span>&lt;span class="lnt"> 46
-&lt;/span>&lt;span class="lnt"> 47
-&lt;/span>&lt;span class="lnt"> 48
-&lt;/span>&lt;span class="lnt"> 49
-&lt;/span>&lt;span class="lnt"> 50
-&lt;/span>&lt;span class="lnt"> 51
-&lt;/span>&lt;span class="lnt"> 52
-&lt;/span>&lt;span class="lnt"> 53
-&lt;/span>&lt;span class="lnt"> 54
-&lt;/span>&lt;span class="lnt"> 55
-&lt;/span>&lt;span class="lnt"> 56
-&lt;/span>&lt;span class="lnt"> 57
-&lt;/span>&lt;span class="lnt"> 58
-&lt;/span>&lt;span class="lnt"> 59
-&lt;/span>&lt;span class="lnt"> 60
-&lt;/span>&lt;span class="lnt"> 61
-&lt;/span>&lt;span class="lnt"> 62
-&lt;/span>&lt;span class="lnt"> 63
-&lt;/span>&lt;span class="lnt"> 64
-&lt;/span>&lt;span class="lnt"> 65
-&lt;/span>&lt;span class="lnt"> 66
-&lt;/span>&lt;span class="lnt"> 67
-&lt;/span>&lt;span class="lnt"> 68
-&lt;/span>&lt;span class="lnt"> 69
-&lt;/span>&lt;span class="lnt"> 70
-&lt;/span>&lt;span class="lnt"> 71
-&lt;/span>&lt;span class="lnt"> 72
-&lt;/span>&lt;span class="lnt"> 73
-&lt;/span>&lt;span class="lnt"> 74
-&lt;/span>&lt;span class="lnt"> 75
-&lt;/span>&lt;span class="lnt"> 76
-&lt;/span>&lt;span class="lnt"> 77
-&lt;/span>&lt;span class="lnt"> 78
-&lt;/span>&lt;span class="lnt"> 79
-&lt;/span>&lt;span class="lnt"> 80
-&lt;/span>&lt;span class="lnt"> 81
-&lt;/span>&lt;span class="lnt"> 82
-&lt;/span>&lt;span class="lnt"> 83
-&lt;/span>&lt;span class="lnt"> 84
-&lt;/span>&lt;span class="lnt"> 85
-&lt;/span>&lt;span class="lnt"> 86
-&lt;/span>&lt;span class="lnt"> 87
-&lt;/span>&lt;span class="lnt"> 88
-&lt;/span>&lt;span class="lnt"> 89
-&lt;/span>&lt;span class="lnt"> 90
-&lt;/span>&lt;span class="lnt"> 91
-&lt;/span>&lt;span class="lnt"> 92
-&lt;/span>&lt;span class="lnt"> 93
-&lt;/span>&lt;span class="lnt"> 94
-&lt;/span>&lt;span class="lnt"> 95
-&lt;/span>&lt;span class="lnt"> 96
-&lt;/span>&lt;span class="lnt"> 97
-&lt;/span>&lt;span class="lnt"> 98
-&lt;/span>&lt;span class="lnt"> 99
-&lt;/span>&lt;span class="lnt">100
-&lt;/span>&lt;span class="lnt">101
-&lt;/span>&lt;span class="lnt">102
-&lt;/span>&lt;span class="lnt">103
-&lt;/span>&lt;span class="lnt">104
-&lt;/span>&lt;span class="lnt">105
-&lt;/span>&lt;span class="lnt">106
-&lt;/span>&lt;span class="lnt">107
-&lt;/span>&lt;span class="lnt">108
-&lt;/span>&lt;span class="lnt">109
-&lt;/span>&lt;span class="lnt">110
-&lt;/span>&lt;span class="lnt">111
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">os&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">re&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">datetime&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">datetime&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">class&lt;/span> &lt;span class="nc">MarkdownProcessor&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="fm">__init__&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">file_path&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">file_path&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">original_filename&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">path&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">basename&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;.md&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_read_markdown_file&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_read_markdown_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;r&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_create_new_md_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">yaml_extra&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">current_time&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">datetime&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">now&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strftime&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;%Y-%m-&lt;/span>&lt;span class="si">%d&lt;/span>&lt;span class="s2"> %H:%M:%S&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">yaml_header&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&amp;#34;&amp;#34;---
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">title: &amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">date: &amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">current_time&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">enableToc: false
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">tags:
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2"> - building
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">---
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s2">&amp;#34;&amp;#34;&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">info_block&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&amp;gt; [!info]&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;gt;&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;gt; 🌱來自：[[&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">original_filename&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">]]&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">yaml_header&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="n">info_block&lt;/span> &lt;span class="o">+&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;# &lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_search_siblings_to_next_heading&lt;/span>&lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">pattern&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;### Siblings.*?(?=\n[#]+ |$)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">match&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">search&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">pattern&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">flags&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">group&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">0&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="k">if&lt;/span> &lt;span class="n">match&lt;/span> &lt;span class="k">else&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_delete_siblings_from_text&lt;/span>&lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">pattern&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;### Siblings.*?(?=\n[#]+ |$)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">sub&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">pattern&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">flags&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">flags&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_get_content_before_first_h2&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">match&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">search&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;##(?!#)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">[:&lt;/span> &lt;span class="n">match&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">start&lt;/span>&lt;span class="p">()]&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">else&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">strip&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># def _process_markdown_content(self):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># self._delete_siblings_from_text()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># pre_h1_content, h1_and_following_content = self.content.split(&amp;#34;# &amp;#34;, 1)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># h1_title, post_h1_content = h1_and_following_content.split(&amp;#34;\n&amp;#34;, 1)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># between_h1_h2 = self._get_content_before_first_h2()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># level_2_heading_pattern = re.compile(r&amp;#34;## (.+?)\n(.*?)(?=\n## |\Z)&amp;#34;, re.DOTALL)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># level_2_headings = level_2_heading_pattern.findall(post_h1_content)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># return pre_h1_content, h1_title, between_h1_h2, level_2_headings&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_process_markdown_content&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_delete_siblings_from_text&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># 使用正則表達式直接分割和提取所需內容&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">post_h1_content&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">split&lt;/span>&lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;#\s(.+?)\n&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">1&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">between_h1_h2&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_get_content_before_first_h2&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="c1"># 提取二級標題及其後的內容&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">level_2_headings&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">findall&lt;/span>&lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">r&lt;/span>&lt;span class="s2">&amp;#34;##\s(.+?)\n(.*?)(?=\n## |\Z)&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">post_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">re&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">DOTALL&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">between_h1_h2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">level_2_headings&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">save_new_markdown_files&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">pre_h1_content&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">h1_title&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">between_h1_h2&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">level_2_headings&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_process_markdown_content&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">new_md_files&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">heading&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_create_new_md_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">heading&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">level_2_headings&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">wikilink_list&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">join&lt;/span>&lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">[&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;- [[&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">lower&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39; &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;_&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">.md|&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">heading&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">]]&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">heading&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">new_md_files&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">for&lt;/span> &lt;span class="n">filename&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span> &lt;span class="ow">in&lt;/span> &lt;span class="n">new_md_files&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">items&lt;/span>&lt;span class="p">():&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">filename&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">lower&lt;/span>&lt;span class="p">()&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">replace&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39; &amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s1">&amp;#39;_&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2">.md&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;w&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">to_write&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">### Siblings&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">wikilink_list&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">to_write&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">main_content_updated&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="sa">f&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">pre_h1_content&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="s2"># &lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">h1_title&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">between_h1_h2&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="si">{&lt;/span>&lt;span class="n">wikilink_list&lt;/span>&lt;span class="si">}&lt;/span>&lt;span class="se">\n\n&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">_update_original_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">main_content_updated&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">def&lt;/span> &lt;span class="nf">_update_original_file&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">content&lt;/span>&lt;span class="p">):&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">with&lt;/span> &lt;span class="nb">open&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="bp">self&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;w&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">encoding&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">f&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">f&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">write&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">content&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="vm">__name__&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;__main__&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kn">import&lt;/span> &lt;span class="nn">sys&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">if&lt;/span> &lt;span class="nb">len&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="o">&amp;lt;&lt;/span> &lt;span class="mi">2&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Usage: python script.py &amp;lt;input_file&amp;gt;&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">exit&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">file_path&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">sys&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">argv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">]&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">processor&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">MarkdownProcessor&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">file_path&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">processor&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">save_new_markdown_files&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h3 id="討論">討論&lt;/h3>
-&lt;p>使用&lt;code>split_by_h2&lt;/code>腳本自動化分割 Markdown 文件具有多方面的好處。首先，它加速了將大文件拆分成 Zettelkasten 方法推薦的小單位的過程，從而節省了大量時間和精力。其次，這種方法增強了資訊的可檢索性和可連接性，使得知識的組織和管理更加高效。最後，自動化工具的使用減少了人為錯誤，確保了分割過程的一致性和準確性。&lt;/p>
-&lt;h3 id="結論">結論&lt;/h3>
-&lt;p>&lt;code>split_by_h2&lt;/code>腳本是一個強大的工具，用於將大型 Markdown 文件自動化地分割成遵循 Zettelkasten 筆記法的小單位。通過簡化分割過程，它不僅提高了知識管理的效率，而且還增強了學習和創新的能力。此腳本對於那些尋求優化他們的筆記和知識管理系統的人來說，是一個有價值的資源。&lt;/p></description></item><item><title>容蜴的 Prompt</title><link>https://www.physician.tw/blog/2024-02-07-20-23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/2024-02-07-20-23/</guid><description>&lt;p>這個 prompt 是一個模板，用來指導撰寫結構化、易於閱讀和理解的解釋或說明性文字。它的用途是幫助作者清晰、有條理地呈現資訊，特別是對於複雜或專業的主題。以下是這個模板的好處和它的具體應用方法：&lt;/p>
-&lt;h3 id="好處">好處&lt;/h3>
-&lt;ol>
-&lt;li>&lt;strong>提升閱讀者的理解度&lt;/strong>：透過明確的問題定義、吸引人的標題、直接的開場白，以及組織良好的重點整理，讓讀者快速抓住文章的主旨。&lt;/li>
-&lt;li>&lt;strong>增加資訊的可存取性&lt;/strong>：條列式的格式讓人更容易找到他們感興趣的部分，並快速獲得想要的資訊。&lt;/li>
-&lt;li>&lt;strong>強化記憶印象&lt;/strong>：有力的開場/導言和精心挑選的標題能夠在讀者腦海中留下深刻印象，增加信息的記憶點。&lt;/li>
-&lt;li>&lt;strong>促進專業詞彙的理解&lt;/strong>：透過重要名詞的解釋及中英對照，幫助讀者瞭解專業術語，特別是對非專業讀者來說非常有用。&lt;/li>
-&lt;/ol>
-&lt;h3 id="應用方法">應用方法&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>問題定義（Q）&lt;/strong>：清晰地提出讀者可能對內容有的疑問，作為文章討論的出發點。&lt;/li>
-&lt;li>&lt;strong>吸引人的標題&lt;/strong>：使用精煉且有力的字詞，在 20 個字以內吸引讀者注意力。&lt;/li>
-&lt;li>&lt;strong>有力的開場/導言&lt;/strong>：以簡短、直接、且有力的語句開始，設定文章的基調，迅速抓住讀者的興趣。&lt;/li>
-&lt;li>&lt;strong>重點整理&lt;/strong>：透過條列式總結主要內容，清楚地呈現文章的核心觀點和資訊。&lt;/li>
-&lt;li>&lt;strong>重要名詞解釋及中英對照&lt;/strong>：對於文章中的專業術語或專有名詞，提供清晰的解釋和中英文對照，確保所有讀者都能理解。&lt;/li>
+&lt;li>sentence2.&lt;/li>
+&lt;li>sentence3.&lt;/li>
+&lt;li>再把頭尾的標號加一下，done，如果連這步都懶，可以研究正規表達式做更進階的搜尋（我還在學）&lt;/li>
 &lt;/ul>
-&lt;p>這個模板是一個非常有用的工具，適用於多種情境，從學術寫作到商業報告，甚至是博客和社交媒體發文。它幫助作者以結構化的方式呈現資訊，同時也使讀者更容易理解和記憶所提供的內容。&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
-&lt;/span>&lt;span class="lnt"> 2
-&lt;/span>&lt;span class="lnt"> 3
-&lt;/span>&lt;span class="lnt"> 4
-&lt;/span>&lt;span class="lnt"> 5
-&lt;/span>&lt;span class="lnt"> 6
-&lt;/span>&lt;span class="lnt"> 7
-&lt;/span>&lt;span class="lnt"> 8
-&lt;/span>&lt;span class="lnt"> 9
-&lt;/span>&lt;span class="lnt">10
-&lt;/span>&lt;span class="lnt">11
-&lt;/span>&lt;span class="lnt">12
-&lt;/span>&lt;span class="lnt">13
-&lt;/span>&lt;span class="lnt">14
-&lt;/span>&lt;span class="lnt">15
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-txt" data-lang="txt">&lt;span class="line">&lt;span class="cl">解釋、說明文字，以繁體正體中文(zh-tw)，Markdown 格式條列式總結以下文字，對於專有名詞，請保留英文的原文，並依照以下格式
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Q: {一個針對內容所提出的問題，第一行} 🙋
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## {以有力的 20 個字的標題把讀者注意力抓過來，第二行}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">**{有力的開場/導言：直接、簡短、犀利的一句話}**
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## 重點整理：📍
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{根據 input，條列式}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## 重要名詞解釋及中英對照：🔠
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{條列式中英對照}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div></description></item></channel></rss>
+&lt;ol start="3">
+&lt;li>其他部分依照官網說明做成簡報：
+&lt;a href="https://hackmd.io/s/how-to-create-slide-deck-tw" rel="noopener">https://hackmd.io/s/how-to-create-slide-deck-tw&lt;/a>
+我的建議是投影片標題用 h3 即###
+用&amp;mdash;分頁&lt;/li>
+&lt;li>貼圖片：Win+Shift+S（windows 系統） / shift+ctrl+cmd+4 (Mac) 局部截圖然後直接貼上就可以傳到圖床去&lt;/li>
+&lt;li>Final touch：用 ==文字==把要的重點標起來、修文字；另外我會適度加一點 emoji；用上面提到的取代功能把所有的 is/are/can be 變成👉
+emoji 參考 list
+ikatyang/emoji-cheat-sheet: A markdown version emoji cheat sheet (github.com) #結論：
+實測大概一個單元一個小時內就可以變成一分完整的簡報，大哈一章大概 8 頁；step (1)+(2)5 分鐘；step(3)10 分鐘；step(4)5 分鐘；step (5)比較花時間，要消化內容，大約 30 分鐘&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;img src="https://i.imgur.com/Dqe2k33_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />
+&lt;img src="https://i.imgur.com/73RAMSy_d.webp?maxwidth=1520&amp;amp;fidelity=grand" width="auto" alt="" />&lt;/p></description></item><item><title/><link>https://www.physician.tw/blog/README/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/README/</guid><description>&lt;h1 id="heading">&lt;/h1></description></item></channel></rss>
