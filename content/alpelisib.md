@@ -7,9 +7,8 @@ tags:
   - building
 ---
 
-> [!info]
->
-> 🌱 來自: [[Small Molecule Pathway Inhibitors]]
+> [!NOTE]
+> 🌱 來自：[[Small Molecule Pathway Inhibitors]]
 
 # alpelisib
 

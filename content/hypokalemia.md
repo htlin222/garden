@@ -20,3 +20,5 @@ title: "hypokalemia"
 
 - [[sodium suppression test]]
 - [[hypoglycemia]]
+- [[需外送]]
+- [[貼片]]

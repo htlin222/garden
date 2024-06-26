@@ -13,6 +13,16 @@ tags:
 
 # treatment of multiple myeloma (MM)
 
+## News: 
+
+
+[[isatuximab.md|Isatuximab]] 2024-06-04
+
+
+
+---
+
+
 - incl. proteasome inhibitors:
   - **bortezomib (V)**
   - carfilzomib (K)

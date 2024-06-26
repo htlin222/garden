@@ -38,7 +38,7 @@ tags:
 - 篩檢方法：
   - 3 次中至少有一次的 ARR (至少坐或站立 2 小時後的 aldosterone/PRA) 大於 20-30 ng/dL/ng/mL/h，而且 aldosterone > 15 ng/dL、PRA 下降
   - 事先的 → 準備：矯正低血鉀、停止利尿劑、停止低鹽飲食、
-  - 能使用的 → 降血壓藥物 (diltiazem, verapamil, hydralazine, doxazosin, prazosin, terazosin) 。
+  - 能使用的 → 降血壓藥物 ([[diltiazem.md|diltiazem]], verapamil, hydralazine, doxazosin, prazosin, terazosin) 。
   - 會影響的 → ?
     - 使用乙型阻斷劑 BB 者如果篩檢陽性，先用其他的 → 血壓藥物取代兩週後再重複篩檢;
     - 使用 ACEI 或 ARB 的 → 病患，如果陽性且醛固酮仍高，代表強烈陽性;

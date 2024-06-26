@@ -9,7 +9,7 @@ tags:
 
 > [!info]
 >
-> 🌱 來自: [[gastrointestinal malignancies]]
+> 🌱 來自：[[gastrointestinal malignancies]]
 
 # gastric cancer
 

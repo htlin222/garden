@@ -30,9 +30,16 @@ title: Amiodarone
 * Neurological system: This causes peripheral neuropathy and cognitive impairment.
 * Skin: This leads to blue skin discoloration and sensitivity to the sun.
 
-----
 
-Backlink: [[Antiarrhythmic Drugs (AAD) for AF]]
+### Backlink
 
-----
-
+- [[wide complex]] 
+- [[thyroid disorders]] 
+- [[recent]] 
+- [[narrow complex]] 
+- [[methimazole]] 
+- [[hypothyroidism]] 
+- [[Rate Control-atrial fibrillation]] 
+- [[Jod-Basedow effect]] 
+- [[Dronedarone]] 
+- [[Antiarrhythmic Drugs (AAD) for AF]] 

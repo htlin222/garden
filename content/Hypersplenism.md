@@ -28,4 +28,4 @@ Stasis/trapping in spleen → Mϕ attack/remodel RBCs → spherocytosis → hemo
 #### causes of massive splenomegaly.
 * MPN (CML, PMF, PV, ET), CMML, leukemia, lymphoma (NHL, HL, hairy cell leukemia, CLL, PLL, WM), 
 #### 沒那麼嚴重的:
-* T-LGL, myeloma, amyloid
+* T-LGL, myeloma, [[amyloid.md|amyloid]]

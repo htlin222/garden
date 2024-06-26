@@ -11,6 +11,7 @@ tags:
 > [!info]
 >
 > 🌱 來自：[[WHO Classification of Lymphoid Malignancies]]
+> aka DLBCL
 
 # Diffuse large B-cell lymphoma
 
@@ -25,10 +26,13 @@ A heterogeneous group of neoplasms arising from mature B-cells, characterized pa
 
 ## [[management of Diffuse large B-cell lymphoma]]
 
+[[2024-06-23-1l-newtreatment.md|2024-06-23-1L-NewTreatment]]
+
 - [[Management Limited Stage Disease of DLBCL]]
 - [[Management Primary Mediastinal BCL (PMBL)]]
 - [[Management Primary Testicular DLBCL]]
 - [[Management Post CR Therapy]]
+- [[Management of DLBCL in Elderly]]
 - [[Relapsed Refractory Disease of Diffuse large B-cell lymphoma]]
 
 ### Backlink

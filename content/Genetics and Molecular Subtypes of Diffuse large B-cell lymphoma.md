@@ -24,7 +24,7 @@ tags:
   - 👉 [[Immunohistochemical algorithms of Diffuse large B-cell lymphoma]]
 - High-grade B-cell lymphoma w/ _MYC & BCL2_ &/or BCL6 translocations by FISH (formerly “[[double-hit in DLBCL]]”) represent ∼8% of all DLBCL & have poorer prog.
   - Almost always [[GCB]].
-  - IHC detected “double expressors” (MYC >40% BCL2 >70%) may be assoc w/ ↓ prog (JCO 2012;30:3460).
+  - IHC detected [[double_expressors.md|double expressors]] (MYC >40% BCL2 >70%) may be assoc w/ ↓ prog (JCO 2012;30:3460).
   - Burkitt typically BCL-2(−) vs. DLBCL nearly always BCL2(+)
 - [[t(14:18)]] occurs in ∼30% of DLBCLs (common in follicular lymphoma); juxtaposes BCL-2 gene to the IgH gene. BCL-2+ IHC may be seen w/ or w/o this translocation
 

@@ -4,11 +4,14 @@ slug: "chemo-side-effects"
 date: "2023-02-08"
 enableToc: false
 tags:
-- building
+  - building
+  - TO_ANKI
 ---
 
 > [!info]
 >
-> 🌱 來自: [[oncology]]
+> 🌱 來自：[[oncology]]
 
 # chemo side effects
+
+test here

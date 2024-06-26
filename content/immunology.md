@@ -13,24 +13,6 @@ tags:
 
 # immunology
 
+[[innate_immune_cell_main_objectives.md|innate immune cell main objectives]]
+[[adaptive_immunity_primary_functions.md|Adaptive immunity Primary Functions]]
 [[bruton_tyrosine_kinase#bruton_tyrosine_kinase]]
-
-
-### Backlink
-
-- [[urticaria and angioedema]] 
-- [[resident360]] 
-- [[rheum 2]] 
-- [[rheumatology]] 
-- [[rheum]] 
-- [[other subspecialties]] 
-- [[neurology diseases & pathophysiology]] 
-- [[index]] 
-- [[immunodeficiency]] 
-- [[immunobiology]] 
-- [[glomerulonephritis]] 
-- [[general oncology]] 
-- [[eosinophilia and mast-cell disorders]] 
-- [[atopic dermatitis]] 
-- [[allergy_immunology]] 
-- [[all list of resident360]] 

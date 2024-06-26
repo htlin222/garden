@@ -16,7 +16,7 @@ tags:
 - [[hpv.md|HPV]]:
   - E6, E7 viral protein
   - → inhibit p53, Rb, other tumor suppressors
-- p16:
+- [[p16.md|p16]]:
   - Tumor suppressor overexpressed in HPV-assoc CAs
     - (E7 protein inhibits Rb fxn, leading to compensatory p16 upregulation), frequently inactivated in tobacco-assoc SCCHN
 - EGFR:
@@ -25,7 +25,7 @@ tags:
 - TP53:
   - Inactivated in >50% SCCHN,
   - more common in tobacco/EtOH-associated tumors
-- CCND1 (cyclin D1):
+- CCND1 ([[cyclin_d1.md|cyclin D1]]):
   - ↑ cell-cycle progression
 - Others:
   - PI3K/AKT/mTOR (primarily in HPV+), HRAS, & PTEN

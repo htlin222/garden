@@ -22,6 +22,18 @@ tags:
 
 ## Treatment
 
+- Identify DHL/THL (MYC-R/BCL2-R) (especially GCB)
+- Identify DEL
+- DHL/THL: intensive chemotherapy: lenalidomide (DA-EPOCH-R / R-CODOX-M/IVAC/ R-HyperCVAD)
+- Non-GCB + DEL: smart start protocol, R-CHOP + BTKi
+- Non-GCB, age less than 60-65 years: R-CHOP + BTKi
+- ABC, age > 60 years, man, IPI of 3-5: Pola-R-CHP
+- A subset of patients with ABC type: R-CHOP + Velcade
+- IPI of 3-5 and fit: DA-EPOCH-R, frontline ASCT in IPI of 4-5 ?
+- Future perspectives: molecular clustering, ctDNA, next generation immunotherapy (CAR T-cell therapy,...)
+
+---
+
 - [[robust.md|ROBUST]] : A Phase III Study of Lenalidomide Plus R-CHOP Versus Placebo Plus R-CHOP in Previously Untreated Patients With ABC-Type Diffuse Large B-Cell Lymphoma
 - [[phoenix.md|Phoenix]]: Randomized Phase III Trial of Ibrutinib and Rituximab Plus Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone in Non-Germinal Center B-Cell Diffuse Large B-Cell Lymphoma: 看起來是 OS 好像沒什麼差😂
 - [[polarix.md|POLARIX]]: 看起來是 OS 好像沒什麼差😂

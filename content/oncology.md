@@ -16,9 +16,8 @@ alias: onco
 
 - [[hematology]]
 - [[inpatient oncology]]
-- [[thoracic malignancies]] a.k.a. lung cancer
 - [[general oncology]]
-    - [[bioinfo]] ✨
+  - [[bioinfo]] ✨
 - [[clinical research methods]]
 - [[cancer pharmacology]]
 - [[inpatient oncology]]
@@ -36,7 +35,7 @@ alias: onco
 - [[breast cancer]] 🌟
 - [[thoracic malignancies]]
 - [[gastrointestinal malignancies]]
-  - [[colorectal cancer]] (CRC) 🌟 colon canceer 
+  - [[colorectal cancer]] (CRC) 🌟 colon canceer
 - [[genitourinary malignancies]]
   - [[prostate cancer]] 🌟
 - [[hepatocellular carcinoma]] (HCC)
@@ -47,6 +46,7 @@ alias: onco
 - [[endocrine malignancies]]
 - [[gynecologic malignancies]]
 - [[other solid tumors]]
+- [[cancer_of_unknown_primary.md|cancer of unknown primary]] CUP
 - [[neurological oncology]]
 - [[pediatric cancers]]
 - [[pain and palliative care]]
@@ -58,13 +58,4 @@ alias: onco
 
 ## [[resident360]]
 
-- [[Oncology - Treatment Toxicities - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Malignant Bowel Obstruction - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Venous Thromboembolism in Malignancy - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Metastatic Spinal Cord Compression & Brain Metastases - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Symptom Management - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Superior Vena Cava Syndrome - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Neutropenic Fever - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Tumor Lysis Syndrome - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[Oncology - Inpatient Oncology - Fast Facts  NEJM Resident 360]] date: 2023-02-23 18:40
-- [[references of oncology|references]]
+[[resident360_oncology.md|resident360_oncology]]

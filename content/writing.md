@@ -14,4 +14,4 @@ tags:
 # writing
 
 - [[Smart Brevity]]
--
+- [[essentials of writing biomedical research]]

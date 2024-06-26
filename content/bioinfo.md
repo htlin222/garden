@@ -7,8 +7,7 @@ tags:
   - building
 ---
 
-> [!info]
->
+> [!NOTE]
 > 🌱 來自：[[researcher]]
 
 # bioinfo
