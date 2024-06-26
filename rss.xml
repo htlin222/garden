@@ -1326,7 +1326,36 @@ HTML 表格可以巢狀&lt;/p>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{條列式中英對照}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div></description></item><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>&lt;h2 id="一個指令自動生成投影片pptx檔">一個指令自動生成投影片(.PPTX檔)&lt;/h2>
+&lt;/div></description></item><item><title>new</title><link>https://www.physician.tw/blog/test/</link><pubDate>Sun, 24 Sep 2023 02:06:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/test/</guid><description>&lt;blockquote>
+&lt;p>[!info]&lt;/p>
+&lt;p>🌱 來自：[[test content]]&lt;/p>
+&lt;/blockquote>
+&lt;!-- _header: "Outline" -->
+&lt;ul>
+&lt;li>
+&lt;a
+rel="noopener" class="internal-link broken"
+data-src="#wow-testmy-tilte">wow testmy tilte&lt;/a>
+&lt;ul>
+&lt;li>
+&lt;a
+rel="noopener" class="internal-link broken"
+data-src="#test">test&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!-- _footer: "" -->
+&lt;hr>
+&lt;blockquote>
+&lt;p>[!NOTE]
+&lt;strong>A clinical practice-based evaluation of the RIETE score in predicting occult cancer in patients with venous thromboembolism&lt;/strong>
+TLDR: [[LitNote/rosellClinicalPracticebasedEvaluation2019.md|Rosell. (2019)]]
+Zotero 📚:
+&lt;a
+rel="noopener" class="internal-link broken"
+data-src="#ZgotmplZ">Item&lt;/a>
+CiteKey🔑: [@rosellClinicalPracticebasedEvaluation2019]&lt;/p>
+&lt;/blockquote></description></item><item><title>懶人必備！一行指令將文字轉ppt檔</title><link>https://www.physician.tw/blog/pandoc-md-to-pptx/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><author>1izard@duck.com (林協霆醫師 Hsieh-Ting Lin M.D.)</author><guid>https://www.physician.tw/blog/pandoc-md-to-pptx/</guid><description>&lt;h2 id="一個指令自動生成投影片pptx檔">一個指令自動生成投影片(.PPTX檔)&lt;/h2>
 &lt;p>最近因為常常要準備投影片上課，這種投影片主就是從教科書弄內容出來，標題加條列式為主，並不需要許多太複雜的排版，但在弄排版就很花時間(怒怒)。雖然有很多markdown自動變成投影片播放的功能，但就不能套用自己常用的樣式風格，也不容易交換檔案。發現
 &lt;a href="https://stymied.medium.com/what-slides-from-markdown-5239ed31e7ac" rel="noopener">What? Slides? From Markdown? | by Peter Conrad | Medium&lt;/a>介紹了用pandoc轉檔的方式，因此去看了官方文檔整理如下。&lt;/p>
 &lt;h2 id="tldr">TL;DR&lt;/h2>
